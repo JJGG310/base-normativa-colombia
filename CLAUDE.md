@@ -47,7 +47,8 @@ python3 export.py --check           # autotest: un artículo muerto debe salir a
 ```
 
 Cada línea de `contexto.jsonl` lleva `id`, `cita` lista para usar, `texto`, `estado`,
-`advertencia`, `afectado_por` y `fuente`. Es lo que se le entrega a otra IA.
+`advertencia`, `afectado_por` y `fuente` (y en jurisprudencia `corporacion`, `ponente`,
+`decision`). Es lo que se le entrega a otra IA.
 
 ## Consultar (para trabajar sobre la base, no es el producto)
 
@@ -113,5 +114,7 @@ SELECT * FROM cadena;
 `cola.md` es la cola de ingesta y el estado del loop: `[ ]` pendiente, `[~]` en curso,
 `[x]` hecho, `[!]` bloqueado con motivo.
 
-`destinos_sin_cargar` que imprime `build.py` no es un error: son aristas que apuntan a
-normas todavía no cargadas. Es señal de qué falta, no de que algo esté roto.
+`origenes_sin_cargar` que imprime `build.py` no es un error: son aristas cuya norma o
+sentencia **origen** (la que reforma, deroga o juzga) todavía no está cargada. Es señal
+de qué falta, no de que algo esté roto; `python3 build.py -v` lista las 20 normas
+faltantes más citadas.

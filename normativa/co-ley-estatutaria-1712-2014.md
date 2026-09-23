@@ -57,7 +57,7 @@ PARÁGRAFO. Cuando el usuario considere que la solicitud de la información pone
 ## art:5 — ÁMBITO DE APLICACIÓN
 ubicacion: TÍTULO I. DISPOSICIONES GENERALES.
 
-Las disposiciones de esta ley serán aplicables a las siguientes personas en calidad de sujetos obligados:
+<Artículo corregido por el artículo 1 del Decreto 1494 de 2015. El nuevo texto es el siguiente:> Las disposiciones de esta ley serán aplicables a las siguientes personas en calidad de sujetos obligados:
 
 a) Toda entidad pública, incluyendo las pertenecientes a todas las Ramas del Poder Público, en todos los niveles de la estructura estatal, central o descentralizada por servicios o territorialmente, en los órdenes nacional, departamental, municipal y distrital.
 
@@ -208,7 +208,7 @@ Todo sujeto obligado deberá asegurarse de que sus Registros de Activos de Infor
 ## art:14 — INFORMACIÓN PUBLICADA CON ANTERIORIDAD
 ubicacion: TÍTULO II. DE LA PUBLICIDAD Y DEL CONTENIDO DE LA INFORMACIÓN.
 
-Los sujetos obligados deben garantizar y facilitar a los solicitantes, de la manera más sencilla posible, el acceso a toda la información previamente divulgada. Se publicará esta información en los términos establecidos por el artículo 14 de la Ley 1437 de 2011.
+<Artículo corregido por el artículo 1 del Decreto 1862 de 2015. El nuevo texto es el siguiente:> Los sujetos obligados deben garantizar y facilitar a los solicitantes, de la manera más sencilla posible, el acceso a toda la información previamente divulgada. Se publicará esta información en los términos establecidos por el artículo 14 de la Ley 1437 de 2011.
 
 Cuando se dé respuesta a una de las solicitudes aquí previstas, esta deberá hacerse pública de manera proactiva en el sitio web del sujeto obligado, y en defecto de la existencia de un sitio web, en los dispositivos de divulgación existentes en su dependencia.
 
@@ -238,7 +238,7 @@ d) Se encuentren alineados con la estrategia de gobierno en línea o de la que h
 ## art:18 — INFORMACIÓN EXCEPTUADA POR DAÑO DE DERECHOS A PERSONAS NATURALES O JURÍDICAS
 ubicacion: TÍTULO III. EXCEPCIONES ACCESO A LA INFORMACIÓN.
 
-Es toda aquella información pública clasificada, cuyo acceso podrá ser rechazado o denegado de manera motivada y por escrito, siempre que el acceso pudiere causar un daño a los siguientes derechos:
+<Artículo corregido por el artículo 2 del Decreto 1494 de 2015. El nuevo texto es el siguiente:> Es toda aquella información pública clasificada, cuyo acceso podrá ser rechazado o denegado de manera motivada y por escrito, siempre que el acceso pudiere causar un daño a los siguientes derechos:
 
 a) <Literal corregido por el artículo 1 del Decreto 2199 de 2015. El nuevo texto es el siguiente:> El derecho de toda persona a la intimidad, bajo las limitaciones propias que impone la condición de servidor público, en concordancia con lo estipulado por el artículo 24 de la Ley 1437 de 2011.
 
@@ -281,7 +281,7 @@ Los sujetos obligados deberán mantener un índice actualizado de los actos, doc
 ## art:21 — DIVULGACIÓN PARCIAL Y OTRAS REGLAS
 ubicacion: TÍTULO III. EXCEPCIONES ACCESO A LA INFORMACIÓN.
 
-En aquellas circunstancias en que la totalidad de la información contenida en un documento no esté protegida por una excepción contenida en la presente ley, debe hacerse una versión pública que mantenga la reserva únicamente de la parte indispensable. La información pública que no cae en ningún supuesto de excepción deberá ser entregada a la parte solicitante, así como ser de conocimiento público. La reserva de acceso a la información opera respecto del contenido de un documento público pero no de su existencia.
+<Artículo corregido por el artículo 3 del Decreto 1494 de 2015. El nuevo texto es el siguiente:> En aquellas circunstancias en que la totalidad de la información contenida en un documento no esté protegida por una excepción contenida en la presente ley, debe hacerse una versión pública que mantenga la reserva únicamente de la parte indispensable. La información pública que no cae en ningún supuesto de excepción deberá ser entregada a la parte solicitante, así como ser de conocimiento público. La reserva de acceso a la información opera respecto del contenido de un documento público pero no de su existencia.
 
 <Aparte subrayado CONDICIONALMENTE exequible> Ninguna autoridad pública puede negarse a indicar si un documento obra o no en su poder o negar la divulgación de un documento, salvo que el daño causado al interés protegido sea mayor al interés público de obtener acceso a la información.
 
@@ -295,7 +295,7 @@ La reserva de las informaciones amparadas por el artículo 19 no deberá extende
 ## art:23 — INAPLICABILIDAD DE LA RESERVA
 ubicacion: TÍTULO III. EXCEPCIONES ACCESO A LA INFORMACIÓN.
 
-<Artículo INEXEQUIBLE>
+<Texto del proyecto de ley no publicado en el Diario Oficial> <Artículo INEXEQUIBLE>
 
 ## art:24 — DEL DERECHO DE ACCESO A LA INFORMACIÓN
 ubicacion: TÍTULO IV. DE LAS GARANTÍAS AL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN.
@@ -312,7 +312,7 @@ PARÁGRAFO. En ningún caso podrá ser rechazada la petición por motivos de fun
 ## art:26 — RESPUESTA A SOLICITUD DE ACCESO A INFORMACIÓN
 ubicacion: TÍTULO IV. DE LAS GARANTÍAS AL EJERCICIO DEL DERECHO DE ACCESO A LA INFORMACIÓN.
 
-Es aquel acto escrito mediante el cual, de forma oportuna, veraz, completa, motivada y actualizada, todo sujeto obligado responde materialmente a cualquier persona que presente una solicitud de acceso a información pública. Su respuesta se dará en los términos establecidos por el artículo 14 de la Ley 1437 de 2011.
+<Artículo corregido por el artículo 1 del Decreto 1494 de 2015. El nuevo texto es el siguiente:> Es aquel acto escrito mediante el cual, de forma oportuna, veraz, completa, motivada y actualizada, todo sujeto obligado responde materialmente a cualquier persona que presente una solicitud de acceso a información pública. Su respuesta se dará en los términos establecidos por el artículo 14 de la Ley 1437 de 2011.
 
  La respuesta a la solicitud deberá ser gratuita o sujeta a un costo que no supere el valor de la reproducción y envío de la misma al solicitante. Se preferirá, cuando sea posible, según los sujetos pasivo y activo, la respuesta por vía electrónica, con el consentimiento del solicitante.
 
@@ -356,7 +356,7 @@ El Ministerio de Educación, con el apoyo de la sociedad civil, deberá promover
 ## art:32 — POLÍTICA PÚBLICA DE ACCESO A LA INFORMACIÓN
 ubicacion: TÍTULO V. VIGENCIA Y MEDIDAS DE PROMOCIÓN.
 
-El diseño, promoción e implementación, de la política pública de acceso a la información pública, estará a cargo de la Secretaría de Transparencia de la Presidencia de la República, quien coordinará con el Ministerio de Tecnologías de la Información y las Comunicaciones, el Departamento Administrativo de la Función Pública (DAFP), el Departamento Nacional de Planeación (DNP), el Archivo General de la Nación y el Departamento Administrativo Nacional de Estadística (DANE).
+<Artículo modificado por el artículo 34 de la Ley 2195 de 2022. El nuevo texto es el siguiente:> El diseño, promoción e implementación, de la política pública de acceso a la información pública, estará a cargo de la Secretaría de Transparencia de la Presidencia de la República, quien coordinará con el Ministerio de Tecnologías de la Información y las Comunicaciones, el Departamento Administrativo de la Función Pública (DAFP), el Departamento Nacional de Planeación (DNP), el Archivo General de la Nación y el Departamento Administrativo Nacional de Estadística (DANE).
 
 ## art:33 — VIGENCIA Y DEROGATORIA
 ubicacion: TÍTULO V. VIGENCIA Y MEDIDAS DE PROMOCIÓN.

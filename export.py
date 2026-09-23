@@ -22,6 +22,8 @@ ADVERTENCIA = {
     "VIGENTE_REFORMADO": "VERIFICAR REDACCIÓN. El artículo fue modificado o adicionado; el texto aquí debe corresponder a la última versión.",
     "VIGENTE": None,
     "INEXEQUIBLE_PARCIAL": "NO APLICAR SIN VERIFICAR. Una sentencia declaró inexequible parte de este artículo y la base no registra qué apartes cayeron: el texto aquí puede incluir partes ya retiradas del ordenamiento. Consultar la sentencia (ver `condicionamiento`) antes de aplicar.",
+    "TACHADO": "El texto contiene apartes [TACHADO: …]: la fuente los publica tachados porque ya no rigen (inexequibles, nulos o derogados). Se conservan para que la cita sea completa; no aplicarlos.",
+    "SIN_TEXTO": "SOLO METADATOS, SIN TEXTO VERIFICADO. No se obtuvo el texto de la providencia; este registro no dice qué se decidió ni con qué razones. No citarlo como fundamento sin leerlo en la fuente.",
     "VIGENCIA_NO_VERIFICADA": "VERIFICAR ANTES DE USAR. De esta norma todavía no se cargó el rastro de reformas y derogatorias, así que no consta que el artículo siga vigente ni que este sea su texto actual. La ausencia de afectaciones registradas no es prueba de vigencia.",
 }
 
@@ -56,6 +58,12 @@ def exportar(ramas=(), salida=None):
             # sin respaldo: la única salida honesta es decir que no se verificó.
             if estado == "VIGENTE" and (f["afectaciones"] or "pendiente") != "cargadas":
                 estado = "VIGENCIA_NO_VERIFICADA"
+            adv = ADVERTENCIA["INEXEQUIBLE_PARCIAL"] if v and estado != "MUERTO" \
+                and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado)
+            if estado != "MUERTO" and "[TACHADO:" in f["texto"]:
+                adv = " ".join(filter(None, (adv, ADVERTENCIA["TACHADO"])))
+            if f["clase"] == "jurisprudencia" and "No se pudo bajar el texto" in f["texto"]:
+                adv = ADVERTENCIA["SIN_TEXTO"]  # fichas del Consejo de Estado sin texto (SAMAI 403)
             reg = {
                 "id": f["id"],
                 "cita": cita(f, f["clave"]),
@@ -66,8 +74,7 @@ def exportar(ramas=(), salida=None):
                 "ubicacion": f["ubicacion"] or None,
                 "ramas": rama_lista,
                 "estado": estado,
-                "advertencia": ADVERTENCIA["INEXEQUIBLE_PARCIAL"] if v and estado != "MUERTO"
-                               and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado),
+                "advertencia": adv,
                 "texto": f["texto"],
                 "afectado_por": [dict(r) for r in con.execute(
                     "SELECT tipo, origen, fecha, nota FROM relaciones WHERE destino = ? ORDER BY fecha",
@@ -78,6 +85,8 @@ def exportar(ramas=(), salida=None):
                 "fuente": f["fuente"],
                 "verificado": f["verificado"],
             }
+            if f["clase"] == "jurisprudencia":
+                reg.update(corporacion=f["corporacion"], ponente=f["ponente"], decision=f["decision"])
             if estado == "VIGENTE_CONDICIONADO" and v and v["condicion"]:
                 reg["condicionamiento"] = v["condicion"]
             if estado == "MUERTO" and v and v["mata"]:
@@ -96,11 +105,13 @@ def violaciones(ruta):
         r = json.loads(linea)
         if not r["seccion"].startswith("art:"):
             continue
-        if build.marca(r["texto"]) and r["estado"] != "MUERTO":
+        if build.marca(r["texto"], r["epigrafe"] or "") and r["estado"] != "MUERTO":
             malos.append("texto dice derogado/inexequible y sale %s: %s" % (r["estado"], r["id"]))
         if r["estado"] != "MUERTO" and not r["advertencia"] and any(
                 a["tipo"] == "declara_inexequible" for a in r["afectado_por"]):
             malos.append("inexequible parcial sin advertencia: " + r["id"])
+        if r["estado"] != "MUERTO" and "[TACHADO:" in r["texto"] and "TACHADO" not in (r["advertencia"] or ""):
+            malos.append("texto tachado sin advertencia: " + r["id"])
     return malos
 
 
@@ -112,7 +123,11 @@ def check():
     open(tmp + "/normativa/x.md", "w", encoding="utf-8").write(
         "---\nid: co:ley:1:2000\ntipo: ley\ntitulo: Ley Uno\nramas: [civil]\n"
         "fuente: http://x\nverificado: 2026-01-01\nafectaciones: cargadas\n---\n\n## art:1 — Uno\nTexto.\n"
-        "\n## art:2 — Dos\n<Artículo INEXEQUIBLE>\n\n## art:3 — Tres\nTexto tres.\n")
+        "\n## art:2 — Dos\n<Artículo INEXEQUIBLE>\n\n## art:3 — Tres\nTexto tres.\n"
+        "\n## art:4 — Cuatro\nVive. <Aparte tachado INEXEQUIBLE> [TACHADO: cayó]\n")
+    open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8").write(
+        "---\nid: co:ce:1:2022\ntipo: sentencia\ncorporacion: consejo-estado\nponente: P\nramas: [administrativo]\n"
+        "fuente: http://x\nverificado: 2026-01-01\n---\n\n## ficha\nActor: X\n**No se pudo bajar el texto íntegro**.\n")
     open(tmp + "/relaciones.csv", "w", encoding="utf-8").write(
         "origen,tipo,destino,fecha,nota,fuente\n"
         "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n"
@@ -121,15 +136,18 @@ def check():
     global RAIZ
     RAIZ = tmp
     exportar(salida=tmp + "/c.jsonl")
-    reg = json.loads(open(tmp + "/c.jsonl", encoding="utf-8").readline())
+    regs = [json.loads(l) for l in open(tmp + "/c.jsonl", encoding="utf-8")]
+    ficha, regs = regs[0], regs[1:]  # co:ce:… ordena antes que co:ley:…
+    reg = regs[0]
     assert reg["estado"] == "MUERTO", reg["estado"]
     assert "NO APLICAR" in reg["advertencia"], "un artículo muerto debe salir advertido"
     assert reg["cita"] == "Art. 1, Ley Uno", reg["cita"]
     assert reg["afectado_por"][0]["tipo"] == "deroga"
     assert not violaciones(tmp + "/c.jsonl"), violaciones(tmp + "/c.jsonl")
-    regs = [json.loads(l) for l in open(tmp + "/c.jsonl", encoding="utf-8")]
     assert regs[1]["estado"] == "MUERTO", "marcador <Artículo INEXEQUIBLE> en el texto"
     assert "parte" in regs[2]["advertencia"], "inexequible parcial debe salir advertido"
+    assert "TACHADO" in regs[3]["advertencia"], "texto tachado debe salir advertido"
+    assert "SOLO METADATOS" in ficha["advertencia"] and ficha["corporacion"] == "consejo-estado", ficha
     shutil.rmtree(tmp)
     RAIZ = os.path.dirname(os.path.abspath(__file__))
     if os.path.exists(os.path.join(RAIZ, "index.db")):  # la misma regla sobre el corpus real

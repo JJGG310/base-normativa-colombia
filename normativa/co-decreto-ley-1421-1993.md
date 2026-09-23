@@ -269,7 +269,7 @@ Las decisiones del Concejo Distrital que no requieran acuerdo se adoptarán medi
 ## art:27 — REQUISITOS
 ubicacion: TITULO II. EL CONCEJO > CAPITULO III. CONCEJALES
 
-Para ser elegido Concejal se requiere ser ciudadano en ejercicio y haber residido en la ciudad durante los dos años anteriores, o haber nacido en ella.
+<Artículo modificado por el artículo 1 de la Ley 1136 de 2007. El nuevo texto es el siguiente:> Para ser elegido Concejal se requiere ser ciudadano en ejercicio y haber residido en la ciudad durante los dos años anteriores, o haber nacido en ella.
 
 Los Concejales no tendrán suplentes. Las vacantes originadas en sus faltas absolutas serán llenadas por los candidatos no elegidos en la misma lista según el orden sucesivo y descendente de inscripción.
 
@@ -373,7 +373,7 @@ El pago de los honorarios y de las primas de los seguros aquí previstos estará
 ## art:34a — LICENCIA DE MATERNIDAD PARA CONCEJALAS Y EDILESAS
 ubicacion: TITULO II. EL CONCEJO > CAPITULO III. CONCEJALES
 
-La concejala o edilesa en estado de embarazo, o adoptante de un menor de edad, tendrá derecho al reconocimiento de la licencia de maternidad remunerada, como falta temporal permitida, por el tiempo y en las condiciones establecidas en el Código Sustantivo del Trabajo, las normas que lo modifique, adicione o derogue. La remuneración pagada durante la licencia corresponderá al valor de los honorarios correspondientes a las sesiones que se realicen durante su licencia de maternidad, los cuales serán pagados, por el seguro de salud al que esta se encuentre afiliada tal como establece la norma.
+<Artículo adicionado por el artículo 1 de la Ley 2148 de 2021. El nuevo texto es el siguiente:> La concejala o edilesa en estado de embarazo, o adoptante de un menor de edad, tendrá derecho al reconocimiento de la licencia de maternidad remunerada, como falta temporal permitida, por el tiempo y en las condiciones establecidas en el Código Sustantivo del Trabajo, las normas que lo modifique, adicione o derogue. La remuneración pagada durante la licencia corresponderá al valor de los honorarios correspondientes a las sesiones que se realicen durante su licencia de maternidad, los cuales serán pagados, por el seguro de salud al que esta se encuentre afiliada tal como establece la norma.
 
 La concejala o la edilesa que entre a gozar de la licencia de maternidad, será reemplazada temporalmente mientras dure la licencia, por los candidatos no elegidos que según el orden de inscripción o votación obtenida, le sigan en forma sucesiva y descendente en la misma lista electoral.
 
@@ -557,12 +557,12 @@ Como jefe de la administración distrital el alcalde mayor ejerce sus atribucion
 ## art:53a — CONSEJO DISTRITAL DE GOBIERNO PARA ASUNTOS LOCALES
 ubicacion: TITULO IV. ORGANIZACION GUBERNAMENTAL Y ADMINISTRATIVA
 
-Créese el Consejo Distrital de Gobierno para Asuntos Locales como una instancia de atención de asuntos concernientes únicamente a las localidades. El Consejo se reunirá por lo menos dos veces al año y, en él tendrán asiento el Alcalde Mayor de Bogotá, los secretarios de despacho y los alcaldes locales, más los demás funcionarios que el Alcalde Mayor de Bogotá invite.
+<Artículo adicionado por el artículo 3 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Créese el Consejo Distrital de Gobierno para Asuntos Locales como una instancia de atención de asuntos concernientes únicamente a las localidades. El Consejo se reunirá por lo menos dos veces al año y, en él tendrán asiento el Alcalde Mayor de Bogotá, los secretarios de despacho y los alcaldes locales, más los demás funcionarios que el Alcalde Mayor de Bogotá invite.
 
 ## art:53b — GABINETE LOCAL
 ubicacion: TITULO IV. ORGANIZACION GUBERNAMENTAL Y ADMINISTRATIVA
 
-Serán parte del gabinete local los alcaldes locales y los delegados de cada sector administrativo. 
+<Artículo adicionado por el artículo 4 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Serán parte del gabinete local los alcaldes locales y los delegados de cada sector administrativo. 
 
 Los sectores administrativos que componen la administración distrital deberán tener al menos un delegado con capacidad de decisión para cada localidad como un enlace directo de los asuntos de su competencia en las alcaldías locales. Sus reglas de funcionamiento serán determinadas mediante Decreto Distrital. 
 
@@ -645,7 +645,7 @@ Cada localidad estará sometida, en los términos establecidos por este decreto 
 ## art:62 — CREACION DE LOCALIDADES
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO I. LOCALIDADES
 
-El Concejo Distrital, a iniciativa del Alcalde Mayor, señalan a las localidades su denominación, límites y atribuciones administrativas, y dictará las demás disposiciones que fueren necesarias para su organización y funcionamiento.
+<Artículo modificado por el artículo 6 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> El Concejo Distrital, a iniciativa del Alcalde Mayor, señalan a las localidades su denominación, límites y atribuciones administrativas, y dictará las demás disposiciones que fueren necesarias para su organización y funcionamiento.
 
 Además, se podrán crear zonas rurales para la administración de localidades con características distintas a las de las zonas Urbanas. Para estos fines se deberá tener en cuenta: 
 
@@ -692,7 +692,7 @@ En las votaciones que se realicen para la elección de juntas administradoras s�
 ## art:65 — REQUISITOS PARA LOS CARGOS DE EDIL Y ALCALDE LOCAL
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO II. JUNTAS ADMINISTRADORAS
 
-Para ser elegido edil o nombrado alcalde local se requiere ser ciudadano en ejercicio y haber residido o desempeñado alguna actividad profesional, industrial, comercial o laboral en la respectiva localidad por lo menos durante los dos años anteriores a la fecha de la elección o del nombramiento. 
+<Artículo modificado por el artículo 7 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Para ser elegido edil o nombrado alcalde local se requiere ser ciudadano en ejercicio y haber residido o desempeñado alguna actividad profesional, industrial, comercial o laboral en la respectiva localidad por lo menos durante los dos años anteriores a la fecha de la elección o del nombramiento. 
 
 Para ocupar el cargo de alcalde local, se deberá contar con los requisitos máximos descritos en el numeral 13.2.1.1 del artículo 13 del Decreto Ley 785 de 2005.
 
@@ -726,7 +726,7 @@ Se exceptúan de estas prohibiciones las gestiones y los contratos relacionados 
 ## art:69 — ATRIBUCIONES DE LAS JUNTAS
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO II. JUNTAS ADMINISTRADORAS
 
-De conformidad con la Constitución, la ley, los acuerdos del Concejo y los decretos del Alcalde Mayor, corresponde a las Juntas Administradoras: 
+<Artículo modificado por el artículo 8 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> De conformidad con la Constitución, la ley, los acuerdos del Concejo y los decretos del Alcalde Mayor, corresponde a las Juntas Administradoras: 
 
 1. Adoptar el Plan de Desarrollo Local en concordancia con el plan general de desarrollo económico y social de obras públicas y el plan general de ordenamiento físico del distrito, previa audiencia de las organizaciones sociales, cívicas y populares de la localidad. 
 
@@ -771,7 +771,7 @@ Los cuestionarios para las sesiones de seguimiento a la gestión e inversión lo
 ## art:69a — APOYO TÉCNICO Y ADMINISTRATIVO A LAS JUNTAS ADMINISTRADORAS LOCALES
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO II. JUNTAS ADMINISTRADORAS
 
-Con el fin de promover la gestión de las Juntas Administradoras Locales, la Alcaldía Mayor de Bogotá, reglamentará las condiciones en las que las JAL podrán acceder a mesas de apoyo técnico por localidad, para ejecutar labores jurídicas, administrativas y de secretaria, con cargo al Fondo de Desarrollo Local correspondiente.
+<Artículo adicionado por el artículo 9 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Con el fin de promover la gestión de las Juntas Administradoras Locales, la Alcaldía Mayor de Bogotá, reglamentará las condiciones en las que las JAL podrán acceder a mesas de apoyo técnico por localidad, para ejecutar labores jurídicas, administrativas y de secretaria, con cargo al Fondo de Desarrollo Local correspondiente.
 
 ## art:70 — PROHIBICIONES
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO II. JUNTAS ADMINISTRADORAS
@@ -891,7 +891,7 @@ No podrán ser designados alcaldes locales quienes estén comprendidos en cualqu
 ## art:85 — REEMPLAZOS
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO IV. ALCALDES LOCALES
 
-Las faltas absolutas y temporales de los alcaldes locales serán provistas por las personas que designe el alcalde mayor. 
+<Artículo modificado por el artículo 10 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Las faltas absolutas y temporales de los alcaldes locales serán provistas por las personas que designe el alcalde mayor. 
 
 En el primer caso, solicitará de la junta respectiva la elaboración de una terna, salvo cuando falten 18 meses para la terminación del periodo. 
 
@@ -900,7 +900,7 @@ Esta terna se conformará por aquellas personas que hubiesen pasado el procesó 
 ## art:86 — ATRIBUCIONES
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO IV. ALCALDES LOCALES
 
-Corresponde a los alcaldes locales: 
+<Artículo modificado por el artículo 11 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Corresponde a los alcaldes locales: 
 
 1. Cumplir y hacer cumplir la Constitución, la ley, las demás normas nacionales aplicables, los acuerdos distritales y locales y las decisiones de las autoridades distritales. 
 
@@ -957,7 +957,7 @@ ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO V. FONDOS DE DESAR
 ## art:89 — PARTICIPACION EN EL PRESUPUESTO DISTRITAL
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO V. FONDOS DE DESARROLLO LOCAL
 
-A partir de la vigencia fiscal de mil novecientos noventa y cuatro (1994), no menos del doce por ciento (12%) de los ingresos corrientes del presupuesto de la administración central del Distrito, se asignará a las localidades teniendo en cuenta las necesidades básicas insatisfechas de la población de cada una de ellas y según los índices que para el efecto establezca la entidad distrital de Planeación. Para los efectos aquí previstos no se tendrán en cuenta los ingresos corrientes de los establecimientos públicos ni las utilidades de las empresas industriales y comerciales que se apropien en el presupuesto distrital. 
+<Artículo modificado por el artículo 12 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> A partir de la vigencia fiscal de mil novecientos noventa y cuatro (1994), no menos del doce por ciento (12%) de los ingresos corrientes del presupuesto de la administración central del Distrito, se asignará a las localidades teniendo en cuenta las necesidades básicas insatisfechas de la población de cada una de ellas y según los índices que para el efecto establezca la entidad distrital de Planeación. Para los efectos aquí previstos no se tendrán en cuenta los ingresos corrientes de los establecimientos públicos ni las utilidades de las empresas industriales y comerciales que se apropien en el presupuesto distrital. 
 
 El Concejo Distrital, a iniciativa del alcalde mayor podrán incrementar dicha participación anual y acumulativamente en un dos por ciento (2%), sin que la misma supere en total el veinte por ciento (20%) de los ingresos a que se refiere este artículo. Igualmente el concejo a iniciativa del alcalde podrá reducir en cualquier tiempo esta participación, respetando en todo caso el porcentaje mínimo previsto en el inciso anterior. 
 
@@ -1006,10 +1006,10 @@ ubicacion: TITULO VI. PERSONERIA
 
 <Artículo derogado por el artículo 96 de la Ley 617 de 2000>
 
-## art:97 — A
+## art:97 — ELECCIÓN, INHABILIDADES
 ubicacion: TITULO VI. PERSONERIA
 
-ELECCIÓN, INHABILIDADES. <Artículo modificado por el artículo 1 de la Ley 1031 de 2006. El nuevo texto es el siguiente:> El Personero Distrital será elegido por el Concejo durante el primer mes de sesiones ordinarias, para un período institucional de cuatro (4) años, que se iniciará el primero de marzo y concluirá el último día de febrero. Podrá ser reelegido, por una sola vez, para el período siguiente.
+<Artículo modificado por el artículo 1 de la Ley 1031 de 2006. El nuevo texto es el siguiente:> El Personero Distrital será elegido por el Concejo durante el primer mes de sesiones ordinarias, para un período institucional de cuatro (4) años, que se iniciará el primero de marzo y concluirá el último día de febrero. Podrá ser reelegido, por una sola vez, para el período siguiente.
 
 No podrá ser elegido personero quien sea o haya sido en el último año miembro del Concejo, ni quien haya ocupado durante el mismo lapso cargo público en la administración central o descentralizada del Distrito. Estarán igualmente inhabilitados quienes hayan sido condenados en cualquier época por sentencia judicial a pena privativa de la libertad, excepto por delitos políticos o culposos, excluidos del ejercicio de una profesión o sancionados por faltas a la ética profesional.
 
@@ -1113,7 +1113,7 @@ La personería no podrá cumplir atribuciones administrativas distintas de las i
 ## art:105 — TITULARIDAD Y NATURALEZA DEL CONTROL FISCAL
 ubicacion: TITULO VII. CONTROL FISCAL, CONTROL INTERNO Y VEEDURIA > CAPITULO I. CONTROL FISCAL Y TITULARIDAD
 
-La vigilancia de la gestión fiscal del Distrito y de los particulares que manejen fondos o bienes del mismo, corresponde a la Contraloría Distrital. 
+<Artículo modificado por el artículo 164 del Decreto Ley 403 de 2020. El nuevo texto es el siguiente:> La vigilancia de la gestión fiscal del Distrito y de los particulares que manejen fondos o bienes del mismo, corresponde a la Contraloría Distrital. 
 
 Dicho control se ejercerá en forma posterior y selectiva, conforme a las técnicas de auditoría, e incluirá el ejercicio de un control financiero, de gestión y de resultados, fundado en la eficiencia, la economía, la equidad y la valoración de los costos ambientales, en los términos que señalen la ley y el Código Fiscal. 
 
@@ -1349,7 +1349,7 @@ Ningún funcionario público distrital entrará a ejercer funciones sin antes de
 ## art:129 — SALARIOS Y PRESTACIONES
 ubicacion: TITULO VIII. SERVIDORES PUBLICOS
 
-Los empleados públicos de Bogotá Distrito Capital tendrán un régimen salarial especial que determinará el Gobierno nacional dentro de los límites establecidos por la Ley 617 de 2000 y el Marco Fiscal de Mediano Plazo; en todo caso, en virtud del principio de progresividad laboral este régimen no podrá ser inferior al actualmente vigente. 
+<Artículo modificado por el artículo 13 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Los empleados públicos de Bogotá Distrito Capital tendrán un régimen salarial especial que determinará el Gobierno nacional dentro de los límites establecidos por la Ley 617 de 2000 y el Marco Fiscal de Mediano Plazo; en todo caso, en virtud del principio de progresividad laboral este régimen no podrá ser inferior al actualmente vigente. 
 
 El régimen salarial de los empleados y trabajadores del Distrito estará sujeto a la disponibilidad presupuestal y al Marco Fiscal de Mediano Plazo del Distrito Capital y deberá contar con previo concepto expedido por la Secretaría Distrital de Hacienda. 
 
@@ -1512,7 +1512,7 @@ Las utilidades de las empresas industriales y comerciales del Distrito son propi
 ## art:143a — VIGENCIAS FUTURAS ORDINARIAS
 ubicacion: TITULO IX. REGIMEN PRESUPUESTAL
 
-El Confis Distrital podrá autorizar la asunción de obligaciones que afectan presupuestos de vigencias futuras de funcionamiento o inversión cuando su ejecución se inicie con el presupuesto de la vigencia en curso y el objeto del compromiso se lleve a cabo en cada una de ellas siempre y cuando se cumpla que: 
+<Artículo adicionado por el artículo 14 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> El Confis Distrital podrá autorizar la asunción de obligaciones que afectan presupuestos de vigencias futuras de funcionamiento o inversión cuando su ejecución se inicie con el presupuesto de la vigencia en curso y el objeto del compromiso se lleve a cabo en cada una de ellas siempre y cuando se cumpla que: 
 
 a) El monto máximo de vigencias futuras, el plazo y las condiciones de las mismas consulte las metas plurianuales del Marco Fiscal de Mediano Plazo de que trata esta ley; 
 
@@ -1529,12 +1529,12 @@ La Secretaría Distrital de Hacienda - Dirección Distrital de Presupuesto inclu
 ## art:143c — RECURSOS ADICIONALES DE LA NACIÓN, FINANCIACIÓN DEL RÉGIMEN SUBSIDIADO
 ubicacion: TITULO IX. REGIMEN PRESUPUESTAL
 
-Los recursos adicionales a los previstos en el presupuesto aprobado de cada vigencia por concepto de Transferencias, Cofinanciación y demás aportes de la Nación y Rentas de destinación específica que financian el Régimen Subsidiado se incorporarán al Presupuesto Distrital mediante decreto distrital. La Secretaría Distrital de Hacienda, informará de estas operaciones a la Comisión de Presupuesto del Concejo Distrital dentro de los treinta (30) días siguientes a la incorporación de dichos recursos.
+<Artículo adicionado por el artículo 15 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Los recursos adicionales a los previstos en el presupuesto aprobado de cada vigencia por concepto de Transferencias, Cofinanciación y demás aportes de la Nación y Rentas de destinación específica que financian el Régimen Subsidiado se incorporarán al Presupuesto Distrital mediante decreto distrital. La Secretaría Distrital de Hacienda, informará de estas operaciones a la Comisión de Presupuesto del Concejo Distrital dentro de los treinta (30) días siguientes a la incorporación de dichos recursos.
 
-## art:179a — Artículo adicionado por el artículo 16 de la Ley 2116 de 2021. El nuevo texto es el siguiente:
+## art:179a — 
 ubicacion: TITULO IX. REGIMEN PRESUPUESTAL
 
-En el marco de un programa especial de descongestión, el Distrito dentro de los seis (6) meses siguientes a la entrada en vigencia de la presente ley establecerá mecanismos de terminación anticipada de las actuaciones administrativa por contravenciones ocurridas con anterioridad a la vigencia de la Ley 1801 de 2016, atendiendo situaciones de caducidad, tiempo de iniciación de la actuación, principio de lesividad, carencia actual de objeto. 
+<Artículo adicionado por el artículo 16 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> En el marco de un programa especial de descongestión, el Distrito dentro de los seis (6) meses siguientes a la entrada en vigencia de la presente ley establecerá mecanismos de terminación anticipada de las actuaciones administrativa por contravenciones ocurridas con anterioridad a la vigencia de la Ley 1801 de 2016, atendiendo situaciones de caducidad, tiempo de iniciación de la actuación, principio de lesividad, carencia actual de objeto. 
 
 Se dispondrán de alternativas para terminación de procesos abiertos sin trámite procesal en tiempo determinados de acuerdo a temáticas específicas, mecanismos de amnistías, condonaciones y/o subrogaciones para sanciones. 
 

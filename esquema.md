@@ -120,7 +120,8 @@ la norma; si no tiene, se deja `## art:<num> —` y nada más. No se inventan ep
 - `[TACHADO: …]` — texto que la fuente publica tachado (`<S>` en senado): ya no rige
   (inexequible, nulo o derogado; el marcador que lo precede, p. ej.
   `<Aparte tachado INEXEQUIBLE>`, dice cuál). Se conserva para que la cita sea
-  completa, pero no es texto vigente.
+  completa, pero no es texto vigente. `export.py` advierte en todo registro no muerto
+  que lo contenga.
 - Los marcadores editoriales de vigencia (`<Artículo derogado por …>`,
   `<Artículo modificado por …>`, `<Aparte tachado INEXEQUIBLE>`) se conservan. Los que
   solo remiten a cajas que no viajan (`<Ver Notas del Editor>`, `<Ver Notas de
@@ -177,6 +178,11 @@ consultas — se escribe con cuidado.>
 | `expediente` | no | Radicado |
 | `decision` | sí | `exequible`, `inexequible`, `inexequible-parcial`, `exequible-condicionado`, `estese-a-lo-resuelto`, `inhibitoria`, `casa`, `no-casa`, `nulidad`, `niega-nulidad`, `tutela-concede`, `tutela-niega` |
 | `hito` | no | `true` si sienta o cambia línea jurisprudencial |
+
+`export.py` incluye `corporacion`, `ponente` y `decision` en cada registro de
+jurisprudencia. Una ficha sin texto de la providencia (p. ej. Consejo de Estado cuando
+SAMAI da 403: la sección `## ficha` dice «No se pudo bajar el texto íntegro») sale con
+la advertencia «SOLO METADATOS, SIN TEXTO VERIFICADO».
 
 Las normas que la providencia interpreta o declara inexequibles **no van en el `.md`**:
 van en `relaciones.csv`. Una sola fuente de verdad para las aristas.
@@ -257,14 +263,29 @@ vigencia. Los demás son navegación.
 
 1. ¿Hay `deroga` / `deroga_tacitamente` con `fecha <= hoy`, `declara_inexequible`
    total (nota «total» o marcador `<Artículo INEXEQUIBLE>` en el texto), o marcador
-   `<Artículo derogado…>` en el propio texto? → **muerto** (con el ID de lo que lo
-   mató). Un `declara_inexequible` sin evidencia de ser total → **vigente con
-   condición** («inexequible en parte, verificar»).
+   de la fuente (ver abajo)? → **muerto** (con el ID de lo que lo mató). Un
+   `declara_inexequible` sin evidencia de ser total → **vigente con condición**
+   («inexequible en parte, verificar»), **salvo** que el artículo tenga un `modifica`
+   o `subroga` con fecha posterior a la de la sentencia: el texto vigente es
+   posterior y el aviso no le aplica (la arista sigue en `afectado_por`).
 2. ¿Hay `suspende` vigente? → **suspendido**.
 3. ¿Hay `declara_exequible_condicionado` o `declara_inexequible_parcial`? →
    **vigente con condición** (se devuelve la `nota`, siempre).
 4. ¿Hay `modifica` / `adiciona` / `subroga`? → **vigente reformado** (con la cadena).
 5. Ninguna → **vigente**.
+
+**Aristas a la norma entera.** Si `destino` es el ID de la norma (sin `:art:`), la
+arista afecta a todos sus artículos con la misma regla y la misma fecha de efecto:
+`co:ley:2452:2025:art:331,deroga,co:decreto:2158:1948,2026-04-02,…` mata todos los
+artículos del CPTSS desde esa fecha (antes, no). Un `declara_inexequible` a la norma
+entera solo mata si la `nota` dice «total»; si no, deja el aviso «en parte» en todos.
+
+**Marcadores de la fuente** (sin arista, se leen del `.md`): al inicio del texto
+`<Artículo derogado…>`, `<Artículo INEXEQUIBLE>` o `<Ley … derogada>` / `<Ley …
+declarada INEXEQUIBLE>` (el artículo lo creó una ley que cayó entera); o en el
+epígrafe `Artículo derogado…` / `Artículo INEXEQUIBLE…` (Senado) o `(Derogado por…`
+(Gestor). No cuentan si son parciales («en lo…», «salvo», «parcial»…) ni si traen una
+fecha futura («derogado a partir del 2 de abril de 2099»).
 
 Si un artículo no está en la base, la respuesta correcta es *«no está cargado»*,
 nunca *«está vigente»*. La ausencia no es prueba de vigencia.

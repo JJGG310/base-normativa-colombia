@@ -13,7 +13,7 @@ verificado: 2026-09-23
 ## art:1 — ADMINISTRACIÓN DE JUSTICIA
 ubicacion: TÍTULO I. PRINCIPIOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-La administración de justicia es la parte de la función pública que cumple el Estado encargada por la Constitución Política y la ley de hacer efectivos los derechos, obligaciones, garantías y libertades consagrados en ellas, con el fin de realizar la convivencia social.
+<Artículo modificado por el artículo 1 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La administración de justicia es la parte de la función pública que cumple el Estado encargada por la Constitución Política y la ley de hacer efectivos los derechos, obligaciones, garantías y libertades consagrados en ellas, con el fin de realizar la convivencia social.
 
 <Inciso CONDICIONALMENTE exequible> La administración de justicia es un servicio público esencial.
 
@@ -24,7 +24,7 @@ Su funcionamiento será desconcentrado y autónomo, se deberán aprovechar las t
 ## art:2 — ACCESO A LA JUSTICIA
 ubicacion: TÍTULO I. PRINCIPIOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-El Estado garantiza el acceso de todas las personas a la administración de justicia. Será de su cargo el amparo de pobreza y será fortalecido el servicio de defensoría pública. En cada municipio habrá como mínimo una oficina de la Defensoría del Pueblo compuesta por al menos un Defensor Municipal y un Defensor Público.
+<Artículo modificado por el artículo 2 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Estado garantiza el acceso de todas las personas a la administración de justicia. Será de su cargo el amparo de pobreza y será fortalecido el servicio de defensoría pública. En cada municipio habrá como mínimo una oficina de la Defensoría del Pueblo compuesta por al menos un Defensor Municipal y un Defensor Público.
 
 Deberá garantizarse el acceso a la justicia a todas las personas, con independencia de sus circunstancias personales, medios o conocimientos, procurando la permanente actualización de los recursos disponibles y la formación adecuada de los servidores públicos y de las personas para garantizar el acceso a la justicia.
 
@@ -51,10 +51,10 @@ ubicacion: TÍTULO I. PRINCIPIOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
 En toda clase de actuaciones judiciales y administrativas se garantiza, sin excepción alguna, el derecho de defensa, de acuerdo con la Constitución Política, los tratados internacionales vigentes ratificados por Colombia y la ley. Los estudiantes de derecho pertenecientes a los consultorios jurídicos de las universidades debidamente reconocidas por el Estado podrán ejercer la defensa técnica con las limitaciones que señale la ley, siempre y cuando la universidad certifique que son idóneos para ejercerla.
 
-## art:4 — A
+## art:4 — CELERIDAD Y ORALIDAD
 ubicacion: TÍTULO I. PRINCIPIOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-RTÍCULO 4o. CELERIDAD Y ORALIDAD. <Artículo modificado por el artículo 1 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> 
+<Artículo modificado por el artículo 1 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> 
 
 <Incisos 1 y 2 CONDICIONALMENTE exequibles> La administración de justicia debe ser pronta, cumplida y eficaz en la solución de fondo de los asuntos que se sometan a su conocimiento. Los términos procesales serán perentorios y de estricto cumplimiento por parte de los funcionarios judiciales. Su violación injustificada constituye causal de mala conducta, sin perjuicio de las sanciones penales a que haya lugar. Lo mismo se aplicará respecto de los titulares de la función disciplinaria.
 
@@ -72,7 +72,7 @@ Ningún superior jerárquico en el orden administrativo o jurisdiccional podrá 
 ## art:6 — GRATUIDAD
 ubicacion: TÍTULO I. PRINCIPIOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-La administración de justicia será gratuita y su funcionamiento estará a cargo del Estado, sin perjuicio de las agencias en derecho, costas, expensas, cauciones y aranceles judiciales que se fijen de conformidad con la ley.
+<Artículo modificado por el artículo 5 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La administración de justicia será gratuita y su funcionamiento estará a cargo del Estado, sin perjuicio de las agencias en derecho, costas, expensas, cauciones y aranceles judiciales que se fijen de conformidad con la ley.
 
 No podrá cobrarse arancel en los procedimientos de carácter penal, laboral, contencioso laboral, de familia, de menores, que sean de naturaleza ordinaria o contenciosa administrativa, ni en las acciones públicas de constitucionalidad o los derivados del ejercicio de acciones de tutela, populares, de cumplimiento, habeas corpus y habeas data.
 
@@ -90,7 +90,7 @@ La administración de justicia debe ser eficiente. Los funcionarios y empleados 
 ## art:8 — MECANISMOS ALTERNATIVOS
 ubicacion: TÍTULO I. PRINCIPIOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-La Ley podrá establecer mecanismos alternativos al proceso judicial para solucionar los conflictos que se presenten entre los asociados y señalará los casos en los cuales habrá lugar al cobro de honorarios por estos servicios.
+<Artículo modificado por el artículo 3 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Ley podrá establecer mecanismos alternativos al proceso judicial para solucionar los conflictos que se presenten entre los asociados y señalará los casos en los cuales habrá lugar al cobro de honorarios por estos servicios.
 
 <Aparte subrayado CONDICIONALMENTE constitucional> Excepcionalmente la ley podrá atribuir funciones jurisdiccionales a ciertas y determinadas autoridades administrativas para que conozcan de asuntos que por su naturaleza o cuantía puedan ser resueltos por aquellas de manera adecuada y eficaz. En tal caso la ley señalará las competencias, las garantías al debido proceso y las demás condiciones necesarias para proteger en forma apropiada los derechos de las partes. 
 
@@ -112,10 +112,10 @@ ubicacion: TÍTULO I. PRINCIPIOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
 DECLARADO INEXEQUIBLE
 
-## art:11 — Artículo modificado por el artículo 6 de la Ley 2430 de 2024. El nuevo texto es el siguiente:
+## art:11 — 
 ubicacion: TÍTULO II. ESTRUCTURA GENERAL DE LA ADMINISTRACIÓN DE JUSTICIA > CAPÍTULO I. DE LA INTEGRACIÓN Y COMPETENCIA DE LA RAMA JUDICIAL
 
-La Rama Judicial del Poder Público está constituida por:
+<Artículo modificado por el artículo 6 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Rama Judicial del Poder Público está constituida por:
 
 I. Los órganos que integran las distintas jurisdicciones:
 
@@ -168,7 +168,7 @@ PARÁGRAFO 3o. En las ciudades se podrán organizar los despachos judiciales en 
 ## art:12 — DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL
 ubicacion: TÍTULO II. ESTRUCTURA GENERAL DE LA ADMINISTRACIÓN DE JUSTICIA > CAPÍTULO II. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR LAS AUTORIDADES
 
-La función jurisdiccional se ejerce como propia y habitual y de manera permanente por las corporaciones y personas dotadas de investidura legal para hacerlo, según se precisa en la Constitución Política y en la presente ley Estatutaria.
+<Artículo modificado por el artículo 7 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La función jurisdiccional se ejerce como propia y habitual y de manera permanente por las corporaciones y personas dotadas de investidura legal para hacerlo, según se precisa en la Constitución Política y en la presente ley Estatutaria.
 
 <Inciso modificado por el artículo 3 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> Dicha función se ejerce por la jurisdicción constitucional, el Consejo Superior de la Judicatura, la jurisdicción de lo contencioso administrativo, la jurisdicción agraria y rural, las jurisdicciones especiales tales como: la penal militar, la indígena y la justicia de paz, y la jurisdicción ordinaria que conocerá de todos los asuntos que no estén atribuidos por la Constitución o la ley a otra jurisdicción.
 
@@ -177,7 +177,7 @@ La Jurisdicción penal militar y la jurisdicción especial indígena ejercen fun
 ## art:13 — DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR OTRAS AUTORIDADES Y POR PARTICULARES
 ubicacion: TÍTULO II. ESTRUCTURA GENERAL DE LA ADMINISTRACIÓN DE JUSTICIA > CAPÍTULO II. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR LAS AUTORIDADES
 
-Ejercen función jurisdiccional de acuerdo con lo establecido en la Constitución Política:
+<Artículo modificado por el artículo 6 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Ejercen función jurisdiccional de acuerdo con lo establecido en la Constitución Política:
 
 1. <Numeral modificado por el artículo 8 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Congreso de la República, con motivo de las acusaciones y faltas disciplinarias que se formulen contra el Presidente de la República o quien haga sus veces; contra los Magistrados de la Corte Suprema de Justicia, del Consejo de Estado, de la Corte Constitucional, de la Comisión Nacional de Disciplina Judicial y del Consejo Superior de la Judicatura y el Fiscal General de la Nación, aunque hubieren cesado en el ejercicio de sus cargos.
 
@@ -193,7 +193,7 @@ DECLARADO INEXEQUIBLE
 ## art:15 — INTEGRACIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO I. DE LOS ÓRGANOS DE LA JURISDICCIÓN ORDINARIA 1. DE LA CORTE SUPREMA DE JUSTICIA
 
-La Corte Suprema de Justicia como máximo Tribunal de la Jurisdicción Ordinaria se encuentra integrada por veintitrés (23) Magistrados, elegidos por la misma corporación para períodos individuales de ocho años, de listas de diez (10) candidatos enviadas por el Consejo Superior de la Judicatura, para cada vacante que se presente, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley.
+<Artículo modificado por el artículo 9 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Corte Suprema de Justicia como máximo Tribunal de la Jurisdicción Ordinaria se encuentra integrada por veintitrés (23) Magistrados, elegidos por la misma corporación para períodos individuales de ocho años, de listas de diez (10) candidatos enviadas por el Consejo Superior de la Judicatura, para cada vacante que se presente, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley.
 
 PARÁGRAFO 1o. Como Tribunal Penal de Aforados, la Corte Suprema de Justicia contará con dos salas especiales. La Sala Especial de Instrucción y la Sala Especial de Primera Instancia.
 
@@ -209,6 +209,8 @@ PARÁGRAFO 2o. Sin perjuicio de lo dispuesto en este artículo, la Sala laboral 
 
 ## art:16 — SALAS
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO I. DE LOS ÓRGANOS DE LA JURISDICCIÓN ORDINARIA 1. DE LA CORTE SUPREMA DE JUSTICIA
+
+<Artículo modificado por el artículo 7 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> 
 
 <Inciso modificado por el artículo 10 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Corte Suprema de Justicia cumplirá sus funciones como máximo tribunal de la Justicia Ordinaria por medio de cinco (5) salas, integradas así: La Sala Plena, integrada por veintitrés (23) Magistrados de las Salas de Casación; la Sala de Gobierno, integrada por el Presidente, el Vicepresidente y los Presidentes de cada una de las Salas de Casación; la Sala de Casación Civil y Agraria*, integrada por siete (7) Magistrados; la Sala de Casación Laboral, integrada por siete (7) Magistrados; la Sala de Casación Penal, integrada por nueve (9) Magistrados.
 
@@ -255,7 +257,7 @@ Los conflictos de la misma naturaleza que se presenten entre autoridades de igua
 ## art:19 — JURISDICCIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO I. DE LOS ÓRGANOS DE LA JURISDICCIÓN ORDINARIA 1. DE LA CORTE SUPREMA DE JUSTICIA
 
-Los Tribunales Superiores son creados por el Consejo Superior de la Judicatura para el cumplimiento de las funciones que determine la ley procesal en cada distrito judicial y tienen el número de Magistrados que dicho Consejo determine que, en todo caso, no será menor de tres.
+<Artículo modificado por el artículo 11 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los Tribunales Superiores son creados por el Consejo Superior de la Judicatura para el cumplimiento de las funciones que determine la ley procesal en cada distrito judicial y tienen el número de Magistrados que dicho Consejo determine que, en todo caso, no será menor de tres.
 
 El Consejo Superior de la Judicatura podrá hacer modificaciones a la conformación de las Salas de Decisión con fundamento en los resultados de gestión de dichas Salas.
 
@@ -281,7 +283,7 @@ Corresponde a la Sala Plena de los Tribunales Superiores de Distrito Judicial, e
 ## art:21 — INTEGRACIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO I. DE LOS ÓRGANOS DE LA JURISDICCIÓN ORDINARIA 1. DE LA CORTE SUPREMA DE JUSTICIA
 
-La célula básica de la organización judicial es el juzgado, y se integrará por el juez titular, el secretario, los asistentes y los demás empleados que determine el Consejo Superior de la Judicatura de acuerdo con la categoría, especialidad y condiciones de la demanda de justicia.
+<Artículo modificado por el artículo 12 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La célula básica de la organización judicial es el juzgado, y se integrará por el juez titular, el secretario, los asistentes y los demás empleados que determine el Consejo Superior de la Judicatura de acuerdo con la categoría, especialidad y condiciones de la demanda de justicia.
 
 PARÁGRAFO. El Consejo Superior de la Judicatura determinará e implementará modelos de gestión en los despachos, oficinas de apoyo, centros de servicios judiciales y administrativos, y demás dependencias de la Rama Judicial, siguiendo los parámetros establecidos para ello en los artículos 2o y 51 de la presente ley y priorizará la atención de las necesidades e implementación de medidas de modernización tecnológica en los Juzgados.
 
@@ -290,7 +292,7 @@ La adopción de los modelos de gestión no podrá alterar la célula básica y s
 ## art:22 — RÉGIMEN DE LOS JUZGADOS
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO I. DE LOS ÓRGANOS DE LA JURISDICCIÓN ORDINARIA 1. DE LA CORTE SUPREMA DE JUSTICIA
 
-Los Juzgados Civiles, Penales, de Familia, Laborales, de Ejecución de Penas y medidas de seguridad, de Pequeñas Causas y demás juzgados especializados creados conforme a la ley, que determine el Consejo Superior de la Judicatura, de conformidad con las necesidades de la administración de justicia en cada circuito o municipio, integran la Jurisdicción Ordinaria. Sus características, denominación y número serán los establecidos por dicha Corporación.
+<Artículo modificado por el artículo 13 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los Juzgados Civiles, Penales, de Familia, Laborales, de Ejecución de Penas y medidas de seguridad, de Pequeñas Causas y demás juzgados especializados creados conforme a la ley, que determine el Consejo Superior de la Judicatura, de conformidad con las necesidades de la administración de justicia en cada circuito o municipio, integran la Jurisdicción Ordinaria. Sus características, denominación y número serán los establecidos por dicha Corporación.
 
 Cuando el número de asuntos así lo justifique, los juzgados podrán ser promiscuos para el conocimiento de procesos civiles, penales, laborales o de familia.
 
@@ -380,7 +382,7 @@ PARÁGRAFO. Se exceptúa de lo dispuesto en este artículo la estructura y funci
 ## art:34 — INTEGRACIÓN Y COMPOSICIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
 
-El Consejo de Estado es el máximo Tribunal de lo Contencioso Administrativo y Cuerpo Supremo Consultivo del Gobierno y estará integrado por <*> elegidos por la misma Corporación para los períodos individuales que determina la Constitución Política, de listas de diez (10) candidatos enviadas por el Consejo Superior de la Judicatura, para cada vacante que se presente, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley.
+<Artículo modificado por el artículo 14 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo de Estado es el máximo Tribunal de lo Contencioso Administrativo y Cuerpo Supremo Consultivo del Gobierno y estará integrado por <*> elegidos por la misma Corporación para los períodos individuales que determina la Constitución Política, de listas de diez (10) candidatos enviadas por el Consejo Superior de la Judicatura, para cada vacante que se presente, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley.
 
 El Consejo de Estado ejerce sus funciones por medio de cuatro (4) Salas, integradas así: la Plena, por todos sus miembros; la de lo Contencioso Administrativo <*>, la de Consulta y Servicio Civil, por los cuatro (4) consejeros restantes; y la sala de Gobierno, conformada por el Presidente y el Vicepresidente del Consejo de Estado y por los Presidentes de la Sala de Consulta y Servicio Civil y de las Secciones de las Salas de lo Contencioso Administrativo y las demás que determine la ley.
 
@@ -414,7 +416,7 @@ La Sala Plena del Consejo de Estado tendrá las siguientes atribuciones administ
 ## art:36 — DE LA SALA DE LO CONTENCIOSO ADMINISTRATIVO
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
 
-La Sala de lo Contencioso Administrativo se dividirá en cinco (5) Secciones, cada una de las, cuales ejercerá separadamente las funciones que de conformidad con su especialidad y cantidad de trabajo le asigne la Sala Plena del Consejo de Estado, de acuerdo con la ley y el reglamento interno de la Corporación y estarán integradas de la siguiente manera:
+<Artículo modificado por el artículo 15 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Sala de lo Contencioso Administrativo se dividirá en cinco (5) Secciones, cada una de las, cuales ejercerá separadamente las funciones que de conformidad con su especialidad y cantidad de trabajo le asigne la Sala Plena del Consejo de Estado, de acuerdo con la ley y el reglamento interno de la Corporación y estarán integradas de la siguiente manera:
 
 a) La Sección Primera <*>.
 
@@ -495,7 +497,7 @@ De las providencias dictadas por las Secciones del Consejo de Estado, cuando a e
 ## art:40 — JURISDICCIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
 
-Los Tribunales Administrativos son creados por el Consejo Superior de la Judicatura para el cumplimiento de las funciones que determine la ley procesal en cada distrito judicial administrativo. Tienen el número de Magistrados que dicho Consejo determine, en todo caso, no será menor de tres.
+<Artículo modificado por el artículo 16 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los Tribunales Administrativos son creados por el Consejo Superior de la Judicatura para el cumplimiento de las funciones que determine la ley procesal en cada distrito judicial administrativo. Tienen el número de Magistrados que dicho Consejo determine, en todo caso, no será menor de tres.
 
 Para tal efecto el Consejo Superior de la Judicatura tendrá en cuenta las características particulares de conflictividad social, características sociodemográficas y demanda de justicia existente y potencial en el Distrito Judicial.
 
@@ -523,7 +525,7 @@ La Sala Plena de los Tribunales administrativos, conformada por la totalidad de 
 ## art:42 — RÉGIMEN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO III. DE LOS ÓRGANOS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO 1. DEL CONSEJO DE ESTADO
 
-Los Juzgados Administrativos y los Juzgados Agrarios y Rurales Administrativos que de conformidad con las necesidades de la administración de justicia que determine el Consejo Superior de la Judicatura para el cumplimiento de las funciones que prevé a la ley procesal en cada circuito o municipio, integran la jurisdicción contencioso administrativa. Sus características, denominación y número serán establecidos por esa misma Corporación, de conformidad con lo establecido en la presente ley.
+<Artículo modificado por el artículo 17 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los Juzgados Administrativos y los Juzgados Agrarios y Rurales Administrativos que de conformidad con las necesidades de la administración de justicia que determine el Consejo Superior de la Judicatura para el cumplimiento de las funciones que prevé a la ley procesal en cada circuito o municipio, integran la jurisdicción contencioso administrativa. Sus características, denominación y número serán establecidos por esa misma Corporación, de conformidad con lo establecido en la presente ley.
 
 En lo que refiere a la gestión administrativa podrán compartir recursos logísticos con las entidades de la Rama Ejecutiva de mayor presencia en áreas rurales, que para ese propósito celebren un convenio interadministrativo con el Consejo Superior de la Judicatura. El Consejo Superior de la Judicatura reglamentará la suscripción de estos convenios.
 
@@ -588,28 +590,28 @@ La decisión será adoptada por la Sala Plena de lo Contencioso Administrativo d
 ## art:49a — INTEGRACIÓN DE LA JURISDICCIÓN AGRARIA Y RURAL
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-La Jurisdicción Agraria y Rural está integrada por la Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia y el Consejo de Estado en los asuntos de su competencia; así como por los Tribunales Agrarios y Rurales, y los Juzgados Agrarios y Rurales:
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> La Jurisdicción Agraria y Rural está integrada por la Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia y el Consejo de Estado en los asuntos de su competencia; así como por los Tribunales Agrarios y Rurales, y los Juzgados Agrarios y Rurales:
 
 1. DEL ÓRGANO DE CIERRE.
 
 ## art:50a — INTEGRACIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-La Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia es el órgano de cierre de la Jurisdicción Agraria y Rural, sin perjuicio de las competencias que el artículo 237 de la Constitución Política de Colombia le asigna al Consejo de Estado.
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> La Sala de Casación Civil, Agraria y Rural de la Corte Suprema de Justicia es el órgano de cierre de la Jurisdicción Agraria y Rural, sin perjuicio de las competencias que el artículo 237 de la Constitución Política de Colombia le asigna al Consejo de Estado.
 
 2. DE LOS TRIBUNALES AGRARIOS Y RURALES.
 
 ## art:51a — JURISDICCIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-Los Tribunales Agrarios y Rurales son creados por el Consejo Superior de la Judicatura para el cumplimiento de Las funciones que determine la ley procesal en cada distrito judicial agrario y rural.
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> Los Tribunales Agrarios y Rurales son creados por el Consejo Superior de la Judicatura para el cumplimiento de Las funciones que determine la ley procesal en cada distrito judicial agrario y rural.
 
 Tienen el número de Magistrados que determine el Consejo Superior de la Judicatura que, en todo caso, no será menor de tres. Los Tribunales Agrarios y Rurales ejercerán sus funciones por conducto de la Sala Plena, integrada por la totalidad de los Magistrados, por la Sala de Gobierno, por las Salas especializadas y por las demás Salas de Decisión plurales e impares, de acuerdo con la ley.
 
 ## art:52a — DE LA SALA PLENA
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-La Sala Plena de los Tribunales Agrarios y Rurales, conformada por la totalidad de los Magistrados que integran. la Corporación ejercerá las siguientes funciones:
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> La Sala Plena de los Tribunales Agrarios y Rurales, conformada por la totalidad de los Magistrados que integran. la Corporación ejercerá las siguientes funciones:
 
 1 Elegir los jueces de lo Agrario y Rurales de listas que, conforme a las normas sobre Carrera Judicial le remita el respectivo Consejo Seccional de la Judicatura, asegurando su idoneidad y especialización.
 
@@ -626,7 +628,7 @@ La Sala Plena de los Tribunales Agrarios y Rurales, conformada por la totalidad 
 ## art:53asic — INTEGRACIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-La célula básica de la organización judicial para la administración de justicia agraria y rural es el Juzgado Agrario y Rural. El mismo se integrará por los jueces, el secretario, los asistentes que la especialidad demande y el personal auxiliar calificado que determine el Consejo Superior de la Judicatura, de conformidad con las necesidades de servicios identificadas por este último. Cuando el número de asuntos o procesos agrarios y rurales por juzgado así lo justifique, el Consejo Superior de la Judicatura podrá implementar un plan y medidas de descongestión en los términos del artículo 63 de esta ley.
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> La célula básica de la organización judicial para la administración de justicia agraria y rural es el Juzgado Agrario y Rural. El mismo se integrará por los jueces, el secretario, los asistentes que la especialidad demande y el personal auxiliar calificado que determine el Consejo Superior de la Judicatura, de conformidad con las necesidades de servicios identificadas por este último. Cuando el número de asuntos o procesos agrarios y rurales por juzgado así lo justifique, el Consejo Superior de la Judicatura podrá implementar un plan y medidas de descongestión en los términos del artículo 63 de esta ley.
 
 PARÁGRAFO 1o. La creación y distribución de los juzgados y Tribunales Agrarios y Rurales se hará de conformidad con lo establecido por el Acto Legislativo 03 de 2023, teniendo en cuenta las zonas focalizadas por el Ministerio de Agricultura y Desarrollo Rural, y el Ministerio de Justicia y del Derecho, a partir de los siguientes criterios: características y volúmenes demográficos y rurales; presencia de población campesinas y grupos étnicos; presencia de territorialidades campesinas y étnicas; zonas PDET; ubicación de núcleos de reforma agraria; densidad de cultivos de uso ilícito; concentración de la propiedad rural; niveles de informalidad en la tenencia de la tierra; procesos agrarios en curso y en general la demanda de acceso a la justicia frente a los asuntos de esta jurisdicción. 
 
@@ -637,28 +639,28 @@ PARÁGRAFO 3o. En la conformación de los equipos técnicos e interdisciplinario
 ## art:54a — CENTROS DE SERVICIOS JUDICIALES Y ADMINISTRATIVOS DE APOYO TÉCNICO AGRARIO Y RURAL
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-Los Tribunales y Juzgados Agrarios y Rurales se apoyarán en equipos interdisciplinarios cuya función será ofrecer el soporte técnico, pericial y de contexto requerido por los Magistrados y Jueces Agrarios y Rurales para la debida administración de justicia, en atención a la normatividad, singularidad y territorialidad de las controversias agrarias y rurales, con un enfoque diferencial étnico y de género que reconozca y respete las particularidades culturales y tradicionales de las comunidades involucradas. Los equipos interdisciplinarios de que trata el presente artículo integrarán los Centros de Servicios Judiciales y Administrativos de Apoyo Técnico Agrario y Rural de acuerdo con las necesidades de servicio identificadas por el Consejo Superior de la Judicatura.
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> Los Tribunales y Juzgados Agrarios y Rurales se apoyarán en equipos interdisciplinarios cuya función será ofrecer el soporte técnico, pericial y de contexto requerido por los Magistrados y Jueces Agrarios y Rurales para la debida administración de justicia, en atención a la normatividad, singularidad y territorialidad de las controversias agrarias y rurales, con un enfoque diferencial étnico y de género que reconozca y respete las particularidades culturales y tradicionales de las comunidades involucradas. Los equipos interdisciplinarios de que trata el presente artículo integrarán los Centros de Servicios Judiciales y Administrativos de Apoyo Técnico Agrario y Rural de acuerdo con las necesidades de servicio identificadas por el Consejo Superior de la Judicatura.
 
 PARÁGRAFO. Los Centros de Servicios Judiciales y Administrativos de Apoyo Técnico Agrario y Rural serán creados por el Consejo Superior de la Judicatura y podrán atender las necesidades de servicios de los Tribunales y Juzgados Agrarios y Rurales respectivamente, de acuerdo con la demanda y distribución que determine el Consejo Superior de la Judicatura.
 
 ## art:55a — FACILITADORAS AGRARIOS Y RURALES
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-La Defensoría del Pueblo contará con facilitadores agrarios y rurales, profesionales en Derecho y/o profesiones afines, cuya función será proveer aplicando los enfoques diferencial étnico, cultural y de género información y orientación jurídica a los ciudadanos de poblaciones vulnerables y/o sujetos de especial protección constitucional interesados en las rutas de acceso a los servicios de administración de justicia en asuntos y controversias relacionados con la jurisdicción territorial de los circuitos y distritos judiciales agrarios y rurales. las competencias y trámites requeridos a la justicia agraria y rural, entre otros. Los facilitadores agrarios y rurales prestarán un servicio público gratuito que busca la materialización del derecho fundamental de acceso a la justicia. En este sentido, no podrá cobrarse a los usuarios por los servicios de información y orientación jurídica. 
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> La Defensoría del Pueblo contará con facilitadores agrarios y rurales, profesionales en Derecho y/o profesiones afines, cuya función será proveer aplicando los enfoques diferencial étnico, cultural y de género información y orientación jurídica a los ciudadanos de poblaciones vulnerables y/o sujetos de especial protección constitucional interesados en las rutas de acceso a los servicios de administración de justicia en asuntos y controversias relacionados con la jurisdicción territorial de los circuitos y distritos judiciales agrarios y rurales. las competencias y trámites requeridos a la justicia agraria y rural, entre otros. Los facilitadores agrarios y rurales prestarán un servicio público gratuito que busca la materialización del derecho fundamental de acceso a la justicia. En este sentido, no podrá cobrarse a los usuarios por los servicios de información y orientación jurídica. 
 
 PARÁGRAFO. Se priorizará la implementación de los Facilitadoras Agrarios y Rurales teniendo en cuenta las zonas localizadas por el Ministerio de Agricultura y Desarrollo Rural y el Ministerio de Justicia y del Derecho, los volúmenes demográficos y rurales, las zonas PDET y la demanda de justicia sobre estos asuntos, entre otros.
 
 ## art:56a — RÉGIMEN DE LOS JUZGADOS
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO IV-A. DE LA JURISDICCIÓN AGRARIA Y RURAL. <Capítulo adicionado por el artículo 4 de la Ley 2570 de 2026>
 
-Los Juzgados Agrarios y Rurales que de conformidad con las necesidades de la administración de justicia determine el Consejo Superior de la Judicatura para el cumplimiento de las funciones que prevea la ley procesal en cada circuito o municipio, integran la Jurisdicción Agraria y rural. Sus características, denominación y número serán establecidos por esa misma Corporación, de conformidad con lo establecido en la ley. 
+<Artículo adicionado por el artículo 4 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> Los Juzgados Agrarios y Rurales que de conformidad con las necesidades de la administración de justicia determine el Consejo Superior de la Judicatura para el cumplimiento de las funciones que prevea la ley procesal en cada circuito o municipio, integran la Jurisdicción Agraria y rural. Sus características, denominación y número serán establecidos por esa misma Corporación, de conformidad con lo establecido en la ley. 
 
 PARÁGRAFO. En lo que se refiere a la gestión administrativa de los Juzgados Agrarios y Rurales, estos podrán compartir logística con las entidades de la rama ejecutiva de mayor presencia en áreas y zonas rurales, o de difícil acceso geográfico, que para ese propósito celebren un convenio interadministrativo con el Concejo Superior de la Judicatura. En las zonas rurales en donde haya poca presencia de entidades de la rama ejecutiva, el Concejo Superior de la Judicatura coordinará la creación de nuevos despachos judiciales, teniendo en cuenta las zonas localizadas por el Ministerio de Agricultura y Desarrollo Rural y el Ministerio de Justicia y del Derecho, en función de los volúmenes demográficos y rurales, las zonas PDET, pocas vías de comunicación y medios de transporte. La creación de estos despachos judiciales se realizará bajo los principios de sostenibilidad fiscal, gradualidad, progresividad, y de acuerdo a las necesidades específicas de los territorios.
 
 ## art:50 — DESCONCENTRACIÓN Y DIVISIÓN DEL TERRITORIO PARA EFECTOS JUDICIALES
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-Con el objeto de desconcentrar el funcionamiento de la administración de justicia, y sin perjuicio de lo dispuesto en normas especiales, para efectos judiciales, el territorio de la Nación se divide en distritos judiciales, distritos judiciales administrativos o distritos judiciales agrarios y rurales. Los distritos judiciales administrativos y los distritos judiciales agrarios y rurales se dividen en circuitos. En la jurisdicción ordinaria, los circuitos estarán integrados por jurisdicciones municipales. 
+<Artículo modificado por el artículo 5 de la Ley 2570 de 2026. El nuevo texto es el siguiente:> Con el objeto de desconcentrar el funcionamiento de la administración de justicia, y sin perjuicio de lo dispuesto en normas especiales, para efectos judiciales, el territorio de la Nación se divide en distritos judiciales, distritos judiciales administrativos o distritos judiciales agrarios y rurales. Los distritos judiciales administrativos y los distritos judiciales agrarios y rurales se dividen en circuitos. En la jurisdicción ordinaria, los circuitos estarán integrados por jurisdicciones municipales. 
 
 La división judicial podrá no coincidir con la división político administrativa y se hará procurando realizar los principios de fácil acceso, proporcionalidad de cargas de trabajo, proximidad y fácil comunicación entre los distintos despachos, cercanía del juez con los lugares en que hubieren ocurrido los hechos, oportunidad y celeridad del control ejercido mediante la segunda instancia y suficiencia de recursos para atender la demanda de justicia.
 
@@ -683,7 +685,7 @@ Créanse las zonas judiciales especiales de frontera. La ley determina su jurisd
 ## art:53 — ELECCIÓN DE MAGISTRADOS Y CONSEJEROS
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-<Artículo modificado por el artículo 18 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Corresponde a la Corte Suprema de Justicia y al Consejo de Estado proveer las vacantes que se presenten en la respectiva Corporación, de listas de diez (10) candidatos, enviadas por el Consejo Superior de la Judicatura, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley. Estos Magistrados no son reelegibles y tomarán posesión ante el Presidente de la República.
+<Aparte subrayado CONDICIONALMENTE constitucional> <Artículo modificado por el artículo 18 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Corresponde a la Corte Suprema de Justicia y al Consejo de Estado proveer las vacantes que se presenten en la respectiva Corporación, de listas de diez (10) candidatos, enviadas por el Consejo Superior de la Judicatura, elaboradas previa convocatoria pública adelantada de conformidad con lo previsto en esta ley. Estos Magistrados no son reelegibles y tomarán posesión ante el Presidente de la República.
 
 La conformación de ternas para la elección de los integrantes de la Comisión Nacional de Disciplina Judicial se regirá por lo dispuesto en el artículo 19 del Acto Legislativo 2 de 2015.
 
@@ -700,7 +702,7 @@ PARÁGRAFO 2o. Los funcionarios públicos en cuya postulación o designación in
 ## art:53a — PRINCIPIOS DE LA CONVOCATORIA PÚBLICA
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-<Artículo CONDICIONALMENTE constitucional> En el trámite de la convocatoria pública para integrar las listas y ternas de candidatos a Magistrados de la Corte Suprema de Justicia, el Consejo de Estado o la Comisión Nacional de Disciplina Judicial, se aplicarán los siguientes principios:
+<Artículo adicionado por el artículo 19 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> <Artículo CONDICIONALMENTE constitucional> En el trámite de la convocatoria pública para integrar las listas y ternas de candidatos a Magistrados de la Corte Suprema de Justicia, el Consejo de Estado o la Comisión Nacional de Disciplina Judicial, se aplicarán los siguientes principios:
 
 a) Publicidad: los avisos y los actos que den inicio y concluyan las distintas fases de la convocatoria deberán ser públicos y contarán con amplia divulgación.
 
@@ -720,7 +722,7 @@ ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO 
 ## art:53c — FASES DE LA CONVOCATORIA PÚBLICA
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-Para la selección de integrantes de listas o ternas a Magistrados de la Corte Suprema de Justicia, del Consejo de Estado o de la Comisión Nacional de Disciplina Judicial, se emplearán los siguientes criterios: probidad, independencia, imparcialidad, responsabilidad, integridad, transparencia, prudencia, idoneidad, experiencia académica y evaluación del desempeño profesional.
+<Artículo adicionado por el artículo 21 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Para la selección de integrantes de listas o ternas a Magistrados de la Corte Suprema de Justicia, del Consejo de Estado o de la Comisión Nacional de Disciplina Judicial, se emplearán los siguientes criterios: probidad, independencia, imparcialidad, responsabilidad, integridad, transparencia, prudencia, idoneidad, experiencia académica y evaluación del desempeño profesional.
 
 ## art:54 — QUÓRUM DELIBERATORIO Y DECISORIO
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
@@ -736,7 +738,7 @@ El reglamento interno de cada corporación señalará los días y horas de cada 
 ## art:55 — ELABORACIÓN DE LAS PROVIDENCIAS JUDICIALES
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-Las sentencias judiciales deberán referirse a todos los hechos y asuntos planteados en el proceso por los sujetos procesales.
+<Artículo modificado por el artículo 22 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Las sentencias judiciales deberán referirse a todos los hechos y asuntos planteados en el proceso por los sujetos procesales.
 
 La parte resolutiva de las sentencias estará precedida de las siguientes palabras:
 
@@ -749,7 +751,7 @@ Para efecto de la sistematización de la información y la gestión de informát
 ## art:56 — FIRMA Y FECHA DE PROVIDENCIAS Y CONCEPTOS
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-El reglamento interno de la Corte Suprema de Justicia, de la Corte Constitucional, de la Comisión Nacional de Disciplina Judicial y del Consejo de Estado, respectivamente, determinará, entre otras, la forma como serán expedidas y firmadas las providencias, conceptos o dictámenes adoptados. Las sentencias podrán ser objeto de comunicado de prensa. La sentencia tendrá la fecha en que se adopte. En todo caso la ejecutoria, de la sentencia comenzará a contarse a partir de la fecha de notificación.
+<Artículo modificado por el artículo 23 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El reglamento interno de la Corte Suprema de Justicia, de la Corte Constitucional, de la Comisión Nacional de Disciplina Judicial y del Consejo de Estado, respectivamente, determinará, entre otras, la forma como serán expedidas y firmadas las providencias, conceptos o dictámenes adoptados. Las sentencias podrán ser objeto de comunicado de prensa. La sentencia tendrá la fecha en que se adopte. En todo caso la ejecutoria, de la sentencia comenzará a contarse a partir de la fecha de notificación.
 
 En dicho reglamento se deberá además incluir un término perentorio para consignar en el salvamento o la aclaración del voto los motivos de los Magistrados que disientan de la decisión jurisdiccional mayoritaria, sin perjuicio de la publicidad de la sentencia.
 
@@ -758,7 +760,7 @@ PARÁGRAFO. En todo caso, los reglamentos internos contemplarán el plazo máxim
 ## art:57 — PUBLICIDAD Y RESERVA DE LAS ACTAS
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-Son de acceso público las actas de las sesiones de la Sala Plena y del Consejo Superior de la Judicatura, de los Consejos Seccionales y de las corporaciones citadas en el inciso anterior, y los documentos otorgados por los funcionarios de la Rama Judicial en los cuales consten actuaciones y decisiones de carácter administrativo. 
+<Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Son de acceso público las actas de las sesiones de la Sala Plena y del Consejo Superior de la Judicatura, de los Consejos Seccionales y de las corporaciones citadas en el inciso anterior, y los documentos otorgados por los funcionarios de la Rama Judicial en los cuales consten actuaciones y decisiones de carácter administrativo. 
 
 También son de acceso público las actas de las sesiones de la Sala Plena de la Corte Constitucional, de las Salas y Secciones del Consejo de Estado y de los Tribunales Administrativos y de las Salas de la Corte Suprema de Justicia y de los Tribunales Superiores de Distrito Judicial en las cuales consten los debates, actuaciones y decisiones judiciales adoptadas para propugnar por la integridad del orden jurídico, para hacer efectivo el cumplimiento de una ley o un acto administrativo de carácter general y para la protección de los derechos e intereses colectivos frente a la omisión o acción de las autoridades públicas. 
 
@@ -825,7 +827,7 @@ DECLARADO INEXEQUIBLE
 ## art:63 — MEDIDAS DE DESCONGESTIÓN
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO V. DISPOSICIONES COMUNES
 
-Antes del 1o de abril de cada año el Consejo Superior de la Judicatura deberá determinar, con fundamento en el análisis estadístico de los resultados de la gestión del año anterior y la demanda de justicia, si las circunstancias y necesidades ameritan adoptar medidas excepcionales de descongestión para el año siguiente y, en caso afirmativo, establecerá el plan anual e <sic> descongestión de la Rama- Judicial que deberá incluir las medidas a adoptar, los despachos judiciales a impactar, definir su alcance, duración y los mecanismos de seguimiento y evaluación.
+<Artículo modificado por el artículo 25 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Antes del 1o de abril de cada año el Consejo Superior de la Judicatura deberá determinar, con fundamento en el análisis estadístico de los resultados de la gestión del año anterior y la demanda de justicia, si las circunstancias y necesidades ameritan adoptar medidas excepcionales de descongestión para el año siguiente y, en caso afirmativo, establecerá el plan anual e <sic> descongestión de la Rama- Judicial que deberá incluir las medidas a adoptar, los despachos judiciales a impactar, definir su alcance, duración y los mecanismos de seguimiento y evaluación.
 
 Cuando las medidas impacten cuerpos colegiados deberá solicitarse a la Sala Plena respectiva su concepto previo, el cual deberá ser presentado a través del Presidente de la respectiva corporación judicial, dentro de los quince (15) días hábiles siguientes a la solicitud.
 
@@ -956,17 +958,17 @@ En consecuencia, en los preceptos que anteceden los términos "funcionario o emp
 ## art:74j — AGRUPACIÓN TEMÁTICA
 ubicacion: TÍTULO III. DE LAS CORPORACIONES Y DESPACHOS JUDICIALES > CAPÍTULO VI. DE LA RESPONSABILIDAD DEL ESTADO Y DE SUS FUNCIONARIOS Y EMPLEADOS JUDICIALES
 
-Las altas cortes, los tribunales y los jueces podrán agrupar temáticamente los procesos para fallo, aunque los expedientes no se encuentren acumulados de acuerdo, con las normas procesales. Las consideraciones del primer fallo podrán ser reiteradas en los demás, los cuales podrán ser expedidos de: manera simultánea, sin sujeción al orden cronológico de turnos.
+<Artículo adicionado por el artículo 27 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Las altas cortes, los tribunales y los jueces podrán agrupar temáticamente los procesos para fallo, aunque los expedientes no se encuentren acumulados de acuerdo, con las normas procesales. Las consideraciones del primer fallo podrán ser reiteradas en los demás, los cuales podrán ser expedidos de: manera simultánea, sin sujeción al orden cronológico de turnos.
 
 ## art:75 — FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
-Al Consejo Superior de la Judicatura le corresponde el gobierno y la administración de la Rama Judicial, decidir y hacer seguimiento permanente a la ejecución de las políticas, planes y programas que adopte con el fin de garantizar la autonomía e independencia judicial, el acceso a la justicia, la eficiencia de la Rama Judicial y la tutela judicial efectiva.
+<Artículo modificado por el artículo 28 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Al Consejo Superior de la Judicatura le corresponde el gobierno y la administración de la Rama Judicial, decidir y hacer seguimiento permanente a la ejecución de las políticas, planes y programas que adopte con el fin de garantizar la autonomía e independencia judicial, el acceso a la justicia, la eficiencia de la Rama Judicial y la tutela judicial efectiva.
 
 ## art:76 — INTEGRACIÓN Y FUNCIONAMIENTO DEL CONSEJO SUPERIOR DE LA JUDICATURA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
-El Consejo Superior de la Judicatura está integrado por seis Magistrados elegidos para un período de ocho años así: uno por la Corte Constitucional, dos por la Corte Suprema de Justicia y tres por el Consejo de Estado.
+<Artículo modificado por el artículo 29 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura está integrado por seis Magistrados elegidos para un período de ocho años así: uno por la Corte Constitucional, dos por la Corte Suprema de Justicia y tres por el Consejo de Estado.
 
 El funcionamiento del Consejo Superior de la Judicatura está sometido a las reglas fijadas en la Constitución, la Ley y en los Acuerdos que expida en los cuales defina las dependencias o unidades que lo integran, sus funciones y la planta de personal.
 
@@ -1025,24 +1027,24 @@ En todo caso, el Congreso de la República podrá invitar en cualquier momento a
 ## art:81 — DERECHOS DE PETICIÓN
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
-Podrá ejercerse el derecho de petición ante el Consejo Superior de la Judicatura, en los términos y reglas establecidos en el artículo 23 de la Constitución, en la Ley y demás disposiciones que los desarrollen y complementen.
+<Artículo modificado por el artículo 31 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Podrá ejercerse el derecho de petición ante el Consejo Superior de la Judicatura, en los términos y reglas establecidos en el artículo 23 de la Constitución, en la Ley y demás disposiciones que los desarrollen y complementen.
 
 2. DE LOS CONSEJOS SECCIONALES DE LA JUDICATURA
 
 ## art:82 — CONSEJOS SECCIONALES DE LA JUDICATURA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
-Habrá consejos seccionales de la judicatura en las ciudades cabeceras de distrito judicial que a juicio del Consejo Superior resulte necesario. Este podrá agrupar varios distritos judiciales bajo la competencia de un consejo seccional. El Consejo Superior Fijará el número de sus miembros.
+<Artículo modificado por el artículo 32 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Habrá consejos seccionales de la judicatura en las ciudades cabeceras de distrito judicial que a juicio del Consejo Superior resulte necesario. Este podrá agrupar varios distritos judiciales bajo la competencia de un consejo seccional. El Consejo Superior Fijará el número de sus miembros.
 
 ## art:83 — INTEGRACIÓN DE LOS CONSEJOS SECCIONALES DE LA JUDICATURA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
-Los integrantes de los consejos seccionales de la judicatura se designarán por el Consejo Superior de la Judicatura, de acuerdo con las normas sobre carrera judicial.
+<Artículo modificado por el artículo 33 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los integrantes de los consejos seccionales de la judicatura se designarán por el Consejo Superior de la Judicatura, de acuerdo con las normas sobre carrera judicial.
 
 ## art:84 — REQUISITOS
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO I. DE LOS ORGANISMOS DE ADMINISTRACIÓN Y CONTROL 1. DEL CONSEJO SUPERIOR DE LA JUDICATURA
 
-Los consejeros seccionales de la judicatura deberán tener título profesional en derecho, ciencias económicas, financieras o administrativas, y una experiencia específica relacionada con las funciones del cargo no inferior a ocho (8) años.
+<Artículo modificado por el artículo 34 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los consejeros seccionales de la judicatura deberán tener título profesional en derecho, ciencias económicas, financieras o administrativas, y una experiencia específica relacionada con las funciones del cargo no inferior a ocho (8) años.
 
 Los abogados deberán, además, contar con especialización en ciencias económicas, financieras o administrativas.
 
@@ -1051,7 +1053,7 @@ Los miembros de los Consejos Seccionales de la Judicatura se denominarán consej
 ## art:85 — FUNCIONES DEL CONSEJO SUPERIOR DE LA JUDICATURA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-Al Consejo Superior de la Judicatura le corresponde el ejercicio de las siguientes funciones:
+<Artículo modificado por el artículo 35 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Al Consejo Superior de la Judicatura le corresponde el ejercicio de las siguientes funciones:
 
 1. <Inciso CONDICIONALMENTE constitucional> Aprobar los reglamentos necesarios para el eficaz funcionamiento de la administración de justicia. En ejercicio de esta función aprobará, entre otros, los siguientes actos administrativos:
 
@@ -1152,7 +1154,7 @@ PARÁGRAFO. El Consejo Superior de la Judicatura deberá publicar en la página 
 ## art:86 — COORDINACIÓN
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-Sin perjuicio de la autonomía que para el ejercicio de la función administrativa le confiere la Constitución, y en desarrollo del principio de colaboración armónica de que trata el artículo 113 de la Constitución, el Consejo Superior de la Judicatura actuará en coordinación con los órganos de las otras Ramas del Poder Público, los organismos de control y organizaciones vinculadas al sector justicia.
+<Artículo modificado por el artículo 36 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Sin perjuicio de la autonomía que para el ejercicio de la función administrativa le confiere la Constitución, y en desarrollo del principio de colaboración armónica de que trata el artículo 113 de la Constitución, el Consejo Superior de la Judicatura actuará en coordinación con los órganos de las otras Ramas del Poder Público, los organismos de control y organizaciones vinculadas al sector justicia.
 
 Los diferentes actores que participan en el funcionamiento de la administración de justicia a nivel territorial, con el concurso de las administraciones de los entes territoriales y representantes de la sociedad civil integrarán escenarios o instancias permanentes de coordinación con el propósito de deliberar acerca de la situación de la justicia en el territorio correspondiente, tomando en consideración las particularidades del territorio, proponiendo y ejecutando planes de acción para la solución de las problemáticas que se definan y se prioricen, propendiendo por la articulación de la justicia desde lo local.
 
@@ -1161,7 +1163,7 @@ De conformidad con los principios de coordinación, concurrencia y subsidiarieda
 ## art:87 — PLAN SECTORIAL DE DESARROLLO DE LA RAMA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-El Plan Sectorial de Desarrollo para la Rama Judicial debe comprender, como mínimo, los siguientes aspectos:
+<Artículo modificado por el artículo 37 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Plan Sectorial de Desarrollo para la Rama Judicial debe comprender, como mínimo, los siguientes aspectos:
 
 1. Transformación Digital y Tecnológica.
 
@@ -1190,7 +1192,7 @@ El proyecto de Plan Sectorial deberá estar articulado con el proyecto de Plan N
 ## art:88 — ELABORACIÓN DEL PROYECTO DE PRESUPUESTO PARA LA RAMA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-El proyecto de presupuesto para la Rama Judicial deberá reflejar el Plan Sectorial de Desarrollo y se elaborará con sujeción a las siguientes reglas:
+<Artículo modificado por el artículo 38 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El proyecto de presupuesto para la Rama Judicial deberá reflejar el Plan Sectorial de Desarrollo y se elaborará con sujeción a las siguientes reglas:
 
 El Consejo Superior de la Judicatura consultará las necesidades y propuestas que tengan los juzgados, los tribunales, la Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado y la Comisión de Disciplina Judicial.
 
@@ -1226,7 +1228,7 @@ La fijación de la división del territorio para efectos judiciales se hará con
 ## art:90 — REDISTRIBUCIÓN DE LOS DESPACHOS JUDICIALES
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-La redistribución de despachos judiciales puede ser territorial o funcional, y en una sola operación pueden concurrir las dos modalidades. 
+<Artículo con los textos sustituidos por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La redistribución de despachos judiciales puede ser territorial o funcional, y en una sola operación pueden concurrir las dos modalidades. 
 
 Por virtud de la redistribución territorial, El Consejo Superior de la Judicatura podrá disponer que uno o varios juzgados de Circuito o Municipales se ubiquen en otra sede, en la misma o en diferente comprensión territorial. 
 
@@ -1247,7 +1249,7 @@ Los funcionarios, secretarios, auxiliares de Magistrado, Oficiales mayores y sus
 ## art:91 — CREACIÓN, FUSIÓN Y SUPRESIÓN DE DESPACHOS JUDICIALES
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-La creación de Tribunales o de sus Salas y de los Juzgados, se debe realizar en función de áreas de geografía uniforme, los volúmenes demográficos rural y urbano, el crecimiento porcentual intercensal de las Entidades Territoriales, la demanda existente y/o potencial de justicia en las diferentes ramas del derecho, la atención de las dinámicas socioeconómicas de las regiones funcionales en aquellos territorios donde estas se hubieren establecido, la articulación con autoridades administrativas y actores que participan en la solución de conflictos y la existencia de vías de comunicación y medios de transporte que garanticen a la población respectiva un fácil acceso al órgano jurisdiccional, sin perjuicio de la implementación de esquemas de itinerancia en los despachos judiciales.
+<Artículo modificado por el artículo 39 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La creación de Tribunales o de sus Salas y de los Juzgados, se debe realizar en función de áreas de geografía uniforme, los volúmenes demográficos rural y urbano, el crecimiento porcentual intercensal de las Entidades Territoriales, la demanda existente y/o potencial de justicia en las diferentes ramas del derecho, la atención de las dinámicas socioeconómicas de las regiones funcionales en aquellos territorios donde estas se hubieren establecido, la articulación con autoridades administrativas y actores que participan en la solución de conflictos y la existencia de vías de comunicación y medios de transporte que garanticen a la población respectiva un fácil acceso al órgano jurisdiccional, sin perjuicio de la implementación de esquemas de itinerancia en los despachos judiciales.
 
 La fusión se hará conforme a las siguientes reglas:
 
@@ -1275,7 +1277,7 @@ Para efectos de derecho de incorporación previsto en este artículo, se estable
 ## art:93 — DEL PRINCIPIO DE LEGALIDAD EN LOS TRÁMITES JUDICIALES Y ADMINISTRATIVOS
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-La facultad del Consejo Superior de la Judicatura para regular los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en ningún caso comprenderá la regulación del ejercicio de las acciones judiciales ni de las etapas del proceso que conforme a los principios de legalidad y del debido proceso corresponden exclusivamente al legislador. 
+<Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La facultad del Consejo Superior de la Judicatura para regular los trámites judiciales y administrativos que se adelanten en los despachos judiciales, en ningún caso comprenderá la regulación del ejercicio de las acciones judiciales ni de las etapas del proceso que conforme a los principios de legalidad y del debido proceso corresponden exclusivamente al legislador. 
 
 PARÁGRAFO. <Parágrafo modificado por el artículo 40 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los Magistrados Auxiliares del Consejo de Estado, de la Corte Suprema de Justicia, de la Corte Constitucional y de la Comisión Nacional de Disciplina Judicial podrán ser comisionados para la práctica de pruebas para adoptar decisiones relacionadas con asuntos de trámite y para resolver los recursos que se interpongan en relación con las mismas.
 
@@ -1289,7 +1291,7 @@ Tales estudios deben incluir, entre otras cosas, encuestas tanto al interior de 
 ## art:95 — TECNOLOGÍA AL SERVICIO DE LA ADMINISTRACIÓN DE JUSTICIA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-El Consejo Superior de la Judicatura deberá propender por la incorporación de nuevas tecnologías y la digitalización del servicio de la administración de justicia.
+<Artículo modificado por el artículo 41 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura deberá propender por la incorporación de nuevas tecnologías y la digitalización del servicio de la administración de justicia.
 
 Esta acción se enfocará principalmente a mejorar el acceso a la justicia, la práctica de las pruebas, la formación, conservación, reproducción y digitalización de los expedientes, la comunicación entre los despachos y entre estos y los usuarios, el litigio en línea, la producción y divulgación de las estadísticas de cada despacho judicial y de las providencias de todas las autoridades judiciales en sus diferentes niveles y especialidades, en cada una de las jurisdicciones a través, de la actualización de la sección de relatorías de sus páginas web o portales digitales y optimizar, la gestión administrativa al servicio de la Rama Judicial, y la puesta en marcha de una estrategia integral para el fortalecimiento e implementación del sistema único de consulta que permita la revisión de todos los procesos judiciales al interior de la Rama Judicial.
 
@@ -1308,7 +1310,7 @@ PARÁGRAFO TRANSITORIO. El Consejo Superior de la Judicatura hará el diagnósti
 ## art:96 — DE LA COMISIÓN INTERINSTITUCIONAL DE LA RAMA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-Habrá una Comisión Interinstitucional de la Rama Judicial integrada por los presidentes de la Corte Suprema de Justicia, la Corte Constitucional, del Consejo de Estado, de la Comisión Nacional de 
+<Artículo modificado por el artículo 42 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Habrá una Comisión Interinstitucional de la Rama Judicial integrada por los presidentes de la Corte Suprema de Justicia, la Corte Constitucional, del Consejo de Estado, de la Comisión Nacional de 
 
 Disciplina Judicial, del Consejo Superior de la Judicatura, el Fiscal General de la Nación y un representante de los funcionarios y empleados de la Rama elegido por estos que se encuentre en carrera o en propiedad, en la forma que señale el reglamento.
 
@@ -1319,7 +1321,7 @@ La comisión será presidida por el Presidente del Consejo Superior de la Judica
 ## art:97 — FUNCIONES DE LA COMISIÓN INTERINSTITUCIONAL DE LA RAMA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-Son funciones de la Comisión Interinstitucional de la Rama Judicial:
+<Artículo modificado por el artículo 43 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Son funciones de la Comisión Interinstitucional de la Rama Judicial:
 
 1. Contribuir a la coordinación de las actividades de los diferentes organismos administrativos de la Rama Judicial.
 
@@ -1344,7 +1346,7 @@ PARÁGRAFO. El Consejo Superior de la Judicatura informará trimestralmente a la
 ## art:98 — DE LA DIRECCIÓN EJECUTIVA DE LA ADMINISTRACIÓN JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-La Dirección Ejecutiva de Administración Judicial es el órgano técnico y administrativo que tiene a su cargo la ejecución de las actividades administrativas de la Rama Judicial, con sujeción a las políticas y decisiones de gobierno y de administración a cargo del Consejo Superior de la Judicatura.
+<Artículo modificado por el artículo 44 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Dirección Ejecutiva de Administración Judicial es el órgano técnico y administrativo que tiene a su cargo la ejecución de las actividades administrativas de la Rama Judicial, con sujeción a las políticas y decisiones de gobierno y de administración a cargo del Consejo Superior de la Judicatura.
 
 La Dirección Ejecutiva de Administración Judicial contará con las siguientes unidades: Planeación, Talento Humano, Presupuesto, Informática, Asistencia Legal, Administrativa, Infraestructura Física, Contratación y las demás que cree el Consejo Superior de la Judicatura conforme a las necesidades del servicio.
 
@@ -1355,7 +1357,7 @@ El Director tendrá un período de cuatro (4) años, no reelegible en el periodo
 ## art:99 — DEL DIRECTOR EJECUTIVO DE ADMINISTRACIÓN JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-El Director Ejecutivo de Administración Judicial deberá tener título profesional, maestría en ciencias económicas, financieras o administrativas y experiencia no inferior a quince (15) años en dichos campos. Su categoría, prerrogativas y remuneración serán las mismas de los Magistrados del Consejo Superior de la Judicatura.
+<Artículo modificado por el artículo 45 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Director Ejecutivo de Administración Judicial deberá tener título profesional, maestría en ciencias económicas, financieras o administrativas y experiencia no inferior a quince (15) años en dichos campos. Su categoría, prerrogativas y remuneración serán las mismas de los Magistrados del Consejo Superior de la Judicatura.
 
 Son funciones del Director Ejecutivo de Administración Judicial:
 
@@ -1395,7 +1397,7 @@ Las Salas Plenas de los Consejos Seccionales tendrán las siguientes funciones:
 ## art:101 — FUNCIONES DE LOS CONSEJOS SECCIONALES
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-Los Consejos Seccionales de la Judicatura tendrán las siguientes funciones: 
+<Título e inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los Consejos Seccionales de la Judicatura tendrán las siguientes funciones: 
 
 1. Administrar la Carrera Judicial en el correspondiente distrito con sujeción a las directrices del Consejo Superior de la Judicatura. 
 
@@ -1431,12 +1433,6 @@ La Comisión Seccional actuará como mecanismo de integración de la Rama Judici
 ## art:103 — DIRECTOR SECCIONAL DE LA RAMA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-En primer debate se inserta el inciso primero y en el encabezado aparece "modifíquese el artículo 103", sin especificar que;
-
-Esta duda no la resuelve tampoco la Sentencia C-134-23;
-
-Teniendo en cuenta lo anterior, y que el inciso original no es contrario a lo dispuesto en la Ley 2430 de 2024, así como que éste tiene relación con los numerales del artículo, procede el editor a dejar el contenido del inciso existente y a adicionar el inciso contenido en la Ley 2430 de 2024.
-
 <Inciso adicionado por el artículo 46 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Rama Judicial contará con directores seccionales de administración judicial en todos los departamentos y en el distrito capital para lo cual el Consejo Superior de la Judicatura establecerá las distintas categorías que tendrá este cargo atendiendo a la población de cada circunscripción y el número de despachos o circuitos judiciales que deban atenderse. La remuneración del cargo atendiendo a las categorías establecidas podrá corresponder a magistrado de Tribunal, juez del circuito o juez municipal, según el caso.
 
 Corresponde al Director Seccional de la Rama Judicial, ejercer en el ámbito de su jurisdicción y conforme a las órdenes, directrices y orientaciones del Director Ejecutivo Nacional de la Administración Judicial, las siguientes funciones: 
@@ -1468,7 +1464,7 @@ PARÁGRAFO. <Parágrafo modificado por el artículo 46 de la Ley 2430 de 2024. E
 ## art:104 — INFORMES QUE DEBEN RENDIR LOS DESPACHOS JUDICIALES
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, la Fiscalía General de la Nación y sus seccionales, la Comisión Nacional de Disciplina Judicial, los Tribunales y los Juzgados deberán presentar, conforme a la metodología que señalen los reglamentos del Consejo Superior de la Judicatura, los informes que este solicite para el cabal ejercicio de sus funciones.
+<Artículo modificado por el artículo 47 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Corte Constitucional, la Corte Suprema de Justicia, el Consejo de Estado, la Fiscalía General de la Nación y sus seccionales, la Comisión Nacional de Disciplina Judicial, los Tribunales y los Juzgados deberán presentar, conforme a la metodología que señalen los reglamentos del Consejo Superior de la Judicatura, los informes que este solicite para el cabal ejercicio de sus funciones.
 
 Dichos informes, que se rendirán cuando menos una vez al año, comprenderán entre otros aspectos, la relación de los procesos iniciados, los pendientes de decisión_ y los que hayan sido resueltos.
 
@@ -1484,7 +1480,7 @@ Al informe anual que el Consejo Superior de la Judicatura presente al Congreso d
 ## art:106 — SISTEMAS DE INFORMACIÓN
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO II. DE LA ADMINISTRACIÓN DE LA RAMA JUDICIAL
 
-Con sujeción a las normas legales que sean aplicables, el Consejo Superior de la Judicatura debe diseñar, desarrollar, poner y mantener en. funcionamiento unos adecuados sistemas de información que, incluyan entre otros, los relativos a la información financiera, talento humano, costos, información presupuestaria, gestión judicial, acceso a los servidores de la Rama Judicial y, en forma completa y oportuna, al conocimiento de las fuentes formales del derecho, tanto nacionales como internacionales.
+<Artículo modificado por el artículo 48 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Con sujeción a las normas legales que sean aplicables, el Consejo Superior de la Judicatura debe diseñar, desarrollar, poner y mantener en. funcionamiento unos adecuados sistemas de información que, incluyan entre otros, los relativos a la información financiera, talento humano, costos, información presupuestaria, gestión judicial, acceso a los servidores de la Rama Judicial y, en forma completa y oportuna, al conocimiento de las fuentes formales del derecho, tanto nacionales como internacionales.
 
 En todo caso, tendrá a su cargo un Sistema de Estadísticas de la Rama Judicial que incluya la gestión de quienes hacen parte de la Rama Judicial y permita la individualización de los procesos desde su iniciación hasta su terminación, incluyendo la verificación de los términos procesales y la efectiva solución, de tal forma que permita realizar un adecuado diagnóstico de la prestación de justicia.
 
@@ -1493,7 +1489,7 @@ Todos los organismos que hacen parte de la Rama Judicial tienen el deber de sumi
 ## art:107 — ADMINISTRACIÓN DE SISTEMAS DE ESTADÍSTICA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO III. DE LOS SISTEMAS NACIONALES DE ESTADÍSTICAS DE LA ADMINISTRACIÓN DE JUSTICIA.
 
-Con el objeto de procurar el acopio, procesamiento y análisis de información que contribuya a mejorar la toma de decisiones administrativas en el sector justicia, a llevar un control de rendimiento de las corporaciones y despachos judiciales, a promover la transparencia alrededor de la administración de justicia y a proveer la información básica para la formulación de la política judicial y criminal del país, la Administración de Justicia contará con dos sistemas estadísticos: un Sistema de Estadísticas de la Rama Judicial y un Sistema Nacional de Estadísticas de Justicia.
+<Artículo modificado por el artículo 50 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Con el objeto de procurar el acopio, procesamiento y análisis de información que contribuya a mejorar la toma de decisiones administrativas en el sector justicia, a llevar un control de rendimiento de las corporaciones y despachos judiciales, a promover la transparencia alrededor de la administración de justicia y a proveer la información básica para la formulación de la política judicial y criminal del país, la Administración de Justicia contará con dos sistemas estadísticos: un Sistema de Estadísticas de la Rama Judicial y un Sistema Nacional de Estadísticas de Justicia.
 
 Forman parte del Sistema Nacional de Estadísticas Judiciales:
 
@@ -1544,7 +1540,7 @@ PARÁGRAFO TRANSITORIO. <Parágrafo CONDICIONALMENTE constitucional> La Jurisdic
 ## art:108 — REPORTE DE INFORMACIÓN
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO III. DE LOS SISTEMAS NACIONALES DE ESTADÍSTICAS DE LA ADMINISTRACIÓN DE JUSTICIA.
 
-Las entidades oficiales y particulares que sean productoras de información estadística referida al sector justicia, deberán enviar cada seis (6) meses esta información al Ministerio de Justicia y del Derecho en observancia ele lo establecido en el artículo 113 constitucional, en la forma que este determine.
+<Artículo modificado por el artículo 51 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Las entidades oficiales y particulares que sean productoras de información estadística referida al sector justicia, deberán enviar cada seis (6) meses esta información al Ministerio de Justicia y del Derecho en observancia ele lo establecido en el artículo 113 constitucional, en la forma que este determine.
 
 ## art:109 — TRANSPARENCIA Y RENDICIÓN DE CUENTAS PARA LA ADMINISTRACIÓN DE JUSTICIA
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO III. DE LOS SISTEMAS NACIONALES DE ESTADÍSTICAS DE LA ADMINISTRACIÓN DE JUSTICIA.
@@ -1568,21 +1564,21 @@ La Rama Judicial, por conducto de los Juzgados Municipales y del Circuito, deber
 ## art:110 — COMITÉ TÉCNICO INTERINSTITUCIONAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO III. DE LOS SISTEMAS NACIONALES DE ESTADÍSTICAS DE LA ADMINISTRACIÓN DE JUSTICIA.
 
-Créase el Comité Técnico Interinstitucional conformado por todos los directores de los organismos que forman parte del Sistema Nacional de Estadísticas Judiciales, o sus delegados, el cual estará dirigido por el Director de la Unidad de Desarrollo y Análisis Estadístico del Consejo Superior de la Judicatura. Como Secretario del mismo actuará el delegado del Departamento Nacional de Planeación.
+<Artículo modificado por el artículo 53 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Créase el Comité Técnico Interinstitucional conformado por todos los directores de los organismos que forman parte del Sistema Nacional de Estadísticas Judiciales, o sus delegados, el cual estará dirigido por el Director de la Unidad de Desarrollo y Análisis Estadístico del Consejo Superior de la Judicatura. Como Secretario del mismo actuará el delegado del Departamento Nacional de Planeación.
 
 El Comité tiene por objeto implantar y desarrollar de manera coordinada los intercambios de información entre todos los organismos que conforman el Sistema Nacional de Estadísticas de Justicia. Para tal efecto, dictará todas las disposiciones indispensables para la interoperabilidad técnica y funcional del Sistema.
 
 ## art:110a — DE LA COMISIÓN NACIONAL DE DISCIPLINA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO III. DE LOS SISTEMAS NACIONALES DE ESTADÍSTICAS DE LA ADMINISTRACIÓN DE JUSTICIA.
 
-La Comisión Nacional de Disciplina Judicial ejerce la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial, y será la encargada de examinar la conducta y sancionar a los abogados en ejercicio de su profesión; en la instancia que señala la presente ley. Está conformada por siete Magistrados, elegidos por el Congreso en pleno, cuatro de ternas enviadas por el Consejo Superior de la Judicatura y tres de ternas enviadas por el Presidente de la República, conforme lo prevé la Constitución Política.
+<Artículo adicionado por el artículo 54 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Comisión Nacional de Disciplina Judicial ejerce la función jurisdiccional disciplinaria sobre los funcionarios y empleados de la Rama Judicial, y será la encargada de examinar la conducta y sancionar a los abogados en ejercicio de su profesión; en la instancia que señala la presente ley. Está conformada por siete Magistrados, elegidos por el Congreso en pleno, cuatro de ternas enviadas por el Consejo Superior de la Judicatura y tres de ternas enviadas por el Presidente de la República, conforme lo prevé la Constitución Política.
 
 PARÁGRAFO. En la conformación de cada terna se incluirá, por lo menos, a una mujer, según lo dispone el artículo 6o de la Ley 581 de 2000.
 
 ## art:111 — ALCANCE
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-Mediante el ejercicio de la función jurisdiccional disciplinaria se deciden los procesos que, por infracción a sus regímenes disciplinarios, se adelanten contra los funcionarios y empleados de la Rama Judicial, salvo aquellos que gocen de fuero especial, según la Constitución Política; igualmente contra los jueces de paz y de reconsideración, abogados y aquellas personas que ejerzan función jurisdiccional de manera excepcional, transitoria u ocasional.
+<Artículo modificado por el artículo 55 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Mediante el ejercicio de la función jurisdiccional disciplinaria se deciden los procesos que, por infracción a sus regímenes disciplinarios, se adelanten contra los funcionarios y empleados de la Rama Judicial, salvo aquellos que gocen de fuero especial, según la Constitución Política; igualmente contra los jueces de paz y de reconsideración, abogados y aquellas personas que ejerzan función jurisdiccional de manera excepcional, transitoria u ocasional.
 
 La función jurisdiccional disciplinaria la ejercen la Comisión Nacional de Disciplina Judicial y las comisiones seccionales de disciplina judicial. La Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial podrán dividirse internamente en salas o subsalas.
 
@@ -1595,7 +1591,7 @@ Toda decisión de mérito, contra la cual no proceda ningún recurso, adquiere l
 ## art:112 — FUNCIONES DE LA COMISIÓN NACIONAL DE DISCIPLINA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-Corresponde a la Comisión Nacional de Disciplina Judicial:
+<Artículo modificado por el artículo 56 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Corresponde a la Comisión Nacional de Disciplina Judicial:
 
 1. Resolver los impedimentos y recusaciones que se presenten con ocasión de las actuaciones de los miembros de la Corporación.
 
@@ -1624,12 +1620,12 @@ El Consejo Superior de la Judicatura, en un plazo máximo de seis (6) meses cont
 ## art:113 — PROVISIÓN DE CARGOS DE EMPLEADOS DE LA COMISIÓN NACIONAL DE DISCIPLINA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-La Comisión Nacional de Disciplina Judicial tendrá un secretario de libre nombramiento y remoción. Los cargos que integran los despachos de cada magistrado serán de libre nombramiento y remoción del titular del despacho. Los cargos de los demás empleados de la Comisión Nacional de Disciplina Judicial deben ser provistos mediante el régimen de carrera judicial.
+<Artículo modificado por el artículo 57 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Comisión Nacional de Disciplina Judicial tendrá un secretario de libre nombramiento y remoción. Los cargos que integran los despachos de cada magistrado serán de libre nombramiento y remoción del titular del despacho. Los cargos de los demás empleados de la Comisión Nacional de Disciplina Judicial deben ser provistos mediante el régimen de carrera judicial.
 
 ## art:114 — FUNCIONES DE LAS COMISIONES SECCIONALES DE DISCIPLINA JUDICIAL
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-Corresponde a las Comisiones Seccionales de Disciplina Judicial:
+<Artículo modificado por el artículo 58 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Corresponde a las Comisiones Seccionales de Disciplina Judicial:
 
 1. Conocer en primera instancia de los procesos disciplinarios que se adelantan contra los jueces, los fiscales cuya competencia no corresponda a la Comisión Nacional de Disciplina Judicial, los empleados de la Rama Judicial, los jueces de paz y de reconsideración, los abogados y quienes ejerzan función jurisdiccional de manera excepcional, transitoria u ocasional, por faltas cometidas en el territorio de su jurisdicción.
 
@@ -1652,7 +1648,7 @@ INEXEQUIBLE
 ## art:116 — DOBLE INSTANCIA EN EL JUICIO DISCIPLINARIO
 ubicacion: TÍTULO IV. DE LA ADMINISTRACION, GESTION Y CONTROL DE LA RAMA JUDICIAL > CAPÍTULO IV. DE LA FUNCIÓN DE LA JURISDICCIÓN DISCIPLINARIA.
 
-En todo proceso disciplinario contra funcionarios y empleados de la Rama Judicial, el Vicefiscal y fiscales delegados ante los diferentes órganos de la jurisdicción penal, jueces de paz y de reconsideración, abogados, autoridades y particulares que ejercen funciones jurisdiccionales de manera transitoria, se observará la garantía de la doble instancia.
+<Artículo adicionado por el artículo 59 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> En todo proceso disciplinario contra funcionarios y empleados de la Rama Judicial, el Vicefiscal y fiscales delegados ante los diferentes órganos de la jurisdicción penal, jueces de paz y de reconsideración, abogados, autoridades y particulares que ejercen funciones jurisdiccionales de manera transitoria, se observará la garantía de la doble instancia.
 
 En los procesos contra los funcionarios previstos en el numeral 3 del artículo 112, de la primera instancia conocerá una sala de dos (2) Magistrados y de la segunda instancia conocerá una sala conformada por dos (2) Magistrados diferentes. La doble conformidad será decidida por los tres (3) Magistrados restantes.
 
@@ -1688,7 +1684,7 @@ Los funcionarios y empleados de los Consejos Superior y Seccionales de la Judica
 ## art:122 — USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
 ubicacion: TÍTULO V. JUSTICIA DIGITAL.
 
-Todas las personas tienen derecho a comunicarse con los órganos y despachos de la Rama Judicial a través del uso de las tecnologías de la información y de las comunicaciones, con arreglo a lo dispuesto en las leyes procesales y en los reglamentos.
+<Artículo modificado por el artículo 62 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Todas las personas tienen derecho a comunicarse con los órganos y despachos de la Rama Judicial a través del uso de las tecnologías de la información y de las comunicaciones, con arreglo a lo dispuesto en las leyes procesales y en los reglamentos.
 
 En la administración de justicia, en el marco del Plan de Transformación Digital de la Rama Judicial se deberán utilizar las tecnologías de la información y de las comunicaciones, con el fin de facilitar y agilizar el acceso a la justicia, asegurando el acceso, la autenticidad, confidencialidad, integridad, disponibilidad, trazabilidad, conservación e interoperabilidad de los datos, informaciones y servicios que se gestionen en el ejercicio de sus funciones. Deberán habilitarse diferentes canales o medios para la prestación de los servicios electrónicos de justicia, asegurando el acceso a ellos de toda la ciudadanía, con independencia de su localización, circunstancias personales, medios o conocimientos, en la forma que estimen adecuada, procurando la permanente actualización de los recursos disponibles y la formación adecuada de los servidores públicos y usuarios en el uso de estos.
 
@@ -1713,12 +1709,12 @@ PARÁGRAFO 3o. El uso de las tecnologías de la información y comunicaciones de
 ## art:123 — DEBERES DE LOS SUJETOS PROCESALES EN RELACIÓN CON LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
 ubicacion: TÍTULO V. JUSTICIA DIGITAL.
 
-<Artículo CONDICIONALMENTE constitucional> En todos los procesos judiciales, adelantados por los despachos judiciales y por otras autoridades con funciones jurisdiccionales, en los cuales se haya adoptado el uso de tecnologías de información y las comunicaciones, el operador jurídico podrá disponer que el proceso judicial se adelantará a través de ellas, en cuyo caso será deber de los sujetos procesales realizar sus actuaciones y asistir a las audiencias y diligencias a través de medios tecnológicos.
+<Artículo adicionado por el artículo 63 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> <Artículo CONDICIONALMENTE constitucional> En todos los procesos judiciales, adelantados por los despachos judiciales y por otras autoridades con funciones jurisdiccionales, en los cuales se haya adoptado el uso de tecnologías de información y las comunicaciones, el operador jurídico podrá disponer que el proceso judicial se adelantará a través de ellas, en cuyo caso será deber de los sujetos procesales realizar sus actuaciones y asistir a las audiencias y diligencias a través de medios tecnológicos.
 
 ## art:124 — PLAN DE TRANSFORMACIÓN DIGITAL DE LA RAMA JUDICIAL
 ubicacion: TÍTULO V. JUSTICIA DIGITAL.
 
-El Consejo Superior de la Judicatura actualizará cada dos (2) años el Plan de transformación Digital de la Rama Judicial el cual debe contemplar en su alcance la gestión judicial y administrativa acorde con la arquitectura empresarial que defina.
+<Artículo adicionado por el artículo 64 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura actualizará cada dos (2) años el Plan de transformación Digital de la Rama Judicial el cual debe contemplar en su alcance la gestión judicial y administrativa acorde con la arquitectura empresarial que defina.
 
 La actualización del Plan incluirá, además de lo indicado en el artículo 103 del Código General del Proceso, los siguientes aspectos:
 
@@ -1727,19 +1723,19 @@ La actualización del Plan incluirá, además de lo indicado en el artículo 103
 2. Los distritos, circuitos o despachos judiciales en los cuales se proyecta implementar el uso de las tecnologías de la información y las comunicaciones.
 
 ## art:125 — DE LOS SERVIDORES DE LA RAMA JUDICIAL SEGÚN LA NATURALEZA DE SUS FUNCIONES
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Tienen la calidad de funcionarios los Magistrados de las Corporaciones Judiciales, los Jueces de la República y los Fiscales. Son empleados las demás personas que ocupen cargos en las Corporaciones y Despachos Judiciales y en los órganos y entidades administrativas de la Rama Judicial. 
 
 La administración de justicia es un servicio público esencial.
 
 ## art:126 — CONDICIONES ÉTICAS DEL SERVIDOR JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Solamente podrá desempeñar cargos en la Rama Judicial quien observe una conducta acorde con la dignidad de la función.
 
 ## art:127 — REQUISITOS GENERALES PARA EL DESEMPEÑO DE CARGOS DE FUNCIONARIOS DE LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Para ejercer cargos de Magistrado de Tribunal, Juez de la República o Fiscal, se requieren las siguientes calidades y requisitos generales: 
 
@@ -1750,9 +1746,9 @@ Para ejercer cargos de Magistrado de Tribunal, Juez de la República o Fiscal, s
 3. No estar incurso en causal de inhabilidad o incompatibilidad.
 
 ## art:128 — REQUISITOS ADICIONALES PARA SER FUNCIONARIO DE LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Para ejercer los cargos de funcionario de la Rama Judicial deben reunirse los siguientes requisitos adicionales, además de los que establezca la ley:
+<Artículo modificado por el artículo 66 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Para ejercer los cargos de funcionario de la Rama Judicial deben reunirse los siguientes requisitos adicionales, además de los que establezca la ley:
 
 1. Para el cargo de Juez Municipal, tener experiencia profesional no inferior a tres (3) años.
 
@@ -1763,14 +1759,14 @@ Para ejercer los cargos de funcionario de la Rama Judicial deben reunirse los si
 PARÁGRAFO. La experiencia de que trata el presente artículo, deberá ser adquirida con posterioridad a la obtención del título de abogado en actividades jurídicas ya sea de manera independiente o en cargos públicos o privados o en el ejercicio de la función judicial. En todo caso, para estos efectos computará como experiencia profesional la actividad como empleado judicial que se realice con posterioridad a la obtención del título de abogado.
 
 ## art:129 — REQUISITOS PARA EL DESEMPEÑO DE CARGOS DE EMPLEADOS DE LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Los empleados de la Rama Judicial deberán ser ciudadanos en ejercicio y reunir las condiciones y requisitos que para cada cargo establezca la ley.
 
 ## art:130 — CLASIFICACIÓN DE LOS EMPLEOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Por regla general, los cargos en la Rama Judicial son de carrera. Se exceptúan los cargos de período individual y los de libre nombramiento y remoción.
+<Artículo modificado por el artículo 67 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Por regla general, los cargos en la Rama Judicial son de carrera. Se exceptúan los cargos de período individual y los de libre nombramiento y remoción.
 
 Son de período individual los cargos de Magistrado de la Corte Constitucional, de la Corte Suprema de Justicia, del Consejo de Estado, del Consejo Superior de la Judicatura, de la Comisión Nacional de Disciplina Judicial, del Fiscal General de la Nación.
 
@@ -1783,7 +1779,7 @@ Son de libre nombramiento y remoción los cargos de Magistrado Auxiliar, Directo
 Son de carrera los cargos de Magistrado de los Tribunales Superiores de Distrito Judicial, de los Tribunales Administrativos, de los Consejos Seccionales de la judicatura, de las Comisiones Seccionales de Disciplina Judicial, de los Fiscales no previstos en los incisos anteriores, de Juez de la República, y los demás empleos de la Rama Judicial.
 
 ## art:131 — AUTORIDADES NOMINADORAS DE LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Las autoridades nominadoras de la Rama Judicial, son: 
 
@@ -1810,7 +1806,7 @@ Las autoridades nominadoras de la Rama Judicial, son:
 11. Para los cargos de las Unidades del Consejo Superior de la Judicatura: Los respectivos Directores de Unidad.
 
 ## art:132 — FORMAS DE PROVISIÓN DE CARGOS DE LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La provisión de cargos en la Rama Judicial se podrá hacer de las siguientes maneras: 
 
@@ -1827,9 +1823,9 @@ En caso de vacancia temporal en la Corte Suprema de Justicia, el Consejo de Esta
 PARÁGRAFO. <Parágrafo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Cuando la autoridad que deba efectuar el nombramiento se encuentre en vacaciones, el Consejo Seccional, designará un encargado mientras se provee la vacante por el competente, a quien dará aviso inmediato.
 
 ## art:133 — TÉRMINO PARA EL NOMBRAMIENTO, LA ACEPTACIÓN Y POSESIÓN EN EL CARGO
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Para proceder al nombramiento como titular en un empleo de funcionario en propiedad, el nominador deberá verificar previamente que reúne los requisitos y calidades para desempeñar el cargo, así como la inexistencia de inhabilidades o incompatibilidades para su ejercicio.
+<Artículo modificado por el artículo 69 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Para proceder al nombramiento como titular en un empleo de funcionario en propiedad, el nominador deberá verificar previamente que reúne los requisitos y calidades para desempeñar el cargo, así como la inexistencia de inhabilidades o incompatibilidades para su ejercicio.
 
 Al efecto, el Consejo Superior o seccional de la Judicatura remitirá al nominador la lista de elegibles, que previo a efectuar el correspondiente nombramiento, deberá requerir al interesado los documentos con base en los cuales se acredita el cumplimiento de requisitos para el cargo y la declaración juramentada de no estar inhabilitado ni impedido moral o legalmente para el ejercicio del cargo, para lo que dispondrá de diez (10) días desde la solicitud. El nombramiento será comunicado al interesado dentro de los ocho días siguientes y este deberá aceptarlo o rehusarlo dentro de un término igual.
 
@@ -1838,7 +1834,7 @@ Una vez aceptado el nombramiento, el interesado dispondrá de quince (15) días 
 PARÁGRAFO. El término para la posesión en el cargo podrá ser prorrogado por el nominador por un término igual y por una sola vez, siempre que se considere justa la causal invocada y que la solicitud se formule antes del vencimiento.
 
 ## art:134 — TRASLADO
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 <Artículo modificado por el artículo 70 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Se produce traslado cuando se provee un cargo con un funcionario o empleado que ocupa en propiedad otro de funciones afines, de la misma categoría y especialidad, para el que se exijan los mismos requisitos, siempre que tengan distinta sede territorial. El traslado puede ser solicitado por los servidores de la Rama Judicial en los siguientes eventos:
 
@@ -1863,7 +1859,7 @@ PARÁGRAFO 2o. Para efectos de lo dispuesto en los numerales 3 y 4, el concepto 
 PARÁGRAFO 3o. Solo proceden los traslados en la misma sede territorial cuando se trate de cambio de subespecialidad.
 
 ## art:135 — SITUACIONES ADMINISTRATIVAS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Los funcionarios y empleados pueden hallarse en alguna de las siguientes situaciones administrativas: 
 
@@ -1872,24 +1868,24 @@ Los funcionarios y empleados pueden hallarse en alguna de las siguientes situaci
 2. Separados temporalmente del servicio de sus funciones, esto es: en licencia remunerada que comprende las que se derivan de la incapacidad por enfermedad o accidente de trabajo o por el hecho de la maternidad, y las no remuneradas; en uso de permiso; en vacaciones; suspendidos por medida penal o disciplinaria o prestando servicio militar.
 
 ## art:136 — COMISIÓN DE SERVICIOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La comisión de servicio, se confiere por el superior, bien para ejercer las funciones propias del empleo en lugar diferente al de la sede, o para cumplir ciertas misiones, como asistir a reuniones, conferencias o seminarios, o realizar visitas de observación que interesen a la Administración de Justicia. Puede dar lugar al pago de viáticos y gastos de transporte, conforme a las disposiciones legales y reglamentarias sobre la materia, aunque la comisión sea fuera del territorio nacional.
 
 ## art:137 — DURACIÓN
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 En el acto administrativo que confiere la comisión de servicio deberá expresarse su duración, que podrá ser hasta por treinta días, prorrogables por razones del servicio y por una sola vez hasta por treinta días más. Prohíbese toda comisión de servicios de carácter permanente. Dentro de los ocho días siguientes al vencimiento de toda comisión de servicios, deberá rendirse informe sobre su cumplimiento.
 
 ## art:138 — PROVISIÓN DE LA VACANTE TEMPORAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Cuando la comisión de servicios implique la separación temporal del ejercicio de funciones, como cuando se trate del cumplimiento de misiones especiales que interesen a la Administración de Justicia, el nominador hará la correspondiente designación en encargo, para lo cual optará por un funcionario o empleado de carrera judicial del despacho respectivo, o por quien haga parte del Registro de Elegibles.
+<Artículo modificado por el artículo 71 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Cuando la comisión de servicios implique la separación temporal del ejercicio de funciones, como cuando se trate del cumplimiento de misiones especiales que interesen a la Administración de Justicia, el nominador hará la correspondiente designación en encargo, para lo cual optará por un funcionario o empleado de carrera judicial del despacho respectivo, o por quien haga parte del Registro de Elegibles.
 
 Este nombramiento no excluirá a la persona del respectivo Registro para optar por un cargo en propiedad. El servidor nombrado en encargo deberá cumplir los requisitos para el cargo. El servidor en encargo tendrá derecho a percibir la diferencia salarial.
 
 ## art:139 — COMISIÓN ESPECIAL PARA MAGISTRADOS DE TRIBUNALES, JUECES DE LA REPÚBLICA Y EMPLEADOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 <Artículo modificado por el artículo 72 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura puede conferir, a instancias de los respectivos superiores jerárquicos, comisiones a los Magistrados de los tribunales, de los consejos seccionales de la judicatura o de las comisiones seccionales de disciplina judicial y a los jueces de la República y empleados de la Rama Judicial en carrera judicial, para adelantar cursos de postgrado hasta por dos años y para cumplir actividades de asesoría al Estado o realizar investigaciones científicas o estudios relacionados con las funciones de la Rama Jurisdiccional hasta por seis meses, siempre y cuando lleven al menos dos años vinculados en el régimen de carrera.
 
@@ -1900,33 +1896,33 @@ Si la comisión requiere la provisión de la vacante y el pago de los salarios y
 Cuando se trate de cursos de postgrado que solo requieran tiempo parcial y que no afecten la prestación del servicio, el Consejo Superior de la Judicatura podrá autorizar permisos especiales.
 
 ## art:140 — COMISIÓN ESPECIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La Sala Plena de la respectiva Corporación, concederá comisión especial hasta por el término de tres meses a los Magistrados de la Corte Suprema de Justicia, de la Corte Constitucional, del Consejo de Estado y del Consejo Superior de la Judicatura, para cumplir actividades de asesoría al Estado o realizar investigaciones científicas o estudios relacionados con las funciones de la Rama Jurisdiccional.
 
 ## art:141 — DISPONIBILIDAD PRESUPUESTAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Toda comisión que conlleve erogación con cargo al Tesoro Público, sólo podrá concederse previa expedición del correspondiente certificado de disponibilidad presupuestal.
 
 ## art:142 — LICENCIA NO REMUNERADA
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Los funcionarios y empleados tienen derecho a licencia no remunerada hasta por tres (3) meses por cada año calendario de servicio, en forma continua o discontinua según lo solicite el interesado. Esta licencia no es revocable ni prorrogable por quien la concede, pero es renunciable por el beneficiario. El superior la concederá teniendo en cuenta las necesidades del servicio.
+<Artículo modificado por el artículo 73 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los funcionarios y empleados tienen derecho a licencia no remunerada hasta por tres (3) meses por cada año calendario de servicio, en forma continua o discontinua según lo solicite el interesado. Esta licencia no es revocable ni prorrogable por quien la concede, pero es renunciable por el beneficiario. El superior la concederá teniendo en cuenta las necesidades del servicio.
 
 Así mismo, se concederá licencia no remunerada a los funcionarios y empleados de carrera judicial, para proseguir cursos de postgrado hasta por dos años o actividades de docencia, investigación o asesoría científica al Estado hasta por un año.
 
 PARÁGRAFO. Los funcionarios y empleados en carrera judicial también tienen derecho a licencia, cuando hallándose en propiedad pasen a ejercer hasta por el término de tres (3) años, un cargo vacante transitoriamente o un cargo de libre nombramiento y remoción en la Rama Judicial.
 
 ## art:143 — OTORGAMIENTO
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Las licencias serán concedidas por la Sala de Gobierno de la Corporación nominadora, o por la entidad o funcionario que haya hecho el nombramiento. 
 
 Respecto de los funcionarios designados por las cámaras legislativas, la licencia la concederá en receso de éstas, el Presidente de la República.
 
 ## art:144 — PERMISOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Los funcionarios y empleados de la Rama Judicial tienen derecho a permiso remunerado por causa justificada. 
 
@@ -1937,21 +1933,21 @@ El permiso deberá solicitarse y concederse siempre por escrito.
 PARÁGRAFO. Los permisos no generan vacante transitoria ni definitiva del empleo del cual es titular el respectivo beneficiario y en consecuencia, no habrá lugar a encargo ni a nombramiento provisional por el lapso de su duración.
 
 ## art:145 — INVITACIONES DE GOBIERNOS EXTRANJEROS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Todos los funcionarios de la Rama Judicial deberán obtener la autorización del Presidente de la República para aceptar cargos, honores o recompensas de gobiernos extranjeros u organismos internacionales y para celebrar contratos con ellos.
 
 ## art:146 — VACACIONES
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Las vacaciones de los funcionarios y empleados de la Rama Judicial serán colectivas, de conformidad con lo establecido en la ley. Salvo para los que laboren en el Consejo Superior de la Judicatura y consejos seccionales de la judicatura, la Dirección Ejecutiva de Administración Judicial y sus direcciones seccionales, los juzgados penales municipales y los juzgados de ejecución de penas y medidas de seguridad, de la Fiscalía y el Instituto Nacional de Medicina Legal y Ciencias Forenses.
+<Artículo modificado por el artículo 74 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Las vacaciones de los funcionarios y empleados de la Rama Judicial serán colectivas, de conformidad con lo establecido en la ley. Salvo para los que laboren en el Consejo Superior de la Judicatura y consejos seccionales de la judicatura, la Dirección Ejecutiva de Administración Judicial y sus direcciones seccionales, los juzgados penales municipales y los juzgados de ejecución de penas y medidas de seguridad, de la Fiscalía y el Instituto Nacional de Medicina Legal y Ciencias Forenses.
 
 Las vacaciones individuales serán concedidas de acuerdo con las necesidades del servicio por el Consejo Superior de la Judicatura y los consejos seccionales de la judicatura, por la sala de gobierno del respectivo tribunal a los Jueces y por el respectivo nominador en los demás casos, por un término de veintidós (22) días continuos por cada año de servicio.
 
 PARÁGRAFO. En ningún caso las vacaciones individuales podrán acumularse por más de (3) periodos consecutivos.
 
 ## art:147 — SUSPENSIÓN EN EL EMPLEO
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La suspensión en el ejercicio del empleo se produce como sanción disciplinaria o por orden de autoridad judicial. 
 
@@ -1966,12 +1962,12 @@ Cuando la sanción disciplinaria sea suspensión o multa se tendrá en cuenta el
 PARÁGRAFO. La suspensión en el empleo genera vacancia temporal del respectivo cargo. En consecuencia la autoridad nominadora procederá a efectuar el respectivo nombramiento provisional o el encargo que corresponda, para la atención de las respectivas funciones.
 
 ## art:148 — SERVICIO MILITAR
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 El funcionario o empleado de la Rama que sea llamado a prestar servicio militar o convocado en su calidad de reservista, deberá comunicarlo a la Corporación o funcionario que hizo la designación, quien autorizará su separación del servicio por todo el tiempo de la conscripción o de la convocatoria y designará su reemplazo, bien sea por vía del encargo o nombramiento provisional.
 
 ## art:149 — RETIRO DEL SERVICIO
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 La cesación definitiva de las funciones se produce en los siguientes casos: 
 
@@ -1998,9 +1994,9 @@ La cesación definitiva de las funciones se produce en los siguientes casos:
 11. Muerte del funcionario o empleado.
 
 ## art:149a — ABANDONO DEL CARGO
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-El abandono del cargo se produce cuando el servidor judicial sin justa causa:
+<Artículo adicionado por el artículo 75 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El abandono del cargo se produce cuando el servidor judicial sin justa causa:
 
 1. No reasuma sus funciones dentro de los tres (3) días siguientes al vencimiento de licencia, permiso, vacaciones, comisión o al vencimiento de la prestación del servicio militar.
 
@@ -2011,7 +2007,7 @@ El abandono del cargo se produce cuando el servidor judicial sin justa causa:
 PARÁGRAFO. Comprobadas cualquiera de las causales de que trata este artículo, la autoridad nominadora declarará la vacancia del empleo, siempre que se garantice el derecho de defensa.
 
 ## art:150 — INHABILIDADES PARA EJERCER CARGOS EN LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 No podrá ser nombrado para ejercer cargos en la Rama Judicial: 
 
@@ -2032,7 +2028,7 @@ No podrá ser nombrado para ejercer cargos en la Rama Judicial:
 PARÁGRAFO. Los nombramientos que se hagan en contravención de lo dispuesto en el presente artículo y aquéllos respecto de los cuales surgiere inhabilidad en forma sobreviniente, serán declarados insubsistentes mediante providencia motivada, aunque el funcionario o empleado se encuentre escalafonado en la carrera judicial.
 
 ## art:151 — INCOMPATIBILIDADES PARA EJERCER CARGOS EN LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Además de las provisiones de la Constitución Política, el ejercicio de cargos en la Rama Judicial es incompatible con: 
 
@@ -2053,7 +2049,7 @@ PARÁGRAFO 2o. Los funcionarios y empleados de la Rama Judicial podrán ejercer 
 PARÁGRAFO 3o. Las inhabilidades e incompatibilidades comprendidas en los artículos 150 y 151 se aplicarán a los actuales funcionarios y empleados de la Rama Judicial.
 
 ## art:152 — DERECHOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 Además de los que le corresponden como servidor público, todo funcionario o empleado de la Rama Judicial tiene derecho, de acuerdo con las disposiciones legales y reglamentarias a: 
 
@@ -2074,9 +2070,9 @@ Además de los que le corresponden como servidor público, todo funcionario o em
 8. La protección y seguridad de su integridad física y la de sus familiares.
 
 ## art:153 — DEBERES
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Son deberes de los funcionarios y empleados, según corresponda, los siguientes:
+<Artículo modificado por el artículo 76 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Son deberes de los funcionarios y empleados, según corresponda, los siguientes:
 
 1. Respetar, cumplir y, dentro de la órbita de su competencia, hacer cumplir la Constitución, las leyes y los reglamentos.
 
@@ -2139,7 +2135,7 @@ Son deberes de los funcionarios y empleados, según corresponda, los siguientes:
 23. Cumplir con las demás obligaciones señaladas por la ley.
 
 ## art:154 — PROHIBICIONES
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
 A los funcionarios y empleados de la Rama Judicial, según el caso, les está prohibido: 
 
@@ -2180,9 +2176,9 @@ A los funcionarios y empleados de la Rama Judicial, según el caso, les está pr
 18. Las demás señaladas en la ley.
 
 ## art:155 — ESTÍMULOS Y DISTINCIONES
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO I. DISPOSICIONES GENERALES
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Los funcionarios y empleados que se distingan en la prestación de sus servicios en los términos del reglamento, se harán acreedores a los estímulos y distinciones que determine el Consejo Superior de la Judicatura.
+<Artículo modificado por el artículo 77 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los funcionarios y empleados que se distingan en la prestación de sus servicios en los términos del reglamento, se harán acreedores a los estímulos y distinciones que determine el Consejo Superior de la Judicatura.
 
 El Superior funcional postulará de acuerdo con los procedimientos establecidos, a los funcionarios y empleados que son candidatos idóneos para recibir incentivos y/o distinciones.
 
@@ -2195,22 +2191,22 @@ En todo caso, dicha selección se hará con base en los siguientes criterios:
 3. La utilización de medios adecuados para la innovación en la implementación de técnicas para realizar sus funciones y que estas se puedan replicar en otros despachos.
 
 ## art:156 — FUNDAMENTOS DE LA CARRERA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 La carrera judicial se basa en el carácter profesional de funcionarios y empleados, en la eficacia de su gestión, en la garantía de igualdad en las posibilidades de acceso a la función para todos los ciudadanos aptos al efecto y en la consideración del mérito como fundamento principal para el ingreso, la permanencia y la promoción en el servicio.
 
 ## art:157 — ADMINISTRACIÓN DE LA CARRERA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 La administración de la carrera judicial se orientará a atraer y retener los servidores más idóneos, a procurarles una justa remuneración, programas adecuados de bienestar y salud ocupacional, capacitación continua que incluya la preparación de funcionarios y empleados en técnicas de gestión y control necesarias para asegurar la calidad del servicio, exigiéndoles, al mismo tiempo, en forma permanente conducta intachable y un nivel satisfactorio de rendimiento.
 
 ## art:158 — CAMPO DE APLICACIÓN
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-Son de carrera los cargos de Magistrados de los Tribunales, de los Consejos Seccionales de la Judicatura y de las Comisiones Seccionales de Disciplina Judicial, los jueces, los fiscales y demás cargos de empleados que por disposición expresa de la ley no sean de libre nombramiento y remoción o de período de la Rama Judicial.
+<Artículo modificado por el artículo 78 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Son de carrera los cargos de Magistrados de los Tribunales, de los Consejos Seccionales de la Judicatura y de las Comisiones Seccionales de Disciplina Judicial, los jueces, los fiscales y demás cargos de empleados que por disposición expresa de la ley no sean de libre nombramiento y remoción o de período de la Rama Judicial.
 
 ## art:159 — REGIMEN DE CARRERA DE LA FISCALIA
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 La Fiscalía General de la Nación tendrá su propio régimen autónomo de carrera sujeto a los principios del concurso de méritos y calificación de servicios, orientado a garantizar la igualdad de oportunidades para el ingreso, permanencia y ascenso en el servicio de los funcionarios y empleados que la conforman. 
 
@@ -2219,9 +2215,9 @@ Los cargos de libre nombramiento y remoción, así como los de carrera, serán l
 Con el objeto de homologar los cargos de la Fiscalía con los restantes de la Rama Judicial, aquélla observará la nomenclatura y grados previstos para éstos.
 
 ## art:160 — REQUISITOS ESPECIALES PARA OCUPAR CARGOS EN LA CARRERA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-Para el ejercicio de cargos de carrera en la Rama Judicial se requiere, además de los requisitos exigidos en disposiciones generales, haber superado satisfactoriamente el proceso de selección y aprobado las evaluaciones previstas por la ley y realizadas de conformidad con los reglamentos que para tal efecto expida el Consejo Superior de la Judicatura. 
+<Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Para el ejercicio de cargos de carrera en la Rama Judicial se requiere, además de los requisitos exigidos en disposiciones generales, haber superado satisfactoriamente el proceso de selección y aprobado las evaluaciones previstas por la ley y realizadas de conformidad con los reglamentos que para tal efecto expida el Consejo Superior de la Judicatura. 
 
 El acceso por primera vez a cualquier cargo de funcionario de carrera requerirá de la previa aprobación del curso de formación judicial en los términos que señala la presente ley. 
 
@@ -2230,9 +2226,9 @@ PARÁGRAFO. <Parágrafo modificado por el artículo 79 de la Ley 2430 de 2024. E
 PARÁGRAFO TRANSITORIO. <Pérdida de fuerza ejecutoria por cumplimiento del objeto> Con arreglo a la presente ley y dentro del año siguiente a su entrada en vigencia, la Sala Administrativa del Consejo Superior de la Judicatura adoptará todas las medidas que sean necesarias para que el curso de formación judicial sea exigible, con los alcances que esta ley indica, a partir del 1o. de enero de 1997.
 
 ## art:161 — REQUISITOS ADICIONALES PARA EL DESEMPEÑO DE CARGOS DE EMPLEADOS DE CARRERA EN LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-Para ejercer los cargos de empleado de la Rama Judicial en carrera deben reunirse, adicionalmente a los señalados en las disposiciones generales y a aquellos que fije el Consejo Superior de la Judicatura sobre experiencia, capacitación y especialidad para el acceso y ejercicio de cada cargo en particular de acuerdo con la clasificación que establezca y las necesidades del servicio, los siguientes requisitos mínimos: 
+<Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Para ejercer los cargos de empleado de la Rama Judicial en carrera deben reunirse, adicionalmente a los señalados en las disposiciones generales y a aquellos que fije el Consejo Superior de la Judicatura sobre experiencia, capacitación y especialidad para el acceso y ejercicio de cada cargo en particular de acuerdo con la clasificación que establezca y las necesidades del servicio, los siguientes requisitos mínimos: 
 
 1. Niveles administrativos y asistencial: Título de abogado o terminación y aprobación de estudios de derecho. 
 
@@ -2247,7 +2243,7 @@ PARÁGRAFO 1o. Cuando se trate de acceder a los cargos de empleados de carrera p
 PARÁGRAFO 2o. <Parágrafo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura determinará los casos en que, por tratarse de despachos judiciales situados en provincias de difícil acceso, puedan vincularse a cargos de empleados personas sin los títulos académicos mínimos señalados en este artículo.
 
 ## art:162 — ETAPAS DEL PROCESO DE SELECCIÓN
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 El sistema de ingreso a los cargos de Carrera Judicial comprende las siguientes etapas: 
 
@@ -2258,9 +2254,9 @@ Para empleados, concurso de méritos, conformación del Registro Seccional de El
 PARÁGRAFO. <Parágrafo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior de la Judicatura, conforme a lo dispuesto en la presente ley, reglamentará la forma, clase, contenido, alcances y los demás aspectos de cada una de las etapas. Los reglamentos respectivos deberán garantizar la publicidad y contradicción de las decisiones.
 
 ## art:163 — MODALIDADES DE SELECCIÓN
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-Los procesos de selección serán permanentes con el fin de garantizar en todo momento disponibilidad para la provisión de las vacantes que se presenten en cualquier especialidad y nivel dentro de la Rama Judicial.
+<Artículo modificado por el artículo 80 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los procesos de selección serán permanentes con el fin de garantizar en todo momento disponibilidad para la provisión de las vacantes que se presenten en cualquier especialidad y nivel dentro de la Rama Judicial.
 
 Los procesos de selección para funcionarios y empleados de carrera de la Rama Judicial serán:
 
@@ -2291,9 +2287,9 @@ PARÁGRAFO. Si no se pueden proveer las vacantes por sistema de concurso abierto
 Cuando el servidor ingrese a la carrera por esta vía, la permanencia mínima en el cargo para el concurso de ascenso será de tres (3) años.
 
 ## art:164 — CONCURSO DE MÉRITOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-El concurso de méritos es el proceso mediante el cual se hace la evaluación de conocimientos, destrezas, aptitud, experiencia, capacidades, aptitudes intelectuales y profesionales de diversa índole y rasgos de la personalidad de los aspirantes a ocupar cargos en la carrera judicial, determinará su inclusión en el Registro de Elegibles del Consejo Superior y Seccionales de la Judicatura y fijará su ubicación en el mismo.
+<Artículo modificado por el artículo 81 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El concurso de méritos es el proceso mediante el cual se hace la evaluación de conocimientos, destrezas, aptitud, experiencia, capacidades, aptitudes intelectuales y profesionales de diversa índole y rasgos de la personalidad de los aspirantes a ocupar cargos en la carrera judicial, determinará su inclusión en el Registro de Elegibles del Consejo Superior y Seccionales de la Judicatura y fijará su ubicación en el mismo.
 
 Los concursos de mérito en la carrera judicial se regirán por las siguientes normas básicas:
 
@@ -2316,9 +2312,9 @@ PARÁGRAFO 1o. El Consejo Superior de la Judicatura determinará de manera gener
 PARÁGRAFO 2o. Las pruebas que se apliquen en los concursos para proveer cargos de carrera judicial, así como también toda la documentación que constituya el soporte técnico de aquellas, tienen carácter reservado.
 
 ## art:165 — REGISTRO DE ELEGIBLES
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-El Consejo Superior o Seccional de la Judicatura conformará el correspondiente Registro de Elegibles para cargos de funcionarios y empleados de carrera de la Rama Judicial, teniendo en cuenta las diferentes categorías de empleos y las siguientes reglas:
+<Artículo modificado por el artículo 82 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El Consejo Superior o Seccional de la Judicatura conformará el correspondiente Registro de Elegibles para cargos de funcionarios y empleados de carrera de la Rama Judicial, teniendo en cuenta las diferentes categorías de empleos y las siguientes reglas:
 
 a) La inscripción en el Registro se hará en orden descendente, de conformidad con los puntajes que para cada etapa del proceso de selección determine el reglamento.
 
@@ -2331,79 +2327,79 @@ También se podrá retirar por solicitud expresa de ser excluido del registro de
 PARÁGRAFO. En cada caso y de conformidad con el reglamento, los aspirantes en cualquier momento podrán manifestar las sedes territoriales de su interés.
 
 ## art:166 — LISTA DE CANDIDATOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-La provisión de cargos por el nominador se hará de listas de elegibles con inscripción vigente en el Registro de Elegibles. El nombramiento se realizará siguiendo el orden consecutivo de la lista de elegibles.
+<Artículo modificado por el artículo 83 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La provisión de cargos por el nominador se hará de listas de elegibles con inscripción vigente en el Registro de Elegibles. El nombramiento se realizará siguiendo el orden consecutivo de la lista de elegibles.
 
 PARÁGRAFO. Para la elaboración de las listas se tendrá en cuenta el Registro de Elegibles vigente al momento en que se produzca la vacante.
 
 ## art:167 — NOMBRAMIENTO Y POSESIÓN
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-Cada vez que se presente una vacante en cargo de funcionario, la entidad nominadora comunicará la novedad, a más tardar dentro de los tres días siguientes, al correspondiente Consejo Superior o Seccional de la Judicatura. Recibida la lista de candidatos, procederá al nombramiento como se establece en el artículo 133 de la presente ley.
+<Artículo modificado por el artículo 84 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Cada vez que se presente una vacante en cargo de funcionario, la entidad nominadora comunicará la novedad, a más tardar dentro de los tres días siguientes, al correspondiente Consejo Superior o Seccional de la Judicatura. Recibida la lista de candidatos, procederá al nombramiento como se establece en el artículo 133 de la presente ley.
 
 ## art:167a — PERIODO DE PRUEBA
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-Con el fin de determinar su ingreso a la carrera judicial los funcionarios y empleados tendrán un periodo de prueba de seis (6) meses, en que serán evaluados teniendo en cuenta los mismos criterios para la evaluación de los servidores de carrera judicial.
+<Artículo adicionado por el artículo 85 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Con el fin de determinar su ingreso a la carrera judicial los funcionarios y empleados tendrán un periodo de prueba de seis (6) meses, en que serán evaluados teniendo en cuenta los mismos criterios para la evaluación de los servidores de carrera judicial.
 
 Si dentro de los treinta (30) días siguientes al vencimiento del término del periodo de prueba, no se realiza la evaluación de que trata el inciso anterior, se entenderá que es satisfactoria y la persona ingresará al régimen de carrera judicial.
 
 La evaluación insatisfactoria del periodo de prueba constituye causal de retiro del servicio y deberá ser decretada por el nominador mediante acto administrativo motivado. Una vez se encuentre en firme el acto de retiro de servicio se procederá a publicar la vacante.
 
 ## art:168 — CURSO DE FORMACIÓN JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-El curso tiene por objeto formar profesional y científicamente al aspirante para el adecuado desempeño de la función judicial. Puede realizarse como parte del proceso de selección, caso en el cual revestirá, con efecto eliminatorio, la modalidad de curso-concurso, o contemplarse como requisito previo para el ingreso a la función judicial. En este último caso, El Consejo Superior de la Judicatura reglamentará los contenidos del curso y las condiciones y modalidades en las que el mismo podrá ser ofrecido por las instituciones de educación superior. 
+<Artículo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El curso tiene por objeto formar profesional y científicamente al aspirante para el adecuado desempeño de la función judicial. Puede realizarse como parte del proceso de selección, caso en el cual revestirá, con efecto eliminatorio, la modalidad de curso-concurso, o contemplarse como requisito previo para el ingreso a la función judicial. En este último caso, El Consejo Superior de la Judicatura reglamentará los contenidos del curso y las condiciones y modalidades en las que el mismo podrá ser ofrecido por las instituciones de educación superior. 
 
 PARÁGRAFO TRANSITORIO. Hasta tanto la Escuela Judicial Rodrigo Lara Bonilla se encuentre en condiciones de ofrecer los cursos de formación de acuerdo con lo previsto en este artículo, El Consejo Superior de la Judicatura podrá contratar su prestación con centros universitarios públicos o privados de reconocida trayectoria académica.
 
 ## art:169 — EVALUACIÓN DE SERVICIOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 La evaluación de servicios tiene como objetivo verificar que los servidores de la Rama Judicial mantengan en el desempeño de sus funciones los niveles de idoneidad, calidad y eficiencia que justifican la permanencia en el cargo. 
 
 Las Corporaciones y los Despachos Judiciales, presentarán el apoyo que se requiera para estos efectos y suministrarán toda la información que posean sobre el desempeño de los funcionarios que deban ser evaluados.
 
 ## art:170 — FACTORES PARA LA EVALUACIÓN
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-La evaluación de servicios de conformidad con el reglamento que expida el Consejo Superior de la Judicatura, deberá ser motivada y resultante de un control permanente del desempeño del funcionario o empleado. Comprenderá calidad, eficiencia o rendimiento y organización del trabajo y Publicaciones. 
+<Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La evaluación de servicios de conformidad con el reglamento que expida el Consejo Superior de la Judicatura, deberá ser motivada y resultante de un control permanente del desempeño del funcionario o empleado. Comprenderá calidad, eficiencia o rendimiento y organización del trabajo y Publicaciones. 
 
 En todo caso se le informará al funcionario acerca de los resultados de la evaluación.
 
 ## art:171 — EVALUACIÓN DE EMPLEADOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 Los empleados de carrera serán evaluados por sus superiores jerárquicos anualmente, sin perjuicio de que, a juicio de aquéllos, por necesidades del servicio se anticipe la misma. 
 
 La calificación insatisfactoria de servicios dará lugar al retiro del empleado. Contra esta decisión proceden los recursos de la vía gubernativa.
 
 ## art:172 — EVALUACIÓN DE FUNCIONARIOS
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-Los funcionarios de carrera serán evaluados por los Consejos Superior o Seccional de la Judicatura. Los superiores funcionales del calificado, remitirán de conformidad con el reglamento, el resultado de la evaluación del factor calidad, el cual servirá de base para la calificación integral. 
+<Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los funcionarios de carrera serán evaluados por los Consejos Superior o Seccional de la Judicatura. Los superiores funcionales del calificado, remitirán de conformidad con el reglamento, el resultado de la evaluación del factor calidad, el cual servirá de base para la calificación integral. 
 
 La evaluación de los Jueces se llevará a cabo anualmente y la de los Magistrados de los Tribunales cada dos años. 
 
 La calificación insatisfactoria en firme dará lugar al retiro del funcionario. Contra esta decisión proceden los recursos de la vía gubernativa.
 
 ## art:173 — CAUSALES DE RETIRO DE LA CARRERA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 La exclusión de la Carrera Judicial de los funcionarios y empleados se produce por las causales genéricas de retiro del servicio y la evaluación de servicios no satisfactoria. 
 
 PARÁGRAFO. El retiro de la Carrera Judicial lleva consigo el retiro del servicio y se efectuará mediante acto motivado, susceptible de los recursos de la vía gubernativa.
 
 ## art:174 — COMPETENCIA PARA ADMINISTRAR LA CARRERA
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
-La Carrera Judicial será administrada por los Consejos Superior o Seccionales de la Judicatura, con la participación de las Corporaciones Judiciales y de los Jueces de la República en los términos de la presente ley y los reglamentos. 
+<Artículo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Carrera Judicial será administrada por los Consejos Superior o Seccionales de la Judicatura, con la participación de las Corporaciones Judiciales y de los Jueces de la República en los términos de la presente ley y los reglamentos. 
 
 Eel Consejo Superior de la Judicatura reglamentará y definirá, conforme a lo dispuesto en esta ley, los mecanismos conforme a los cuales habrá de llevarse a efecto la administración de la carrera y la participación de que trata el inciso anterior.
 
 ## art:175 — ATRIBUCIONES DE LAS CORPORACIONES JUDICIALES Y LOS JUECES DE LA REPÚBLICA
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO II. CARRERA JUDICIAL
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO II. CARRERA JUDICIAL
 
 Corresponde a las Corporaciones Judiciales y a los Jueces de la República con relación a la administración de la Carrera Judicial, cumplir las siguientes funciones: 
 
@@ -2418,7 +2414,9 @@ Corresponde a las Corporaciones Judiciales y a los Jueces de la República con r
 5. Velar por el estricto cumplimiento de los deberes por parte de los empleados de su Despacho.
 
 ## art:176 — EL CONSEJO SUPERIOR DE LA JUDICATURA PROMOVERA LA CAPACITACIÓN Y ACTUALIZACIÓN DE LOS FUNCIONARIOS Y EMPLEADOS DE LA RAMA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO III. DE LA CAPACITACIÓN Y ACTUALIZACIÓN DE LOS FUNCIONARIOS Y EMPLEADOS DE LA ADMINISTRACIÓN DE JUSTICIA
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO III. DE LA CAPACITACIÓN Y ACTUALIZACIÓN DE LOS FUNCIONARIOS Y EMPLEADOS DE LA ADMINISTRACIÓN DE JUSTICIA
+
+<Título con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024> 
 
 La persona que sea nombrada por primera vez para desempeñar cualquier cargo de la Rama Judicial deberá adelantar hasta por tres meses un curso de inducción en administración judicial, el cual conllevará la práctica que se adelantará en un despacho judicial bajo la supervisión del funcionario o empleado de mayor jerarquía en el despacho. 
 
@@ -2427,9 +2425,9 @@ Los funcionarios judiciales que no hayan tomado cursos de especialización, maes
 Los empleados deberán tomar cursos de capacitación y actualización en técnicas de administración y gestión judicial cuando menos cada tres años.
 
 ## art:177 — ESCUELA JUDICIAL
-ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> - Mediante Sentenc > CAPÍTULO III. DE LA CAPACITACIÓN Y ACTUALIZACIÓN DE LOS FUNCIONARIOS Y EMPLEADOS DE LA ADMINISTRACIÓN DE JUSTICIA
+ubicacion: TÍTULO VI. DE LOS SERVIDORES JUDICIALES. <Denominación adicionada por el artículo 65 de la Ley 2430 de 2024> > CAPÍTULO III. DE LA CAPACITACIÓN Y ACTUALIZACIÓN DE LOS FUNCIONARIOS Y EMPLEADOS DE LA ADMINISTRACIÓN DE JUSTICIA
 
-La Escuela Judicial, "Rodrigo Lara Bonilla", hará parte del Consejo Superior de la Judicatura, junto con su planta de personal, a partir del primero de enero de 1998 y se constituirá en el centro de formación inicial y continuada de funcionarios y empleados al servicio de la Administración de Justicia. 
+<Artículo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> La Escuela Judicial, "Rodrigo Lara Bonilla", hará parte del Consejo Superior de la Judicatura, junto con su planta de personal, a partir del primero de enero de 1998 y se constituirá en el centro de formación inicial y continuada de funcionarios y empleados al servicio de la Administración de Justicia. 
 
 El Consejo Superior de la Judicatura reglamentará su funcionamiento. 
 
@@ -2544,16 +2542,16 @@ PARÁGRAFO. Antes de trasladar los recursos de los depósitos judiciales en cond
 ## art:192b — DEPÓSITOS JUDICIALES NO RECLAMADOS
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-Los depósitos judiciales que no hayan sido reclamados por su beneficiario dentro de los dos (2) años siguientes a la fecha de terminación definitiva de cualquier proceso menos el laboral, prescribirán de pleno derecho a favor de la Rama Judicial, Consejo Superior de la Judicatura, Dirección Ejecutiva de Administración Judicial, o quien haga sus veces, con destino al Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia.
+<Artículo adicionado por el artículo 5 de la Ley 1743 de 2014. El nuevo texto es el siguiente:> Los depósitos judiciales que no hayan sido reclamados por su beneficiario dentro de los dos (2) años siguientes a la fecha de terminación definitiva de cualquier proceso menos el laboral, prescribirán de pleno derecho a favor de la Rama Judicial, Consejo Superior de la Judicatura, Dirección Ejecutiva de Administración Judicial, o quien haga sus veces, con destino al Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia.
 
 Los depósitos judiciales provenientes de procesos laborales que no hayan sido reclamados por su beneficiario dentro de los tres (3) años siguientes a la fecha de terminación definitiva del proceso, prescribirán de pleno derecho a favor de la Rama Judicial, Consejo Superior de la Judicatura, Dirección Ejecutiva de Administración Judicial, o quien haga sus veces, con destino al Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia. 
 
 PARÁGRAFO. Antes de trasladar los recursos de los depósitos judiciales no reclamados, el Consejo Superior de la Judicatura, o quien haga sus veces, publicará por una sola vez en un diario de amplia circulación nacional y en la página web oficial de la Entidad el listado de todos los depósitos judiciales no reclamados a la fecha de publicación, identificando el radicado del proceso, sus partes y la fecha de la actuación que dio fin al proceso, para que en el término de veinte (20) días hábiles, siguientes a la fecha de la publicación, el beneficiario del depósito se presente a realizar las reclamaciones correspondientes ante el Juzgado que conoció del proceso. Si el beneficiario no reclama el depósito, se entenderá que los recursos prescribieron de pleno derecho a favor de la Nación, Rama Judicial, Dirección Ejecutiva de Administración Judicial, o quien haga sus veces, con destino al Fondo para la Modernización, Descongestión y Bienestar de la Administración de Justicia.
 
-## art:192c — Aparte subrayado CONDICIONALMENTE constitucional
+## art:192c — 
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-<Artículo adicionado por el artículo 86 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El presupuesto de gastos asignado a la rama judicial, para honrar funcionamiento e inversión, será equivalente al 3% del presupuesto de rentas y de recursos de capital del tesoro nacional, conforme al marco fiscal de mediano plazo en los términos del artículo 7o de la Ley 819 de 2003. En caso alguno este porcentaje podrá ser disminuido. Tampoco el gasto apropiado para cada vigencia fiscal podrá ser inferior en términos reales al presupuestado en el año anterior.
+<Aparte subrayado CONDICIONALMENTE constitucional> <Artículo adicionado por el artículo 86 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> El presupuesto de gastos asignado a la rama judicial, para honrar funcionamiento e inversión, será equivalente al 3% del presupuesto de rentas y de recursos de capital del tesoro nacional, conforme al marco fiscal de mediano plazo en los términos del artículo 7o de la Ley 819 de 2003. En caso alguno este porcentaje podrá ser disminuido. Tampoco el gasto apropiado para cada vigencia fiscal podrá ser inferior en términos reales al presupuestado en el año anterior.
 
 PARÁGRAFO 1o. El presupuesto de gastos asignado por medio de este artículo no incluirá el presupuesto que se asigne a la Fiscalía General de la Nación, los recursos para la creación de medidas especiales y para el pago de sentencias y conciliaciones. Para las medidas especiales se asignarán recursos de acuerdo con el costo de dichas medidas y para el pago de sentencias y conciliaciones se asignarán de acuerdo con los requerimientos en virtud de los fallos proferidos.
 
@@ -2568,7 +2566,7 @@ DISPOSICIONES TRANSITORIAS.
 ## art:193 — PERMANENCIA EN LA CARRERA
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-Con el fin de determinar su ingreso a la Carrera los funcionarios y empleados que se hallen en período de prueba serán evaluados, por una sola vez, en su desempeño durante todo el tiempo en que hayan ejercido el cargo con tal carácter, en la forma que establezca el reglamento que para el efecto expida el Consejo Superior de la Judicatura.
+<Artículo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Con el fin de determinar su ingreso a la Carrera los funcionarios y empleados que se hallen en período de prueba serán evaluados, por una sola vez, en su desempeño durante todo el tiempo en que hayan ejercido el cargo con tal carácter, en la forma que establezca el reglamento que para el efecto expida el Consejo Superior de la Judicatura.
 
 ## art:194 — EVALUACIÓN DE SERVICIOS DE LAS PERSONAS ACTUALMENTE VINCULADAS AL SERVICIO
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
@@ -2602,14 +2600,14 @@ El Concesionario también se obligará a entregar un número de ejemplares sufic
 ## art:199 — ESTRUCTURA DEL CONSEJO SUPERIOR DE LA JUDICATURA
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-<Pérdida de fuerza ejecutoria por cumplimiento de su objeto> Dentro del mes siguiente, contado a partir de la vigencia de la presente ley, el Consejo Superior de la Judicatura adoptará las decisiones que sean necesarias para poner en funcionamiento la estructura administrativa definida en la presente ley. Entretanto, las actuales Direcciones Nacional y Seccionales de Administración Judicial seguirán cumpliendo las funciones que les atribuyen las normas actualmente vigentes. 
+<Artículo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> <Pérdida de fuerza ejecutoria por cumplimiento de su objeto> Dentro del mes siguiente, contado a partir de la vigencia de la presente ley, el Consejo Superior de la Judicatura adoptará las decisiones que sean necesarias para poner en funcionamiento la estructura administrativa definida en la presente ley. Entretanto, las actuales Direcciones Nacional y Seccionales de Administración Judicial seguirán cumpliendo las funciones que les atribuyen las normas actualmente vigentes. 
 
 Dentro del mismo término previsto en este artículo será designado el Director Ejecutivo de Administración Judicial.
 
-## art:200 — Artículo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:
+## art:200 — 
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-<Pérdida de fuerza ejecutoria por cumplimiento de su objeto> Con el objeto de adecuar la estructura de la Rama Judicial a la división político-administrativa consagrada en la Constitución y satisfacer adecuadamente la demanda actual de justicia, dentro de los tres meses siguientes a la vigencia de la presente ley, el Consejo Superior de la Judicatura deberá en ejercicio de la función prevista en el numeral 6 del artículo 85, expedir las normas sobre el nuevo mapa judicial y reordenar los recursos humanos al servicio de la Rama.
+<Artículo con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> <Pérdida de fuerza ejecutoria por cumplimiento de su objeto> Con el objeto de adecuar la estructura de la Rama Judicial a la división político-administrativa consagrada en la Constitución y satisfacer adecuadamente la demanda actual de justicia, dentro de los tres meses siguientes a la vigencia de la presente ley, el Consejo Superior de la Judicatura deberá en ejercicio de la función prevista en el numeral 6 del artículo 85, expedir las normas sobre el nuevo mapa judicial y reordenar los recursos humanos al servicio de la Rama.
 
 ## art:201 — DECLARADO INEXEQUIBLE
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
@@ -2625,10 +2623,10 @@ Los despachos judiciales agrarios mencionados, con todo su personal y sus recurs
 
 PARÁGRAFO. El Consejo Superior de la Judicatura, dentro de los dos años siguientes a la vigencia de la presente ley, dispondrá todo lo necesario para que la jurisdicción agraria, creada por el Decreto 2303 de 1989, entre a operar en su totalidad con el funcionamiento de todas las Salas Agrarias y Juzgados del Círculo Judicial Agrario allí consagrados.
 
-## art:203 — Artículo modificado por el artículo 8 de la Ley 1743 de 2014. El nuevo texto es el siguiente:
+## art:203 — 
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-Los dineros que deban consignarse a órdenes de los despachos de la Rama Judicial de conformidad con lo previsto en la presente ley y en las disposiciones legales vigentes se depositarán en el Banco Agrario de Colombia.
+<Artículo modificado por el artículo 8 de la Ley 1743 de 2014. El nuevo texto es el siguiente:> Los dineros que deban consignarse a órdenes de los despachos de la Rama Judicial de conformidad con lo previsto en la presente ley y en las disposiciones legales vigentes se depositarán en el Banco Agrario de Colombia.
 
 De la misma manera se procederá respecto de las multas, cauciones y pagos que decreten las autoridades judiciales o de los depósitos que prescriban a favor de la Nación.
 
@@ -2674,6 +2672,8 @@ DECLARADO INEXEQUIBLE
 
 ## art:209bis — <209-BIS>. APLICACIÓN GRADUAL DE LAS POLÍTICAS JUDICIALES
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
+
+<Artículo adicionado por el artículo 22 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> 
 
 <Inciso con la sustitución ordenada por el artículo 88 de la Ley 2430 de 2024. El nuevo texto es el siguiente:> Los planes y programas de descongestión, la creación y funcionamiento de los jueces administrativos, de los jueces de plena jurisdicción, se hará en forma gradual y en determinadas zonas del país, de acuerdo con las necesidades de la administración de justicia determinadas el Consejo Superior de la Judicatura.
 

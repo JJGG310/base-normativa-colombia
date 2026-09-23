@@ -244,7 +244,7 @@ PARÁGRAFO. <Parágrafo adicionado por el artículo 6 de la Ley 2157 de 2021. El
 ## art:13 — PERMANENCIA DE LA INFORMACIÓN
 ubicacion: TITULO IV. DE LOS BANCOS DE DATOS DE INFORMACION FINANCIERA, CREDITICIA, COMERCIAL, DE SERVICIOS Y LA PROVENIENTE DE TERCEROS PAISE
 
-La información de carácter positivo permanecerá de manera indefinida en los bancos de datos de los operadores de información. Los datos cuyo contenido haga referencia al tiempo de mora, tipo de cobro, estado de la cartera y, en general, aquellos datos referentes a una situación de incumplimiento de obligaciones, se regirán por un término máximo de permanencia, vencido el cual deberá ser retirada de los bancos de datos por el operador, de forma que los usuarios no puedan acceder o consultar dicha información. El término de permanencia de ésta información será el doble del tiempo de la mora, máximo cuatro (4) años contados a partir de la fecha en que sean pagadas las cuotas vencidas o sea extinguida la obligación.
+<Artículo modificado por el artículo 3 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> La información de carácter positivo permanecerá de manera indefinida en los bancos de datos de los operadores de información. Los datos cuyo contenido haga referencia al tiempo de mora, tipo de cobro, estado de la cartera y, en general, aquellos datos referentes a una situación de incumplimiento de obligaciones, se regirán por un término máximo de permanencia, vencido el cual deberá ser retirada de los bancos de datos por el operador, de forma que los usuarios no puedan acceder o consultar dicha información. El término de permanencia de ésta información será el doble del tiempo de la mora, máximo cuatro (4) años contados a partir de la fecha en que sean pagadas las cuotas vencidas o sea extinguida la obligación.
 
 PARÁGRAFO 1o. El dato negativo y los datos cuyo contenido haga referencia al tiempo de mora, tipo de cobro, estado de la cartera y, en general, aquellos datos referentes a una situación de incumplimiento de obligaciones caducarán una vez cumplido el término de ocho (8) años, contados a partir del momento en que entre en mora la obligación; cumplido este término deberán ser eliminados de la base de datos.
 
@@ -377,7 +377,7 @@ f) El reconocimiento o aceptación expresos que haga el investigado sobre la com
 ## art:19a — RESPONSABILIDAD DEMOSTRADA
 ubicacion: TITULO VI. VIGILANCIA DE LOS DESTINATARIOS DE LA LEY.
 
-Los operadores, fuentes y usuarios de información financiera, crediticia, comercial y de servicios deben ser capaces de demostrar que han implementado medidas apropiadas, efectivas y verificables para cumplir con las obligaciones establecidas en la Ley 1266 de 2008 y sus normas reglamentarias, en una manera que sea proporcional a lo siguiente: 
+<Artículo adicionado por el artículo 12 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> Los operadores, fuentes y usuarios de información financiera, crediticia, comercial y de servicios deben ser capaces de demostrar que han implementado medidas apropiadas, efectivas y verificables para cumplir con las obligaciones establecidas en la Ley 1266 de 2008 y sus normas reglamentarias, en una manera que sea proporcional a lo siguiente: 
 
 1. La naturaleza jurídica del operador, fuente y usuario de información y, cuando sea del caso, su tamaño empresarial, teniendo en cuenta si se trata de una micro, pequeña, mediana o gran empresa, de acuerdo con la normativa vigente. 
 
@@ -392,7 +392,7 @@ Quienes efectúen el tratamiento de los datos personales deberán suministrar ev
 ## art:19b — POLÍTICAS INTERNAS EFECTIVAS
 ubicacion: TITULO VI. VIGILANCIA DE LOS DESTINATARIOS DE LA LEY.
 
-En cada caso, de acuerdo con las circunstancias mencionadas en los numerales 1, 2, 3 y 4 del artículo anterior, las medidas efectivas y apropiadas implementadas por los operadores, fuentes y usuarios de información deberán garantizar: 
+<Artículo adicionado por el artículo 13 de la Ley 2157 de 2021. El nuevo texto es el siguiente:> En cada caso, de acuerdo con las circunstancias mencionadas en los numerales 1, 2, 3 y 4 del artículo anterior, las medidas efectivas y apropiadas implementadas por los operadores, fuentes y usuarios de información deberán garantizar: 
 
 1. La existencia de una organización administrativa proporcional a la estructura y tamaño empresarial del operador, fuente y usuario de información para la adopción e implementación de políticas consistentes con la Ley 1266 de 2008. 
 

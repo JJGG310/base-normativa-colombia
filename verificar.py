@@ -29,6 +29,12 @@ def indice_fuente(url):
         # name>` pelado no salen ahí, y eran justo los que el parser perdía.
         nums |= {num_ancla(m.group(1), limpiar(m.group(2))).upper() for m in ANCLA.finditer(doc)
                  if re.fullmatch(r"\d+[A-Za-z]?", m.group(1)) and re.match(r"\s*ART", limpiar(m.group(2)), re.I)}
+        # Anclas con nombre ajeno («Nivel001», «TITULO PRE») y encabezado de artículo:
+        # el parser las saltaba y el índice tampoco las veía (ET 580-1, C.Co. 508).
+        for m in ANCLA.finditer(doc):
+            h = re.match(r"\s*ART[IÍ]CULO\s+(\d+(?:-\d+)?[A-Za-z]?)(?<![oO])", limpiar(m.group(2)), re.I)
+            if h and not re.match(r"\d|transitorio", m.group(1), re.I):
+                nums.add(h.group(1).upper())
         nums = {n for n in nums if not re.fullmatch(r"\d+F", n)}   # Ley 1/1980 dentro del C.Co.
         # "ARTÍCULO 1o." es el artículo 1: la `o` es el ordinal, no un sufijo.
         encabezados |= {re.sub(r"(?<=\d)[OºO°]$", "", m.group(1).upper()) for m in

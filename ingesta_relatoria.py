@@ -124,7 +124,11 @@ def resuelve(txt):
     formula = [m for m in marcas if "administrando justicia" in txt[max(0, m.start() - 300):m.start()]]
     marca = (formula or marcas)[-1]
     cuerpo = txt[marca.end():]
-    fin = re.search(r"(Notif[ií]quese|C[óo]piese|Cumplase|C[úu]mplase)", cuerpo)
+    # La fórmula de cierre viene también en mayúsculas («CÓPIESE, NOTIFÍQUESE»), y a
+    # veces falta: entonces el corte es el primer salvamento/aclaración, cuyo texto
+    # («…debió declararse INEXEQUIBLE») no es la decisión de la Sala.
+    fin = re.search(r"(?i:Notif[ií]quese|C[óo]piese|C[úu]mplase|Comun[ií]quese)|"
+                    r"SALVAMENTO|ACLARACI[OÓ]N DE VOTO|(?:\b[A-ZÁÉÍÓÚÑ]{2,}\s+)*\b[A-ZÁÉÍÓÚÑ]{3,} President[ae]\b", cuerpo)
     return cuerpo[:fin.start() if fin else 4000].strip(" .:-")
 
 
@@ -158,12 +162,27 @@ def decision_tutela(res):
 def decision_de(res, serie="c"):
     if serie.lower() in ("t", "su"):
         return decision_tutela(res)
-    alto = res.upper()
-    inex = re.search(r"INEXEQ", alto) is not None
+    alto = res.upper().translate(str.maketrans("ÁÉÍÓÚ", "AEIOU"))
+    # Lo citado entre comillas es el texto de la norma juzgada, no la decisión: un
+    # «siempre que» dentro de la expresión demandada no condiciona nada.
+    alto = re.sub(r'"[^"]{0,400}"|«[^»]{0,400}»|“[^”]{0,400}”', " ", alto)
+    alto = re.sub(r"\bIN\s+EXEQ", "INEXEQ", alto)       # «IN EXEQUIBLE» (C-296/19)
+    # «Estarse a lo resuelto en la C-1056/03, que declaró inexequible…» cuenta lo que
+    # hizo OTRA sentencia, no esta: el pretérito siempre es una sentencia anterior.
+    alto = re.sub(r"\bDECLAR(?:O|ARON)\b(?:(?!EN CONSECUENCIA)[^.;])*", " ", alto)
+    # Los decretos legislativos y las objeciones se fallan con «(IN)CONSTITUCIONAL».
+    consti = r"(?:DECLAR\w*|ES|SON)\s+(?:LA\s+|SU\s+)?"
+    inex = re.search(r"INEXEQ|" + consti + r"INCONSTITUCIONAL", alto) is not None
     # "EXEQUIBLE" es subcadena de "INEXEQUIBLE": sin el lookbehind, un fallo que
     # declara exequible se clasificaba como inexequible (pasó con C-951/14).
-    exeq = re.search(r"(?<!IN)EXEQ", alto) is not None
-    cond = "CONDICIONAD" in alto or "EN EL ENTENDIDO" in alto
+    exeq = re.search(r"(?<!IN)EXEQ|" + consti + r"CONSTITUCIONAL", alto) is not None
+    # «siempre que» también puede ser parte de la expresión juzgada cuando la fuente no
+    # la entrecomilla (C-019/04, C-576/04): solo cuenta tras EXEQUIBLE, sin que medie
+    # «la expresión…», y tras coma o tras la cita de la norma; o si dice «se entienda».
+    cond = re.search(r"CONDICIONAD|CONDICIONAMIENTO(?![^.;]{0,60}SENTENCIA C)|SE CONDICIONA|EL ENTENDIDO|ES ENTENDIDO QUE|"
+                     r"SIEMPRE (?:Y CUANDO|QUE) SE ENTIENDA|"
+                     r"(?<!IN)EXEQ(?:(?!EXPRESI|FRASE)[^.;]){0,300}?(?:,|DE \d{4}|LEY \d+)\s*SIEMPRE (?:Y CUANDO|QUE)",
+                     alto) is not None
     if inex and (cond or exeq):
         return "inexequible-parcial"
     if inex:
@@ -174,7 +193,7 @@ def decision_de(res, serie="c"):
         return "exequible"
     if "INHIBIRSE" in alto or "INHIBIDA" in alto:
         return "inhibitoria"
-    if "ESTESE A LO RESUELTO" in alto or "ESTARSE A LO RESUELTO" in alto:
+    if re.search(r"EST(?:ESE|ARSE)\s+A\s+LO\s+(?:RESUELTO|DECIDIDO|DISPUESTO)", alto):
         return "estese-a-lo-resuelto"
     return ""
 
@@ -238,10 +257,32 @@ def fecha_en(txt, anio):
         return ""
     plano_ = " ".join(txt.split())
     sin_tilde = plano_.lower().translate(str.maketrans("áéíóú", "aeiou"))
+    # Encabezado sin año, «Sentencia C-008/10 (Enero 14; Bogotá D.C.)» o «(27 de
+    # noviembre)»: si el número y el año corto son los del propio fallo, el año es el del ID.
+    h = re.search(r"sentencia\s+[a-z]+-?\d+/(\d\d)\s*\(([^)]{3,40})\)", sin_tilde[:3000])
+    if h and h.group(1) == str(anio)[2:] and not re.search(r"\d{4}", h.group(2)):
+        m = re.search(r"(?:(\d{1,2})\s*(?:de\s+)?)?(%s)\s*(\d{1,2})?" % "|".join(MESES), h.group(2))
+        dia = m and (m.group(1) or m.group(3))
+        if dia and 1 <= int(dia) <= 31:
+            return "%s-%02d-%02d" % (anio, MESES[m.group(2)], int(dia))
+    # Hasta los ANTECEDENTES todo es encabezado: una fecha con otro año ahí (la de la
+    # demanda o la del auto admisorio) no descarta la siguiente. Más abajo, sí.
+    limite = sin_tilde.find("antecedentes") % (len(sin_tilde) + 1)
+    dias = "|".join(sorted(_UNI + ["treinta y uno", "treinta"], key=len, reverse=True))
     # Ancla: «Bogotá[, D.C.],», el encabezado «Sentencia C-012/13 (23 de enero de 2013)»,
-    # o la ciudad tras el acta cuando la Sala sesiona fuera («Acta 16 Sincelejo, …»).
-    for b in re.finditer(r"bogot[aá]|sentencia aprobada|sentencia [a-z]+-\d+/\d\d\s*\(|"
-                         r"\bacta\s+(?:n\S*\s*)?\d+\s+[a-z ]{3,25},", sin_tilde):
+    # la ciudad tras el acta cuando la Sala sesiona fuera («Acta 16 Sincelejo, …»), o la
+    # sesión que aprobó el fallo («acta número tres (3), … llevada a cabo el día …»).
+    for b in re.finditer(r"bogot[aá]?\b|sentencia aprobada|sentencia [a-z]+-\d+/\d\d\s*\(|"
+                         r"\bacta\s+(?:n\S*\s*)?\d+\s+[a-z ]{3,60}\.?,|llevada a cabo|"
+                         r"sesion (?:de la sala plena,? )?del dia|mediante acta del", sin_tilde):
+        # «llevada a cabo el 21 de marzo, resolvió acumular» (C-107/18) es otra sesión: el
+        # acta solo vale en el encabezado. Y «Tribunal … de Bogotá el 4 de febrero» es
+        # la fecha del fallo de instancia (T-414/92), no la de este.
+        if b.group()[0] in "lsm" and not b.group().startswith("sentencia") and b.start() > limite:
+            continue
+        if b.group().startswith("bogot") and re.search(r"(?:tribunal|juzgado|circuito|distrito)\b[^.,;:]{0,50}$",
+                                                        sin_tilde[max(0, b.start() - 80):b.start()]):
+            continue
         w = sin_tilde[b.end():b.end() + 200]
         m = re.search("|".join(MESES), w)
         if not m or m.start() > 110:
@@ -252,21 +293,24 @@ def fecha_en(txt, anio):
             continue
         # La primera ventana con día, mes y año decide: si no cuadra, no se busca otra
         # más abajo, porque las de más abajo son fechas citadas (la demanda, el decreto).
-        d = re.search(r"(?:\(\s*(\d{1,2})\s*[º°o]?\s*\)|\b(\d{1,2})\s*[º°]?|(primero))\s*"
-                      r"(?:dias\s+)?(?:del mes\s+)?(?:de\s*)?$", antes)
+        d = re.search(r"(?:\(\s*(\d{1,2})\s*\.?\s*(?:er|[º°o])?\s*\)|\b(\d{1,2})\s*[º°]?|(primero)|\b(%s))\s*,?\s*"
+                      r"(?:dias\s+)?(?:del mes\s+)?(?:de\s*)?$" % dias, antes)
         if not d:  # «febrero 25 de 2009», «febrero catorce (14) del año ...»
             d = re.match(r"\s*(?:[a-z ]{0,25}\()?(\d{1,2})\)?", despues)
             if d:
                 despues = despues[d.end():]
         if not d:
             return ""
-        dia = 1 if d.groups()[-1] == "primero" else int(next(g for g in d.groups() if g))
+        g = next(x for x in d.groups() if x)
+        dia = 1 if g == "primero" else int(g) if g.isdigit() else (_UNI + ["treinta", "treinta y uno"]).index(g) + 1
+        dia = 30 if g == "treinta" else 31 if g == "treinta y uno" else dia
+        # El año en letras o en cifras: basta uno. «dos mil veintitrés (2022)» (SP251-2023)
+        # es errata de la cifra; el ID y las letras coinciden.
         y = re.match(r"[^\d]{0,70}?\b(\d{4})\b", despues)
-        if y:
-            ok = y.group(1) == str(anio)
-        else:
-            ok = re.match(r"[\s,]*(?:de[l]?\s+)?(?:a[ñn]o\s+)?(?:de\s+)?" + _anio_en_letras(anio) + r"\b",
-                          despues) is not None
+        ok = (y is not None and y.group(1) == str(anio)) or re.match(
+            r"[\s,]*(?:de[l]?\s+)?(?:a[ñn]o\s+)?(?:de\s+)?" + _anio_en_letras(anio) + r"\b", despues) is not None
+        if not ok and b.start() < limite:
+            continue
         return "%s-%02d-%02d" % (anio, MESES[m.group()], dia) if ok and 1 <= dia <= 31 else ""
     return ""
 
@@ -350,6 +394,8 @@ def check():
     r = resuelve(txt)
     assert r.startswith("PRIMERO.- DECLARAR LA INEXEQUIBILIDAD"), r[:80]
     assert "Notifíquese" not in r, "la fórmula de cierre no va en la parte resolutiva"
+    assert resuelve("RESUELVE PRIMERO.- Declarar EXEQUIBLE el art. 5 del Código Civil. JORGE IVÁN PALACIO "
+                    "PALACIO Presidente Con aclaración") == "PRIMERO.- Declarar EXEQUIBLE el art. 5 del Código Civil"
     assert "se cita aquí en el cuerpo" not in r, "se tomó un RESUELVE del cuerpo, no el final"
 
     assert decision_de(r) == "inexequible-parcial", decision_de(r)
@@ -368,6 +414,22 @@ def check():
     assert rv.startswith("Declarar EXEQUIBLES"), rv[:60]
     assert decision_de(rv) == "exequible", decision_de(rv)
     assert decision_de("INHIBIRSE de emitir pronunciamiento") == "inhibitoria"
+    assert decision_de("Declarar EXEQUIBLE el artículo 4º, siempre y cuando se entienda que") == "exequible-condicionado"
+    assert decision_de('Declarar EXEQUIBLE la expresión "siempre que el deudor pague"') == "exequible"
+    assert decision_de("Declarar INEXEQUIBLE la expresión siempre que éste exceda de tres meses") == "inexequible"
+    assert decision_de("Declárase CONSTITUCIONAL el Decreto 333 de 1992") == "exequible"
+    assert decision_de("Declarar la INCONSTITUCIONALIDAD del Proyecto de Ley") == "inexequible"
+    assert decision_de("Estése a lo decidido en la sentencia C-176 de 1993") == "estese-a-lo-resuelto"
+    assert decision_de("Declarar IN EXEQUIBLE la expresión") == "inexequible"
+    assert decision_de("ESTARSE A LO RESUELTO en la C-1056 de 2003, que declaró la inconstitucionalidad del art 18") == "estese-a-lo-resuelto"
+    assert decision_de("ESTARSE A LO RESUELTO en la C-599 de 1992 que declaró exequibles los arts 19, y en consecuencia declarar EXEQUIBLES los arts 24") == "exequible"
+    assert decision_de("Declarar EXEQUIBLE el literal b) del artículo 24 de la ley 1564 siempre y cuando la estructura") == "exequible-condicionado"
+    assert decision_de("Declarar EXEQUIBLE la expresión 87.9 Las entidades podrán aportar bienes, siempre y cuando su valor") == "exequible"
+    assert decision_de("Declarar EXEQUIBLE la expresión siempre que esté debidamente ejecutoriada") == "exequible"
+    assert decision_de("Declarar la EXEQUIBILIDAD del artículo 2°, en los términos del condicionamiento precisado") == "exequible-condicionado"
+    assert decision_de("Estarse a lo resuelto en la C-339 de 2002 mediante la cual se declaró exequible el inciso 1; se declaró exequible el inciso 2, en el entendido que X. SEGUNDO. Declarar exequible el artículo 34") == "exequible"
+    assert decision_de("Declarar EXEQUIBLE el inciso final, en armonía con el condicionamiento efectuado en la Sentencia C-177/00") == "exequible"
+    assert decision_de("NEGAR la solicitud de corrección de la Sentencia C-029") == ""
 
     # Tutelas: el sentido sale del verbo de la Sala, no de lo que hizo la instancia.
     assert decision_de("PRIMERO.- REVOCAR la decisión que negó por improcedente el amparo. "
@@ -389,6 +451,23 @@ def check():
                   "tutela. Notifíquese. " + "x " * 200 + "AUTO En mérito de lo expuesto RESUELVE Primero. CORREGIR la página 9")
     assert ra.startswith("PRIMERO.- CONCEDER"), ra
 
+    assert fecha_en("Sentencia C-008/10 (Enero 14; Bogotá D.C.) PRINCIPIO", "2010") == "2010-01-14"
+    assert fecha_en("Sentencia C-852/13 (27 de noviembre) FACULTADES", "2013") == "2013-11-27"
+    assert fecha_en("acta número tres (3), correspondiente a la sesión de la Sala Plena, llevada a cabo el "
+                    "día diez y seis (16) del mes de febrero de mil novecientos noventa y cinco (1995).", "1995") == "1995-02-16"
+    assert fecha_en("Aprobada en Santafé de Bogotá, D.C., mediante acta del veintiuno de abril de mil "
+                    "novecientos noventa y cuatro (1994). I. ANTECEDENTES", "1994") == "1994-04-21"
+    assert fecha_en("Bogotá, D. C., el 12 de noviembre de 2003 Magistrado Ponente: X Bogotá D.C., ocho (8) "
+                    "de marzo de dos mil seis (2006). I. ANTECEDENTES", "2006") == "2006-03-08"
+    assert fecha_en("Bogot, D.C., veintiocho (28) de agosto de dos mil diecinueve (2019)", "2019") == "2019-08-28"
+    assert fecha_en("Acta 027 Bogotá, D. C., primero (1.º) de agosto de dos mil veintitrés (2023).", "2023") == "2023-08-01"
+    assert fecha_en("Acta 16 Sincelejo., catorce (14) de mayo de dos mil veinticinco (2025).", "2025") == "2025-05-14"
+    assert fecha_en("Acta 36 Barranquilla Distrito Especial, Industrial y Portuario, tres (3) de octubre de "
+                    "dos mil veinticuatro (2024)", "2024") == "2024-10-03"
+    assert fecha_en("Acta No. 108 Bogotá D.C., siete (7) de junio de dos mil veintitrés (2022) VISTOS", "2023") == "2023-06-07"
+    assert fecha_en("I. ANTECEDENTES la Sala, en sesión llevada a cabo el 21 de marzo de 2018, resolvió acumular", "2018") == ""
+    assert fecha_en("confirmada por el Tribunal Superior de Bogotá el 4 de febrero de 1992. I. ANTECEDENTES", "1992") == ""
+    assert fecha_en("I. ANTECEDENTES Bogotá el 12 de julio de 1973. Bogotá, 5 de marzo de 1993", "1993") == ""
     m = metadatos(txt, "2019")
     assert m["expediente"] == "D-12981", m
     assert m["fecha"] == "2019-09-25", m

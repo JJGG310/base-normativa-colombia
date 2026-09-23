@@ -437,14 +437,14 @@ El comerciante conservará archivados y ordenados los comprobantes de los asient
 ## art:56 — <LIBROS - HOJAS REMOVIBLES - OBLIGATORIEDAD DE NUMERAR>
 ubicacion: TÍTULO IV. DE LOS LIBROS DE COMERCIO > CAPÍTULO I. LIBROS Y PAPELES DEL COMERCIANTE
 
-Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme a Ia reglamentación del Gobierno.
+<Artículo modificado por el artículo 173 del Decreto 19 de 2012. El nuevo texto es el siguiente:> Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme a Ia reglamentación del Gobierno.
 
 Los libros podrán llevarse en archivos electrónicos, que garanticen en forma ordenada Ia inalterabilidad, Ia integridad y seguridad de Ia información, así como su conservación. El registro de los libros electrónicos se adelantará de acuerdo con Ia reglamentación que expida el Gobierno Nacional.
 
 ## art:57 — PROHIBICIONES SOBRE LOS LIBROS DE COMERCIO
 ubicacion: TÍTULO IV. DE LOS LIBROS DE COMERCIO > CAPÍTULO I. LIBROS Y PAPELES DEL COMERCIANTE
 
-En los libros de comercio se prohíbe: 
+<Artículo modificado por el artículo 26 de la Ley 2195 de 2022. El nuevo texto es el siguiente:> En los libros de comercio se prohíbe: 
 
 1. Alterar en los asientos, el orden o la fecha de las operaciones a que estos se refieren; 
 
@@ -471,7 +471,7 @@ En los libros de comercio se prohíbe:
 ## art:58 — SANCIONES POR VIOLACIONES A LAS PROHIBICIONES SOBRE LOS LIBROS DE COMERCIO, A LAS OBLIGACIONES DEL COMERCIANTE Y OTRAS
 ubicacion: TÍTULO IV. DE LOS LIBROS DE COMERCIO > CAPÍTULO I. LIBROS Y PAPELES DEL COMERCIANTE
 
-Sin perjuicio de las penas y sanciones establecidas en normas especiales, la violación a las obligaciones, y prohibiciones establecidas en el artículo 19 y en el Capítulo I del Título IV del Libro I del Código de Comercio, o el no suministro de la información requerida por las autoridades de conformidad con las normas vigentes, o el incumplimiento de la prohibición de ejercer el comercio, profesión u oficio; proferida por autoridad judicial competente, será sancionada con una multa de hasta dos mil (2.000) salarios mínimos legales mensuales vigentes, si se tratare de personas naturales y de cien mil (100.000) salarios mínimos legales mensuales vigentes en el caso de personas Jurídicas, conforme con lo establecido en el artículo 50 de la Ley 1437 de 2011 o las normas que lo modifiquen o adicionen. La sanción será impuesta por la Superintendencia de Sociedades o el ente de inspección, vigilancia y control correspondiente, según el caso, de oficio o a petición de cualquier persona. 
+<Artículo modificado por el artículo 27 de la Ley 2195 de 2022. El nuevo texto es el siguiente:> Sin perjuicio de las penas y sanciones establecidas en normas especiales, la violación a las obligaciones, y prohibiciones establecidas en el artículo 19 y en el Capítulo I del Título IV del Libro I del Código de Comercio, o el no suministro de la información requerida por las autoridades de conformidad con las normas vigentes, o el incumplimiento de la prohibición de ejercer el comercio, profesión u oficio; proferida por autoridad judicial competente, será sancionada con una multa de hasta dos mil (2.000) salarios mínimos legales mensuales vigentes, si se tratare de personas naturales y de cien mil (100.000) salarios mínimos legales mensuales vigentes en el caso de personas Jurídicas, conforme con lo establecido en el artículo 50 de la Ley 1437 de 2011 o las normas que lo modifiquen o adicionen. La sanción será impuesta por la Superintendencia de Sociedades o el ente de inspección, vigilancia y control correspondiente, según el caso, de oficio o a petición de cualquier persona. 
 
 En el caso de las personas jurídicas, la autoridad competente deberá tener en cuenta, para la imposición de la multa, la capacidad patrimonial de la persona jurídica. Cuando se trate de pymes y mipymes, la autoridad competente deberá proceder con especial precaución. 
 
@@ -596,14 +596,14 @@ Las cámaras de comercio son instituciones de orden legal con personería juríd
 ## art:79 — ADMINISTRACIÓN Y DIRECCIÓN DE LAS CÁMARAS DE COMERCIO
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Las Cámaras de Comercio estarán administradas y gobernadas por los comerciantes inscritos en el registro mercantil que tengan la calidad de afiliados. 
+<Artículo modificado por el artículo 1 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Las Cámaras de Comercio estarán administradas y gobernadas por los comerciantes inscritos en el registro mercantil que tengan la calidad de afiliados. 
 
 El Gobierno Nacional determinará la jurisdicción de cada Cámara, teniendo en cuenta la continuidad geográfica y los vínculos comerciales de los municipios que agrupare, dentro de la cual ejercerá sus funciones.
 
 ## art:80 — INTEGRACIÓN DE LA JUNTA DIRECTIVA
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Las Juntas Directivas de las Cámaras de Comercio estarán conformadas por afiliados elegidos y por representantes designados por el Gobierno Nacional. Los miembros serán principales y suplentes. 
+<Artículo modificado por el artículo 2 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Las Juntas Directivas de las Cámaras de Comercio estarán conformadas por afiliados elegidos y por representantes designados por el Gobierno Nacional. Los miembros serán principales y suplentes. 
 
 El Gobierno Nacional estará representado en las juntas directivas de las Cámaras de Comercio hasta en una tercera parte de cada junta. 
 
@@ -621,7 +621,7 @@ ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 ## art:82 — PERÍODO
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Con excepción de los miembros designados por el Gobierno Nacional, los miembros de la Junta Directiva serán elegidos para un período institucional de cuatro (4) años con posibilidad de reelección inmediata por una sola vez. 
+<Artículo modificado por el artículo 5 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Con excepción de los miembros designados por el Gobierno Nacional, los miembros de la Junta Directiva serán elegidos para un período institucional de cuatro (4) años con posibilidad de reelección inmediata por una sola vez. 
 
 Los miembros designados por el Gobierno Nacional no tendrán período y serán designados y removidos en cualquier tiempo. 
 
@@ -630,7 +630,7 @@ Las impugnaciones relativas a la forma como se hubiere preparado o efectuado la 
 ## art:83 — QUÓRUM PARA DELIBERAR Y DECIDIR
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-La Junta Directiva sesionará, cuando menos, una vez por mes y existirá quórum para deliberar y decidir válidamente en la Junta Directiva con la mayoría absoluta de sus miembros. La designación y remoción del representante legal, así como la aprobación de las reformas estatutarias, deberán contar con el voto favorable de, por lo menos, las dos terceras partes de sus miembros.
+<Artículo modificado por el artículo 6 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> La Junta Directiva sesionará, cuando menos, una vez por mes y existirá quórum para deliberar y decidir válidamente en la Junta Directiva con la mayoría absoluta de sus miembros. La designación y remoción del representante legal, así como la aprobación de las reformas estatutarias, deberán contar con el voto favorable de, por lo menos, las dos terceras partes de sus miembros.
 
 ## art:84 — <VOTO PERSONAL E INDELEGABLE EN ASAMBLEAS>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
@@ -640,7 +640,7 @@ ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 ## art:85 — REQUISITOS PARA SER MIEMBRO DE JUNTA DIRECTIVA
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Para ser Miembro de Junta Directiva de una Cámara de Comercio se requerirá ser ciudadano colombiano en ejercicio de sus derechos políticos, no haber sido sancionado por ninguno de los delitos determinados en el artículo 16 de este Código, estar domiciliado en la respectiva circunscripción, ser persona de reconocida honorabilidad. Nadie podrá ejercer el cargo de Miembro de Junta Directiva en más de una Cámara de Comercio.
+<Artículo modificado por el artículo 33 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Para ser Miembro de Junta Directiva de una Cámara de Comercio se requerirá ser ciudadano colombiano en ejercicio de sus derechos políticos, no haber sido sancionado por ninguno de los delitos determinados en el artículo 16 de este Código, estar domiciliado en la respectiva circunscripción, ser persona de reconocida honorabilidad. Nadie podrá ejercer el cargo de Miembro de Junta Directiva en más de una Cámara de Comercio.
 
 ## art:86 — <FUNCIONES DE LAS CÁMARAS DE COMERCIO>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
@@ -689,7 +689,7 @@ Toda cámara de comercio tendrá uno o más secretarios, cuyas funciones serán 
 ## art:90 — <INCOMPATIBILIDADES DE EMPLEADOS>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Los [TACHADO: abogados, economistas y contadores] que perciban remuneración como empleados [TACHADO: permanentes] de las cámaras de comercio, quedarán inhabilitados para ejercer su profesión en asuntos particulares mientras permanezcan en sus cargos, so pena de destitución por mala conducta [TACHADO: y multa hasta de veinte mil pesos]. [TACHADO: Una y otra las decretará el Superintendente de Industria y Comercio].
+<Apartes tachados INEXEQUIBLES> Los [TACHADO: abogados, economistas y contadores] que perciban remuneración como empleados [TACHADO: permanentes] de las cámaras de comercio, quedarán inhabilitados para ejercer su profesión en asuntos particulares mientras permanezcan en sus cargos, so pena de destitución por mala conducta [TACHADO: y multa hasta de veinte mil pesos]. [TACHADO: Una y otra las decretará el Superintendente de Industria y Comercio].
 
 ## art:91 — <REQUISITOS PARA LOS GASTOS>
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
@@ -699,7 +699,7 @@ Los gastos de cada cámara se pagarán con cargo a su respectivo presupuesto, de
 ## art:92 — REQUISITOS PARA SER AFILIADO
 ubicacion: TÍTULO VI. DE LAS CÁMARAS DE COMERCIO
 
-Podrán ser afiliados a una Cámara de Comercio, las personas naturales o jurídicas que:
+<Artículo modificado por el artículo 12 de la Ley 1727 de 2014. El nuevo texto es el siguiente:> Podrán ser afiliados a una Cámara de Comercio, las personas naturales o jurídicas que:
 
 1. Así lo soliciten.
 
@@ -767,7 +767,7 @@ La capacidad de la sociedad se circunscribirá al desarrollo de la empresa o act
 ## art:100 — <ASIMILACIÓN A SOCIEDADES COMERCIALES - LEGISLACIÓN MERCANTIL>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Se tendrán como comerciales, para todos los efectos legales las sociedades que se formen para la ejecución de actos o empresas mercantiles. Si la empresa social comprende actos mercantiles y actos que no tengan esa calidad, la sociedad será comercial. Las sociedades que no contemplen en su objeto social actos mercantiles, serán civiles. 
+<Artículo subrogado por el artículo 1o. de la Ley 222 de 1995. El nuevo texto es el siguiente:> Se tendrán como comerciales, para todos los efectos legales las sociedades que se formen para la ejecución de actos o empresas mercantiles. Si la empresa social comprende actos mercantiles y actos que no tengan esa calidad, la sociedad será comercial. Las sociedades que no contemplen en su objeto social actos mercantiles, serán civiles. 
 
 Sin embargo, cualquiera que sea su objeto, las sociedades comerciales y civiles estarán sujetas, para todos los efectos, a la legislación mercantil.
 
@@ -779,12 +779,12 @@ Para que el contrato de sociedad sea válido respecto de cada uno de los asociad
 ## art:102 — <VALIDEZ DE SOCIEDADES FAMILIARES-APORTE DE BIENES>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Será válida la sociedad entre padres e hijos o entre cónyuges, aunque unos y otros sean los únicos asociados. Los cónyuges, conjunta o separadamente, podrán aportar toda clase de bienes a la sociedad que formen entre sí o con otras personas.
+<Vocablos subrayados CONDICIONALMENTE exequibles> Será válida la sociedad entre padres e hijos o entre cónyuges, aunque unos y otros sean los únicos asociados. Los cónyuges, conjunta o separadamente, podrán aportar toda clase de bienes a la sociedad que formen entre sí o con otras personas.
 
 ## art:103 — <SOCIOS INCAPACES>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Los incapaces no podrán ser socios de sociedades colectivas ni gestores de sociedades en comandita. 
+<Artículo subrogado por el artículo 2o. de la Ley 222 de 1995. El nuevo texto es el siguiente:> Los incapaces no podrán ser socios de sociedades colectivas ni gestores de sociedades en comandita. 
 
 <Aparte tachado INEXEQUIBLE> En los demás casos, podrán ser socios, siempre que actúen por conducto de sus representantes o con su autorización, según el caso. [TACHADO: Para el aporte de derechos reales sobre inmuebles, bastará el cumplimiento de los requisitos previstos en el artículo 111].
 
@@ -1168,7 +1168,7 @@ Las utilidades que se repartan se pagarán en dinero efectivo dentro del año si
 ## art:157 — <SANCIONES POR FALSEDADES EN LOS BALANCES>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO IV UTILIDADES SOCIALES
 
-Los administradores, contadores y revisores fiscales que ordenen, toleren, hagan o encubran falsedades cometidas en los balances, incurrirán en las sanciones previstas en el Código Penal para el delito de falsedad en documentos privados y responderán solidariamente de los perjuicios causados.
+<Artículo CONDICIONALMENTE EXEQUIBLE> Los administradores, contadores y revisores fiscales que ordenen, toleren, hagan o encubran falsedades cometidas en los balances, incurrirán en las sanciones previstas en el Código Penal para el delito de falsedad en documentos privados y responderán solidariamente de los perjuicios causados.
 
 ## art:158 — <REQUISITOS PARA LA REFORMA DEL CONTRATO DE SOCIEDAD>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
@@ -1179,6 +1179,8 @@ Sin los requisitos anteriores la reforma no producirá efecto alguno respecto de
 
 ## art:159 — <AUTORIZACIÓN DE LA SUPERINTENDENCIA DE SOCIEDADES PARA EL REGISTRO DE ESCRITURAS DE REFORMA DE SOCIEDADES SOMETIDAS A SU CONTROL>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
+
+<Artículo subrogado por el artículo 13 de la Ley 44 de 1981. El nuevo texto es el siguiente:> 
 
 Las Cámaras de Comercio se abstendrán de registrar las escrituras de reforma sin la previa autorización de la Superintendencia, cuando se trate de sociedades sometidas a su control. 
 
@@ -1220,7 +1222,7 @@ La simple confirmación o reelección de las personas ya inscritas no requerirá
 ## art:165 — REFORMA ESTATUTARIA POR CAMBIO DE DOMICILIO DE LA SOCIEDAD
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO V. REFORMAS DEL CONTRATO SOCIAL
 
-Cuando una reforma del contrato tenga por objeto el cambio de domicilio de Ia sociedad y éste corresponda a un lugar comprendido dentro de Ia jurisdicción de una cámara de comercio distinta de aquella en Ia cual se haya registrado el acto de constitución, deberá registrarse únicamente Ia reforma que contiene el cambio de domicilio social en Ia cámara de comercio de origen, Ia cual procederá a hacer el respectivo traslado de las inscripciones que reposan en sus archivos, a Ia cámara de comercio del nuevo domicilio.
+<Artículo modificado por el artículo 154 del Decreto 19 de 2012. El nuevo texto es el siguiente:> Cuando una reforma del contrato tenga por objeto el cambio de domicilio de Ia sociedad y éste corresponda a un lugar comprendido dentro de Ia jurisdicción de una cámara de comercio distinta de aquella en Ia cual se haya registrado el acto de constitución, deberá registrarse únicamente Ia reforma que contiene el cambio de domicilio social en Ia cámara de comercio de origen, Ia cual procederá a hacer el respectivo traslado de las inscripciones que reposan en sus archivos, a Ia cámara de comercio del nuevo domicilio.
 
 Lo dispuesto en este artículo se aplicará también en los casos en que por alteraciones en Ia circunscripción territorial de las cámaras de comercio, el lugar del domicilio principal de una sociedad corresponda a Ia circunscripción de una cámara distinta.
 
@@ -1351,7 +1353,7 @@ Se reunirán también en forma extraordinaria cuando sean convocados por los adm
 ## art:182 — CONVOCATORIA Y DELIBERACIÓN DE REUNIONES ORDINARIAS Y EXTRAORDINARIAS
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
-En la convocatoria para reuniones extraordinarias se especificarán los asuntos sobre los que se deliberará y decidirá. En las reuniones ordinarias la asamblea podrá ocuparse de temas no indicados en la convocatoria, a propuesta de los directores o de cualquier asociado.
+<Artículo modificado por el artículo 6 de la Ley 2069 de 2020. El nuevo texto es el siguiente:> En la convocatoria para reuniones extraordinarias se especificarán los asuntos sobre los que se deliberará y decidirá. En las reuniones ordinarias la asamblea podrá ocuparse de temas no indicados en la convocatoria, a propuesta de los directores o de cualquier asociado.
 
 La junta de socios o la asamblea se reunirá válidamente cualquier día y en cualquier lugar sin previa convocación, cuando se hallare representada la totalidad de los asociados.
 
@@ -1367,7 +1369,7 @@ Las sociedades sometidas a inspección y vigilancia deberán comunicar a la Supe
 ## art:184 — <REPRESENTACIÓN DEL SOCIO EN ASAMBLEA O JUNTA DE SOCIOS>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
-Todo socio podrá hacerse representar en las reuniones de la Junta de Socios o Asamblea mediante poder otorgado por escrito, en el que se indique el nombre del apoderado, la persona en quien éste puede sustituirlo, si es del caso, la fecha o época de la reunión o reuniones para las que se confiere y los demás requisitos que se señalen en los estatutos. 
+<Artículo subrogado por el artículo 18 de la Ley 222 de 1995. El nuevo texto es el siguiente:> Todo socio podrá hacerse representar en las reuniones de la Junta de Socios o Asamblea mediante poder otorgado por escrito, en el que se indique el nombre del apoderado, la persona en quien éste puede sustituirlo, si es del caso, la fecha o época de la reunión o reuniones para las que se confiere y los demás requisitos que se señalen en los estatutos. 
 
 Los poderes otorgados en el exterior sólo requerirán las formalidades aquí previstas.
 
@@ -1547,7 +1549,7 @@ Lo previsto en los incisos segundo y tercero del artículo 198 se aplicará resp
 ## art:200 — <RESPONSABILIDAD DE ADMINISTRADORES>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO VII. ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES SECCIÓN I. ASAMBLEA GENERAL Y JUNTA DE SOCIOS
 
-Los administradores responderán solidaria e ilimitadamente de los perjuicios que por dolo o culpa ocasionen a la sociedad, a los socios o a terceros. 
+<Artículo subrogado por el artículo 24 de la Ley 222 de 1995. El nuevo texto es el siguiente:> Los administradores responderán solidaria e ilimitadamente de los perjuicios que por dolo o culpa ocasionen a la sociedad, a los socios o a terceros. 
 
 No estarán sujetos a dicha responsabilidad, quienes no hayan tenido conocimiento de la acción u omisión o hayan votado en contra, siempre y cuando no la ejecuten. 
 
@@ -2003,12 +2005,12 @@ Lo dispuesto en este Título es sin perjuicio de lo que se establece en el artí
 ## art:260 — <SUBORDINACIÓN>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
-Una sociedad será subordinada o controlada cuando su poder de decisión se encuentre sometido a la voluntad de otra u otras personas que serán su matriz o controlante, bien sea directamente, caso en el cual aquélla se denominará filial o con el concurso o por intermedio de las subordinadas de la matriz, en cuyo caso se llamará subsidiaria.
+<Artículo subrogado por el artículo 26 de la Ley 222 de 1995. El nuevo texto es el siguiente:> Una sociedad será subordinada o controlada cuando su poder de decisión se encuentre sometido a la voluntad de otra u otras personas que serán su matriz o controlante, bien sea directamente, caso en el cual aquélla se denominará filial o con el concurso o por intermedio de las subordinadas de la matriz, en cuyo caso se llamará subsidiaria.
 
 ## art:261 — <PRESUNCIONES DE SUBORDINACIÓN>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
-Será subordinada una sociedad cuando se encuentre en uno o más de los siguientes casos: 
+<Artículo subrogado por el artículo 27 de la Ley 222 de 1995. El nuevo texto es el siguiente:> Será subordinada una sociedad cuando se encuentre en uno o más de los siguientes casos: 
 
 1. Cuando más del cincuenta por ciento (50%) del capital pertenezca a la matriz, directamente o por intermedio o con el concurso de sus subordinadas, o de las subordinadas de éstas. Para tal efecto, no se computarán las acciones con dividendo preferencial y sin derecho a voto. 
 
@@ -2023,7 +2025,7 @@ PARÁGRAFO 2o. Así mismo, una sociedad se considera subordinada cuando el contr
 ## art:262 — <PROHIBICIÓN A LA SOCIEDAD SUBORDINADA>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
-Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo.
+<Artículo subrogado por el artículo 32 de la Ley 222 de 1995. El nuevo texto es el siguiente:> Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo.
 
 ## art:263 — <DEFINICIÓN DE SUCURSALES - FACULTADES DE LOS ADMINISTRADORES>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
@@ -2040,7 +2042,7 @@ Son agencias de una sociedad sus establecimientos de comercio cuyos administrado
 ## art:265 — <COMPROBACIÓN DE REALIDAD SOBRE OPERACIONES CELEBRADAS ENTRE SOCIEDAD Y VINCULADOS>
 ubicacion: TÍTULO I. DEL CONTRATO DE SOCIEDAD > CAPÍTULO XI. MATRICES, SUBORDINADAS Y SUCURSALES
 
-Los respectivos organismos de inspección, vigilancia o control, podrán comprobar la realidad de las operaciones que se celebren entre una sociedad y sus vinculados. En caso de verificar la irrealidad de tales operaciones o su celebración en condiciones considerablemente diferentes a las normales del mercado, en perjuicio del Estado, de los socios o de terceros, impondrán multas y si lo consideran necesario, ordenarán la suspensión de tales operaciones. Lo anterior, sin perjuicio de las acciones de socios y terceros a que haya lugar para la obtención de las indemnizaciones correspondientes.
+<Artículo subrogado por el artículo 31 de la Ley 222 de 1995. El nuevo texto es el siguiente:> Los respectivos organismos de inspección, vigilancia o control, podrán comprobar la realidad de las operaciones que se celebren entre una sociedad y sus vinculados. En caso de verificar la irrealidad de tales operaciones o su celebración en condiciones considerablemente diferentes a las normales del mercado, en perjuicio del Estado, de los socios o de terceros, impondrán multas y si lo consideran necesario, ordenarán la suspensión de tales operaciones. Lo anterior, sin perjuicio de las acciones de socios y terceros a que haya lugar para la obtención de las indemnizaciones correspondientes.
 
 ## art:266 — 
 ubicacion: TÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA DE LAS SOCIEDADES > CAPÍTULO I. SUPERINTENDENCIA DE SOCIEDADES
@@ -2192,7 +2194,7 @@ ubicacion: TÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA DE LAS SOCIEDADES > CAPÍT
 ## art:293 — <RESPONSABILIDAD POR SUMINISTRAR DATOS, EXPEDIR CONSTANCIAS O CERTIFICADOS DISCORDANTES CON LA REALIDAD CONTABLE>
 ubicacion: TÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA DE LAS SOCIEDADES > CAPÍTULO II. BALANCES
 
-Los administradores y funcionarios directivos, los revisores fiscales y los contadores que suministren datos a las autoridades, o expidan constancias o certificados discordantes con la realidad contable, serán sancionados en la forma prevista en el artículo 238 del Código Penal. 
+<Artículo CONDICIONALMENTE EXEQUIBLE> Los administradores y funcionarios directivos, los revisores fiscales y los contadores que suministren datos a las autoridades, o expidan constancias o certificados discordantes con la realidad contable, serán sancionados en la forma prevista en el artículo 238 del Código Penal. 
 
 Si hubiere falsedad en documento privado con perjuicio de los asociados o de terceros, se aplicará el artículo 240 del mismo Código. 
 
@@ -2392,11 +2394,7 @@ En los casos de renuncia o retiro de un socio, se aplicarán las disposiciones q
 ## art:323 — <FORMACIÓN DE SOCIEDAD EN COMANDITA - DENOMINACIÓN DE SOCIOS>
 ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
-La sociedad en comandita se formará siempre entre uno o más socios que comprometen solidaria e ilimitadamente su responsabilidad por las operaciones sociales y otro o varios socios que limitan la responsabilidad a sus respectivos aportes. Los primeros se denominarán socios gestores o colectivos y los segundos, socios comanditarios. 
-
-Jurisprudencia Concrdante
-
-- Consejo de Estado, Sección Cuarta, Expediente No. 25000-23-37-000-2016-02075-01(23753) de 27 de agosto de 2020, C.P. Dr. Milton Chaves García.
+La sociedad en comandita se formará siempre entre uno o más socios que comprometen solidaria e ilimitadamente su responsabilidad por las operaciones sociales y otro o varios socios que limitan la responsabilidad a sus respectivos aportes. Los primeros se denominarán socios gestores o colectivos y los segundos, socios comanditarios.
 
 ## art:324 — <RAZÓN SOCIAL DE LA SOCIEDAD EN COMANDITA-RESPONSABILIDAD>
 ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
@@ -2412,20 +2410,12 @@ El capital social se formará con los aportes de los socios comanditarios o con 
 
 Cuando los colectivos hicieren aportaciones de capital, en la respectiva escritura se relacionarán por su valor, sin perjuicio de la responsabilidad inherente a la categoría de tales socios. 
 
-El comanditario no podrá en ningún caso ser socio industrial. 
-
-Jurisprudencia Concrdante
-
-- Consejo de Estado, Sección Cuarta, Expediente No. 25000-23-37-000-2016-02075-01(23753) de 27 de agosto de 2020, C.P. Dr. Milton Chaves García.
+El comanditario no podrá en ningún caso ser socio industrial.
 
 ## art:326 — <ADMINISTRACIÓN DE SOCIEDAD EN COMANDITA>
 ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
 
-La administración de la sociedad estará a cargo de los socios colectivos, quienes podrán ejercerla directamente o por sus delegados, con sujeción a lo previsto para la sociedad colectiva. 
-
-Jurisprudencia Concrdante
-
-- Consejo de Estado, Sección Cuarta, Expediente No. 25000-23-37-000-2016-02075-01(23753) de 27 de agosto de 2020, C.P. Dr. Milton Chaves García.
+La administración de la sociedad estará a cargo de los socios colectivos, quienes podrán ejercerla directamente o por sus delegados, con sujeción a lo previsto para la sociedad colectiva.
 
 ## art:327 — <REPRESENTACIÓN DE SOCIOS COMANDITARIOS>
 ubicacion: TÍTULO IV. DE LAS SOCIEDADES EN COMANDITA > CAPÍTULO I. DISPOSICIONES COMUNES
@@ -2874,7 +2864,7 @@ La suscripción de acciones, una vez obtenido el permiso para su colocación, no
 ## art:395 — <SANCIÓN POR FALSEDAD EN INFORMACIÓN PARA SUSCRIBIR ACCIONES>
 ubicacion: TÍTULO VI. DE LA SOCIEDAD ANÓNIMA > CAPÍTULO II. LAS ACCIONES EN LA SOCIEDAD ANÓNIMA SECCIÓN I. EMISIÓN DE ACCIONES
 
-Los administradores de la sociedad y sus revisores fiscales incurrirán en las sanciones previstas en el Código Penal para la falsedad en documentos privados, cuando para provocar la suscripción de acciones se den a conocer como accionistas o como administradores de la sociedad a personas que no tengan tales calidades o cuando a sabiendas se publiquen inexactitudes graves en los anexos a los correspondientes prospectos. 
+<Artículo CONDICIONALMENTE EXEQUIBLE> Los administradores de la sociedad y sus revisores fiscales incurrirán en las sanciones previstas en el Código Penal para la falsedad en documentos privados, cuando para provocar la suscripción de acciones se den a conocer como accionistas o como administradores de la sociedad a personas que no tengan tales calidades o cuando a sabiendas se publiquen inexactitudes graves en los anexos a los correspondientes prospectos. 
 
 La misma sanción se impondrá a los contadores que autoricen los balances que adolezcan de las inexactitudes indicadas en el inciso anterior.
 
@@ -3204,7 +3194,7 @@ ubicacion: TÍTULO VI. DE LA SOCIEDAD ANÓNIMA > CAPÍTULO III. DIRECCIÓN Y ADM
 ## art:429 — <REUNIONES DE SEGUNDA CONVOCATORIA POR DERECHO PROPIO-REGLAS>
 ubicacion: TÍTULO VI. DE LA SOCIEDAD ANÓNIMA > CAPÍTULO III. DIRECCIÓN Y ADMINISTRACIÓN SECCIÓN I. ASAMBLEA GENERAL DE ACCIONISTAS
 
-Si se convoca a la asamblea y ésta no se lleva a cabo por falta de quórum, se citará a una nueva reunión que sesionará y decidirá válidamente con un número plural de socios cualquiera sea la cantidad de acciones que esté representada. La nueva reunión deberá efectuarse no antes de los diez días ni después de los treinta, contados desde la fecha fijada para la primera reunión. 
+<Artículo subrogado por el artículo 69 de la Ley 222 de 1995. El nuevo texto es el siguiente:> Si se convoca a la asamblea y ésta no se lleva a cabo por falta de quórum, se citará a una nueva reunión que sesionará y decidirá válidamente con un número plural de socios cualquiera sea la cantidad de acciones que esté representada. La nueva reunión deberá efectuarse no antes de los diez días ni después de los treinta, contados desde la fecha fijada para la primera reunión. 
 
 Cuando la asamblea se reúna en sesión ordinaria por derecho propio el primer día hábil del mes de abril, también podrá deliberar y decidir válidamente en los términos del inciso anterior. 
 
@@ -3269,6 +3259,8 @@ Salvo disposición estatutaria en contrario, se presumirá que la junta directiv
 
 ## art:439 — <INFORMA A LA ASAMBLEA>
 ubicacion: TÍTULO VI. DE LA SOCIEDAD ANÓNIMA > CAPÍTULO III. DIRECCIÓN Y ADMINISTRACIÓN SECCIÓN I. ASAMBLEA GENERAL DE ACCIONISTAS
+
+<Artículo derogado por el artículo 242 de la Ley 222 de 1995>
 
 SECCIÓN III. 
 
@@ -3707,6 +3699,13 @@ La liquidación de la sociedad de hecho podrá hacerse por todos los asociados, 
 ubicacion: TÍTULO X. DE LAS CUENTAS EN PARTICIPACIÓN
 
 La participación es un contrato por el cual dos o más personas que tienen la calidad de comerciantes toman interés en una o varias operaciones mercantiles determinadas, que deberá ejecutar uno de ellos en su solo nombre y bajo su crédito personal, con cargo de rendir cuenta y dividir con sus partícipes las ganancias o pérdidas en la proporción convenida.
+
+## art:508 — <LIBERTAD DE SOLEMNIDADES>
+ubicacion: TÍTULO X. DE LAS CUENTAS EN PARTICIPACIÓN
+
+La participación no estará sujeta en cuanto a su formación a las solemnidades prescritas para la constitución de las compañías mercantiles. 
+
+El objeto, la forma, el interés y las demás condiciones se regirán por el acuerdo de los partícipes.
 
 ## art:509 — <CARENCIA DE PERSONERÍA JURÍDICA, NOMBRE, PATRIMONIO SOCIAL Y DOMICILIO>
 ubicacion: TÍTULO X. DE LAS CUENTAS EN PARTICIPACIÓN
@@ -5426,7 +5425,7 @@ FACTURAS CAMBIARIAS
 ## art:772 — <FACTURA>
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-Factura es un título valor que el vendedor o prestador del servicio podrá librar y entregar o remitir al comprador o beneficiario del servicio.
+<Artículo modificado por el artículo 1 de la Ley 1231 de 2008. El nuevo texto es el siguiente:> Factura es un título valor que el vendedor o prestador del servicio podrá librar y entregar o remitir al comprador o beneficiario del servicio.
 
 No podrá librarse factura alguna que no corresponda a bienes entregados real y materialmente o a servicios efectivamente prestados en virtud de un contrato verbal o escrito.
 
@@ -5437,7 +5436,7 @@ PARÁGRAFO. Para la puesta en circulación de la factura electrónica como títu
 ## art:773 — ACEPTACIÓN DE LA FACTURA
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-Una vez que la factura sea aceptada por el comprador o beneficiario del servicio, se considerará, frente a terceros de buena fe exenta de culpa que el contrato que le dio origen ha sido debidamente ejecutado en la forma estipulada en el título.
+<Artículo modificado por el artículo 2 de la Ley 1231 de 2008. El nuevo texto es el siguiente:> Una vez que la factura sea aceptada por el comprador o beneficiario del servicio, se considerará, frente a terceros de buena fe exenta de culpa que el contrato que le dio origen ha sido debidamente ejecutado en la forma estipulada en el título.
 
 El comprador o beneficiario del servicio deberá aceptar de manera expresa el contenido de la factura, por escrito colocado en el cuerpo de la misma o en documento separado, físico o electrónico. Igualmente, deberá constar el recibo de la mercancía o del servicio por parte del comprador del bien o beneficiario del servicio, en la factura y/o en la guía de transporte, según el caso, indicando el nombre, identificación o la firma de quien recibe, y la fecha de recibo. El comprador del bien o beneficiario del servicio no podrá alegar falta de representación o indebida representación por razón de la persona que reciba la mercancía o el servicio en sus dependencias, para efectos de la aceptación del título valor.
 
@@ -5448,7 +5447,7 @@ PARÁGRAFO. La factura podrá transferirse después de haber sido aceptada por e
 ## art:774 — REQUISITOS DE LA FACTURA
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-La factura deberá reunir, además de los requisitos señalados en los artículos 621 del presente Código, y 617 del Estatuto Tributario Nacional o las normas que los modifiquen, adicionen o sustituyan, los siguientes:
+<Artículo modificado por el artículo 3 de la Ley 1231 de 2008. El nuevo texto es el siguiente:> La factura deberá reunir, además de los requisitos señalados en los artículos 621 del presente Código, y 617 del Estatuto Tributario Nacional o las normas que los modifiquen, adicionen o sustituyan, los siguientes:
 
 1. La fecha de vencimiento, sin perjuicio de lo dispuesto en el ar-tículo 673. En ausencia de mención expresa en la factura de la fecha de vencimiento, se entenderá que debe ser pagada dentro de los treinta días calendario siguientes a la emisión.
 
@@ -5465,12 +5464,12 @@ La omisión de requisitos adicionales que establezcan normas distintas a las se�
 ## art:775 — <FACTURA CAMBIARIA DE TRANSPORTE - DEFINICIÓN>
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-Factura cambiaria de transporte es un título-valor que el transportador podrá librar y entregar o enviar al remitente o cargador. No podrá librarse esta factura si no corresponde a un contrato de transporte efectivamente ejecutado.
+<Ver Notas del Editor. Derogatoria tácita - Consejo de Estado, Sección Cuarta, Expediente No. 17891 de 2012> Factura cambiaria de transporte es un título-valor que el transportador podrá librar y entregar o enviar al remitente o cargador. No podrá librarse esta factura si no corresponde a un contrato de transporte efectivamente ejecutado.
 
 ## art:776 — <CONTENIDO DE LA FACTURA CAMBIARIA DE TRANSPORTE>
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-La factura cambiaria de transporte deberá contener, además de los requisitos que establece el artículo 621, los siguientes: 
+<Ver Notas del Editor. Derogatoria tácita - Consejo de Estado, Sección Cuarta, Expediente No. 17891 de 2012> La factura cambiaria de transporte deberá contener, además de los requisitos que establece el artículo 621, los siguientes: 
 
 1) La mención de ser "factura cambiaria de transporte"; 
 
@@ -5491,7 +5490,7 @@ PARÁGRAFO. A esta factura se aplicará lo dispuesto en el artículo 773 y en el
 ## art:777 — PAGO POR CUOTAS DE LA FACTURA. CONTENIDO ADICIONAL
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-Cuando el pago haya de hacerse por cuotas, las facturas contendrán además:
+<Artículo modificado por el artículo 4 de la Ley 1231 de 2008. El nuevo texto es el siguiente:> Cuando el pago haya de hacerse por cuotas, las facturas contendrán además:
 
 1. Número de cuotas.
 
@@ -5506,7 +5505,7 @@ En caso de haberse transferido la factura previamente a los pagos parciales, el 
 ## art:778 — OBLIGATORIEDAD DE ACEPTACIÓN DEL ENDOSO
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-Con el solo hecho de que la factura contenga el endoso, el obligado deberá efectuar el pago al tenedor legítimo a su presentación.
+<Artículo modificado por el artículo 7 de la Ley 1231 de 2008. El nuevo texto es el siguiente:> Con el solo hecho de que la factura contenga el endoso, el obligado deberá efectuar el pago al tenedor legítimo a su presentación.
 
 Únicamente para efectos del pago, se entiende que el tercero a quien se la ha endosado la factura, asume la posición del emisor de la misma.
 
@@ -5521,7 +5520,7 @@ PARÁGRAFO 2. <Parágrafo adicionado por el artículo 87 de la Ley 1676 de 2013.
 ## art:779 — APLICACIÓN DE NORMAS RELATIVAS A LA LETRA DE CAMBIO
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO V. DISTINTAS ESPECIES DE TÍTULOS-VALORES SECCIÓN I. LETRA DE CAMBIO SUBSECCIÓN I. CREACIÓN Y FORMA DE LA LETRA DE C
 
-Se aplicarán a las facturas de que trata la presente ley, en lo pertinente, las normas relativas a la letra de cambio.
+<Artículo modificado por el artículo 5 de la Ley 1231 de 2008. El nuevo texto es el siguiente:> Se aplicarán a las facturas de que trata la presente ley, en lo pertinente, las normas relativas a la letra de cambio.
 
 ## art:780 — <CASOS EN QUE PROCEDE LA ACCIÓN CAMBIARIA>
 ubicacion: TÍTULO III. DE LOS TÍTULOS VALORES > CAPÍTULO VI. PROCEDIMIENTOS SECCIÓN I. ACCIONES
@@ -6204,7 +6203,7 @@ ubicacion: TÍTULO I. DE LAS OBLIGACIONES EN GENERAL > CAPÍTULO V. EL PAGO
 ## art:884 — <LIMITE DE INTERESES Y SANCIÓN POR EXCESO>
 ubicacion: TÍTULO I. DE LAS OBLIGACIONES EN GENERAL > CAPÍTULO V. EL PAGO
 
-Cuando en los negocios mercantiles haya de pagarse réditos de un capital, sin que se especifique por convenio el interés, éste será el bancario corriente; si las partes no han estipulado el interés moratorio, será equivalente a una y media veces del bancario corriente y en cuanto sobrepase cualquiera de estos montos el acreedor perderá todos los intereses, sin perjuicio de lo dispuesto en el artículo 72 de la Ley 45 de 1990. 
+<Artículo modificado por el Artículo 111 de la Ley 510 de 1999. El nuevo texto es el siguiente:> Cuando en los negocios mercantiles haya de pagarse réditos de un capital, sin que se especifique por convenio el interés, éste será el bancario corriente; si las partes no han estipulado el interés moratorio, será equivalente a una y media veces del bancario corriente y en cuanto sobrepase cualquiera de estos montos el acreedor perderá todos los intereses, sin perjuicio de lo dispuesto en el artículo 72 de la Ley 45 de 1990. 
 
 Se probará el interés bancario corriente con certificado expedido por la Superintendencia Bancaria.
 
@@ -6819,7 +6818,7 @@ Se aplicarán al suministro, en cuanto sean compatibles con las disposiciones pr
 ## art:981 — <CONTRATO DE TRANSPORTE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-El transporte es un contrato por medio del cual una de las partes se obliga para con la otra, a cambio de un precio, a conducir de un lugar a otro, por determinado medio y en el plazo fijado, personas o cosas y entregar éstas al destinatario. 
+<Artículo subrogado por el artículo 1 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> El transporte es un contrato por medio del cual una de las partes se obliga para con la otra, a cambio de un precio, a conducir de un lugar a otro, por determinado medio y en el plazo fijado, personas o cosas y entregar éstas al destinatario. 
 
 El contrato de transporte se perfecciona por el solo acuerdo de las partes y se prueba conforme a las reglas legales. 
 
@@ -6828,7 +6827,7 @@ En el evento en que el contrato o alguna de sus cláusulas sea ineficaz y se hay
 ## art:982 — <OBLIGACIONES DEL TRANSPORTADOR>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-El transportador estará obligado, dentro del término por el modo de transporte y la clase de vehículos previstos en el contrato y, en defecto de estipulación, conforme a los horarios, itinerarios y demás normas contenidas en los reglamentos oficiales, en un término prudencial y por una vía razonablemente directa: 
+<Artículo subrogado por el artículo 2 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> El transportador estará obligado, dentro del término por el modo de transporte y la clase de vehículos previstos en el contrato y, en defecto de estipulación, conforme a los horarios, itinerarios y demás normas contenidas en los reglamentos oficiales, en un término prudencial y por una vía razonablemente directa: 
 
 1) En el transporte de cosas a recibirlas, conducirlas y entregarlas en el estado en que las reciba, las cuales se presumen en buen estado, salvo constancia en contrario, y 
 
@@ -6837,21 +6836,21 @@ El transportador estará obligado, dentro del término por el modo de transporte
 ## art:983 — <EMPRESAS DE TRANSPORTE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Las empresas de transporte son de servicio público o de servicio particular. El Gobierno fijará las características de las empresas de servicio público y reglamentará las condiciones de su creación y funcionamiento. Las empresas de servicio público someterán sus reglamentos a la aprobación oficial y, si no prestan el servicio en vehículos de su propiedad, celebrarán con los dueños de éstos el respectivo contrato de vinculación, conforme a las normas reglamentarias del transporte. 
+<Artículo subrogado por el artículo 3 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Las empresas de transporte son de servicio público o de servicio particular. El Gobierno fijará las características de las empresas de servicio público y reglamentará las condiciones de su creación y funcionamiento. Las empresas de servicio público someterán sus reglamentos a la aprobación oficial y, si no prestan el servicio en vehículos de su propiedad, celebrarán con los dueños de éstos el respectivo contrato de vinculación, conforme a las normas reglamentarias del transporte. 
 
 PARÁGRAFO. Para la constitución de personas jurídicas que tengan por objeto el servicio público de transporte automotor, sujeto a rutas y horarios, además del lleno de los requisitos legales, será necesaria la autorización previa del Instituto Nacional del Transporte y Tránsito o de la entidad que haga sus veces, autorización que se protocolizará en copia auténtica con la respectiva escritura.
 
 ## art:984 — <DELEGACIÓN DE LA CONDUCCIÓN A TERCEROS>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Salvo lo dispuesto en normas especiales, el transporte deberá ser contratado con transportadores autorizados, quienes podrán encargar la conducción, en todo o en parte a terceros, pero bajo su responsabilidad, y sin que por ello se entiendan modificadas las condiciones del contrato. 
+<Artículo subrogado por el artículo 4 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Salvo lo dispuesto en normas especiales, el transporte deberá ser contratado con transportadores autorizados, quienes podrán encargar la conducción, en todo o en parte a terceros, pero bajo su responsabilidad, y sin que por ello se entiendan modificadas las condiciones del contrato. 
 
 La infracción a lo dispuesto en este artículo dará lugar a la imposición de las sanciones administrativas pertinentes.
 
 ## art:985 — <FORMAS DE TRANSPORTE COMBINADO>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Se considera transporte combinado aquel en que existiendo un único contrato de transporte, la conducción es realizada en forma sucesiva por varias empresas transportadoras, por más de un modo de transporte. Su contratación podrá llevarse a cabo de las siguientes formas: 
+<Artículo subrogado por el artículo 5 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Se considera transporte combinado aquel en que existiendo un único contrato de transporte, la conducción es realizada en forma sucesiva por varias empresas transportadoras, por más de un modo de transporte. Su contratación podrá llevarse a cabo de las siguientes formas: 
 
 1) Contratando el remitente con una de las empresas transportadoras que lo realicen, la cual será transportador efectivo en relación con el transporte que materialmente lleve a cabo por sí misma, y actuará como comisionista de transporte con las demás empresas. 
 
@@ -6864,7 +6863,7 @@ En el transporte combinado, a cada modo de transporte se le aplicarán las norma
 ## art:986 — <PLURALIDAD DE TRANSPORTADORES REGLAS PARA DEFINIR LA RESPONSABILIDAD>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Cuando varios transportadores intervengan sucesivamente en la ejecución de un único contrato de transporte por uno o varios modos, o se emita billete, carta de porte, conocimiento de embarque o remesa terrestre de carga, únicos o directos, se observarán las siguientes reglas: 
+<Artículo subrogado por el artículo 6 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Cuando varios transportadores intervengan sucesivamente en la ejecución de un único contrato de transporte por uno o varios modos, o se emita billete, carta de porte, conocimiento de embarque o remesa terrestre de carga, únicos o directos, se observarán las siguientes reglas: 
 
 1) Los transportadores que intervengan serán solidariamente responsables del cumplimiento del contrato en su integridad, como si cada uno de ellos lo hubiere ejecutado. 
 
@@ -6879,7 +6878,7 @@ PARÁGRAFO. Para los efectos de este artículo, cada transportador podrá exigir
 ## art:987 — <TRANSPORTE MULTIMODAL>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-En el transporte multimodal la conducción de mercancías se efectuará por dos o más modos de transporte desde un lugar en el que el operador de transporte multimodal las toma bajo su custodia o responsabilidad hasta otro lugar designado para su entrega al destinatario, en virtud de un contrato único de transporte. 
+<Artículo subrogado por el artículo 7 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> En el transporte multimodal la conducción de mercancías se efectuará por dos o más modos de transporte desde un lugar en el que el operador de transporte multimodal las toma bajo su custodia o responsabilidad hasta otro lugar designado para su entrega al destinatario, en virtud de un contrato único de transporte. 
 
 Se entiende por operador de transporte multimodal toda persona que, por sí o por medio de otra que obre en su nombre, celebra un contrato de transporte multimodal y actúa como principal, no como agente o por cuenta del remitente o de los transportadores que participan en las operaciones, y asume la responsabilidad del cumplimiento del contrato. 
 
@@ -6890,7 +6889,7 @@ Para el transporte multimodal se aplicará lo que sobre el particular se dispong
 ## art:988 — <REPRESENTACIÓN POR PARTE DEL ÚLTIMO TRANSPORTADOR>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Salvo estipulación en contrario, el último transportador representará a los demás para cobrar las prestaciones respectivas derivadas del contrato, para ejercer el derecho de retención y los privilegios que por el mismo les correspondan. 
+<Artículo subrogado por el artículo 8 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Salvo estipulación en contrario, el último transportador representará a los demás para cobrar las prestaciones respectivas derivadas del contrato, para ejercer el derecho de retención y los privilegios que por el mismo les correspondan. 
 
 Si omitiere realizar los actos necesarios para el cobro o para el ejercicio esos privilegios, responderá de las cantidades debidas a los demás transportadores quedando a salvo el derecho de éstos para dirigirse directamente contra el destinatario o remitente.
 
@@ -6907,14 +6906,14 @@ Los contratos de transporte deberán ejecutarse en el orden en que se hayan cele
 ## art:991 — <RESPONSABILIDAD SOLIDARIA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Cuando la empresa de servicio público no sea propietaria o arrendataria del vehículo en que se efectúa el transporte, o no tenga a otro título el control efectivo de dicho vehículo, el propietario de éste, la empresa que contrate y la que conduzca, responderán solidariamente del cumplimiento de las obligaciones que surjan del contrato de transporte. 
+<Artículo subrogado por el artículo 9 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Cuando la empresa de servicio público no sea propietaria o arrendataria del vehículo en que se efectúa el transporte, o no tenga a otro título el control efectivo de dicho vehículo, el propietario de éste, la empresa que contrate y la que conduzca, responderán solidariamente del cumplimiento de las obligaciones que surjan del contrato de transporte. 
 
 La empresa tiene el control efectivo del vehículo cuando lo administra con facultad de utilizarlo y designar el personal que lo opera, directamente y sin intervención del propietario.
 
 ## art:992 — <EXONERACIÓN TOTAL O PARCIAL DE LA RESPONSABILIDAD DEL TRANSPORTADOR>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-El transportador sólo podrá exonerarse, total o parcialmente, de su responsabilidad por la inejecución o por la ejecución defectuosa o tardía de sus obligaciones, si prueba que la causa del daño lo fue extraña o que en su caso, se debió a vicio propio o inherente de la cosa transportada, y además que adoptó todas las medidas razonables que hubiere tomado un transportador según las exigencias de la profesión para evitar el perjuicio o su agravación. 
+<Artículo subrogado por el artículo 10 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> El transportador sólo podrá exonerarse, total o parcialmente, de su responsabilidad por la inejecución o por la ejecución defectuosa o tardía de sus obligaciones, si prueba que la causa del daño lo fue extraña o que en su caso, se debió a vicio propio o inherente de la cosa transportada, y además que adoptó todas las medidas razonables que hubiere tomado un transportador según las exigencias de la profesión para evitar el perjuicio o su agravación. 
 
 Las violaciones a los reglamentos oficiales o de la empresa, se tendrán como culpa, cuando el incumplimiento haya causado o agravado el riesgo. 
 
@@ -6923,7 +6922,7 @@ Las cláusulas del contrato que impliquen la exoneración total o parcial por pa
 ## art:993 — <PRESCRIPCIÓN DE ACCIONES>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Las acciones directas o indirectas provenientes del contrato de transporte prescriben en dos años. 
+<Artículo subrogado por el artículo 11 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Las acciones directas o indirectas provenientes del contrato de transporte prescriben en dos años. 
 
 El término de prescripción correrá desde el día en que haya concluido o debido concluir la obligación de conducción. 
 
@@ -6932,7 +6931,7 @@ Este término no puede ser modificado por las partes.
 ## art:994 — <EXIGENCIA DE TOMAR SEGURO>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Cuando el Gobierno lo exija, el transportador deberá tomar por cuenta propia o por cuenta del pasajero o del propietario de la carga, un seguro que cubra a las personas y las cosas transportadas contra los riesgos inherentes al transporte. 
+<Artículo subrogado por el artículo 12 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Cuando el Gobierno lo exija, el transportador deberá tomar por cuenta propia o por cuenta del pasajero o del propietario de la carga, un seguro que cubra a las personas y las cosas transportadas contra los riesgos inherentes al transporte. 
 
 El transportador no podrá constituirse en asegurador de su propio riesgo o responsabilidad. 
 
@@ -6953,12 +6952,12 @@ Cuando el transporte se pacte en forma de suministro se aplicarán, además, las
 ## art:997 — <REGLAMENTACIÓN>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-El Gobierno reglamentará el funcionamiento de las empresas de transporte, terminales, centros de información y distribución de transporte, especialmente en cuanto a la seguridad de los pasajeros y la carga, la higiene y la seguridad de los vehículos, naves, aeronaves, puertos, estaciones, bodegas y demás instalaciones y en cuanto a las tarifas, horarios, itinerarios y reglamentos de las empresas. Así mismo establecerá la escala de sanciones por la violación de normas legales y reglamentarias.
+<Artículo subrogado por el artículo 13 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> El Gobierno reglamentará el funcionamiento de las empresas de transporte, terminales, centros de información y distribución de transporte, especialmente en cuanto a la seguridad de los pasajeros y la carga, la higiene y la seguridad de los vehículos, naves, aeronaves, puertos, estaciones, bodegas y demás instalaciones y en cuanto a las tarifas, horarios, itinerarios y reglamentos de las empresas. Así mismo establecerá la escala de sanciones por la violación de normas legales y reglamentarias.
 
 ## art:998 — <CONTINUIDAD DEL CONTRATO DE TRANSPORTE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
 
-Las obligaciones que surjan del contrato de transporte no se extinguirán por la muerte o quiebra de alguna de las partes, ni por la disolución de la persona jurídica que sea parte del contrato.
+<Artículo subrogado por el artículo 14 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Las obligaciones que surjan del contrato de transporte no se extinguirán por la muerte o quiebra de alguna de las partes, ni por la disolución de la persona jurídica que sea parte del contrato.
 
 ## art:999 — <REGLAMENTACIÓN Y APLICACIÓN DE DISPOSICIONES>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO I. DISPOSICIONES GENERALES
@@ -6968,7 +6967,7 @@ El Gobierno reglamentará las disposiciones de este Título, las que se aplicar�
 ## art:1000 — <OBLIGACIONES DEL PASAJERO>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO II. TRANSPORTE DE PERSONAS
 
-El pasajero estará obligado a pagar el pasaje y a observar las condiciones de seguridad impuestas por el transportador y por los reglamentos oficiales y a cumplir los reglamentos de la empresa, estos últimos siempre y cuando estén exhibidos en lugares donde sean fácilmente conocidos por el usuario o se inserten en el boleto o billete. 
+<Artículo subrogado por el artículo 15 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> El pasajero estará obligado a pagar el pasaje y a observar las condiciones de seguridad impuestas por el transportador y por los reglamentos oficiales y a cumplir los reglamentos de la empresa, estos últimos siempre y cuando estén exhibidos en lugares donde sean fácilmente conocidos por el usuario o se inserten en el boleto o billete. 
 
 El contrato celebrado para sí por persona relativamente incapaz no será anulable.
 
@@ -6980,7 +6979,7 @@ El boleto o billete expedido por el empresario de transportes deberá contener l
 ## art:1002 — <DESISTIMIENTO>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO II. TRANSPORTE DE PERSONAS
 
-El pasajero podrá desistir del transporte contratado con derecho a la devolución total o parcial del pasaje, dando previo aviso al transportador, conforme se establezca en los reglamentos oficiales, el contrato o en su defecto, por la costumbre.
+<Artículo subrogado por el artículo 16 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> El pasajero podrá desistir del transporte contratado con derecho a la devolución total o parcial del pasaje, dando previo aviso al transportador, conforme se establezca en los reglamentos oficiales, el contrato o en su defecto, por la costumbre.
 
 ## art:1003 — <RESPONSABILIDAD DEL TRANSPORTADOR>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO II. TRANSPORTE DE PERSONAS
@@ -7005,7 +7004,7 @@ El transporte del equipaje del pasajero y de las cosas que el transportador se o
 ## art:1005 — <CONDUCCIÓN DE INCAPACES>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO II. TRANSPORTE DE PERSONAS
 
-El transportador que, a sabiendas, se obligue a conducir enfermos, dementes, menores de edad, deberá prestarles dentro de sus posibilidades, los cuidados ordinarios que exija su estado o condición. Además, responderá de los perjuicios causados por falta de estos cuidados y, en todo caso de los que ocasionen estas personas a los demás pasajeros o cosas transportadas. 
+<Artículo subrogado por el artículo 17 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> El transportador que, a sabiendas, se obligue a conducir enfermos, dementes, menores de edad, deberá prestarles dentro de sus posibilidades, los cuidados ordinarios que exija su estado o condición. Además, responderá de los perjuicios causados por falta de estos cuidados y, en todo caso de los que ocasionen estas personas a los demás pasajeros o cosas transportadas. 
 
 La responsabilidad y demás obligaciones inherentes al contrato, respecto de los enfermos, menores o dementes, sólo cesarán cuando sean confiados a quienes hayan de hacerse cargo de ellos, según las instrucciones dadas al transportador.
 
@@ -7024,7 +7023,7 @@ El transportador podrá retener total o parcialmente el equipaje y demás cosas 
 ## art:1008 — <PARTES>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Se tendrá como partes en el contrato de transporte de cosas el transportador y el remitente. Hará parte el destinatario cuando acepte el respectivo contrato. 
+<Artículo subrogado por el artículo 18 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Se tendrá como partes en el contrato de transporte de cosas el transportador y el remitente. Hará parte el destinatario cuando acepte el respectivo contrato. 
 
 Por transportador se entenderá la persona que se obliga a recibir, conducir y entregar las cosas objeto del contrato; por remitente, la que se obliga por cuenta propia o ajena, a entregar las cosas para la conducción, en las condiciones, lugar y tiempo convenidos; y por destinatario aquella a quien se envían las cosas. 
 
@@ -7035,12 +7034,12 @@ El transporte bajo carta de porte, póliza o conocimiento de embarque, se regir�
 ## art:1009 — <PAGO DEL FLETE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El precio o flete del transporte y demás gastos que ocasione la cosa con motivo de su conducción o hasta el momento de su entrega son de cargo del remitente. Salvo estipulación en contrario, el destinatario estará solidariamente obligado al cumplimiento de estas obligaciones, desde el momento en que reciba a satisfacción la cosa transportada.
+<Artículo subrogado por el artículo 19 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El precio o flete del transporte y demás gastos que ocasione la cosa con motivo de su conducción o hasta el momento de su entrega son de cargo del remitente. Salvo estipulación en contrario, el destinatario estará solidariamente obligado al cumplimiento de estas obligaciones, desde el momento en que reciba a satisfacción la cosa transportada.
 
 ## art:1010 — <REMITENTE E INFORMACIÓN SOBRE LA COSA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El remitente indicará al transportador a más tardar al momento de la entrega de la mercancía, el nombre y la dirección del destinatario, el lugar de la entrega, la naturaleza, el valor, el número, el peso, el volumen y las características de las cosas, así como las condiciones especiales para el cargue y le informará cuando las mercancías tengan un embalaje especial o una distribución técnica. La falta, inexactitud o insuficiencia de estas indicaciones hará responsable al remitente ante el transportador y el destinatario de los perjuicios que ocurran por precauciones no tomadas en razón de la omisión, falsedad o deficiencia de dichos datos. 
+<Artículo subrogado por el artículo 20 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El remitente indicará al transportador a más tardar al momento de la entrega de la mercancía, el nombre y la dirección del destinatario, el lugar de la entrega, la naturaleza, el valor, el número, el peso, el volumen y las características de las cosas, así como las condiciones especiales para el cargue y le informará cuando las mercancías tengan un embalaje especial o una distribución técnica. La falta, inexactitud o insuficiencia de estas indicaciones hará responsable al remitente ante el transportador y el destinatario de los perjuicios que ocurran por precauciones no tomadas en razón de la omisión, falsedad o deficiencia de dichos datos. 
 
 El destinatario de mercancías provenientes del exterior que se convierta en remitente de las mismas hacia el interior del país, no estará en la obligación de indicar al transportador si las mercancías tienen condiciones especiales para el cargue o si requieren de un embalaje especial o de una distribución técnica para su transporte en el territorio nacional. 
 
@@ -7057,19 +7056,19 @@ Las cláusulas o constancias que contraríen lo dispuesto en este artículo no p
 ## art:1011 — <INFORMES Y DOCUMENTOS DEL REMITENTE ANTES DEL TRANSPORTE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El remitente está obligado a suministrar antes del despacho de las cosas, los informes y documentos que sean necesarios para el cumplimiento del transporte y las formalidades de policía, aduana, sanidad y condiciones de consumo. El transportador no está obligado a examinar si dichos informes o documentos son exactos o suficientes. 
+<Artículo subrogado por el artículo 21 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El remitente está obligado a suministrar antes del despacho de las cosas, los informes y documentos que sean necesarios para el cumplimiento del transporte y las formalidades de policía, aduana, sanidad y condiciones de consumo. El transportador no está obligado a examinar si dichos informes o documentos son exactos o suficientes. 
 
 El remitente es responsable ante el transportador de los perjuicios que puedan resultar de la falta, insuficiencia o irregularidad de dichos informes y documentos, salvo cuando la falta de los documentos recibidos sea imputable al transportador, a sus agentes o dependientes.
 
 ## art:1012 — <EMISIÓN DE LA FACTURA CAMBIARIA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-La factura cambiaria del transporte podrá, también, librarse a cargo del destinatario, en cuyo caso el nombre de éste se insertará a continuación del nombre del remitente. En este evento, se aplicarán las reglas contenidas en la sección VII del Capítulo V del Título III del Libro III de este Código.
+<Artículo subrogado por el artículo 22 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> La factura cambiaria del transporte podrá, también, librarse a cargo del destinatario, en cuyo caso el nombre de éste se insertará a continuación del nombre del remitente. En este evento, se aplicarán las reglas contenidas en la sección VII del Capítulo V del Título III del Libro III de este Código.
 
 ## art:1013 — <ENTREGA DE MERCANCÍAS Y RESPONSABILIDAD DEL TRANSPORTADOR>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El remitente deberá entregar las mercancías al transportador debidamente embaladas y rotuladas, conforme a las exigencias propias de su naturaleza, so pena de indemnizar los daños que ocurran por falta de deficiencia del embalaje o de la información. 
+<Artículo subrogado por el artículo 23 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El remitente deberá entregar las mercancías al transportador debidamente embaladas y rotuladas, conforme a las exigencias propias de su naturaleza, so pena de indemnizar los daños que ocurran por falta de deficiencia del embalaje o de la información. 
 
 No obstante, el transportador será responsable de los daños ocasionados por el manejo inadecuado de las mercancías y además responderá por los perjuicios provenientes de la falta o deficiencia de embalaje, cuando, a sabiendas de estas circunstancias, se haga cargo de transportarlas, si la naturaleza o condición de la cosa corresponde a la indicada por el remitente. 
 
@@ -7083,21 +7082,21 @@ Tratándose de cosas corruptibles que empiecen a dañarse en el curso del transp
 ## art:1015 — <COSAS DE CARÁCTER PELIGROSO O RESTRINGIDO>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El remitente está obligado a informar al transportador del carácter peligroso o restringido de las mercancías que tengan esta naturaleza y que requieran especiales manejos y de las precauciones que deben adoptarse. 
+<Artículo subrogado por el artículo 24 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El remitente está obligado a informar al transportador del carácter peligroso o restringido de las mercancías que tengan esta naturaleza y que requieran especiales manejos y de las precauciones que deben adoptarse. 
 
 El transportador no podrá transportar las mercancías que, por su mal estado, embalaje, acondicionamiento u otras circunstancias graves que los reglamentos señalen, puedan constituir peligro evidente, a menos que se cumplan los requisitos que tales reglamentos impongan.
 
 ## art:1016 — <REDUCCIÓN O MERMA NATURAL>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Cuando se trate de cosas que por su naturaleza sufran reducción en el peso o volumen por el solo hecho del transporte, el transportador no responderá de la reducción o merma normal, determinada según la costumbre o los reglamentos oficiales. 
+<Artículo subrogado por el artículo 25 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Cuando se trate de cosas que por su naturaleza sufran reducción en el peso o volumen por el solo hecho del transporte, el transportador no responderá de la reducción o merma normal, determinada según la costumbre o los reglamentos oficiales. 
 
 Expedida una sola carta de porte o remesa terrestre de carga, si las cosas transportadas se dividen en lotes, bultos o paquetes, especificándolos, la reducción o merma natural se calculará separadamente para cada uno de ellos, cuando pueda establecerse su peso, volumen o cantidad.
 
 ## art:1017 — <DIVERGENCIAS SOBRE EL ESTADO DE LAS COSAS>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Las divergencias sobre el estado de la cosa, o sobre su embalaje, acondicionamiento, peso naturaleza, volumen y demás indicaciones del contrato, se decidirán por peritación. 
+<Artículo subrogado por el artículo 26 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Las divergencias sobre el estado de la cosa, o sobre su embalaje, acondicionamiento, peso naturaleza, volumen y demás indicaciones del contrato, se decidirán por peritación. 
 
 Las cosas objeto de controversia, mientras ésta se decide, podrán ser depositadas por el transportador conforme a las normas que regulen el depósito. 
 
@@ -7108,7 +7107,7 @@ Si el retiro tuviere lugar durante el viaje, el transportador tendrá derecho a 
 ## art:1018 — <CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Cuando el reglamento dictado por el Gobierno así lo exija, el transportador estará obligado a expedir carta de porte, conocimiento o póliza de embarque o remesa terrestre de carga. 
+<Artículo subrogado por el artículo 27 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Cuando el reglamento dictado por el Gobierno así lo exija, el transportador estará obligado a expedir carta de porte, conocimiento o póliza de embarque o remesa terrestre de carga. 
 
 La carta de porte y el conocimiento o póliza de embarque deberán contener las indicaciones previstas en el artículo 768. Su devolución sin observaciones hace presumir el cumplimiento del contrato por parte del transportador. 
 
@@ -7119,7 +7118,7 @@ Para los eventos no reglados, el transportador estará obligado a expedir entre 
 ## art:1019 — <NEGOCIABILIDAD DE LA CARTA DE PORTE O CONOCIMIENTO DE EMBARQUE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-De la carta de porte, conocimiento o póliza de embarque se extenderá un original negociable de conformidad con el Título III del Libro III de este Código, que se entregará al remitente. El transportador podrá dejar para sí un duplicado no negociable. 
+<Artículo subrogado por el artículo 28 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> De la carta de porte, conocimiento o póliza de embarque se extenderá un original negociable de conformidad con el Título III del Libro III de este Código, que se entregará al remitente. El transportador podrá dejar para sí un duplicado no negociable. 
 
 La remesa terrestre de carga se expedirá, por lo menos en dos ejemplares; uno de éstos, firmado por el transportador deberá ser entregado al remitente.
 
@@ -7131,19 +7130,19 @@ Cuando se expida carta de porte los derechos reconocidos en este Título al remi
 ## art:1021 — <PRUEBA DEL CONTRATO>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Salvo prueba en contrario, la carta de porte, sin perjuicio de las normas especiales que la rigen, y la remesa terrestre de carga hacen fe de la celebración del contrato, de sus condiciones, del recibo de la mercancía y de lo literalmente expresado en ellas. Las estipulaciones relativas al estado de la mercancía solo constituyen prueba en contra del transportador cuando se trata de indicaciones referentes mal estado aparente de la mercancía o cuando la verificación haya sido hecha por dicho transportador, siempre que en el documento se haga constar esta última circunstancia. 
+<Artículo subrogado por el artículo 29 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Salvo prueba en contrario, la carta de porte, sin perjuicio de las normas especiales que la rigen, y la remesa terrestre de carga hacen fe de la celebración del contrato, de sus condiciones, del recibo de la mercancía y de lo literalmente expresado en ellas. Las estipulaciones relativas al estado de la mercancía solo constituyen prueba en contra del transportador cuando se trata de indicaciones referentes mal estado aparente de la mercancía o cuando la verificación haya sido hecha por dicho transportador, siempre que en el documento se haga constar esta última circunstancia. 
 
 Cuando en la carta de porte no se indique la calidad y el estado en que se encuentren las cosas, se presumirá que han sido entregadas al transportador sanas en buenas condiciones y de calidad mediana.
 
 ## art:1022 — <LIBERTAD PROBATORIA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El contrato, cuando falte la carta de porte, el conocimiento de embarque o la remesa terrestre de carga, deberá probarse conforme a lo previsto en la ley.
+<Artículo subrogado por el artículo 30 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El contrato, cuando falte la carta de porte, el conocimiento de embarque o la remesa terrestre de carga, deberá probarse conforme a lo previsto en la ley.
 
 ## art:1023 — <DISPOSICIÓN DE LA COSA POR PARTE DEL REMITENTE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El remitente tendrá derecho, a condición de cumplir todas sus obligaciones resultantes del contrato de transporte, a disponer de la mercancía sea retirándola del sitio de partida o del de destino, sea deteniéndola durante la ruta, sea disponiendo su entrega en el lugar de destino o durante la ruta a persona distinta del destinatario designado en la carta de porte, el conocimiento de embarque o la remesa terrestre de carga o sea solicitando su retorno al sitio de partida, siempre en que el ejercicio de tal derecho no ocasione perjuicio al transportador ni a otros remitentes con la obligación de reembolsar los gastos que motive. 
+<Artículo subrogado por el artículo 31 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El remitente tendrá derecho, a condición de cumplir todas sus obligaciones resultantes del contrato de transporte, a disponer de la mercancía sea retirándola del sitio de partida o del de destino, sea deteniéndola durante la ruta, sea disponiendo su entrega en el lugar de destino o durante la ruta a persona distinta del destinatario designado en la carta de porte, el conocimiento de embarque o la remesa terrestre de carga o sea solicitando su retorno al sitio de partida, siempre en que el ejercicio de tal derecho no ocasione perjuicio al transportador ni a otros remitentes con la obligación de reembolsar los gastos que motive. 
 
 En el caso de que la ejecución de las órdenes del remitente sea imposible, el transportador deberá avisarlo inmediatamente. 
 
@@ -7154,7 +7153,7 @@ El derecho del remitente cesará en el momento que comience el del destinatario,
 ## art:1024 — <DISPOSICIÓN DE LA COSA POR PARTE DEL DESTINATARIO>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Salvo en los casos indicados en el artículo precedente, el destinatario tiene derecho, desde la llegada de la mercancía al punto de destino, a solicitar del transportador que le entregue la mercancía, previo el cumplimiento de las obligaciones contenidas en el artículo 1009 o a la aceptación de la factura cambiaria, según el caso, y al cumplimiento de las demás condiciones indicadas en el contrato de transporte. 
+<Artículo subrogado por el artículo 32 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Salvo en los casos indicados en el artículo precedente, el destinatario tiene derecho, desde la llegada de la mercancía al punto de destino, a solicitar del transportador que le entregue la mercancía, previo el cumplimiento de las obligaciones contenidas en el artículo 1009 o a la aceptación de la factura cambiaria, según el caso, y al cumplimiento de las demás condiciones indicadas en el contrato de transporte. 
 
 Cuando se expida carta de porte, su tenedor deberá pagar las cantidades y cumplir las obligaciones a su cargo de conformidad con el inciso anterior. 
 
@@ -7163,14 +7162,14 @@ Si se reconociere por el transportador que la mercancía ha sufrido extravío o 
 ## art:1025 — <PAGO DE SUMAS ADICIONALES A CARGO DEL REMITENTE>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Cuando el cambio de destinatario implique cambio en la ruta o un viaje más largo o más dispendioso, se deberá por el remitente el excedente del flete y los mayores gastos que ocasione dicho cambio al transportador. 
+<Artículo subrogado por el artículo 33 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Cuando el cambio de destinatario implique cambio en la ruta o un viaje más largo o más dispendioso, se deberá por el remitente el excedente del flete y los mayores gastos que ocasione dicho cambio al transportador. 
 
 Esta misma regla se aplicará cuando se cambie la ruta o modo de transporte convenidos, por orden del remitente o del destinatario; pero en este caso el excedente del flete y los gastos adicionales se pagarán por la parte que ordene el cambio de ruta o modo de transporte.
 
 ## art:1026 — <AVISO DE ARRIBO DE LA MERCANCÍA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Salvo estipulaciones en contrario, el transportador deberá avisar al destinatario la llegada de la mercancía. 
+<Artículo subrogado por el artículo 34 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Salvo estipulaciones en contrario, el transportador deberá avisar al destinatario la llegada de la mercancía. 
 
 A falta de indicación sobre el sitio y fecha en los cuales debe entregarse la cosa, la entrega se efectuará en las oficinas o bodegas que el transportador determine en el lugar de destino, tan pronto como la cosa haya llegado. 
 
@@ -7179,33 +7178,33 @@ Cuando no sea posible hacer la entrega en el sitio y fecha convenidos el transpo
 ## art:1027 — <ENTREGA DE LA COSA AL PESO, CUENTA O MEDIDA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El transportador sólo estará obligado a entregar la cosa transportada al peso, cuenta o medida, cuando en el documento de transporte se haga constar expresamente su recibo en alguna de estas formas. 
+<Artículo subrogado por el artículo 35 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El transportador sólo estará obligado a entregar la cosa transportada al peso, cuenta o medida, cuando en el documento de transporte se haga constar expresamente su recibo en alguna de estas formas. 
 
 Cuando las cosas a transportar consistan en contenedores, paletas, guacales y en general, unidades cerradas, selladas o precintadas, éstas se considerarán como unidad de carga y deberán ser entregadas por el transportador en el mismo estado en que las recibe.
 
 ## art:1028 — <CUMPLIMIENTO DEL CONTRATO Y RECONOCIMIENTO DE LA MERCANCÍA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Recibida la cosa transportada sin observaciones, se presumirá cumplido el contrato. En los casos de pérdida parcial, saqueo o avería, notorios o apreciables a simple vista, la protesta deberá formularse en el acto de la entrega y recibo de la cosa transportada. 
+<Artículo subrogado por el artículo 36 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Recibida la cosa transportada sin observaciones, se presumirá cumplido el contrato. En los casos de pérdida parcial, saqueo o avería, notorios o apreciables a simple vista, la protesta deberá formularse en el acto de la entrega y recibo de la cosa transportada. 
 
 Cuando por circunstancias especiales que impidan el inmediato reconocimiento de la cosa, sea imposible apreciar su estado en el momento de la entrega, podrá el destinatario recibirla bajo la condición de que se haga su reconocimiento. El examen se hará en presencia del transportador o de la persona por él designada, dentro de los tres días siguientes a la fecha de la entrega.
 
 ## art:1029 — <DEPÓSITO Y DISPOSICIÓN DE LA COSA POR PARTE DEL TRANSPORTADOR>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-Cuando surjan discrepancias acerca del verdadero destinatario, del derecho de éste a recibir la cosa transportada o sobre las condiciones de la entrega, o cuando el destinatario no la reciba conforme a los artículos anteriores, el transportador podrá depositarla o tomar cualquier otra medida precautelativa, a costa del destinatario, mientras el caso se decide por el juez del lugar de la entrega. Podrá también el transportador disponer de las cosas fungibles o susceptibles de daño por su misma naturaleza o estado, con licencia de la autoridad policiva del lugar. En todo caso deberá dar aviso oportuno y detallado al remitente.
+<Artículo subrogado por el artículo 37 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Cuando surjan discrepancias acerca del verdadero destinatario, del derecho de éste a recibir la cosa transportada o sobre las condiciones de la entrega, o cuando el destinatario no la reciba conforme a los artículos anteriores, el transportador podrá depositarla o tomar cualquier otra medida precautelativa, a costa del destinatario, mientras el caso se decide por el juez del lugar de la entrega. Podrá también el transportador disponer de las cosas fungibles o susceptibles de daño por su misma naturaleza o estado, con licencia de la autoridad policiva del lugar. En todo caso deberá dar aviso oportuno y detallado al remitente.
 
 ## art:1030 — <RESPONSABILIDAD POR PÉRDIDA TOTAL O PARCIAL DE LA COSA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El transportador responderá de la pérdida total o parcial de la cosa transportada, de su avería y del retardo en la entrega desde el momento en que la recibe o ha debido hacerse cargo de ella. Esta responsabilidad sólo cesará cuando la cosa sea entregada al destinatario o a la persona designada para recibirla, en el sitio convenido y conforme lo determina este Código. 
+<Artículo subrogado por el artículo 38 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El transportador responderá de la pérdida total o parcial de la cosa transportada, de su avería y del retardo en la entrega desde el momento en que la recibe o ha debido hacerse cargo de ella. Esta responsabilidad sólo cesará cuando la cosa sea entregada al destinatario o a la persona designada para recibirla, en el sitio convenido y conforme lo determina este Código. 
 
 También cesará cuando haya transcurrido el término de cinco días contados a partir del fijado para la entrega o del aviso de que trata el artículo anterior, sin que el interesado se haya presentado a retirarla o recibirla. En este caso el transportador tendrá derecho a que se le pague el bodegaje acostumbrado en la plaza.
 
 ## art:1031 — <VALOR DE LA INDEMNIZACIÓN>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-En caso de pérdida total de la cosa transportada, el monto de la indemnización a cargo del transportador igual al valor declarado por el remitente para la carga afectada. 
+<Artículo subrogado por el artículo 39 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> En caso de pérdida total de la cosa transportada, el monto de la indemnización a cargo del transportador igual al valor declarado por el remitente para la carga afectada. 
 
 Si la pérdida fuere parcial, el monto de la indemnización se determinará de acuerdo con la proporción que la mercancía perdida represente frente al total del despacho. 
 
@@ -7222,14 +7221,14 @@ Para el evento de retardo en la entrega, las partes podrán, de común acuerdo, 
 ## art:1032 — <DAÑO EQUIPARABLE A PÉRDIDA DE LA COSA>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El daño o avería que haga inútiles las cosas transportadas, se equiparará a pérdida de las mismas. Hallándose entre las cosas averiadas algunas piezas ilesas, el destinatario estará obligado a recibirlas, salvo que fuere de las que componen un juego. 
+<Artículo subrogado por el artículo 40 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El daño o avería que haga inútiles las cosas transportadas, se equiparará a pérdida de las mismas. Hallándose entre las cosas averiadas algunas piezas ilesas, el destinatario estará obligado a recibirlas, salvo que fuere de las que componen un juego. 
 
 En los demás casos de daño o avería, el destinatario deberá recibirlas y el transportador estará obligado a cubrir el importe del menoscabo o reducción, en forma proporcional y conforme a lo dispuesto en el artículo anterior.
 
 ## art:1033 — <DERECHO DE RETENCIÓN Y RESTITUCIÓN>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El transportador podrá ejercer el derecho de retención sobre los efectos que conduzca, hasta que le sean pagados el porte y los gastos que haya suplido. 
+<Artículo subrogado por el artículo 41 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El transportador podrá ejercer el derecho de retención sobre los efectos que conduzca, hasta que le sean pagados el porte y los gastos que haya suplido. 
 
 Este derecho se transmitirá de un transportador a otro hasta el último que debe verificar la restitución. 
 
@@ -7238,7 +7237,7 @@ Pasados treinta días desde aquel en el cual el remitente tenga noticia de la re
 ## art:1034 — <REQUISITOS PARA EJERCER EL DERECHO DE RETENCIÓN>
 ubicacion: TÍTULO IV. DEL CONTRATO DE TRANSPORTE > CAPÍTULO III. TRANSPORTE DE COSAS
 
-El derecho de retención podrá ejercer en relación con deudas exigibles del mismo remitente o del mismo destinatario según el caso, derivadas de contratos de transporte anteriores, cuando se reúnan los siguientes requisitos: 
+<Artículo subrogado por el artículo 42 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> El derecho de retención podrá ejercer en relación con deudas exigibles del mismo remitente o del mismo destinatario según el caso, derivadas de contratos de transporte anteriores, cuando se reúnan los siguientes requisitos: 
 
 1) Que entre las partes existen relaciones de la misma índole, y 
 
@@ -7254,7 +7253,7 @@ También podrá el destinatario obtener la entrega inmediata de la cosa transpor
 ## art:1036 — <CONTRATO DE SEGURO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
 
-El seguro es un contrato consensual, bilateral, oneroso, aleatorio y de ejecución sucesiva.
+<Artículo subrogado por el artículo 1o. de la Ley 389 de 1997. El nuevo texto es el siguiente:> El seguro es un contrato consensual, bilateral, oneroso, aleatorio y de ejecución sucesiva.
 
 ## art:1037 — <PARTES EN EL CONTRATO DE SEGURO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
@@ -7322,7 +7321,7 @@ En defecto de cualquiera de estos elementos, el contrato de seguro no producirá
 ## art:1046 — <PRUEBA DEL CONTRATO DE SEGURO - PÓLIZA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
 
-El contrato de seguro se probará por escrito o por confesión.
+<Artículo subrogado por el artículo 3o. de la Ley 389 de 1997. El nuevo texto es el siguiente:> El contrato de seguro se probará por escrito o por confesión.
 
 Con fines exclusivamente probatorios, el asegurador está obligado a entregar en su original, al tomador, dentro de los quince días siguientes a la fecha de su celebración el documento contentivo del contrato de seguro, el cual se denomina póliza, el que deberá redactarse en castellano y firmarse por el asegurador. 
 
@@ -7488,7 +7487,7 @@ En caso de disminución del riesgo, el asegurador deberá reducir la prima estip
 ## art:1066 — <PAGO DE LA PRIMA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
 
-El tomador del seguro está obligado al pago de la prima. Salvo disposición legal o contractual en contrario, deberá hacerlo a más tardar dentro del mes siguiente contado a partir de la fecha de la entrega de la póliza o, si fuere el caso, de los certificados o anexos que se expidan con fundamento en ella.
+<Artículo subrogado por el artículo 81 de la Ley 45 de 1990. El nuevo texto es el siguiente:> El tomador del seguro está obligado al pago de la prima. Salvo disposición legal o contractual en contrario, deberá hacerlo a más tardar dentro del mes siguiente contado a partir de la fecha de la entrega de la póliza o, si fuere el caso, de los certificados o anexos que se expidan con fundamento en ella.
 
 ## art:1067 — <LUGAR DEL PAGO DE LA PRIMA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
@@ -7498,7 +7497,7 @@ El pago de la prima deberá hacerse en el domicilio del asegurador o en el de su
 ## art:1068 — <MORA EN EL PAGO DE LA PRIMA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
 
-La mora en el pago de la prima de la póliza o de los certificados o anexos que se expidan con fundamento en ella, producirá la terminación automática del contrato y dará derecho al asegurador para exigir el pago de la prima devengada y de los gastos causados con ocasión de la expedición del contrato. 
+<Artículo subrogado por el artículo 82 de la Ley 45 de 1990. El nuevo texto es el siguiente:> La mora en el pago de la prima de la póliza o de los certificados o anexos que se expidan con fundamento en ella, producirá la terminación automática del contrato y dará derecho al asegurador para exigir el pago de la prima devengada y de los gastos causados con ocasión de la expedición del contrato. 
 
 Lo dispuesto en el inciso anterior deberá consignarse por parte del asegurador en la carátula de la póliza, en caracteres destacados. 
 
@@ -7588,7 +7587,7 @@ El asegurador no estará obligado a responder si no hasta concurrencia de la sum
 ## art:1080 — <PLAZO PARA EL PAGO DE LA INDEMNIZACIÓN E INTERESES MORATORIOS>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO I. PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES
 
-El asegurador estará obligado a efectuar el pago del siniestro dentro del mes siguiente a la fecha en que el asegurado o beneficiario acredite, aún extrajudicialmente, su derecho ante el asegurador de acuerdo con el artículo 1077. Vencido este plazo, el asegurador reconocerá y pagará al asegurado o beneficiario, además de la obligación a su cargo y sobre el importe de ella, un interés moratorio igual al certificado como bancario corriente por la Superintendencia Bancaria aumentado en la mitad. 
+<Inciso modificado por el parágrafo del Artículo 111 de la Ley 510 de 1999. El nuevo texto es el siguiente:> El asegurador estará obligado a efectuar el pago del siniestro dentro del mes siguiente a la fecha en que el asegurado o beneficiario acredite, aún extrajudicialmente, su derecho ante el asegurador de acuerdo con el artículo 1077. Vencido este plazo, el asegurador reconocerá y pagará al asegurado o beneficiario, además de la obligación a su cargo y sobre el importe de ella, un interés moratorio igual al certificado como bancario corriente por la Superintendencia Bancaria aumentado en la mitad. 
 
  c_comerc+1080+Inc. 1
 
@@ -7839,7 +7838,7 @@ SEGURO DE TRANSPORTE
 ## art:1117 — <CONTENIDO DEL CERTIFICADO DE SEGURO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-Además de las enunciaciones exigidas en el artículo 1047, el certificado de seguro deberá contener: 
+<Artículo subrogado por el artículo 43 del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:> Además de las enunciaciones exigidas en el artículo 1047, el certificado de seguro deberá contener: 
 
 1) La forma como se haya hecho o deba hacerse el transporte; 
 
@@ -7854,7 +7853,7 @@ PARÁGRAFO. En la póliza automática, el certificado de seguro tiene también l
 ## art:1118 — <RESPONSABILIDAD DEL ASEGURADOR EN EL SEGURO DE TRANSPORTE>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-La responsabilidad del asegurador principia desde el momento en que el transportador recibe o ha debido hacerse cargo de las mercancías objeto del seguro y concluye con su entrega al destinatario. 
+<Artículo subrogado por el artículo 44 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> La responsabilidad del asegurador principia desde el momento en que el transportador recibe o ha debido hacerse cargo de las mercancías objeto del seguro y concluye con su entrega al destinatario. 
 
 Con todo, esta responsabilidad podrá extenderse, a voluntad de las partes, a cubrir la permanencia de los bienes asegurados en los lugares iniciales o finales del trayecto asegurado.
 
@@ -7876,7 +7875,7 @@ El asegurador responderá de los daños causados por culpa o dolo de los encarga
 ## art:1122 — <CONTENIDO DE LA INDEMNIZACIÓN>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-En la suma asegurada se entenderá incluido, además del costo de las mercancías aseguradas, en el lugar de destino, el lucro cesante si así se hubiere convenido. 
+<Artículo subrogado por el artículo 45 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> En la suma asegurada se entenderá incluido, además del costo de las mercancías aseguradas, en el lugar de destino, el lucro cesante si así se hubiere convenido. 
 
 En los seguros relativos al transporte terrestre, si éste lo realiza un tercero, salvo pacto en contrario, la indemnización por concepto de daño emergente a cargo del asegurador tendrá como límite máximo el valor declarado por el remitente según el inciso tercero del artículo 1010, o en su defecto, el valor determinado conforme al inciso sexto del artículo 1031 de este Código.
 
@@ -7888,7 +7887,7 @@ El asegurado no podrá hacer dejación total o parcial de los objetos averiados,
 ## art:1124 — <PERSONAS QUE PUEDEN CONTRATAR EL SEGURO DE TRANSPORTE>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-Podrá contratar el seguro de transporte no sólo el propietario de la mercancía, sino también todos aquellos que tengan responsabilidad en su conservación, tales como el comisionista o la empresa de transporte, expresando en la póliza si el interés asegurado es la mercancía o la responsabilidad por el transporte de la mercancía.
+<Artículo subrogado por el artículo 46 del Decreto extraordinario 01 de enero 2 de 1990. El nuevo texto es el siguiente:> Podrá contratar el seguro de transporte no sólo el propietario de la mercancía, sino también todos aquellos que tengan responsabilidad en su conservación, tales como el comisionista o la empresa de transporte, expresando en la póliza si el interés asegurado es la mercancía o la responsabilidad por el transporte de la mercancía.
 
 ## art:1125 — <INAPLICABILIDAD NORMATIVA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
@@ -7907,14 +7906,14 @@ SEGURO DE RESPONSABILIDAD
 ## art:1127 — <DEFINICIÓN DE SEGURO DE RESPONSABILIDAD>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-El seguro de responsabilidad impone a cargo del asegurador la obligación de indemnizar los perjuicios patrimoniales que cause el asegurado con motivo de determinada responsabilidad en que incurra de acuerdo con la ley y tiene como propósito el resarcimiento de la víctima, la cual, en tal virtud, se constituye en el beneficiario de la indemnización, sin perjuicio de las prestaciones que se le reconozcan al asegurado. 
+<Artículo subrogado por el artículo 84 de la Ley 45 de 1990. El nuevo texto es el siguiente:> El seguro de responsabilidad impone a cargo del asegurador la obligación de indemnizar los perjuicios patrimoniales que cause el asegurado con motivo de determinada responsabilidad en que incurra de acuerdo con la ley y tiene como propósito el resarcimiento de la víctima, la cual, en tal virtud, se constituye en el beneficiario de la indemnización, sin perjuicio de las prestaciones que se le reconozcan al asegurado. 
 
 Son asegurables la responsabilidad contractual y la extracontractual, al igual que la culpa grave, con la restricción indicada en el artículo 1055.
 
 ## art:1128 — <CUBRIMIENTOS DE LOS COSTOS DEL PROCESO Y EXCEPCIONES>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-El asegurador responderá, además, aún en exceso de la suma asegurada por los costos del proceso que el tercero damnificado o sus causahabientes promuevan en su contra o la del asegurado, con las salvedades siguientes: 
+<Artículo subrogado por el artículo 85 de la Ley 45 de 1990. El nuevo texto es el siguiente:> El asegurador responderá, además, aún en exceso de la suma asegurada por los costos del proceso que el tercero damnificado o sus causahabientes promuevan en su contra o la del asegurado, con las salvedades siguientes: 
 
 1) Si la responsabilidad proviene de dolo o está expresamente excluida del contrato de seguro; 
 
@@ -7935,7 +7934,7 @@ El seguro de responsabilidad profesional válidamente contratado terminará cuan
 ## art:1131 — <OCURRENCIA DEL SINIESTRO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-En el seguro de responsabilidad se entenderá ocurrido el siniestro en el momento en que acaezca el hecho externo imputable al asegurado, fecha a partir de la cual correrá la prescripción respecto de la víctima. Frente al asegurado ello ocurrirá desde cuando la víctima le formula la petición judicial o extrajudicial.
+<Artículo subrogado por el artículo 86 de la Ley 45 de 1990. El nuevo texto es el siguiente:> En el seguro de responsabilidad se entenderá ocurrido el siniestro en el momento en que acaezca el hecho externo imputable al asegurado, fecha a partir de la cual correrá la prescripción respecto de la víctima. Frente al asegurado ello ocurrirá desde cuando la víctima le formula la petición judicial o extrajudicial.
 
 ## art:1132 — <PRELACIÓN DE CRÉDITO EN CASO DE LIQUIDACIÓN OBLIGATORIA>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
@@ -7945,7 +7944,7 @@ En caso de quiebra o concurso de acreedores del asegurado, el crédito del damni
 ## art:1133 — <ACCIÓN DIRECTA CONTRA EL ASEGURADOR>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-En el seguro de responsabilidad civil los damnificados tienen acción directa contra el asegurador. Para acreditar su derecho ante el asegurador de acuerdo con al artículo 1077, la víctima en ejercicio de la acción directa podrá en un solo proceso demostrar la responsabilidad del asegurado y demandar la indemnización del asegurador. 
+<Artículo subrogado por el artículo 87 de la Ley 45 de 1990. El nuevo texto es el siguiente:> En el seguro de responsabilidad civil los damnificados tienen acción directa contra el asegurador. Para acreditar su derecho ante el asegurador de acuerdo con al artículo 1077, la víctima en ejercicio de la acción directa podrá en un solo proceso demostrar la responsabilidad del asegurado y demandar la indemnización del asegurador. 
 
 SECCIÓN V. 
 
@@ -7954,7 +7953,7 @@ REASEGURO
 ## art:1134 — <CONTRATO DE REASEGURO>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO II. SEGUROS DE DAÑOS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
 
-En virtud del contrato de reaseguro el reasegurador contrae con el asegurador directo las mismas obligaciones que éste ha contraído con el tomador o asegurado y comparte análoga suerte en el desarrollo del contrato de seguro, salvo que se compruebe la mala fe del asegurador, en cuyo caso el contrato de reaseguro no surtirá efecto alguno. 
+<Artículo subrogado por el artículo 88 de la Ley 45 de 1990. El nuevo texto es el siguiente:> En virtud del contrato de reaseguro el reasegurador contrae con el asegurador directo las mismas obligaciones que éste ha contraído con el tomador o asegurado y comparte análoga suerte en el desarrollo del contrato de seguro, salvo que se compruebe la mala fe del asegurador, en cuyo caso el contrato de reaseguro no surtirá efecto alguno. 
 
 La responsabilidad del reasegurador no cesará, en ningún caso, con anterioridad a los términos de prescripción de las acciones que se derivan del contrato de seguro. 
 
@@ -8008,7 +8007,7 @@ Será beneficiario a título gratuito aquel cuya designación tiene por causa la
 ## art:1142 — <DESIGNACIÓN DE BENEFICIARIOS>
 ubicacion: TÍTULO V. DEL CONTRATO DE SEGURO > CAPÍTULO III. SEGUROS DE PERSONAS SECCIÓN I. PRINCIPIOS COMUNES A LOS SEGUROS DE PERSONAS
 
-Cuando no se designe beneficiario, o la designación se haga ineficaz o quede sin efecto por cualquier causa, tendrán la calidad de tales el cónyuge del asegurado, en la mitad del seguro, y los herederos de éste en la otra mitad. 
+<Aparte subrayado CONDICIONALMENTE EXEQUIBLE> Cuando no se designe beneficiario, o la designación se haga ineficaz o quede sin efecto por cualquier causa, tendrán la calidad de tales el cónyuge del asegurado, en la mitad del seguro, y los herederos de éste en la otra mitad. 
 
 Igual regla se aplicará en el evento de que se designe genéricamente como beneficiarios a los herederos del asegurado.
 
@@ -13450,10 +13449,10 @@ ubicacion: TÍTULO I. DEL CONCORDATO PREVENTIVO
 
 <Artículo derogado por el artículo 61 del Decreto extraordinario 350 de 1989>.
 
-## art:1913 — A
+## art:1913 — ACEPTACIÓN DE LA SOLICTUD DE CONCORDATO - PROCEDIMIENTO
 ubicacion: TÍTULO I. DEL CONCORDATO PREVENTIVO
 
-<ACEPTACIÓN DE LA SOLICTUD DE CONCORDATO - PROCEDIMIENTO>. <Artículo derogado por el artículo 61 del Decreto extraordinario 350 de 1989>.
+<Artículo derogado por el artículo 61 del Decreto extraordinario 350 de 1989>.
 
 ## art:1914 — <MEDIDAS MIENTRAS SE TRAMITA EL CONCORDATO PREVENTIVO>
 ubicacion: TÍTULO I. DEL CONCORDATO PREVENTIVO

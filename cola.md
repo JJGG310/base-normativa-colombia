@@ -371,6 +371,31 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23).
   6°» sin punto) queda pegado al 5. Hace falta decidir cómo identificar los artículos del
   tratado (¿`art:convenio-6`?) y ajustar el parser. No se escribió archivo.
 
+## P7 — CPTSS 2025, notarial, estatutarias, PND, reformas tributarias · **cargada** (`./cargar_p7.sh`)
+
+Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
+
+- [x] Procesal laboral: `co:ley:2452:2025` (331) — nuevo CPTSS.
+- [x] Administrativo, notarial, familia: `co:decreto:19:2012` (238) · `co:decreto:960:1970` (233)
+- [x] Estatutarias: `co:ley:1095:2006` (10) · `co:ley-estatutaria:137:1994` (59)
+- [x] PND: `co:ley:1753:2015` (268) · `co:ley:1955:2019` (336) · `co:ley:2294:2023` (372)
+- [x] Tributario y cartera: `co:ley:6:1992` (140) · `co:ley:223:1995` (285, fecha pasada a
+  mano: la fuente escribe «de 22 diciembre 1995» sin «de») · `co:ley:788:2002` (118) ·
+  `co:ley:1607:2012` (217) · `co:ley:1943:2018` (122) · `co:ley:1231:2008` (10) ·
+  `co:ley:1066:2006` (21) · `co:decreto-ley:403:2020` (166)
+- [x] Nacionalidad, insolvencia, vivienda, contratación: `co:ley:43:1993` (39) ·
+  `co:ley:2445:2025` (45) · `co:ley:546:1999` (58) · `co:ley:1882:2018` (21)
+- [!] `co:ley:294:1996` — 30 de 31: **el art. 6 no está en la fuente.** Senado lo lista en
+  el `<select>` (`#6`) pero la página no trae ni el ancla ni el texto (del 5 salta al 7).
+  No es el parser. Falta sacarlo de otra fuente oficial (Gestor) y anotarlo.
+- [!] `co:ley:54:1990` — uniones maritales. Senado 404 (`ley_0054_1990.html`); en el
+  Gestor (`i=30896`) `ingesta_gestor.py` saca 0 artículos porque la página usa
+  `<a id="1">` en vez de `<a name="1">` (mezclado: arts. 1 y 3 con `id=`, el resto con
+  `name=`). Admitir `id=` en `ANCLA` saca los 9, pero cambia el corte de 23 DUR ya
+  cargados (tienen cientos de `<a id="N">` sin `name`), y además el art. 1 sale con un
+  «1.» sobrante y el art. 9 con las firmas pegadas (el Gestor no corta en firmas). El
+  arreglo tiene que ser acotado a esta página, no global.
+
 ## Bloqueados
 
 - [!] 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).

@@ -248,7 +248,7 @@ El funcionario autorizará la inscripción una vez cumplidos todos los requisito
 ## art:40 — <NO SE AUTORIZA SI FALTAN REGISTROS>
 ubicacion: TITULO V. DEL MODO DE HACER EL REGISTRO
 
-El funcionario no autorizará la inscripción sentada a la que faltaren requisitos que impidan la autorización. El registro quedará, entonces, en suspenso hasta cuando se cumplan los requisitos faltantes. En todo caso, el funcionario dará fe con su firma de que la diligencia se suscribió en su presencia, con indicación de la fecha en que ella ocurrió. 
+<Artículo modificado por el artículo 7o. del Decreto 2158 de 1970. El nuevo texto es el siguiente:> El funcionario no autorizará la inscripción sentada a la que faltaren requisitos que impidan la autorización. El registro quedará, entonces, en suspenso hasta cuando se cumplan los requisitos faltantes. En todo caso, el funcionario dará fe con su firma de que la diligencia se suscribió en su presencia, con indicación de la fecha en que ella ocurrió. 
 
 Cuando se llenen los requisitos faltantes, el funcionario autorizará con su firma el registro, dejando expresa constancia de la fecha de dicha autorización.
 
@@ -260,7 +260,7 @@ Cuando alguna inscripción ya extendida dejare de ser firmada por alguno o algun
 ## art:42 — <INEXISTENCIA DEL REGISTRO>
 ubicacion: TITULO V. DEL MODO DE HACER EL REGISTRO
 
-La inscripción que no haya sido autorizada por el funcionario no adquiere la calidad de registro y es inexistente como tal. Empero, si faltare solamente la firma del funcionario, y la omisión se debiere a causas diferentes de las que justifiquen la negativa de la autorización, podrá la Superintendencia de Notariado y Registro, previa comprobación sumaria de los hechos, disponer que la inscripción sea suscrita por quien se halle ejerciendo el cargo. 
+<Artículo modificado por el artículo 8o. del Decreto 2158 de 1970. El nuevo texto es el siguiente:> La inscripción que no haya sido autorizada por el funcionario no adquiere la calidad de registro y es inexistente como tal. Empero, si faltare solamente la firma del funcionario, y la omisión se debiere a causas diferentes de las que justifiquen la negativa de la autorización, podrá la Superintendencia de Notariado y Registro, previa comprobación sumaria de los hechos, disponer que la inscripción sea suscrita por quien se halle ejerciendo el cargo. 
 
 Si la firma faltare en el ejemplar que se conserva en el Servicio Nacional de Inscripción, éste podrá ser suscrito por el jefe de dicha dependencia, previa autorización de la Superintendencia de Notariado y Registro.
 
@@ -336,7 +336,7 @@ Los testigos declararán ante el funcionario sobre los hechos de que tengan cono
 ## art:50 — <REGISTRO DE NACIMIENTO EXTEMPORANEO>
 ubicacion: TITULO VI. DEL REGISTRO DE NACIMIENTOS
 
-Cuando se pretenda registrar un nacimiento fuera del término prescrito, el interesado deberá acreditarlo con documentos auténticos, o con copia de las actas de las partidas parroquiales respecto de las personas bautizadas en el seno de la Iglesia Católica o de las anotaciones de origen religioso correspondientes a personas de otros credos, o en últimas, con fundamento en declaraciones juramentadas, presentadas ante el funcionario encargado del registro, por dos testigos hábiles que hayan presenciado el hecho o hayan tenido noticia directa y fidedigna de él, expresando los datos indispensables para la inscripción, en la forma establecida por el artículo 49 del presente Decreto. 
+<Artículo modificado por el artículo 1o. del Decreto 999 de 1988. El nuevo texto es el siguiente:> Cuando se pretenda registrar un nacimiento fuera del término prescrito, el interesado deberá acreditarlo con documentos auténticos, o con copia de las actas de las partidas parroquiales respecto de las personas bautizadas en el seno de la Iglesia Católica o de las anotaciones de origen religioso correspondientes a personas de otros credos, o en últimas, con fundamento en declaraciones juramentadas, presentadas ante el funcionario encargado del registro, por dos testigos hábiles que hayan presenciado el hecho o hayan tenido noticia directa y fidedigna de él, expresando los datos indispensables para la inscripción, en la forma establecida por el artículo 49 del presente Decreto. 
 
 Los documentos acompañados a la solicitud de inscripción se archivarán en carpeta con indicación del código de folio que respaldan.
 
@@ -359,7 +359,7 @@ La expresión de los datos de la sección genérica constituye requisito esencia
 ## art:53 — <APELLIDOS INSCRITOS>
 ubicacion: TITULO VI. DEL REGISTRO DE NACIMIENTOS
 
-En el Registro Civil de Nacimiento se inscribirán como apellidos del inscrito(a), el primer apellido de la madre y el primer apellido del padre, en el orden que decidan de común acuerdo. En caso de no existir acuerdo, el funcionario encargado de llevar el Registro Civil de Nacimiento resolverá el desacuerdo mediante sorteo, de conformidad con el procedimiento que para tal efecto establezca la Registraduría Nacional del Estado Civil. A falta de reconocimiento como hijo(a) de uno de los padres, se asignarán los apellidos del padre o madre que asiente el Registro Civil de Nacimiento. 
+<Artículo modificado por el artículo 2 de la Ley 2129 de 2021. El nuevo texto es el siguiente:> En el Registro Civil de Nacimiento se inscribirán como apellidos del inscrito(a), el primer apellido de la madre y el primer apellido del padre, en el orden que decidan de común acuerdo. En caso de no existir acuerdo, el funcionario encargado de llevar el Registro Civil de Nacimiento resolverá el desacuerdo mediante sorteo, de conformidad con el procedimiento que para tal efecto establezca la Registraduría Nacional del Estado Civil. A falta de reconocimiento como hijo(a) de uno de los padres, se asignarán los apellidos del padre o madre que asiente el Registro Civil de Nacimiento. 
 
 Esta norma rige para los hijos matrimoniales, extramatrimoniales, adoptivos, de unión marital de hecho, de parejas conformadas por el mismo sexo y con paternidad o maternidad declarada judicialmente. 
 
@@ -513,7 +513,7 @@ Si la defunción ocurre en cuartel, convento, hospital, clínica, asilo, cárcel
 ## art:75 — <DENUNCIO EXTEMPORANEO>
 ubicacion: TITULO VIII. DEL REGISTRO DE DEFUNCIONES
 
-Transcurridos dos (2) días desde la defunción sin que se haya inscrito, a su registro se procederá solo mediante orden impartida por el inspector de policía, previa solicitud escrita del interesado en la que se explicarán las causas del retardo. 
+<Artículo modificado por el artículo 1o. del Decreto 1536 de 1989. El nuevo texto es el siguiente:> Transcurridos dos (2) días desde la defunción sin que se haya inscrito, a su registro se procederá solo mediante orden impartida por el inspector de policía, previa solicitud escrita del interesado en la que se explicarán las causas del retardo. 
 
 El funcionario administrativo impartirá la orden de inscripción y en todo caso calificará las causas del retardo y si considera que éste se debe a dolo o malicia, impondrá al responsable, mediante resolución motivada, multa de cincuenta ($ 50.00) a mil ($ 1.000.00) pesos, sin perjuicio de la acción penal a que hubiere lugar. 
 
@@ -611,17 +611,17 @@ Los errores en que se haya incurrido al realizar una inscripción, se corregirá
 ## art:89 — <ALTERACIÓN DE INSCRIPCIONES DEL ESTADO CIVIL>
 ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
 
-Las inscripciones del estado civil, una vez autorizadas, solamente podrán ser alteradas en virtud de decisión judicial en firme, o por disposición de los interesados, en los casos del modo y con las formalidades establecidas en este Decreto.
+<Artículo modificado por el artículo 2o. del Decreto 999 de 1988. El nuevo texto es el siguiente:> Las inscripciones del estado civil, una vez autorizadas, solamente podrán ser alteradas en virtud de decisión judicial en firme, o por disposición de los interesados, en los casos del modo y con las formalidades establecidas en este Decreto.
 
 ## art:90 — <RECTIFICACIÓN O CORRECCIÓN DE UN REGISTRO>
 ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
 
-Sólo podrán solicitar la rectificación o corrección de un registro o suscribir la respectiva escritura pública, las personas a las cuales se refiere éste, por sí o por medio de sus representantes legales o sus herederos.
+<Artículo modificado por el artículo 3o. del Decreto 999 de 1988. El nuevo texto es el siguiente:> Sólo podrán solicitar la rectificación o corrección de un registro o suscribir la respectiva escritura pública, las personas a las cuales se refiere éste, por sí o por medio de sus representantes legales o sus herederos.
 
 ## art:91 — <NOTAS PARA CORRECCIÓN DE ERRORES>
 ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
 
-Una vez realizada la inscripción del estado civil, el funcionario encargado del registro, a solicitud escrita del interesado, corregirá los errores mecanográficos, ortográficos y aquellos que se establezcan con la comparación del documento antecedente o con la sola lectura del folio, mediante la apertura de uno nuevo donde se consignarán los datos correctos. Los folios llevarán notas de recíproca referencia. Los errores en la inscripción, diferentes a los señalados en el inciso anterior, se corregirán por escritura pública en la que expresará el otorgante las razones de la corrección y protocolizará los documentos que la fundamenten. Una vez autorizada la escritura, se procederá a la sustitución del folio correspondiente. En el nuevo se consignarán los datos correctos y en los dos se colocarán notas de referencia recíproca. 
+<Artículo modificado por el artículo 4o. del Decreto 999 de 1988. El nuevo texto es el siguiente:> Una vez realizada la inscripción del estado civil, el funcionario encargado del registro, a solicitud escrita del interesado, corregirá los errores mecanográficos, ortográficos y aquellos que se establezcan con la comparación del documento antecedente o con la sola lectura del folio, mediante la apertura de uno nuevo donde se consignarán los datos correctos. Los folios llevarán notas de recíproca referencia. Los errores en la inscripción, diferentes a los señalados en el inciso anterior, se corregirán por escritura pública en la que expresará el otorgante las razones de la corrección y protocolizará los documentos que la fundamenten. Una vez autorizada la escritura, se procederá a la sustitución del folio correspondiente. En el nuevo se consignarán los datos correctos y en los dos se colocarán notas de referencia recíproca. 
 
 Las correcciones a que se refiere el presente artículo se efectuarán con el fin de ajustar la inscripción a la realidad y no para alterar el estado civil.
 
@@ -633,12 +633,12 @@ ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
 ## art:93 — <CORRECCIONES Y SUS EFECTOS>
 ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
 
-Las correcciones de las inscripciones en el registro del estado civil, realizadas por el funcionario encargado o dispuestas por los interesados en escritura pública, surtirán efectos, sin perjuicio de las decisiones judiciales que sobre ellas recayeren y tendrán el valor y el alcance que en ley les corresponda.
+<Artículo modificado por el artículo 5o. del Decreto 999 de 1988. El nuevo texto es el siguiente:> Las correcciones de las inscripciones en el registro del estado civil, realizadas por el funcionario encargado o dispuestas por los interesados en escritura pública, surtirán efectos, sin perjuicio de las decisiones judiciales que sobre ellas recayeren y tendrán el valor y el alcance que en ley les corresponda.
 
 ## art:94 — <ESCRITURA PÚBLICA PARA SUSTITUIR, RECTIFICAR, CORREGIR O ADICIONAR REALIZADA POR EL PROPIO INSCRITO>
 ubicacion: TITULO IX. CORRECCION Y RECONSTRUCCION DE ACTAS Y FOLIOS
 
-<Artículo subrogado por el artículo 6o. del Decreto 999 de 1988. El nuevo texto es el siguiente:> El propio inscrito podrá disponer, por una sola vez, mediante escritura pública, la modificación del registro, para sustituir, rectificar, corregir o adicionar su nombre, todo con el fin de fijar su identidad personal. 
+<Aparte subrayado CONDICIONALMENTE exequible> <Artículo subrogado por el artículo 6o. del Decreto 999 de 1988. El nuevo texto es el siguiente:> El propio inscrito podrá disponer, por una sola vez, mediante escritura pública, la modificación del registro, para sustituir, rectificar, corregir o adicionar su nombre, todo con el fin de fijar su identidad personal. 
 
 El instrumento a que se refiere el presente artículo deberá inscribirse en el correspondiente registro civil del interesado, para lo cual se procederá a la apertura de un nuevo folio. El original y el sustituto llevarán notas de recíproca referencia.
 
@@ -784,7 +784,7 @@ Tanto para la expedición de tarjetas de identidad, como para la cédula de ciud
 ## art:118 — <FUNCIONARIOS ENCARGADOS DE LLEVAR EL REGISTRO DEL ESTADO CIVIL>
 ubicacion: TITULO XII. FUNCIONARIOS ENCARGADOS DELLEVAR EL REGISTRO
 
-Son encargados de llevar el registro civil de las personas:
+<Artículo modificado por el artículo 77 de la Ley 962 de 2005. El nuevo texto es el siguiente:> Son encargados de llevar el registro civil de las personas:
 
 1. Dentro del territorio nacional los Registradores Especiales, Auxiliares y Municipales del Estado Civil.
 
@@ -807,7 +807,7 @@ La Superintendencia de Notariado y Registro proveerá a los funcionarios encarga
 ## art:121 — <VIGILANCIA SOBRE EL REGISTRO DEL ESTADO CIVIL>
 ubicacion: TITULO XII. FUNCIONARIOS ENCARGADOS DELLEVAR EL REGISTRO
 
-La Superintendencia de Notariado y Registro ejercerá vigilancia sobre el registro del estado civil de las personas y sobre los funcionarios encargados de llevarlo en cuanto a tal labor se refiere, y les prestará directamente o en cooperación con la registraduría Nacional del Estado Civil, la asistencia técnica que precisaren. 
+<Artículo modificado por el artículo 11 del Decreto 2158 de 1970. El nuevo texto es el siguiente:> La Superintendencia de Notariado y Registro ejercerá vigilancia sobre el registro del estado civil de las personas y sobre los funcionarios encargados de llevarlo en cuanto a tal labor se refiere, y les prestará directamente o en cooperación con la registraduría Nacional del Estado Civil, la asistencia técnica que precisaren. 
 
 PARAGRAFO. Igualmente la Superintendencia, conforme a la reglamentación que expida el Gobierno, ejercerá vigilancia sobre las funciones que el Servicio Nacional de Inscripción ejerza en relación con el registro del estado civil de las personas.
 

@@ -2,9 +2,10 @@
 """Construye index.db desde los .md y relaciones.csv. El .db es desechable.
 
     python3 build.py          # reconstruye index.db
+    python3 build.py -v       # + top 20 normas origen de aristas que faltan por cargar
     python3 build.py --check  # autotest
 """
-import csv, os, re, sqlite3, sys, glob
+import csv, datetime, os, re, sqlite3, sys, glob
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(RAIZ, "index.db")
@@ -20,7 +21,17 @@ PARCIAL = "INEXEQUIBLE EN PARTE — alcance no registrado; verificar en la sente
 # Nota de vigencia que la fuente (Senado/SUIN) pone al inicio del propio texto:
 # «<Artículo derogado por…>», «<Artículo INEXEQUIBLE>». Si no está al inicio (p. ej.
 # «PARÁGRAFO. <Artículo INEXEQUIBLE>») o es parcial («salvo…», «en lo referente…»), no cuenta.
-RE_MARCA = re.compile(r"<Art[íi]culo (?:declarado )?(?:derogad[oa]|INEXEQUIBLE)[^>]{0,300}>?", re.I)
+# También «<Ley 1288 de 2009 declarada INEXEQUIBLE>» (el artículo lo creó una ley que cayó entera).
+RE_MARCA = re.compile(r"<(?:Art[íi]culo (?:declarado )?(?:derogad[oa]|INEXEQUIBLE)"
+                      r"|Ley [^<>]{1,40}? (?:derogada|declarada INEXEQUIBLE))[^>]{0,300}>?", re.I)
+# El mismo marcador puede venir en el epígrafe (Senado: «Artículo derogado por…»;
+# Gestor: «Comité de seguimiento.(Derogado por el art»).
+RE_EPIGRAFE = re.compile(r"^<?Art[íi]culo (?:declarado )?(?:derogad[oa]|INEXEQUIBLE)|\(Derogad[oa] por", re.I)
+# «derogado a partir del 2 de abril de 2026», «efectos diferidos hasta el …»: si la fecha
+# es futura, todavía no muere (misma regla que las fechas de relaciones.csv).
+RE_FECHA = re.compile(r"(\d{1,2}) de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|"
+                      r"octubre|noviembre|diciembre) de (\d{4})", re.I)
+MESES = "enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre".split()
 RE_PARCIAL = re.compile(r"en lo |en cuanto|parcial|salvo|excepto", re.I)
 RE_EMBEBIDO = re.compile(r"A?RT[ÍI]CULO \d")  # artículo siguiente pegado por el parser
 # Tipos que comparten numeración: un destino con uno se resuelve al doc cargado con el otro.
@@ -31,11 +42,19 @@ EF = "(r.fecha <= date('now') OR r.fecha NOT GLOB '[0-9][0-9][0-9][0-9]-*')"
 TOTAL = "(lower(COALESCE(r.nota,'')) LIKE '%total%' OR COALESCE(f.marca,'') LIKE '%inexequible%')"
 
 
-def marca(texto):
-    """Marcador de muerte total al inicio del texto del artículo, o None."""
-    e = RE_EMBEBIDO.search(texto, 1)
-    m = RE_MARCA.search(texto[:e.start()] if e else texto)
-    return m.group(0)[:200] if m and m.start() < 100 and not RE_PARCIAL.search(m.group(0)) else None
+def marca(texto, epigrafe=""):
+    """Marcador de muerte total en el epígrafe o al inicio del texto del artículo, o None."""
+    if RE_EPIGRAFE.search(epigrafe or "") and not RE_PARCIAL.search(epigrafe):
+        m = epigrafe[:200]
+    else:
+        e = RE_EMBEBIDO.search(texto, 1)
+        m = RE_MARCA.search(texto[:e.start()] if e else texto)
+        m = m.group(0)[:200] if m and m.start() < 100 and not RE_PARCIAL.search(m.group(0)) else None
+    hoy = datetime.date.today().isoformat()
+    if m and any("%s-%02d-%02d" % (a, MESES.index(me.lower()) + 1, int(d)) > hoy
+                 for d, me, a in RE_FECHA.findall(m)):
+        return None
+    return m
 
 
 def frontmatter(texto):
@@ -91,6 +110,10 @@ CREATE VIRTUAL TABLE busqueda USING fts5(id UNINDEXED, titulo, texto, tokenize='
 
 -- Vigencia derivada, nunca almacenada (esquema.md §2.2 y §7). Subconsultas por
 -- artículo (destino = artículo o su norma): una fila por artículo, sin duplicados.
+-- Una arista a la norma entera (destino = doc_id) afecta a todos sus artículos.
+-- Un declara_inexequible sin prueba de total queda como aviso «en parte», salvo que el
+-- artículo se haya modificado/subrogado DESPUÉS de la sentencia: el texto vigente es
+-- posterior y el aviso ya no le aplica (la arista sigue en afectado_por).
 CREATE VIEW vigencia AS SELECT articulo, doc_id, titulo_corto, epigrafe,
   CASE WHEN mata IS NOT NULL THEN 'MUERTO'
        WHEN suspendido IS NOT NULL THEN 'SUSPENDIDO'
@@ -102,13 +125,15 @@ FROM (SELECT f.id AS articulo, f.doc_id, d.titulo_corto, f.titulo AS epigrafe, d
   NULLIF(rtrim(COALESCE((SELECT group_concat(r.origen||' ('||r.tipo||')', ' | ') FROM relaciones r
       WHERE r.destino IN (f.id, f.doc_id) AND {EF} AND (r.tipo IN {MATA}
         OR (r.tipo = 'declara_inexequible' AND {TOTAL}))) || ' | ', '')
-    || COALESCE('marcador en texto: ' || f.marca, ''), ' |'), '') AS mata,
+    || COALESCE('marcador de la fuente: ' || f.marca, ''), ' |'), '') AS mata,
   (SELECT group_concat(r.origen, ' | ') FROM relaciones r
       WHERE r.destino IN (f.id, f.doc_id) AND r.tipo = 'suspende' AND {EF}) AS suspendido,
   (SELECT group_concat(r.origen||': '||CASE WHEN r.tipo = 'declara_inexequible' THEN '{PARCIAL}'
         ELSE COALESCE(NULLIF(r.nota,''),'SIN NOTA') END, ' | ') FROM relaciones r
       WHERE r.destino IN (f.id, f.doc_id) AND (r.tipo IN {CONDICIONA}
-        OR (r.tipo = 'declara_inexequible' AND {EF} AND NOT {TOTAL}))) AS condicion,
+        OR (r.tipo = 'declara_inexequible' AND {EF} AND NOT {TOTAL} AND NOT EXISTS (
+          SELECT 1 FROM relaciones r2 WHERE r2.destino = f.id AND r2.tipo IN ('modifica','subroga')
+            AND r2.fecha > r.fecha AND r.fecha GLOB '[0-9][0-9][0-9][0-9]-*')))) AS condicion,
   (SELECT group_concat(r.origen||' ('||r.tipo||')', ' | ') FROM relaciones r
       WHERE r.destino IN (f.id, f.doc_id) AND r.tipo IN {REFORMA}) AS reformas
 FROM fragmentos f JOIN documentos d ON d.id = f.doc_id WHERE f.clave LIKE 'art:%');
@@ -154,7 +179,7 @@ def construir(db_path=DB, raiz=RAIZ):
                 fid = meta["id"] + ":" + clave
                 con.execute("INSERT OR REPLACE INTO fragmentos VALUES (?,?,?,?,?,?,?)",
                             (fid, meta["id"], clave, titulo, ubicacion, texto,
-                             marca(texto) if clave.startswith("art:") else None))
+                             marca(texto, titulo) if clave.startswith("art:") else None))
                 con.execute("INSERT INTO busqueda VALUES (?,?,?)", (fid, titulo, texto))
 
     docs = {r[0] for r in con.execute("SELECT id FROM documentos")}
@@ -175,13 +200,19 @@ def construir(db_path=DB, raiz=RAIZ):
                     continue
                 v = [fila.get(c, "").strip() for c in
                      ("origen", "tipo", "destino", "fecha", "nota", "fuente")]
-                v[2] = destino(v[2])
+                v[0], v[2] = destino(v[0]), destino(v[2])
                 con.execute("INSERT INTO relaciones VALUES (?,?,?,?,?,?)", v)
     con.commit()
 
-    # Aristas que apuntan a algo que no está cargado: no es error, es cola de trabajo.
-    huerfanas = con.execute("""SELECT COUNT(*) FROM relaciones r WHERE r.destino NOT IN
-        (SELECT id FROM fragmentos) AND r.destino NOT IN (SELECT id FROM documentos)""").fetchone()[0]
+    # Aristas cuyo ORIGEN (la norma o sentencia que reforma/deroga) no está cargado:
+    # no es error, es cola de trabajo. Los destinos siempre están cargados porque las
+    # aristas se extraen de la norma afectada.
+    sin_origen = [r[0] for r in con.execute("""SELECT origen FROM relaciones WHERE origen NOT IN
+        (SELECT id FROM fragmentos) AND origen NOT IN (SELECT id FROM documentos)""")]
+    faltan = {}
+    for o in sin_origen:
+        k = ":".join(o.split(":")[:4])
+        faltan[k] = faltan.get(k, 0) + 1
     # Una arista que apunta a un artículo de una norma YA cargada, y ese artículo no
     # existe, solo puede significar que la extracción perdió artículos. Es la señal
     # que delata al parser cuando se come parte del texto sin fallar.
@@ -197,9 +228,21 @@ def construir(db_path=DB, raiz=RAIZ):
         avisos.append("%d relaciones con fecha mal formada (no AAAA-MM-DD) — se tratan "
                       "como ya surtidas; corregir en relaciones.csv" % malas)
 
+    # Una reforma no puede surtir efecto antes del año de la norma que la hace
+    # (p. ej. Ley 2010 de 2019 fechada 2018-12-28): la fecha está mal y la vista la usa.
+    imposibles = sum(1 for o, f in con.execute("SELECT origen, fecha FROM relaciones")
+                     if o.split(":")[3:4] and o.split(":")[3].isdigit() and f[:4].isdigit()
+                     and f[:4] < o.split(":")[3])
+    if imposibles:
+        avisos.append("%d relaciones con fecha anterior al año de su norma origen — "
+                      "corregir en relaciones.csv" % imposibles)
+
     n = lambda t: con.execute("SELECT COUNT(*) FROM " + t).fetchone()[0]
-    print("documentos=%d articulos/fichas=%d relaciones=%d destinos_sin_cargar=%d"
-          % (n("documentos"), n("fragmentos"), n("relaciones"), huerfanas))
+    print("documentos=%d articulos/fichas=%d relaciones=%d origenes_sin_cargar=%d aristas / %d normas"
+          % (n("documentos"), n("fragmentos"), n("relaciones"), len(sin_origen), len(faltan)))
+    if "-v" in sys.argv:
+        for k, c in sorted(faltan.items(), key=lambda x: -x[1])[:20]:
+            print("  falta %-40s %d aristas" % (k, c))
     for a in avisos:
         print("  aviso:", a)
     con.close()
@@ -221,10 +264,19 @@ def check():
                  "\n## art:7 —\n<Artículo INEXEQUIBLE>\n\n## art:8 —\n<Artículo derogado por la Ley 9 de 2001>\n"
                  "\n## art:9 —\n<Artículo derogado en lo referente a X, por la Ley 9 de 2001> Texto.\n"
                  "\n## art:10 — Diez\nTexto diez. ARTÍCULO 10A. <Artículo derogado por la Ley 9 de 2001>\n"
-                 "\n## art:11 — Once\nTexto once.\n")
+                 "\n## art:11 — Once\nTexto once.\n"
+                 "\n## art:12 — Artículo derogado por el artículo 87 de la Ley 2080 de 2021\nModifíquese el X.\n"
+                 "\n## art:13 — Artículo derogado a partir del 2 de abril de 2099 por el artículo 1 de la Ley 9 de 2098\nT.\n"
+                 "\n## art:14 — Catorce\n<Ley 1288 de 2009 declarada INEXEQUIBLE>\n"
+                 "\n## art:15 — Comité.(Derogado por el art\n26, Decreto 1017 de 2025). Texto.\n"
+                 "\n## art:16 — Dieciséis\nTexto.\n\n## art:17 — Diecisiete\nTexto.\n")
     with open(tmp + "/normativa/y.md", "w", encoding="utf-8") as fh:
         fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nramas: [civil]\n"
                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n")
+    for num, anio in ((7, 2007), (9, 2009)):  # normas enteras derogadas (hoy y en 2099)
+        with open(tmp + "/normativa/n%d.md" % num, "w", encoding="utf-8") as fh:
+            fh.write("---\nid: co:ley:%d:%d\ntipo: ley\ntitulo: T\nramas: [civil]\nfuente: http://x\n"
+                     "verificado: 2026-01-01\n---\n\n## art:1 — Uno\nT.\n\n## art:2 — Dos\nT.\n" % (num, anio))
     with open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8") as fh:
         fh.write("---\nid: co:csj:sc-1:2020\ntipo: sentencia\nramas: [civil]\n"
                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## resuelve\nCasa.\n\n## texto\nTodo.\n")
@@ -239,7 +291,13 @@ def check():
                  "co:cc:c-4:1993,declara_inexequible,co:ley:1:2000:art:7,93-12-31,,x\n"
                  "co:ley:4:2003,deroga,co:ley-estatutaria:1:2000:art:11,2003-01-01,,x\n"
                  "co:ley:6:2006,modifica,co:ley:5:2005,2006-01-01,,x\n"
-                 "co:ley:6:2006:art:1,modifica,co:ley:5:2005:art:1,2006-01-01,,x\n")
+                 "co:ley:6:2006:art:1,modifica,co:ley:5:2005:art:1,2006-01-01,,x\n"
+                 "co:ley:8:2008:art:3,deroga,co:ley:7:2007,2008-01-01,,x\n"
+                 "co:ley:8:2008:art:4,deroga,co:ley:9:2009,2099-01-01,,x\n"
+                 "co:cc:c-481:2019,declara_inexequible,co:ley:1:2000:art:16,2019-10-03,,x\n"
+                 "co:ley:2010:2019,modifica,co:ley:1:2000:art:16,2019-12-31,,x\n"
+                 "co:cc:c-481:2019,declara_inexequible,co:ley:1:2000:art:17,2019-10-03,,x\n"
+                 "co:ley:1943:2018,modifica,co:ley:1:2000:art:17,2018-12-28,,x\n")
     construir(tmp + "/i.db", tmp)
     con = sqlite3.connect(tmp + "/i.db")
     est = dict(con.execute("SELECT articulo, estado FROM vigencia"))
@@ -257,6 +315,14 @@ def check():
     assert est["co:ley:1:2000:art:9"] == "VIGENTE", "derogatoria parcial no mata"
     assert est["co:ley:1:2000:art:10"] == "VIGENTE", "el marcador de un artículo pegado no cuenta"
     assert est["co:ley:1:2000:art:11"] == "MUERTO", "alias ley-estatutaria -> ley"
+    assert est["co:ley:1:2000:art:12"] == "MUERTO", "marcador en el epígrafe (Senado)"
+    assert est["co:ley:1:2000:art:13"] == "VIGENTE", "marcador con fecha futura aún no mata"
+    assert est["co:ley:1:2000:art:14"] == "MUERTO", "«Ley … declarada INEXEQUIBLE»"
+    assert est["co:ley:1:2000:art:15"] == "MUERTO", "marcador «(Derogado por» en el epígrafe (Gestor)"
+    assert est["co:ley:1:2000:art:16"] == "VIGENTE_REFORMADO", "reforma posterior a la sentencia: sin aviso en parte"
+    assert est["co:ley:1:2000:art:17"] == "VIGENTE_CONDICIONADO", "reforma anterior a la sentencia: aviso sigue"
+    assert est["co:ley:7:2007:art:1"] == est["co:ley:7:2007:art:2"] == "MUERTO", "deroga a la norma entera"
+    assert est["co:ley:9:2009:art:1"] == "VIGENTE", "deroga a la norma entera con fecha futura"
     assert "c-4:1993" in con.execute("SELECT mata FROM vigencia WHERE articulo='co:ley:1:2000:art:7'").fetchone()[0]
     assert con.execute("SELECT count(*) FROM vigencia WHERE articulo='co:ley:5:2005:art:1'").fetchone()[0] == 1
     assert con.execute("SELECT count(*) FROM fragmentos WHERE clave='texto'").fetchone()[0] == 0

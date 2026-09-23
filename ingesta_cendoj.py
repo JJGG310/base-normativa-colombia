@@ -73,11 +73,24 @@ def decision_de(parte):
     """`casa` / `no-casa` solo cuando la resolutiva lo dice sin ambigüedad. Otras
     decisiones (revisión infundada, confirma, inadmite…) no están en el vocabulario de
     esquema.md §4 y quedan vacías; si dice ambas cosas, también."""
-    parte = parte[:1500]
+    # «CASA … NO CASA en lo demás» es casación parcial: casa.
+    parte = re.sub(r"(?i)\bno\s+casa(?:r)?\s+en\s+(?:todo\s+)?lo\s+dem[áa]s", "", parte[:1500])
     no = re.search(r"(?i)\bno\s+casa(?:r)?\b", parte)
-    si = re.search(r"(?i)\bcasa(?:r)?\s+(?:\w+mente\s+)?(?:la|el|parcialmente|totalmente)\b",
+    # «CASAR OFICIOSA Y PARCIALMENTE el fallo», «Se casa parcialmente y de oficio el fallo».
+    si = re.search(r"(?i)\bcasa(?:r)?(?:\s*,|\s+(?:\w+mente|oficios\w+|de\s+oficio|parcial|la|el|los|las|para)\b)",
                    re.sub(r"(?i)\bno\s+casa(?:r)?\b", "", parte))
     return "" if bool(no) == bool(si) else ("no-casa" if no else "casa")
+
+
+def decision_texto(cuerpo, parte):
+    """Si la resolutiva que quedó es la de instancia («RESUELVE: MODIFICAR el fallo…»),
+    la de casación está en la fórmula «…por autoridad de la ley, CASA…» que la precede."""
+    d = decision_de(parte)
+    if not d:
+        formulas = list(re.finditer(r"(?i)autoridad\s+de\s+la\s+ley\s*,?", cuerpo))
+        if formulas:
+            d = decision_de(cuerpo[formulas[-1].end():formulas[-1].end() + 600])
+    return d
 
 
 def consultar(query):
@@ -179,7 +192,7 @@ def ficha(res, sala, texto):
           "corporacion: corte-suprema", "sala: " + sala.lower(),
           "titulo: %s de %s — Corte Suprema, Sala de Casación %s"
           % (sid.split(":")[2].upper().replace("-", " "), res.get("ano", ""), sala.title()),
-          "ponente: " + ponente, "fecha: " + fecha, "decision: " + decision_de(parte),
+          "ponente: " + ponente, "fecha: " + fecha, "decision: " + decision_texto(cuerpo, parte),
           "expediente: " + radicado, "ramas: [%s]" % RAMAS.get(sala, ""),
           "afectaciones: no-aplica", "fuente: " + PORTAL,
           "verificado: " + date.today().isoformat(), "---", ""]
@@ -335,6 +348,16 @@ def check():
     assert decision_de("CASA PARCIALMENTE la sentencia") == "casa"
     assert decision_de("NO CASA la sentencia. CASA la otra") == "", "ambas: vacío"
     assert decision_de("Declarar infundado el recurso de revisión") == ""
+    assert decision_de("CASA la sentencia en cuanto al trabajo suplementario. NO CASA en lo demás.") == "casa"
+    assert decision_de("Segundo. CASAR OFICIOSA Y PARCIALMENTE la sentencia recurrida") == "casa"
+    assert decision_de("Se casa parcialmente y de oficio el fallo proferido") == "casa"
+    assert decision_de("SEGUNDO: Casar parcialmente, de oficio, el fallo de segunda instancia") == "casa"
+    assert decision_de("2°. CASAR PARCIALMENTE DE MANERA OFICIOSA, únicamente a fin de") == "casa"
+    assert decision_de("Primero. CASAR, dada la prosperidad de los cargos, la sentencia") == "casa"
+    assert decision_de("Casar parcial y oficiosamente la sentencia") == "casa"
+    assert decision_de("SEGUNDO. CASA PARCIALMENTE para CONCEDER de oficio el sustituto") == "casa"
+    assert decision_texto("administrando justicia … y por autoridad de la ley, CASA PARCIALMENTE la sentencia. "
+                          "RESUELVE: MODIFICAR el fallo", "RESUELVE: MODIFICAR el fallo") == "casa"
     print("check OK")
 
 

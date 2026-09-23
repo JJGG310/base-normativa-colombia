@@ -332,10 +332,10 @@ ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO IV. DELEGADOS DEL REGIST
 
 Las decisiones de los Delegados del Registrador Nacional del Estado Civil serán tomadas de común acuerdo.
 
-## art:35 — Artículo modificado por el artículo 2 de la Ley 6 de 1990. El nuevo texto es el siguiente:
+## art:35 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO IV. DELEGADOS DEL REGISTRADOR NACIONAL
 
-Para ser Delegado del Registrador Nacional del Estado Civil se requieren las mismas calidades que para ser Magistrado del Tribunal Superior o haber ejercido aquel cargo en propiedad por un término no menor de dos (2) años, o haber desempeñado cargos en la organización electoral por un término no menor de cinco (5) años, dos de ellos en cargo de nivel ejecutivo o profesional.
+<Artículo modificado por el artículo 2 de la Ley 6 de 1990. El nuevo texto es el siguiente:> Para ser Delegado del Registrador Nacional del Estado Civil se requieren las mismas calidades que para ser Magistrado del Tribunal Superior o haber ejercido aquel cargo en propiedad por un término no menor de dos (2) años, o haber desempeñado cargos en la organización electoral por un término no menor de cinco (5) años, dos de ellos en cargo de nivel ejecutivo o profesional.
 
 ## art:36 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO IV. DELEGADOS DEL REGISTRADOR NACIONAL
@@ -357,10 +357,10 @@ ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO IV. DELEGADOS DEL REGIST
 
 Los Delegados del Registrador Nacional del Estado Civil y los Registradores Distritales deberán ser removidos de su cargo por el Registrador Nacional del Estado Civil en caso de parcialidad política o por cualesquiera de las causas establecidas en la Ley.
 
-## art:40 — Aparte tachado INEXEQUIBLE
+## art:40 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO V. REGISTRADORES DISTRITALES
 
-En el Distrito Especial de Bogotá habrá dos (2) Registradores Distritales, [TACHADO: de filiación política distinta], quienes tendrán la responsabilidad y vigilancia de la organización electoral, lo mismo que del funcionamiento de las dependencias de la Registraduría Distrital.
+<Aparte tachado INEXEQUIBLE> En el Distrito Especial de Bogotá habrá dos (2) Registradores Distritales, [TACHADO: de filiación política distinta], quienes tendrán la responsabilidad y vigilancia de la organización electoral, lo mismo que del funcionamiento de las dependencias de la Registraduría Distrital.
 
 ## art:41 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO V. REGISTRADORES DISTRITALES
@@ -467,10 +467,10 @@ ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO VI. REGISTRADORES MUNICI
 
 Los Registradores Auxiliares tendrán las mismas funciones de los Registradores Municipales, con excepción de las contempladas en los numerales 3o., 5o. y 6o. del artículo anterior. Las comunicaciones y documentos de que tratan los numerales 7o. y 9o. deberán enviarse y entregarse a los respectivos Registradores Distritales o Municipales.
 
-## art:50 — Artículo modificado por el artículo 3 de la Ley 6 de 1990. El nuevo texto es el siguiente:
+## art:50 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO VI. REGISTRADORES MUNICIPALES Y AUXILIARES
 
-Para ser Registrador Municipal de Capital de departamento o de ciudad de más de 100.000 cédulas vigentes, se requieren las mismas calidades que para ser Juez de Circuito, o haber ejercido el cargo en propiedad por un término no menor de dos (2) años, o haber desempeñado cargos en la organización electoral por un término no menor de tres (3) años.
+<Artículo modificado por el artículo 3 de la Ley 6 de 1990. El nuevo texto es el siguiente:> Para ser Registrador Municipal de Capital de departamento o de ciudad de más de 100.000 cédulas vigentes, se requieren las mismas calidades que para ser Juez de Circuito, o haber ejercido el cargo en propiedad por un término no menor de dos (2) años, o haber desempeñado cargos en la organización electoral por un término no menor de tres (3) años.
 
 ## art:51 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO VI. REGISTRADORES MUNICIPALES Y AUXILIARES
@@ -550,10 +550,10 @@ e) El producto de los contratos y convenios que celebre para la prestación por 
 
 f) Los demás bienes que como persona jurídica adquiera a cualquier título.
 
-## art:61 — Artículo modificado por el artículo 5 de la Ley 6 de 1990. El nuevo texto es el siguiente:
+## art:61 — 
 ubicacion: TITULO II. ORGANIZACION ELECTORAL > CAPITULO VIII. AUTOMATIZACION, SISTEMATIZACION Y FONDO ROTATORIOS
 
-Con cargo a los recursos del Fondo se atenderán los gastos que demande la construcción, compra, mejora y conservación de las edificaciones que requiera la organización electoral para su funcionamiento; la adquisición de equipos de procesamiento de datos, de producción de cédulas y tarjetas de identidad y de comunicaciones; la adquisición de equipos de transporte de personal y de carga que sean necesarios para el funcionamiento de la Registraduría en los distintos niveles, y de todos aquellos equipos, materiales y enseres que requiera el servicio de la organización y la adecuada atención a los funcionarios que la sirven.
+<Artículo modificado por el artículo 5 de la Ley 6 de 1990. El nuevo texto es el siguiente:> Con cargo a los recursos del Fondo se atenderán los gastos que demande la construcción, compra, mejora y conservación de las edificaciones que requiera la organización electoral para su funcionamiento; la adquisición de equipos de procesamiento de datos, de producción de cédulas y tarjetas de identidad y de comunicaciones; la adquisición de equipos de transporte de personal y de carga que sean necesarios para el funcionamiento de la Registraduría en los distintos niveles, y de todos aquellos equipos, materiales y enseres que requiera el servicio de la organización y la adecuada atención a los funcionarios que la sirven.
 
 ## art:62 — 
 ubicacion: TITULO III. CEDULACION
@@ -575,10 +575,10 @@ ubicacion: TITULO III. CEDULACION
 
 <Artículo INEXEQUIBLE>
 
-## art:66 — Artículo modificado por el artículo 6 de la Ley 6 de 1990. El nuevo texto es el siguiente:
+## art:66 — 
 ubicacion: TITULO III. CEDULACION
 
-La preparación de cédulas de ciudadanía se suspenderá cuatro (4) meses antes de las respectivas votaciones con el fin de elaborar las listas de sufragantes.
+<Artículo modificado por el artículo 6 de la Ley 6 de 1990. El nuevo texto es el siguiente:> La preparación de cédulas de ciudadanía se suspenderá cuatro (4) meses antes de las respectivas votaciones con el fin de elaborar las listas de sufragantes.
 
 ## art:67 — 
 ubicacion: TITULO III. CEDULACION
@@ -639,10 +639,10 @@ ubicacion: TITULO III. CEDULACION
 
 El Registrador Nacional del Estado Civil podrá fijar, con aprobación del Consejo Nacional Electoral, las dimensiones y contenido de la cédula de ciudadanía y de la tarjeta de identidad.
 
-## art:76 — Artículos 76 y 77 modificados por el artículo 7 de la Ley 6 de 1990. El nuevo texto es el siguiente:
+## art:76 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
 
-A partir de 1988 el ciudadano sólo podrá votar en el lugar en que aparezca su cédula de ciudadanía conforme al censo electoral. Permanecerán en el censo electoral del sitio respectivo, las cédulas que integraban el censo de 1988, y las que con posterioridad allí se expidan o se inscriban, mientras no sean canceladas o se inscriban en otro lugar.
+<Artículos 76 y 77 modificados por el artículo 7 de la Ley 6 de 1990. El nuevo texto es el siguiente:> A partir de 1988 el ciudadano sólo podrá votar en el lugar en que aparezca su cédula de ciudadanía conforme al censo electoral. Permanecerán en el censo electoral del sitio respectivo, las cédulas que integraban el censo de 1988, y las que con posterioridad allí se expidan o se inscriban, mientras no sean canceladas o se inscriban en otro lugar.
 
 ## art:77 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
@@ -658,10 +658,10 @@ La presentación personal aquí ordenada se cumplirá ante el funcionario electo
 
 No surtirán efecto las inscripciones que se efectúen sin el lleno de los requisitos prescritos en el presente artículo y los funcionarios que las realicen serán sancionados con la pérdida del empleo, sin perjuicio de la correspondiente responsabilidad penal.
 
-## art:79 — Aparte tachado INEXEQUIBLE
+## art:79 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
 
-La Registraduría Nacional del Estado Civil, [TACHADO: previo concepto del Consejo Nacional Electoral], señalará los municipios con más de veinte mil (20.000) cédulas aptas para votar que deben ser divididos en zonas destinadas a facilitar las inscripciones, votaciones y escrutinios.
+<Aparte tachado INEXEQUIBLE> La Registraduría Nacional del Estado Civil, [TACHADO: previo concepto del Consejo Nacional Electoral], señalará los municipios con más de veinte mil (20.000) cédulas aptas para votar que deben ser divididos en zonas destinadas a facilitar las inscripciones, votaciones y escrutinios.
 
 ## art:80 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
@@ -692,10 +692,10 @@ ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUF
 
 <Artículo derogado por el artículo 14 de la Ley 6 de 1990>
 
-## art:85 — Aparte tachado INEXEQUIBLE
+## art:85 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
 
-<Artículo modificado por el artículo 9 de la Ley 6 de 1990. El nuevo texto es el siguiente:> La Registraduría Nacional, [TACHADO: previo concepto favorable del Consejo Nacional Electoral], fijará el número de ciudadanos que podrán sufragar en las distintas mesas de votación. La Registraduría Nacional del Estado Civil elaborará, para cada mesa, las listas de cédulas aptas para votar en las cabeceras municipales, corregimientos e inspecciones de policía donde funcionen mesas de votación. Si después de elaboradas las listas se cancelaren o excluyeren una o más cédulas, el correspondiente Registrador del Estado Civil o su Delegado enviarán a la respectivas mesas de votación la lista de cédulas con las que no se puede sufragar.
+<Aparte tachado INEXEQUIBLE> <Artículo modificado por el artículo 9 de la Ley 6 de 1990. El nuevo texto es el siguiente:> La Registraduría Nacional, [TACHADO: previo concepto favorable del Consejo Nacional Electoral], fijará el número de ciudadanos que podrán sufragar en las distintas mesas de votación. La Registraduría Nacional del Estado Civil elaborará, para cada mesa, las listas de cédulas aptas para votar en las cabeceras municipales, corregimientos e inspecciones de policía donde funcionen mesas de votación. Si después de elaboradas las listas se cancelaren o excluyeren una o más cédulas, el correspondiente Registrador del Estado Civil o su Delegado enviarán a la respectivas mesas de votación la lista de cédulas con las que no se puede sufragar.
 
 ## art:86 — 
 ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUFRAGANTES
@@ -709,10 +709,10 @@ ubicacion: TITULO IV. CENSOS ELECTORALES, INSCRIPCION DE CEDULAS Y LISTAS DE SUF
 
 De cada una de las listas de sufragantes se sacarán tres (3) ejemplares: Uno para el archivo del respectivo Registrador del Estado Civil o de su Delegado, otro para la mesa de votación y el otro para fijar en lugar público inmediato a dicha mesa.
 
-## art:88 — Artículo modificado por el artículo 4 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:88 — 
 ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
-El término para la inscripción de candidatos a la distintas corporaciones de elección popular vence a las seis (6) de la tarde del primer lunes del correspondiente mes de abril.
+<Artículo modificado por el artículo 4 de la Ley 62 de 1988. El nuevo texto es el siguiente:> El término para la inscripción de candidatos a la distintas corporaciones de elección popular vence a las seis (6) de la tarde del primer lunes del correspondiente mes de abril.
 
 ## art:89 — 
 ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
@@ -752,10 +752,10 @@ ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
 En caso de muerte, pérdida de los derechos políticos, renuncia o no aceptación de alguno o algunos de los candidatos, podrán modificarse las listas por la mayoría de los que hayan inscrito a más tardar quince (15) días calendario antes de la fecha de las votaciones.
 
-## art:95 — Artículo modificado por el artículo 6 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:95 — 
 ubicacion: TITULO V. INSCRIPCION DE CANDIDATURAS
 
-En caso de muerte o renuncia de alguno o algunos de los candidatos a la Presidencia de la República, podrá inscribirse el nuevo candidato a más tardar en veinte (20) días calendario antes de la fecha de la elección. En este caso, las calidades constitucionales las acreditará ante el Registrador Nacional de el Estado Civil en el acto de inscripción. 
+<Artículo modificado por el artículo 6 de la Ley 62 de 1988. El nuevo texto es el siguiente:> En caso de muerte o renuncia de alguno o algunos de los candidatos a la Presidencia de la República, podrá inscribirse el nuevo candidato a más tardar en veinte (20) días calendario antes de la fecha de la elección. En este caso, las calidades constitucionales las acreditará ante el Registrador Nacional de el Estado Civil en el acto de inscripción. 
 
 PARAGRAFO. Si se produjere la muerte o incapacidad física permanente del candidato a la Presidencia de la república después del término señalado anteriormente podrá inscribirse el nuevo candidato a más tardar ocho (8) días antes de la fecha de la elección. En tal evento la Registraduría Nacional del Estado Civil autorizará la votación por medio de papeletas.
 
@@ -790,10 +790,10 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO I. MESAS DE VOTACION
 
 <Artículo derogado por el artículo 14 de la Ley 6 de 1990>
 
-## art:101 — Apartes tachados INEXEQUIBLES
+## art:101 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO II. JURADOS DE VOTACION
 
-Los Registradores Distritales y Municipales integrarán a más tardar quince (15) días calendario antes de la respectiva elección, los jurados de votación, a razón de cuatro (4) principales y cuatro (4) suplentes para cada mesa, con ciudadanos no mayores de sesenta y cinco (65) años, [TACHADO: pertenecientes a diferentes partidos políticos], en forma tal que no existan jurados homogéneos, [TACHADO: aún en aquellos lugares donde únicamente haya afiliados a una sola agrupación partidista].[TACHADO: En este caso se nombrarán como jurados de otros partidos a ciudadanos de lugares próximos y para ello podrá requerirse la colaboración de las autoridades y de las directivas políticas]. 
+<Apartes tachados INEXEQUIBLES> Los Registradores Distritales y Municipales integrarán a más tardar quince (15) días calendario antes de la respectiva elección, los jurados de votación, a razón de cuatro (4) principales y cuatro (4) suplentes para cada mesa, con ciudadanos no mayores de sesenta y cinco (65) años, [TACHADO: pertenecientes a diferentes partidos políticos], en forma tal que no existan jurados homogéneos, [TACHADO: aún en aquellos lugares donde únicamente haya afiliados a una sola agrupación partidista].[TACHADO: En este caso se nombrarán como jurados de otros partidos a ciudadanos de lugares próximos y para ello podrá requerirse la colaboración de las autoridades y de las directivas políticas]. 
 
 Los jurados de votación recibirán en las oficinas del Registrador del Estado Civil o de sus Delegados las instrucciones necesarias para el correcto desempeño de sus funciones. 
 
@@ -814,10 +814,10 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO II. JURADOS DE VOTACION
 
 Todos los funcionarios y empleados públicos pueden ser designados jurados de votación, con excepción de los de la jurisdicción Contencioso Administrativo, de las primeras autoridades civiles en el orden nacional, seccional y municipal las que tienen funciones propiamente electorales, los miembros de las Fuerzas Armadas, los operadores del Ministerio de Comunicaciones, Telecom, Empresas de Teléfonos, los auxiliares de los mismos y los funcionarios de la Administración Postal Nacional. Tampoco podrán ser designados los miembros de directorios políticos ni los candidatos. Para el efecto dichos directorios enviarán la lista de sus integrantes al respectivo Registrador.
 
-## art:105 — Aparte subrayado CONDICIONALMENTE exequible
+## art:105 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO II. JURADOS DE VOTACION
 
-El cargo de jurado de votación es de forzosa aceptación, y la notificación de tales nombramientos se entenderá surtida por la sola publicación o fijación en lugar público de la lista respectiva, que hará el Registrador del Estado Civil o su delegado diez (10) días calendario antes de la votación. 
+<Aparte subrayado CONDICIONALMENTE exequible> El cargo de jurado de votación es de forzosa aceptación, y la notificación de tales nombramientos se entenderá surtida por la sola publicación o fijación en lugar público de la lista respectiva, que hará el Registrador del Estado Civil o su delegado diez (10) días calendario antes de la votación. 
 
 Los jurados de votación deberán fijar en lugar visible y adheridos a la urna respectiva, sus nombres y número de cédula, con las firmas correspondientes. 
 
@@ -915,10 +915,10 @@ En las certificaciones aludidas, que se expedirán en papel de seguridad, se har
 
 La Registraduría Nacional dispondrá qué funcionarios de la organización electoral pueden expedir tales certificaciones de manera que se facilite el ejercicio del sufragio.
 
-## art:118 — Aparte tachado INEXEQUIBLE
+## art:118 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
 
-El Presidente del Jurado ordenará que se retiren las personas que en cualquier forma perturben el ejercicio del sufragio. [TACHADO: Si no obedecieren, podrá ordenar que sean retenidas en la cárcel o en algún cuerpo de guardia hasta el día siguiente de las elecciones].
+<Aparte tachado INEXEQUIBLE> El Presidente del Jurado ordenará que se retiren las personas que en cualquier forma perturben el ejercicio del sufragio. [TACHADO: Si no obedecieren, podrá ordenar que sean retenidas en la cárcel o en algún cuerpo de guardia hasta el día siguiente de las elecciones].
 
 ## art:119 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO III. PROCESO DE LAS VOTACIONES
@@ -951,10 +951,10 @@ ubicacion: TITULO VI. VOTACIONES > CAPITULO IV. PAPELETAS DE VOTACION
 
 En las elecciones para Corporaciones Públicas el ciudadano votará con una sola papeleta, que estará dividida en tantas secciones cuantas Corporaciones se trate de elegir. Cada sección deberá encabezarse con una inscripción en la cual se expresen los nombres de la Corporación, del partido político y de la Circunscripción por la cual se vota. A continuación irán en columnas separadas los correspondientes nombres de los candidatos principales y suplentes, tal como hayan sido inscritos.
 
-## art:124 — Artículo modificado por el artículo 1 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:124 — 
 ubicacion: TITULO VI. VOTACIONES > CAPITULO IV. PAPELETAS DE VOTACION
 
-En la elección para Presidente de la República, los ciudadanos votarán con tarjetas electorales que llevarán impresos los símbolos, emblemas y colores de los diferentes partidos o movimientos políticos que participen en las votaciones, con impresión clara del nombre y apellidos del respectivo candidato. 
+<Artículo modificado por el artículo 1 de la Ley 62 de 1988. El nuevo texto es el siguiente:> En la elección para Presidente de la República, los ciudadanos votarán con tarjetas electorales que llevarán impresos los símbolos, emblemas y colores de los diferentes partidos o movimientos políticos que participen en las votaciones, con impresión clara del nombre y apellidos del respectivo candidato. 
 
 PARAGRAFO. Los símbolos, emblemas y colores de los partidos o movimientos políticos serán los mismos que se hayan inscrito para tales efectos ante el Consejo Nacional Electoral o en el acto de inscripción de la respectiva candidatura presidencial.
 
@@ -1065,20 +1065,20 @@ Las palabras o frases que se agreguen a los nombres de los candidatos no anular�
 
 Aunque no sea conocida la persona por quien se ha votado, se incluirá el nombre en el escrutinio.
 
-## art:142 — Artículo modificado por el artículo 12 de la Ley 6 de 1990. El nuevo texto es el siguiente:
+## art:142 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO I. ESCRUTINIO DE LOS JURADOS DE VOTACION
 
-Los resultados del cómputo de votos que realicen los jurados de votación se harán constar en el acta, expresando los votos obtenidos por cada lista o candidato. Del acta se extenderán dos (2) ejemplares iguales que se firmarán por los miembros del jurado de votación; todos estos ejemplares serán válidos y se destinarán así: uno para el arca triclave y otro para los Delegados del Registrador Nacional del Estado Civil.
+<Artículo modificado por el artículo 12 de la Ley 6 de 1990. El nuevo texto es el siguiente:> Los resultados del cómputo de votos que realicen los jurados de votación se harán constar en el acta, expresando los votos obtenidos por cada lista o candidato. Del acta se extenderán dos (2) ejemplares iguales que se firmarán por los miembros del jurado de votación; todos estos ejemplares serán válidos y se destinarán así: uno para el arca triclave y otro para los Delegados del Registrador Nacional del Estado Civil.
 
 ## art:143 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO I. ESCRUTINIO DE LOS JURADOS DE VOTACION
 
 Terminado el escrutinio, se leerá su resultado en voz alta. En seguida se introducirán en un sobre las papeletas y demás documentos que hayan servido para la votación, separando en paquete especial las que hubieren sido anuladas, pero que deberán también introducirse en dicho sobre el cual estará dirigido al Registrador del Estado Civil o su Delegado, y donde se escribirá una nota certificada de su contenido, que firmarán el Presidente y Vicepresidente del jurado.
 
-## art:144 — Artículo modificado por el artículo 8 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:144 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO I. ESCRUTINIO DE LOS JURADOS DE VOTACION
 
-Inmediatamente después de terminado el escrutinio en las mesas de votación, pero en todo caso antes de las once de la noche (11 p.m.) del día de las elecciones, las actas y documentos que sirvieron para la votación serán entregados por el Presidente del Jurado, bajo recibo con indicación del día y la hora de entrega, así: En las cabeceras municipales, a los Registradores del Estado Civil o a los delegados de estos, y en los corregimientos, inspecciones de policía y sectores rurales, a los respectivos delegados del Registrador del Estado Civil. 
+<Artículo modificado por el artículo 8 de la Ley 62 de 1988. El nuevo texto es el siguiente:> Inmediatamente después de terminado el escrutinio en las mesas de votación, pero en todo caso antes de las once de la noche (11 p.m.) del día de las elecciones, las actas y documentos que sirvieron para la votación serán entregados por el Presidente del Jurado, bajo recibo con indicación del día y la hora de entrega, así: En las cabeceras municipales, a los Registradores del Estado Civil o a los delegados de estos, y en los corregimientos, inspecciones de policía y sectores rurales, a los respectivos delegados del Registrador del Estado Civil. 
 
 Los documentos electorales de los corregimientos, inspecciones de policía y sectores rurales, serán conducidos por el delegado que los haya recibido con vigilancia de la fuerza pública uniformada. Y entregados a los claveros respectivos dentro del término que se les haya señalado. 
 
@@ -1110,10 +1110,10 @@ ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO II. ARCAS TRICLAVES Y CLAVEROS
 
 Serán claveros de las arcas triclaves: Del Consejo Nacional Electoral, su Presidente, Vicepresidente y Secretario; de la Delegación del Registrador Nacional, el Gobernador o su Delegado y los dos (2) Delegados del Registrador Nacional del Estado Civil; de las Registradurías Distritales y de las ciudades con más de cien mil (100.000) cédulas vigentes, el Alcalde, el Juez Municipal y uno de los dos (2) Registradores Distritales o Municipales; de las demás Registradurías del Estado Civil, el Alcalde, el Juez Municipal y el respectivo Registrador; y de las Registradurías Auxiliares, un delegado del Alcalde, un Juez designado por el Tribunal Superior y el Registrador Auxiliar.
 
-## art:149 — Apartes tachados INEXEQUIBLES
+## art:149 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO II. ARCAS TRICLAVES Y CLAVEROS
 
-Si hubiere varios jueces municipales actuará como clavero el Juez Civil Municipal y, en su defecto, el Penal o el Promiscuo Municipal. Si hubiere varios Jueces de la misma categoría el primero de ellos. 
+<Apartes tachados INEXEQUIBLES> Si hubiere varios jueces municipales actuará como clavero el Juez Civil Municipal y, en su defecto, el Penal o el Promiscuo Municipal. Si hubiere varios Jueces de la misma categoría el primero de ellos. 
 
 [TACHADO: Si habiendo varios Jueces Municipales, el Alcalde y el Registrador del Estado Civil fueren de la misma filiación política del Juez que debe actuar como clavero, hará entonces sus veces un Juez Municipal de filiación distinta a la de aquéllos, dentro del orden de precedencia señalado en el inciso anterior. ]
 
@@ -1126,19 +1126,19 @@ ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO II. ARCAS TRICLAVES Y CLAVEROS
 
 El incumplimiento de los deberes de clavero, es causal de mala conducta, que se sancionará con la pérdida del empleo.
 
-## art:151 — Artículo modificado por el artículo 9 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:151 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO II. ARCAS TRICLAVES Y CLAVEROS
 
-Los candidatos a corporaciones públicas , sus cónyuges o parientes hasta segundo grado de consanguinidad o de afinidad o primero civil, no podrán ser jurados de votación miembros de comisiones escrutadoras o secretarios de estás, dentro de la respectiva circunscripción electoral. 
+<Artículo modificado por el artículo 9 de la Ley 62 de 1988. El nuevo texto es el siguiente:> Los candidatos a corporaciones públicas , sus cónyuges o parientes hasta segundo grado de consanguinidad o de afinidad o primero civil, no podrán ser jurados de votación miembros de comisiones escrutadoras o secretarios de estás, dentro de la respectiva circunscripción electoral. 
 
 Tampoco podrán actuar como claveros de una misma arca o como miembros de una comisión escrutadora o desempeñar estas funciones en el mismo municipio, las personas que están entre sí en los anteriores grados de parentesco y sus cónyuges. 
 
 La persona que no se declare impedida por estar en alguna de las situaciones previstas en este artículo , será sancionada con arresto inconmutable hasta de treinta (30) días por medio de resolución que dictarán a petición de parte o de oficio los delegados del Registrador Nacional.
 
-## art:152 — Inciso 1o. modificado por el artículo 10 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:152 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO II. ARCAS TRICLAVES Y CLAVEROS
 
-A medida que se vayan recibiendo los pliegos provenientes de las mesas de votación, los claveros distritales municipales y de zona los introducirán inmediatamente en el arca triclave respectiva y anotarán en un registro con sus firmas el día y la hora de la introducción de cada uno de ellos y su estado. 
+<Inciso 1o. modificado por el artículo 10 de la Ley 62 de 1988. El nuevo texto es el siguiente:> A medida que se vayan recibiendo los pliegos provenientes de las mesas de votación, los claveros distritales municipales y de zona los introducirán inmediatamente en el arca triclave respectiva y anotarán en un registro con sus firmas el día y la hora de la introducción de cada uno de ellos y su estado. 
 
 Una vez introducidos en el arca la totalidad de los documentos electorales, procederán a cerrarla y sellarla, y firmarán un acta general de la diligencia en la que conste la fecha y hora de su comienzo y terminación y estado del arca, lo mismo que los certificados que se les soliciten sobre los resultados. 
 
@@ -1174,10 +1174,10 @@ Las oficinas telefónicas, telegráficas y postales funcionarán en forma perman
 
 Los empleados de comunicaciones así como los claveros y delegados municipales que, sin causa justificada, retarden u omitan la transmisión de los resultados de las elecciones, serán sancionados con la pérdida del cargo.
 
-## art:157 — Aparte tachado INEXEQUIBLE
+## art:157 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNICIPALES Y ZONALES
 
-Diez (10) días antes de las correspondientes elecciones, los Tribunales Superiores de Distrito Judicial deberán designar, en Sala Plena, las comisiones escrutadoras distritales y municipales formadas por dos (2) ciudadanos [TACHADO: de distinta filiación política], que sean jueces, notarios o registradores de instrumentos públicos en el respectivo distrito judicial. 
+<Aparte tachado INEXEQUIBLE> Diez (10) días antes de las correspondientes elecciones, los Tribunales Superiores de Distrito Judicial deberán designar, en Sala Plena, las comisiones escrutadoras distritales y municipales formadas por dos (2) ciudadanos [TACHADO: de distinta filiación política], que sean jueces, notarios o registradores de instrumentos públicos en el respectivo distrito judicial. 
 
 Los términos se suspenderán en los despachos de los jueces designados durante el tiempo en que cumplan su comisión de escrutadores. 
 
@@ -1218,10 +1218,10 @@ ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNIC
 
 Si al vencerse la hora en que deben iniciarse los escrutinios, uno o ambos miembros de la comisión no se hubieren presentado a cumplir su función, el juez que actúe como clavero la reconstruirá haciendo, mediante resolución, el nombramiento de los respectivos reemplazos en ciudadanos de la misma filiación política de los ausentes, dejará constancia de ello en el acta y comunicará la novedad a los Delegados del Registrador Nacional del Estado Civil para lo de su cargo.
 
-## art:163 — Artículo modificado por el artículo 11 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:163 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNICIPALES Y ZONALES
 
-Al iniciarse el escrutinio, el Registrador dará la lectura al registro de los documentos introducidos en el arca triclave. 
+<Artículo modificado por el artículo 11 de la Ley 62 de 1988. El nuevo texto es el siguiente:> Al iniciarse el escrutinio, el Registrador dará la lectura al registro de los documentos introducidos en el arca triclave. 
 
 En seguida procederá a abrir, uno a uno, los sobres que contienen los pliegos de las mesas de votación y dejará en el acta general las correspondientes constancias acerca de los sobres que tengan anomalías lo mismo de las tachaduras, enmendaduras o borrones que advierta en las actas de escrutinio, cotejando de manera oficiosa las que tuviere a disposición para verificar la exactitud o diferencias de las cifras de los votos que haya obtenido cada lista o candidato y de manera especial observará si las actas están firmadas por menos de tres (3) de los jurados de votación. También dejará constancia expresa de las actas que fueron recibidas extemporáneamente, conforme al artículo 144 de este Código. 
 
@@ -1241,10 +1241,10 @@ ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNIC
 
 Cuando por cualquier circunstancia algún pliego o registro necesario para el escrutinio no estuviere a disposición de los miembros de la comisión escrutadora, éstos deberán solicitarlo al funcionario o corporación que lo haya recibido, él cual será remitido sin demora.
 
-## art:166 — Artículo modificado por el artículo 12 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:166 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO IV. ESCRUTINIOS DISTRITALES, MUNICIPALES Y ZONALES
 
-Las comisiones escrutadoras distritales, municipales y auxiliares resolverán , con base en las actas respectivas, las reclamaciones que se hayan presentado ante los jurados de votación conforme al artículo 122 de este Código. 
+<Artículo modificado por el artículo 12 de la Ley 62 de 1988. El nuevo texto es el siguiente:> Las comisiones escrutadoras distritales, municipales y auxiliares resolverán , con base en las actas respectivas, las reclamaciones que se hayan presentado ante los jurados de votación conforme al artículo 122 de este Código. 
 
 Las apelaciones que se formulen contra las decisiones de las comisiones escrutadoras auxiliares ,así como los desacuerdos que se presenten entre los miembros de estás, serán resueltos por las correspondientes comisiones distrital o municipal, las que también harán el escrutinio general de los votos emitidos en el distrito o municipio, resolverán las reclamaciones que en este escrutinio se propongan, declararán la elección de concejales y alcaldes y expedirán las respectivas credenciales. 
 
@@ -1298,10 +1298,10 @@ Terminados los escrutinios distritales y municipales, los Registradores, acompa�
 
 Los testigos electorales tendrán el derecho de acompañar al Registrador y a la fuerza pública en el acto del transporte y ninguna autoridad podrá impedir la vigilancia ejercida por tales testigos, y la violación de ese derecho implicará causal de mala conducta.
 
-## art:175 — Inciso 1o. modificado por el artículo 13 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:175 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
-El Consejo Nacional Electoral formará, hasta treinta (30) días antes de cada elección, una lista de ciudadanos en número equivalente al doble de los departamentos, a fin de practicar los escrutinios de los votos para Senadores, Representantes, Diputados, consejeros intendenciales y Comisariales, según el caso, y computar los votos para Presidente de la República y Alcaldes Municipales. Dicha lista estará formada por ciudadanos pertenecientes a los partidos que tengan mayor representación en el Congreso y que hayan sido Magistrados de la Corte Suprema de Justicia, Consejero de Estado, miembro del Consejo Nacional Electoral ,Magistrado del Tribunal Superior o Contencioso Administrativo o sean o hayan sido profesores de Derecho. 
+<Inciso 1o. modificado por el artículo 13 de la Ley 62 de 1988. El nuevo texto es el siguiente:> El Consejo Nacional Electoral formará, hasta treinta (30) días antes de cada elección, una lista de ciudadanos en número equivalente al doble de los departamentos, a fin de practicar los escrutinios de los votos para Senadores, Representantes, Diputados, consejeros intendenciales y Comisariales, según el caso, y computar los votos para Presidente de la República y Alcaldes Municipales. Dicha lista estará formada por ciudadanos pertenecientes a los partidos que tengan mayor representación en el Congreso y que hayan sido Magistrados de la Corte Suprema de Justicia, Consejero de Estado, miembro del Consejo Nacional Electoral ,Magistrado del Tribunal Superior o Contencioso Administrativo o sean o hayan sido profesores de Derecho. 
 
 Dentro de los quince (15) días anteriores a cada elección, el Consejo procederá a escoger por sorteo y para cada departamento, de la lista a que se refiere el inciso anterior, dos (2) ciudadanos de distinta filiación política, encargados de verificar, por delegación y a nombre del Consejo, dichos escrutinios y cómputos de votos.
 
@@ -1357,10 +1357,10 @@ ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
 Si el número de votos a favor de dos (2) o más candidatos o listas fuere igual, la elección se decidirá a la suerte, para los cual, colocadas en una urna las papeletas con los nombres de los candidatos o de quienes encabezan las listas que hubiesen obtenido igual número de votos, un ciudadano designado por la corporación escrutadora extraerá de la urna una de las papeletas. El nombre que ésta contuviere será el del candidato o lista a cuyo favor se declara la elección.
 
-## art:184 — Artículo modificado por el artículo 14 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:184 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
 
-Terminando el escrutinio general y hecho el computo total de los votos válidos que se hayan emitido por cada una de las listas y candidatos, municipio por municipio, se procederá a hacer constar los resultados en actas, expresando en letra y números los votos obtenidos por cada lista o candidato; realizando lo cual se aplicaran los cuocientes electorales para la declaratoria de elección de Consejeros Intendenciales o Comisariales, según el caso, de Diputados, Representantes y Senadores y se expedirán las correspondientes credenciales.
+<Artículo modificado por el artículo 14 de la Ley 62 de 1988. El nuevo texto es el siguiente:> Terminando el escrutinio general y hecho el computo total de los votos válidos que se hayan emitido por cada una de las listas y candidatos, municipio por municipio, se procederá a hacer constar los resultados en actas, expresando en letra y números los votos obtenidos por cada lista o candidato; realizando lo cual se aplicaran los cuocientes electorales para la declaratoria de elección de Consejeros Intendenciales o Comisariales, según el caso, de Diputados, Representantes y Senadores y se expedirán las correspondientes credenciales.
 
 ## art:185 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO V. ESCRUTINIOS GENERALES
@@ -1446,10 +1446,10 @@ La exclusión de un principal no afecta a los suplentes si la causa fuere la car
 
 Si las corporaciones escrutadoras no encontraren fundadas las reclamaciones, lo declararán así por resolución motivada. Esta resolución se notificará inmediatamente en estrados y contra ella el peticionario o interesado podrá apelar por escrito antes de que termine la diligencia de escrutinios y allí mismo deberá concederse el recurso en el efecto suspensivo.
 
-## art:193 — Artículo modificado por el artículo 16 de la Ley 62 de 1988. El nuevo texto es el siguiente:
+## art:193 — 
 ubicacion: TITULO VII. ESCRUTINIOS > CAPITULO VII. CAUSALES DE RECLAMACION
 
-Las reclamaciones de que trata el artículo anterior, podrán presentarse por primera vez durante los escrutinios que practican las comisiones escrutadoras distritales, municipales o auxiliares, o durante los escrutinios generales que realizan los delegados del Consejo Nacional Electoral. 
+<Artículo modificado por el artículo 16 de la Ley 62 de 1988. El nuevo texto es el siguiente:> Las reclamaciones de que trata el artículo anterior, podrán presentarse por primera vez durante los escrutinios que practican las comisiones escrutadoras distritales, municipales o auxiliares, o durante los escrutinios generales que realizan los delegados del Consejo Nacional Electoral. 
 
 Contra las resoluciones que resuelvan las reclamaciones presentadas por primera vez ante los delegados del Consejo Electoral. Procederá el recurso de apelación en el efecto suspensivo ante dicho Consejo. 
 

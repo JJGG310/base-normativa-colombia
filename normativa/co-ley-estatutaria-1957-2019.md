@@ -312,7 +312,7 @@ El Estado deberá poner en marcha la JEP a la mayor brevedad desde la firma del 
 ## art:34 — TEMPORALIDAD
 ubicacion: TÍTULO II. NATURALEZA, OBJETO Y PRINCIPIOS CAPÍTULO I. Naturaleza y objeto > CAPÍTULO II. PRINCIPIOS.
 
-El plazo para la conclusión de las funciones de la Jurisdicción Especial para la Paz consistentes en la presentación de acusaciones por la Unidad de investigación y Acusación, de oficio o como consecuencia de los informes que tratan los literales b) y c) del artículo 79 de esta ley, será de diez (10) años contados a partir de la entrada efectiva en funcionamiento de la totalidad de Salas y Secciones de la Jurisdicción Especial para la Paz, y un plazo posterior de cinco (5) años más para concluir su actividad jurisdiccional, plazo este último que de ser necesario podrá ser prorrogado por una única vez, mediante ley estatutaria, para concluir su actividad, a solicitud de los magistrados de la JEP. La Sección de estabilidad y eficacia de Resoluciones y Sentencias, prevista en el parágrafo del artículo 91 de esta ley podrá constituirse en cualquier momento en que resulte necesaria.
+<Aparte subrayado CONDICIONALMENTE constitucional> El plazo para la conclusión de las funciones de la Jurisdicción Especial para la Paz consistentes en la presentación de acusaciones por la Unidad de investigación y Acusación, de oficio o como consecuencia de los informes que tratan los literales b) y c) del artículo 79 de esta ley, será de diez (10) años contados a partir de la entrada efectiva en funcionamiento de la totalidad de Salas y Secciones de la Jurisdicción Especial para la Paz, y un plazo posterior de cinco (5) años más para concluir su actividad jurisdiccional, plazo este último que de ser necesario podrá ser prorrogado por una única vez, mediante ley estatutaria, para concluir su actividad, a solicitud de los magistrados de la JEP. La Sección de estabilidad y eficacia de Resoluciones y Sentencias, prevista en el parágrafo del artículo 91 de esta ley podrá constituirse en cualquier momento en que resulte necesaria.
 
 En todo caso, el plazo para la conclusión de las funciones y objetivos misionales de la JEP, en cualquiera de sus salas o secciones, no podrá ser superior a 20 años.
 
@@ -378,7 +378,7 @@ PARÁGRAFO. Si por los hechos o conductas objeto de las amnistías o indultos pr
 ## art:42 — DELITOS NO AMNISTIABLES
 ubicacion: TÍTULO II. NATURALEZA, OBJETO Y PRINCIPIOS CAPÍTULO I. Naturaleza y objeto > CAPÍTULO III. AMNISTÍA.
 
-No serán objeto de amnistía ni indulto ni de beneficios equivalentes los delitos de lesa humanidad, el genocidio, los crímenes de guerra, la toma de rehenes u otra privación grave de la libertad, la tortura, las ejecuciones extrajudiciales, la desaparición forzada, el acceso carnal violento y otras formas de violencia sexual, la sustracción de menores, el desplazamiento forzado, además del reclutamiento de menores, todo ello conforme a lo establecido en el Estatuto de Roma.
+<Aparte subrayado CONDICIONALMENTE constitucional> No serán objeto de amnistía ni indulto ni de beneficios equivalentes los delitos de lesa humanidad, el genocidio, los crímenes de guerra, la toma de rehenes u otra privación grave de la libertad, la tortura, las ejecuciones extrajudiciales, la desaparición forzada, el acceso carnal violento y otras formas de violencia sexual, la sustracción de menores, el desplazamiento forzado, además del reclutamiento de menores, todo ello conforme a lo establecido en el Estatuto de Roma.
 
 Tampoco son amnistiables o indultables en el SIVJRNR, los delitos comunes que carecen de relación con la rebelión, conforme a lo determinado en la Ley 1820 de 2016 de amnistía.
 
@@ -798,7 +798,7 @@ PARÁGRAFO. <Parágrafo CONDICIONALMENTE constitucional> En las resoluciones de 
 ## art:80 — RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD
 ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
-El reconocimiento de verdad y responsabilidad por la realización de las conductas podrá hacerse de manera individual o colectiva, de forma oral o mediante escrito remitido a la Sala de Reconocimiento de Verdad y Responsabilidad de la JEP, desde que se hayan recibido los informes mencionados en el artículo 79 de esta ley y una vez instalada la Sala.
+<Aparte subrayado CONDICIONALMENTE constitucional> El reconocimiento de verdad y responsabilidad por la realización de las conductas podrá hacerse de manera individual o colectiva, de forma oral o mediante escrito remitido a la Sala de Reconocimiento de Verdad y Responsabilidad de la JEP, desde que se hayan recibido los informes mencionados en el artículo 79 de esta ley y una vez instalada la Sala.
 
 El plazo para recibir los informes previstos en el artículo 79 de esta ley será de seis (6) meses y podrá prorrogarse, de forma pública y suficientemente motivada, por periodos sucesivos de seis (6) meses hasta completar un periodo máximo de tres (3) años desde que se haya constituido la totalidad de Salas y Secciones de la Jurisdicción Especial para la Paz, salvo causa excepcional debidamente motivada en la que el plazo podrá ser moderadamente extendido por la Sala de Reconocimiento de Verdad y Responsabilidad.
 
@@ -916,7 +916,7 @@ k) Las demás que establezca la ley de procedimiento de la JEP.
 ## art:88 — FUNCIONES DE POLICÍA JUDICIAL DE LA JEP Y DIRECCIÓN
 ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
 
-Tendrán funciones permanentes de policía judicial, los analistas e investigadores de la Unidad de Investigación y Acusación, y, aquellos que eventualmente sean asignados a cada una de las salas y secciones de la JEP, quienes deberán tener las condiciones y calidades exigidas para los miembros de policía judicial de la Fiscalía General de la Nación. El Director de la Unidad de Investigación y Acusación, será el máximo director de la policía judicial de la JEP. Los magistrados de las Salas podrán comisionar a cualquier autoridad para la práctica de pruebas, mientras los magistrados de las Secciones y los fiscales de la JEP solo podrán hacerlo para la recolección de elementos materiales probatorios y evidencia física.
+<Aparte subrayado CONDICIONALMENTE constitucional> Tendrán funciones permanentes de policía judicial, los analistas e investigadores de la Unidad de Investigación y Acusación, y, aquellos que eventualmente sean asignados a cada una de las salas y secciones de la JEP, quienes deberán tener las condiciones y calidades exigidas para los miembros de policía judicial de la Fiscalía General de la Nación. El Director de la Unidad de Investigación y Acusación, será el máximo director de la policía judicial de la JEP. Los magistrados de las Salas podrán comisionar a cualquier autoridad para la práctica de pruebas, mientras los magistrados de las Secciones y los fiscales de la JEP solo podrán hacerlo para la recolección de elementos materiales probatorios y evidencia física.
 
 ## art:89 — UNIDAD DE GESTIÓN Y JERARQUÍA
 ubicacion: TÍTULO V. ESTRUCTURA GENERAL DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. > CAPÍTULO II. DE LOS ÓRGANOS DE LA JURISDICCIÓN ESPECIAL PARA LA PAZ. 1. SALA DE RECONOCIMIENTO DE VERDAD Y RESPONSABILIDAD Y DE DET
@@ -1380,19 +1380,19 @@ ubicacion: TÍTULO VIII. RÉGIMEN CONTRACTUAL, LABORAL Y DISCIPLINARIO, Y PRESUP
 
 Mientras el Órgano de Gobierno de la JEP desarrolla el reglamento de funcionamiento y organización, así como la planta de personal de esta Jurisdicción, el Secretario Ejecutivo determinará mediante acto administrativo los objetivos, la estructura orgánica, las funciones específicas y la planta de personal transitoria de la misma.
 
-## art:123 — Esta modificación a sido introducida en el artículo 36 del Decreto 111 de 1996 que compiló la Ley 38 de 1989
+## art:123 — 
 ubicacion: TÍTULO VIII. RÉGIMEN CONTRACTUAL, LABORAL Y DISCIPLINARIO, Y PRESUPUESTO. > CAPÍTULO III. PRESUPUESTO.
 
-<Artículo CONDICIONALMENTE constitucional> El artículo 23 de la Ley 38 de 1989 modificado por el artículo 16 Ley 179 de 1994 quedará de la siguiente manera y modificará las correspondientes enumeraciones que se hagan en el presupuesto:
+<Esta modificación a sido introducida en el artículo 36 del Decreto 111 de 1996 que compiló la Ley 38 de 1989> <Artículo CONDICIONALMENTE constitucional> El artículo 23 de la Ley 38 de 1989 modificado por el artículo 16 Ley 179 de 1994 quedará de la siguiente manera y modificará las correspondientes enumeraciones que se hagan en el presupuesto:
 
 Artículo 38. <sic> El Presupuesto de Gastos se compondrá de los gastos de funcionamiento, del servicio de la deuda pública y de los gastos de inversión. Cada uno de estos gastos se presentará clasificado en diferentes secciones que corresponderán a: la Rama Judicial, la Rama Legislativa, la Fiscalía General de la Nación, la Procuraduría General de la Nación, la Defensoría del Pueblo, la Contraloría General de la República, la Registraduría Nacional del Estado Civil que incluye el Consejo Nacional Electoral, una (1) por cada ministerio, departamento administrativo y establecimientos públicos, una (1) para la Policía Nacional y una (1) para el servicio de la deuda pública. En el Proyecto de Presupuesto de Inversión se indicarán los proyectos establecidos en el Plan Operativo Anual de Inversión, clasificado según lo determine el Gobierno nacional.
 
 En los presupuestos de gastos de funcionamiento e inversión no se podrán incluir gastos con destino al servicio de la deuda.
 
-## art:124 — Esta modificación a sido introducida en el artículo 110 del Decreto 111 de 1996 que compiló la Ley 38 de 1989
+## art:124 — 
 ubicacion: TÍTULO VIII. RÉGIMEN CONTRACTUAL, LABORAL Y DISCIPLINARIO, Y PRESUPUESTO. > CAPÍTULO III. PRESUPUESTO.
 
-El artículo 91 de la Ley 38 de 1989, modificado por el artículo 51 de la Ley 179 de 1994 quedará de la siguiente manera:
+<Esta modificación a sido introducida en el artículo 110 del Decreto 111 de 1996 que compiló la Ley 38 de 1989> El artículo 91 de la Ley 38 de 1989, modificado por el artículo 51 de la Ley 179 de 1994 quedará de la siguiente manera:
 
 Artículo 91. Los órganos que son una sección en el Presupuesto General de la Nación, tendrán la capacidad de contratar y comprometer a nombre de la persona jurídica de la cual hagan parte, y ordenar el gasto en desarrollo de las apropiaciones incorporadas en la respectiva sección, lo que constituye la autonomía presupuestal a que se refieren la Constitución Política y la ley. Estas facultades estarán en cabeza del jefe de cada órgano quien podrá delegarlas en funcionarios del nivel directivo, o quien haga sus veces, y serán ejercidas teniendo en cuenta las normas consagradas en el Estatuto General de Contratación de la Administración Pública y en las disposiciones legales vigentes.
 

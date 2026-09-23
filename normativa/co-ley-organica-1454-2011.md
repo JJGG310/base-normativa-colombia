@@ -417,7 +417,7 @@ PARÁGRAFO 2o. Al nivel metropolitano le corresponde la elaboración de planes i
 ## art:30 — REGIÓN ADMINISTRATIVA Y DE PLANIFICACIÓN (RAP)
 ubicacion: TÍTULO IV. DE LAS REGIONES ADMINISTRATIVAS Y DE PLANIFICACIÓN.
 
-De conformidad con lo previsto en el artículo 306 de la Constitución Política, previa autorización de sus respectivas asambleas, y previo concepto de la Comisión de Ordenamiento Territorial de Senado, los gobernadores de dos o más departamentos podrán constituir mediante convenio una Región Administrativa y de Planificación (RAP), con personería jurídica, autonomía y patrimonio propio, con el objeto de promover el desarrollo económico y social, la inversión y la competitividad regional. Con tal fin la Región de Administración y de Planificación (RAP) tendrá, las siguientes funciones:
+<Artículo modificado por el artículo 4 de la Ley 1962 de 2019. El nuevo texto es el siguiente:> De conformidad con lo previsto en el artículo 306 de la Constitución Política, previa autorización de sus respectivas asambleas, y previo concepto de la Comisión de Ordenamiento Territorial de Senado, los gobernadores de dos o más departamentos podrán constituir mediante convenio una Región Administrativa y de Planificación (RAP), con personería jurídica, autonomía y patrimonio propio, con el objeto de promover el desarrollo económico y social, la inversión y la competitividad regional. Con tal fin la Región de Administración y de Planificación (RAP) tendrá, las siguientes funciones:
 
 1. Promover acciones que contribuyan a concretar el enfoque de desarrollo regional, considerando las necesidades, características y particularidades económicas, culturales, sociales y ambientales, y fomentando el fortalecimiento de las capacidades institucionales de los entes territoriales que la conforman.
 
@@ -479,7 +479,7 @@ Créase el Consejo Regional Administrativo y de Planificación como instancia t�
 ## art:32 — FINANCIACIÓN
 ubicacion: TÍTULO IV. DE LAS REGIONES ADMINISTRATIVAS Y DE PLANIFICACIÓN.
 
-El funcionamiento de las Regiones Administrativas y de Planificación (RAP) se financiará con cargo a los recursos o aportes que las respectivas entidades territoriales que la conformen destinen para ello y los incentivos que defina el Gobierno nacional, de conformidad con los indicadores de sostenibilidad fiscal de la Ley 617 de 2000 para los departamentos que las conformen.
+<Artículo modificado por el artículo 5 de la Ley 1962 de 2019. El nuevo texto es el siguiente:> El funcionamiento de las Regiones Administrativas y de Planificación (RAP) se financiará con cargo a los recursos o aportes que las respectivas entidades territoriales que la conformen destinen para ello y los incentivos que defina el Gobierno nacional, de conformidad con los indicadores de sostenibilidad fiscal de la Ley 617 de 2000 para los departamentos que las conformen.
 
 Los recursos de inversión de la Región de Administración y Planificación (RAP) provendrán de los aportes de las entidades territoriales que concurran en su conformación, los recursos provenientes del crédito público y la cofinanciación del Presupuesto General de la Nación y de otras fuentes de financiación territorial, las donaciones en su favor y los demás que establezca la ley, en concordancia con sus funciones.
 

@@ -3,3 +3,4 @@ contexto.jsonl
 fuentes/
 __pycache__/
 .DS_Store
+.relaciones.lock

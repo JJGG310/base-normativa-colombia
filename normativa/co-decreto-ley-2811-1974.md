@@ -1404,10 +1404,10 @@ PARTE VI.
 
 DE LOS RECURSOS GEOTERMICOS
 
-## art:172 — Artículo modificado por el artículo 17 de la Ley 2099 de 2021. El nuevo texto es el siguiente:
+## art:172 — 
 ubicacion: TITULO XI. SANCIONES
 
-Para los efectos de este Código, se entiende por recurso geotérmico el calor contenido en el interior de la tierra, y el cual se almacena o está comprendido en las rocas del subsuelo y/o en los fluidos del subsuelo.
+<Artículo modificado por el artículo 17 de la Ley 2099 de 2021. El nuevo texto es el siguiente:> Para los efectos de este Código, se entiende por recurso geotérmico el calor contenido en el interior de la tierra, y el cual se almacena o está comprendido en las rocas del subsuelo y/o en los fluidos del subsuelo.
 
 ## art:173 — 
 ubicacion: TITULO XI. SANCIONES
@@ -1432,15 +1432,15 @@ c). Producción de agua dulce;
 
 d). Extracción de su contenido mineral;
 
-## art:176 — Artículo modificado por el artículo 18 de la Ley 2099 de 2021. El nuevo texto es el siguiente:
+## art:176 — 
 ubicacion: TITULO XI. SANCIONES
 
-La concesión de aguas superficiales y/o subterráneas será otorgada por parte de la autoridad ambiental en la licencia ambiental, cuando ello aplique, dependiendo del tipo de uso del recurso geotérmico que se vaya a adelantar.
+<Artículo modificado por el artículo 18 de la Ley 2099 de 2021. El nuevo texto es el siguiente:> La concesión de aguas superficiales y/o subterráneas será otorgada por parte de la autoridad ambiental en la licencia ambiental, cuando ello aplique, dependiendo del tipo de uso del recurso geotérmico que se vaya a adelantar.
 
-## art:177 — Artículo modificado por el artículo 19 de la Ley 2099 de 2021. El nuevo texto es el siguiente:
+## art:177 — 
 ubicacion: TITULO XI. SANCIONES
 
-Las medidas necesarias para eliminar efectos contaminantes de las aguas o los vapores condensados, serán de cargo de quien realiza el uso y aprovechamiento del recurso geotérmico de contenido salino.
+<Artículo modificado por el artículo 19 de la Ley 2099 de 2021. El nuevo texto es el siguiente:> Las medidas necesarias para eliminar efectos contaminantes de las aguas o los vapores condensados, serán de cargo de quien realiza el uso y aprovechamiento del recurso geotérmico de contenido salino.
 
 PARTE VII. 
 
@@ -1640,10 +1640,10 @@ c). Realizar directamente el aprovechamiento del recurso, cuando razones de orde
 
 d). Crear y administrar zonas para promover el desarrollo de especies.
 
-## art:202 — Artículo modificado por el artículo 203 de la Ley 1450 de 2011. El nuevo texto es el siguiente:
+## art:202 — 
 ubicacion: TITULO III. DE LOS BOSQUES
 
-El presente título regula el manejo de los suelos forestales por su naturaleza y de los bosques que contienen, que para los efectos del presente código, se denominan áreas forestales. 
+<Artículo modificado por el artículo 203 de la Ley 1450 de 2011. El nuevo texto es el siguiente:> El presente título regula el manejo de los suelos forestales por su naturaleza y de los bosques que contienen, que para los efectos del presente código, se denominan áreas forestales. 
 
 Las áreas forestales podrán ser protectoras y productoras.
 
@@ -1952,10 +1952,10 @@ ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO I. DISPOSICIO
 
 Las normas de este título tienen por objeto asegurar la conservación, fomento y aprovechamiento racional de la fauna silvestre, como fundamento indispensable para su utilización continuada.
 
-## art:248 — Aparte tachado INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020
+## art:248 — 
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO I. DISPOSICIONES GENERALES
 
-La fauna silvestre que se encuentra en el territorio nacional pertenece a la Nación, salvo las especies de los zoocriaderos [TACHADO: y cotos de caza de propiedad particular].
+<Aparte tachado INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020> La fauna silvestre que se encuentra en el territorio nacional pertenece a la Nación, salvo las especies de los zoocriaderos [TACHADO: y cotos de caza de propiedad particular].
 
 ## art:249 — 
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLASIFICACION Y DEFINICIONES
@@ -2004,10 +2004,10 @@ ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLA
 
 Es reserva de caza el área que se reserva y alinda con fines de conservación, investigación y manejo, para fomento de especies cinegéticas en donde puede ser permitida la caza con sujeción a reglamentos especiales.
 
-## art:256 — Artículo INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020
+## art:256 — 
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLASIFICACION Y DEFINICIONES
 
-[TACHADO: Se entiende por coto de caza el área destinada al mantenimiento, fomento y aprovechamiento de especies de la fauna silvestre para caza deportiva. ]
+<Artículo INEXEQUIBLE, efectos diferidos hasta el 21 de agosto de 2020> [TACHADO: Se entiende por coto de caza el área destinada al mantenimiento, fomento y aprovechamiento de especies de la fauna silvestre para caza deportiva. ]
 
 ## art:257 — 
 ubicacion: TITULO I. DE LA FAUNA SILVESTRE Y DE LA CAZA > CAPITULO II. DE LA CLASIFICACION Y DEFINICIONES
@@ -2170,10 +2170,10 @@ b). Industrial, o sea la realizada por personas naturales o jurídicas con medio
 
 6o. De fomento, o sea la que se realiza con el exclusivo propósito de adquirir ejemplares para establecer o mantener criaderos particulares de especies hidrobiológicas.
 
-## art:274 — Artículo modificado por el artículo 5 de la Ley 2501 de 2025. El nuevo texto es el siguiente:
+## art:274 — 
 ubicacion: TITULO I. DE LA FAUNA Y FLORA ACUATICAS Y DE LA PESCA > CAPITULO III. DE LAS FACULTADES DE LA ADMINISTRACION
 
-Corresponde a la Administración Pública: 
+<Artículo modificado por el artículo 5 de la Ley 2501 de 2025. El nuevo texto es el siguiente:> Corresponde a la Administración Pública: 
 
 a) Determinar prohibición s o vedas respecto de especies e individuos hidrobiológicos; 
 
@@ -2221,10 +2221,10 @@ En aguas de dominio privado y en las concedidas para cultivo de especies hidrobi
 
 A menos de haberse reservado a favor del concesionario el aprovechamiento de la pesca, en canal, acequia o acueducto de propiedad privada que pasen por predios de distintos dueños, puede pescar cualquier persona sujeta a las condiciones establecidas en la ley, siempre que no cause perjuicio a terceros, contaminación a las aguas, obstrucción de su curso, o deterioro a los canales o a sus márgenes.
 
-## art:277 — Artículo modificado por el artículo 6 de la Ley 2501 de 2025. El nuevo texto es el siguiente:
+## art:277 — 
 ubicacion: TITULO I. DE LA FAUNA Y FLORA ACUATICAS Y DE LA PESCA > CAPITULO IV. DEL EJERCICIO DE LA PESCA
 
-Las actividades relacionadas con la pesca deben practicarse de manera que no impidan la navegación o el curso natural de las aguas. 
+<Artículo modificado por el artículo 6 de la Ley 2501 de 2025. El nuevo texto es el siguiente:> Las actividades relacionadas con la pesca deben practicarse de manera que no impidan la navegación o el curso natural de las aguas. 
 
 La pesca de turismo no se podrá realizar en zonas excluidas por la autoridad competente.
 
@@ -2295,10 +2295,10 @@ ubicacion: TITULO II. DE LA ACUICULTURA Y DEL FOMENTO DE LA PESCA
 
 Para los efectos de este código, se entiende por acuicultura el cultivo de organismos hidrobiológicos con técnicas apropiadas, en ambientes naturales o artificiales y generalmente bajo control.
 
-## art:287 — Artículo modificado por el artículo 7 de la Ley 2501 de 2025. El nuevo texto es el siguiente:
+## art:287 — 
 ubicacion: TITULO II. DE LA ACUICULTURA Y DEL FOMENTO DE LA PESCA
 
-Para mejorar las condiciones económicas y sociales de los pescadores se fomentará la organización de cooperativas, empresas comunitarias y otras asociaciones semejantes. 
+<Artículo modificado por el artículo 7 de la Ley 2501 de 2025. El nuevo texto es el siguiente:> Para mejorar las condiciones económicas y sociales de los pescadores se fomentará la organización de cooperativas, empresas comunitarias y otras asociaciones semejantes. 
 
 El Gobierno nacional en cabeza del Ministro de Agricultura y Desarrollo Rural, y el Ministerio de Comercio, Industria y Turismo en articulación con las entidades territoriales y autoridades ambientales, en el marco de sus competencias, formularán e implementarán planes, programas y proyectos que busquen mejorar las condiciones económicas y sociales de los pescadores turísticos, operadores turísticos, cooperativas, empresas comunitarias y otras asociaciones semejantes que desarrollen las modalidades de pesca contenidas en el Artículo 273 del Decreto número 2811 de 1974, incluyendo la actividad de pesca de turismo. 
 

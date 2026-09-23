@@ -21,11 +21,11 @@ El presente Código rige en todo el territorio de la República para todos sus h
 
 ## art:3 — RELACIONES QUE REGULA
 
-El presente Código regula las relaciones de derecho individual y colectivo del trabajo de carácter particular. De igual forma regula las relaciones de derecho colectivo del sector público, salvo el derecho de negociación colectiva de empleados públicos que se regula conforme a norma especial.
+<Artículo modificado por el artículo 2 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> El presente Código regula las relaciones de derecho individual y colectivo del trabajo de carácter particular. De igual forma regula las relaciones de derecho colectivo del sector público, salvo el derecho de negociación colectiva de empleados públicos que se regula conforme a norma especial.
 
 ## art:4 — EMPLEADOS PÚBLICOS
 
-Las relaciones de derecho individual del trabajo entre la administración pública y los empleados públicos no se rigen por este Código, sino por los estatutos especiales y las leyes que se dicten.
+<Artículo modificado por el artículo 3 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> Las relaciones de derecho individual del trabajo entre la administración pública y los empleados públicos no se rigen por este Código, sino por los estatutos especiales y las leyes que se dicten.
 
 ## art:5 — DEFINICION DE TRABAJO
 
@@ -49,7 +49,7 @@ El trabajo goza de la protección del Estado, en la forma prevista en la Constit
 
 ## art:10 — IGUALDAD DE LOS TRABAJADORES Y LAS TRABAJADORAS
 
-Todos los trabajadores y trabajadoras son iguales ante la ley, tienen la misma protección y garantías, en consecuencia, queda abolido cualquier tipo de distinción por razón del carácter intelectual o material de la labor, su forma o retribución, el género o sexo salvo las excepciones establecidas por la ley.
+<Artículo modificado por el artículo 2 de la Ley 1496 de 2011. El nuevo texto es el siguiente:> Todos los trabajadores y trabajadoras son iguales ante la ley, tienen la misma protección y garantías, en consecuencia, queda abolido cualquier tipo de distinción por razón del carácter intelectual o material de la labor, su forma o retribución, el género o sexo salvo las excepciones establecidas por la ley.
 
 ## art:11 — DERECHO AL TRABAJO
 
@@ -87,7 +87,7 @@ Para la interpretación de este Código debe tomarse en cuenta su finalidad, exp
 
 ## art:19 — NORMAS DE APLICACION SUPLETORIA
 
-Cuando no haya norma exactamente aplicable al caso controvertido, se aplican las que regulen casos o materias semejantes, los principios que se deriven de este Código, la jurisprudencia, la costumbre o el uso, la doctrina, los Convenios y Recomendaciones adoptados por la Organización y las Conferencias Internacionales del Trabajo, en cuanto no se opongan a las leyes sociales del país, los principios del derecho común que no sean contrarios a los del Derecho del Trabajo, todo dentro de un espíritu de equidad.
+<Aparte subrayado CONDICIONALMENTE exequible> Cuando no haya norma exactamente aplicable al caso controvertido, se aplican las que regulen casos o materias semejantes, los principios que se deriven de este Código, la jurisprudencia, la costumbre o el uso, la doctrina, los Convenios y Recomendaciones adoptados por la Organización y las Conferencias Internacionales del Trabajo, en cuanto no se opongan a las leyes sociales del país, los principios del derecho común que no sean contrarios a los del Derecho del Trabajo, todo dentro de un espíritu de equidad.
 
 ## art:20 — CONFLICTOS DE LEYES
 
@@ -107,6 +107,8 @@ ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO I. DEFINICION Y 
 ## art:23 — ELEMENTOS ESENCIALES
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO I. DEFINICION Y NORMAS GENERALES.
 
+<Artículo subrogado por el artículo 1o. de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
+
 1. Para que haya contrato de trabajo se requiere que concurran estos tres elementos esenciales: 
 
 a. La actividad personal del trabajador, es decir, realizada por sí mismo; 
@@ -122,7 +124,7 @@ c. Un salario como retribución del servicio.
 ## art:24 — PRESUNCION
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO I. DEFINICION Y NORMAS GENERALES.
 
-Se presume que toda relación de trabajo personal está regida por un contrato de trabajo. 
+<Artículo modificado por el artículo 2o. de la Ley 50 de 1990. El nuevo texto es el siguiente>. Se presume que toda relación de trabajo personal está regida por un contrato de trabajo. 
 
 <Inciso INEXEQUIBLE>
 
@@ -164,7 +166,7 @@ Si se estableciere una relación de trabajo con un menor sin sujeción a lo prec
 ## art:32 — REPRESENTANTES DEL {EMPLEADOR}
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO III. REPRESENTANTES DEL {EMPLEADOR} Y SOLIDARIDAD.
 
-Son representantes del {empleador} y como tales lo obligan frente a sus trabajadores además de quienes tienen ese carácter según la ley, la convención o el reglamento de trabajo, las siguientes personas: 
+<Artículo modificado por el artículo 1o. del Decreto 2351 de 1965. El nuevo texto es el siguiente:> Son representantes del {empleador} y como tales lo obligan frente a sus trabajadores además de quienes tienen ese carácter según la ley, la convención o el reglamento de trabajo, las siguientes personas: 
 
 a) Las que ejerzan funciones de dirección o administración, tales como directores, gerentes, administradores, síndicos o liquidadores, mayordomos y capitanes de barco, y quienes ejercitan actos de representación con la aquiescencia expresa o tácita del {empleador}; 
 
@@ -173,12 +175,16 @@ b) Los intermediarios.
 ## art:33 — SUCURSALES
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO III. REPRESENTANTES DEL {EMPLEADOR} Y SOLIDARIDAD.
 
+<Artículo modificado por el artículo 2o. del Decreto 2351 de 1965. El nuevo texto es el siguiente:> 
+
 1o) Los {empleadores} que tengan sucursales o agencias dependientes de su establecimiento en otros municipios distintos del domicilio principal, deben constituir públicamente en cada uno de ellos un apoderado, con la facultad de representarlos en juicios o controversias relacionados con los contratos de trabajo que se hayan ejecutado o deban ejecutarse el respectivo municipio. 
 
 2o) A falta de tal apoderado, se tendrán como hechas al {empleador} las notificaciones administrativas o judiciales que se hagan a quien dirija la correspondiente agencia o sucursal; y este será solidariamente responsable cuando omita darle al {empleador} aviso oportuno de tales notificaciones.
 
 ## art:34 — CONTRATISTAS Y SUBCONTRATISTAS
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO III. REPRESENTANTES DEL {EMPLEADOR} Y SOLIDARIDAD.
+
+<Artículo modificado por el artículo 44 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> 
 
 1. Son contratistas y subcontratistas, personas naturales o jurídicas quienes contraten en beneficio de terceros, cualquiera que sea el acto que le dé origen, la ejecución de obras, trabajos o la prestación de servicios, por un precio determinado, asumiendo todos los riesgos, para realizarlos con sus propios medios y con libertad y autonomía técnica y directiva. 
 
@@ -206,7 +212,7 @@ El contrato de trabajo puede ser verbal o escrito; para su validez no requiere f
 ## art:38 — CONTRATO VERBAL
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES DEL CONTRATO. (FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO).
 
-Cuando el contrato sea verbal, el {empleador} y el trabajador deben ponerse de acuerdo, al menos acerca de los siguientes puntos: 
+<Artículo modificado por el artículo 1o. del Decreto 617 de 1954. El nuevo texto es el siguiente:> Cuando el contrato sea verbal, el {empleador} y el trabajador deben ponerse de acuerdo, al menos acerca de los siguientes puntos: 
 
 1. La índole del trabajo y el sitio en donde ha de realizarse; 
 
@@ -219,10 +225,10 @@ ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES 
 
 El contrato de trabajo escrito se extiende en tantos ejemplares cuantos sean los interesados, destinándose uno para cada uno de ellos; está exento de impuestos de papel sellado y de timbre nacional y debe contener necesariamente, fuera de las cláusulas que las partes acuerden libremente, las siguientes: la identificación y domicilio de las partes; el lugar y la fecha de su celebración; el lugar en donde se haya contratado el trabajador y en donde haya de prestar el servicio; la naturaleza del trabajo; la cuantía de la remuneración, su forma y periodos de pago; la estimación de su valor, en caso de que haya suministros de habitación y alimentación como parte del salario; y la duración del contrato, su desahucio y terminación.
 
-## art:40 — A
+## art:40 — CARNÉ
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES DEL CONTRATO. (FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO).
 
-CARNÉ. <Artículo modificado por el artículo 51 de la Ley 962 de 2005. El nuevo texto es el siguiente:> Las empresas podrán, a su juicio y como control de identificación del personal que le preste servicios en sus distintas modalidades, expedirles a sus trabajadores, contratistas y su personal y a los trabajadores en misión un carné en donde conste, según corresponda, el nombre del trabajador directo, con el número de cédula y el cargo. En tratándose de contratistas el de las personas autorizadas por este o del trabajador en misión, precisando en esos casos el nombre o razón social de la empresa contratista o de servicios temporal e igualmente la clase de actividad que desarrolle. El carné deberá estar firmado por persona autorizada para expedirlo.
+<Artículo modificado por el artículo 51 de la Ley 962 de 2005. El nuevo texto es el siguiente:> Las empresas podrán, a su juicio y como control de identificación del personal que le preste servicios en sus distintas modalidades, expedirles a sus trabajadores, contratistas y su personal y a los trabajadores en misión un carné en donde conste, según corresponda, el nombre del trabajador directo, con el número de cédula y el cargo. En tratándose de contratistas el de las personas autorizadas por este o del trabajador en misión, precisando en esos casos el nombre o razón social de la empresa contratista o de servicios temporal e igualmente la clase de actividad que desarrolle. El carné deberá estar firmado por persona autorizada para expedirlo.
 
 PARÁGRAFO. La expedición del carné no requerirá aprobación por ninguna autoridad judicial o administrativa.
 
@@ -252,7 +258,7 @@ En los contratos de trabajo no producen ningún efecto las estipulaciones o cond
 ## art:44 — CLAUSULA DE NO CONCURRENCIA
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES DEL CONTRATO. (FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO).
 
-La estipulación por medio de la cual un trabajador se obliga a no trabajar en determinada actividad o a no prestar sus servicios a los competidores de su {empleador}, una vez concluido su contrato de trabajo no produce efecto alguno. [TACHADO: Sin embargo, es válida esta estipulacíon hasta por un año cuando se trate de trabajadores técnicos, industriales o agrícolas, en cuyo caso debe pactarse por el periodo de abstención, una indemnización, que en ningún caso puede ser inferior a la mitad del salario].
+<Aparte tachado INEXEQUIBLE>. La estipulación por medio de la cual un trabajador se obliga a no trabajar en determinada actividad o a no prestar sus servicios a los competidores de su {empleador}, una vez concluido su contrato de trabajo no produce efecto alguno. [TACHADO: Sin embargo, es válida esta estipulacíon hasta por un año cuando se trate de trabajadores técnicos, industriales o agrícolas, en cuyo caso debe pactarse por el periodo de abstención, una indemnización, que en ningún caso puede ser inferior a la mitad del salario].
 
 ## art:45 — DURACION
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES DEL CONTRATO. (FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO).
@@ -261,6 +267,8 @@ El contrato de trabajo puede celebrarse por tiempo determinado, por el tiempo qu
 
 ## art:46 — CONTRATOS A TÉRMINO FIJO Y DE OBRA O LABOR DETERMINADA
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES DEL CONTRATO. (FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO).
+
+<Artículo modificado por el artículo 6 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> 
 
 1. CONTRATOS DE TRABAJO A TÉRMINO FIJO 
 
@@ -285,7 +293,7 @@ PARÁGRAFO 1o. En los contratos a término fijo y de obra o labor determinada, e
 ## art:47 — EL CONTRATO LABORAL A TÉRMINO INDEFINIDO
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES DEL CONTRATO. (FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO).
 
-Los trabajadores y las trabajadoras serán vinculados mediante contrato de trabajo a término indefinido. Sin perjuicio de lo anterior, podrán celebrarse contratos de trabajo, ya sea a término fijo, por el tiempo que dure la realización de una obra o labor determinada o para ejecutar un trabajo ocasional, accidental o transitorio. El contrato a término indefinido tendrá vigencia mientras subsistan las causas que le dieron origen y la materia del trabajo. 
+<Artículo modificado por el artículo 5 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> Los trabajadores y las trabajadoras serán vinculados mediante contrato de trabajo a término indefinido. Sin perjuicio de lo anterior, podrán celebrarse contratos de trabajo, ya sea a término fijo, por el tiempo que dure la realización de una obra o labor determinada o para ejecutar un trabajo ocasional, accidental o transitorio. El contrato a término indefinido tendrá vigencia mientras subsistan las causas que le dieron origen y la materia del trabajo. 
 
 El trabajador o trabajadora podrá darlo por terminado mediante preaviso de treinta (30) días calendario para que el empleador provea su reemplazo. En ningún caso se podrá pactar sanción para el empleado que omita el preaviso aquí descrito. 
 
@@ -309,7 +317,7 @@ Todo contrato de trabajo es revisable cuando quiera que sobrevengan imprevisible
 ## art:51 — SUSPENSION
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IV. MODALIDADES DEL CONTRATO. (FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO).
 
-El contrato de trabajo se suspende: 
+<Artículo subrogado por el artículo 4o. de la Ley 50 de 1990. El nuevo texto es el siguiente:> El contrato de trabajo se suspende: 
 
 1. Por fuerza mayor o caso fortuito que temporalmente impida su ejecución. 
 
@@ -488,7 +496,7 @@ c) <Literal INEXEQUIBLE>
 ## art:59a — PROHIBICIÓN AL EMPLEADOR SOBRE MANIOBRAS DE ELUSIÓN
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO V. EJECUCION Y EFECTO DEL CONTRATO.
 
-En atención al principio de primacía de la realidad, se prohíbe al empleador el uso fraudulento de las prerrogativas diferenciadas otorgadas a determinados sectores productivos o a las microempresas y pequeñas empresas, con el propósito de desconocer o menoscabar los derechos laborales reconocidos al trabajador en la presente ley. 
+<Artículo adicionado por el artículo 48 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> En atención al principio de primacía de la realidad, se prohíbe al empleador el uso fraudulento de las prerrogativas diferenciadas otorgadas a determinados sectores productivos o a las microempresas y pequeñas empresas, con el propósito de desconocer o menoscabar los derechos laborales reconocidos al trabajador en la presente ley. 
 
 Sin perjuicio de las sanciones legales que correspondan ante la configuración de la conducta descrita en el presente artículo, el trabajador tendrá derecho a una indemnización equivalente al valor de un (1) día de salario por cada día de ejecución de la conducta, contado desde el inicio de la misma hasta la fecha de pago de la indemnización, sin que en ningún caso exceda el término de veinticuatro (24) meses.
 
@@ -516,6 +524,8 @@ Se prohibe a los trabajadores:
 ## art:61 — TERMINACION DEL CONTRATO
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VI. TERMINACION DEL CONTRATO DE TRABAJO.
 
+<Artículo subrogado por el artículo 5o. de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
+
 1. El contrato de trabajo termina: 
 
 a). Por muerte del trabajador; 
@@ -541,7 +551,7 @@ i). Por no regresar el trabajador a su empleo, al desaparecer las causas de la s
 ## art:62 — TERMINACION DEL CONTRATO POR JUSTA CAUSA
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VI. TERMINACION DEL CONTRATO DE TRABAJO.
 
-Son justas causas para dar por terminado unilateralmente el contrato de trabajo: 
+<Artículo modificado por el artículo 7o. del Decreto 2351 de 1965. El nuevo texto es el siguiente:> Son justas causas para dar por terminado unilateralmente el contrato de trabajo: 
 
 A). Por parte del {empleador}: 
 
@@ -605,7 +615,7 @@ ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VI. TERMINACION 
 ## art:64 — TERMINACION UNILATERAL DEL CONTRATO DE TRABAJO SIN JUSTA CAUSA
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VI. TERMINACION DEL CONTRATO DE TRABAJO.
 
-En todo contrato de trabajo va envuelta la condición resolutoria por incumplimiento de lo pactado, con indemnización de perjuicios a cargo de la parte responsable. Esta indemnización comprende el lucro cesante y el daño emergente.
+<Artículo modificado por el artículo 28 de la Ley 789 de 2002. El nuevo texto es el siguiente:> En todo contrato de trabajo va envuelta la condición resolutoria por incumplimiento de lo pactado, con indemnización de perjuicios a cargo de la parte responsable. Esta indemnización comprende el lucro cesante y el daño emergente.
 
 En caso de terminación unilateral del contrato de trabajo sin justa causa comprobada, por parte del empleador o si éste da lugar a la terminación unilateral por parte del trabajador por alguna de las justas causas contempladas en la ley, el primero deberá al segundo una indemnización en los términos que a continuación se señalan:
 
@@ -649,7 +659,7 @@ PARÁGRAFO 2o. Lo dispuesto en el inciso 1o. de este artículo solo se aplicará
 ## art:66 — MANIFESTACION DEL MOTIVO DE LA TERMINACION
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VI. TERMINACION DEL CONTRATO DE TRABAJO.
 
-La parte que termina unilateralmente el contrato de trabajo debe manifestar a la otra, en el momento de la extinción, la causal o motivo de esta determinación. Posteriormente no pueden alegarse validamente causales o motivos distintos.
+<Artículo modificado por el parágrafo del artículo 7o. del Decreto 2351 de 1965. El nuevo texto es el siguiente:> La parte que termina unilateralmente el contrato de trabajo debe manifestar a la otra, en el momento de la extinción, la causal o motivo de esta determinación. Posteriormente no pueden alegarse validamente causales o motivos distintos.
 
 ## art:67 — DEFINICION
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VII. SUSTITUCION DE EMPLEADORES.
@@ -694,7 +704,7 @@ ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VIII. ENGANCHES 
 ## art:73 — GASTOS DE MOVILIZACION
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO VIII. ENGANCHES COLECTIVOS.
 
-Cuando los enganches se hagan para prestar servicios dentro del país, que impliquen movilización de los trabajadores [TACHADO: a distancias mayores de doscientos (200) kilómetros de su domicilio], los contratos deben contar por escrito, estipular que los gastos de ida y regreso de los trabajadores serán exclusivamente a cargo del {empleador}, [TACHADO: y llevar la aprobación del correspondiente funcionario del Trabajo o de la primera autoridad política del lugar en donde se realice el enganche].
+<Apartes tachados suprimidos por el artículo 53 de la Ley 962 de 2005. El nuevo texto es el siguiente:> Cuando los enganches se hagan para prestar servicios dentro del país, que impliquen movilización de los trabajadores [TACHADO: a distancias mayores de doscientos (200) kilómetros de su domicilio], los contratos deben contar por escrito, estipular que los gastos de ida y regreso de los trabajadores serán exclusivamente a cargo del {empleador}, [TACHADO: y llevar la aprobación del correspondiente funcionario del Trabajo o de la primera autoridad política del lugar en donde se realice el enganche].
 
 ## art:74 — PROPORCION E IGUALDAD DE CONDICIONES
 ubicacion: TITULO I. CONTRATO INDIVIDUAL DE TRABAJO. > CAPITULO IX. TRABAJADORES COLOMBIANOS Y EXTRANJEROS.
@@ -721,7 +731,7 @@ ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO I. PERIODO DE 
 ## art:78 — DURACIÓN MÁXIMA
 ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO I. PERIODO DE PRUEBA.
 
-El período de prueba no puede exceder de dos (2) meses. 
+<Artículo modificado por el artículo 7o. de la Ley 50 de 1990. El nuevo texto es el siguiente:> El período de prueba no puede exceder de dos (2) meses. 
 
 En los contratos de trabajo a término fijo cuya duración sea inferior a un (1) año el período de prueba no podrá ser superior a la quinta parte del término inicialmente pactado para el respectivo contrato, sin que pueda exceder de dos meses. 
 
@@ -730,10 +740,12 @@ Cuando entre un mismo empleador y trabajador se celebren contratos de trabajo su
 ## art:79 — PRORROGA
 ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO I. PERIODO DE PRUEBA.
 
-Cuando el período de prueba se pacte por un plazo menor al de los límites máximos expresados, las partes pueden prorrogarlo antes de vencerse el período inicialmente estipulado, sin que el tiempo total de la prueba pueda exceder dichos límites.
+<Artículo modificado por el artículo 8o. de la Ley 50 de 1990. El nuevo texto es el siguiente:> Cuando el período de prueba se pacte por un plazo menor al de los límites máximos expresados, las partes pueden prorrogarlo antes de vencerse el período inicialmente estipulado, sin que el tiempo total de la prueba pueda exceder dichos límites.
 
 ## art:80 — EFECTO JURIDICO
 ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO I. PERIODO DE PRUEBA.
+
+<Artículo modificado por el artículo 3o. del Decreto 617 de 1954. El nuevo texto es el siguiente:> 
 
 1. El período de prueba puede darse por terminado unilateralmente en cualquier momento, sin previo aviso. 
 
@@ -742,7 +754,7 @@ ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO I. PERIODO DE 
 ## art:81 — NATURALEZA Y CARACTERÍSTICAS DE LA RELACIÓN DE APRENDIZAJE
 ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO II. CONTRATO DE APRENDIZAJE.
 
-El contrato de aprendizaje es un contrato laboral especial y a término fijo, que se rige por las normas sustantivas del Código Sustantivo del Trabajo, mediante la cual una persona natural desarrolla formación teórica práctica en una entidad autorizada a cambio de que una empresa patrocinadora proporcione los medios para adquirir formación profesional metódica y completa requerida en el oficio, actividad, ocupación o profesión y esto le implique desempeñarse dentro del manejo administrativo, operativo, comercial o financiero propios del giro ordinario de las actividades de la empresa, por cualquier tiempo determinado no superior a tres (3) años, y por esto reciba un apoyo de sostenimiento mensual. 
+<Artículo modificado por el artículo 21 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> El contrato de aprendizaje es un contrato laboral especial y a término fijo, que se rige por las normas sustantivas del Código Sustantivo del Trabajo, mediante la cual una persona natural desarrolla formación teórica práctica en una entidad autorizada a cambio de que una empresa patrocinadora proporcione los medios para adquirir formación profesional metódica y completa requerida en el oficio, actividad, ocupación o profesión y esto le implique desempeñarse dentro del manejo administrativo, operativo, comercial o financiero propios del giro ordinario de las actividades de la empresa, por cualquier tiempo determinado no superior a tres (3) años, y por esto reciba un apoyo de sostenimiento mensual. 
 
 Son elementos particulares y especiales del contrato de aprendizaje: 
 
@@ -781,7 +793,7 @@ PARÁGRAFO 4o. Los hogares infantiles y las personas jurídicas sin ánimo de lu
 ## art:81a — INTERNOS DE MEDICINA
 ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO II. CONTRATO DE APRENDIZAJE.
 
-Los estudiantes de medicina que cumplan con los requisitos de admisión para realizar el internado médico obligatorio conforme a lo establecido en la Ley 14 de 1962 o la norma que la modifique o la sustituya recibirán remuneración mensual que no podrá ser inferior a un salario mínimo durante el tiempo que dura el Internado Obligatorio Rotatorio el cual será pagado por la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (ADRES). 
+<Artículo adicionado por el artículo 22 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> Los estudiantes de medicina que cumplan con los requisitos de admisión para realizar el internado médico obligatorio conforme a lo establecido en la Ley 14 de 1962 o la norma que la modifique o la sustituya recibirán remuneración mensual que no podrá ser inferior a un salario mínimo durante el tiempo que dura el Internado Obligatorio Rotatorio el cual será pagado por la Administradora de los Recursos del Sistema General de Seguridad Social en Salud (ADRES). 
 
 En vigencia del internado médico el estudiante de medicina estará afiliado al Sistema de Seguridad Social Integral. Las cotizaciones a los Sistemas de Seguridad Social Integral se realizarán sobre un ingreso base de cotización correspondiente a un (1) Salario Mínimo Legal Mensual Vigente (SMLMV).
 
@@ -850,6 +862,8 @@ ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO II. CONTRATO D
 ## art:88 — EFECTO JURIDICO
 ubicacion: TITULO II. PERIODO DE PRUEBA Y APRENDIZAJE. > CAPITULO II. CONTRATO DE APRENDIZAJE.
 
+<Ver Notas del Editor. Artículo modificado por el artículo 10 de la Ley 188 de 1959. El nuevo texto es el siguiente:> 
+
 1. El término del contrato de aprendizaje empieza a correr a partir del día en que el aprendiz inicie la formación profesional metódica. 
 
 2. Los primeros tres meses se presumen como período de prueba, durante los cuales se apreciarán, de una parte, las condiciones de adaptabilidad del aprendíz, sus aptitudes y cualidades personales; y de la otra, la conveniencia para éste (sic) de continuar el aprendizaje. 
@@ -888,43 +902,43 @@ ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPI
 ## art:94 — AGENTES COLOCADORES DE PÓLIZAS DE SEGUROS Y TÍTULOS DE CAPITALIZACIÓN
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO II. AGENTES COLOCADORES DE PÓLIZAS DE SEGUROS.
 
-Son agentes colocadores de pólizas de seguros y títulos de capitalización las personas naturales que promuevan la celebración de contratos de seguro y capitalización y la renovación de los mismos en relación con una o varias compañías de seguros o sociedades de capitalización.
+<Artículo modificado por el artículo 9o. de la Ley 50 de 1990. El nuevo texto es el siguiente:> Son agentes colocadores de pólizas de seguros y títulos de capitalización las personas naturales que promuevan la celebración de contratos de seguro y capitalización y la renovación de los mismos en relación con una o varias compañías de seguros o sociedades de capitalización.
 
 ## art:95 — CLASES DE AGENTES
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO II. AGENTES COLOCADORES DE PÓLIZAS DE SEGUROS.
 
-Los agentes colocadores de pólizas de seguros y títulos de capitalización podrán tener el carácter de dependientes o independientes.
+<Artículo modificado por el artículo 10 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Los agentes colocadores de pólizas de seguros y títulos de capitalización podrán tener el carácter de dependientes o independientes.
 
 ## art:96 — AGENTES DEPENDIENTES
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO II. AGENTES COLOCADORES DE PÓLIZAS DE SEGUROS.
 
-Son agentes dependientes las personas que han celebrado contrato de trabajo para desarrollar esta labor, con una compañía de seguros o una sociedad de capitalización. 
+<Artículo modificado por el artículo 11 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Son agentes dependientes las personas que han celebrado contrato de trabajo para desarrollar esta labor, con una compañía de seguros o una sociedad de capitalización. 
 
 PARAGRAFO TRANSITORIO. No obstante lo dispuesto en los artículos anteriores, las relaciones laborales que se hubieren configurado entre los agentes colocadores de pólizas de seguros y de títulos de capitalización y una o varias compañías de seguros o sociedades de capitalización, con anterioridad a la vigencia de la presente ley, continuarán rigiéndose por las normas bajo las cuales se establecieron.
 
 ## art:97 — AGENTES INDEPENDIENTES
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO II. AGENTES COLOCADORES DE PÓLIZAS DE SEGUROS.
 
-Son agentes independientes las personas que, por sus propios medios, se dedican a la promoción de pólizas de seguros y títulos de capitalización, sin dependencia de la compañía de seguros o la sociedad de capitalización, en virtud de un contrato mercantil. 
+<Artículo modificado por el artículo 12 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Son agentes independientes las personas que, por sus propios medios, se dedican a la promoción de pólizas de seguros y títulos de capitalización, sin dependencia de la compañía de seguros o la sociedad de capitalización, en virtud de un contrato mercantil. 
 
 En este evento no se podrán pactar cláusulas de exclusividad que le impidan al agente colocador celebrar contratos con varias compañías de seguros o sociedades de capitalización.
 
 ## art:97a — COLOCADORES DE APUESTAS PERMANENTES
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO II. AGENTES COLOCADORES DE PÓLIZAS DE SEGUROS.
 
-Los colocadores de apuestas permanentes, al igual que los agentes colocadores de pólizas de seguros y títulos de capitalización, podrán tener el carácter de dependientes o independientes. Son colocadores de apuestas dependientes los que han celebredo contratos de trabajo para desarrollar esa labor, con una empresa concesionaria. Son colocadores de apuestas independientes las personas que por sus propios medios se dediquen a la promoción o colocación de apuestas permanentes, sin dependencia de una empresa concesionaria, en virtud de un contrato mercantil. En este evento no se podrán pactar cláusulas de exclisividad. 
+<Artículo adicionado por el artículo 13 de la Ley 50 de 1990.> Los colocadores de apuestas permanentes, al igual que los agentes colocadores de pólizas de seguros y títulos de capitalización, podrán tener el carácter de dependientes o independientes. Son colocadores de apuestas dependientes los que han celebredo contratos de trabajo para desarrollar esa labor, con una empresa concesionaria. Son colocadores de apuestas independientes las personas que por sus propios medios se dediquen a la promoción o colocación de apuestas permanentes, sin dependencia de una empresa concesionaria, en virtud de un contrato mercantil. En este evento no se podrán pactar cláusulas de exclisividad. 
 
 PARAGRAFO. Los colocadores de apuestas permanentes que con anterioridad a la vigencia de la presente ley estuvieren vinculados mediante contrato de trabajo, mantendrán tal vinculación de idéntica naturaleza.
 
 ## art:98 — CONTRATO DE TRABAJO
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO III. REPRESENTANTES, AGENTES VIAJEROS Y AGENTES VENDEDORES.
 
-Hay contrato de trabajo con los representantes, agentes vendedores y agentes viajeros, cuando al servicio de personas determinadas, bajo su continuada dependencia y mediante remuneración se dediquen personalmente al ejercicio de su profesión y no constituyan por si mismos una empresa comercial. Esos trabajadores deben proveerse de una licencia para ejercer su profesión, que expedirá el Ministerio de Fomento <hoy Ministerio de Desarrollo Económico>.
+<Artículo subrogado por el artículo 3o. del Decreto 3129 de 1956. El nuevo texto es el siguiente:> Hay contrato de trabajo con los representantes, agentes vendedores y agentes viajeros, cuando al servicio de personas determinadas, bajo su continuada dependencia y mediante remuneración se dediquen personalmente al ejercicio de su profesión y no constituyan por si mismos una empresa comercial. Esos trabajadores deben proveerse de una licencia para ejercer su profesión, que expedirá el Ministerio de Fomento <hoy Ministerio de Desarrollo Económico>.
 
-## art:99 — Ver notas del editor
+## art:99 — 
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO IV. TRABAJADORES DE NOTARIAS PUBLICAS Y OFICINAS DE REGISTRO DE INSTRUMENTOS PUBLICOS Y PRIVADOS.
 
-Hay contrato de trabajo entre los trabajadores de las Notarías Públicas y Oficinas de Registro de Instrumentos Públicos y Privados y los Notarios y registradores. Estos trabajadores se consideran como particulares. .
+<Ver notas del editor> Hay contrato de trabajo entre los trabajadores de las Notarías Públicas y Oficinas de Registro de Instrumentos Públicos y Privados y los Notarios y registradores. Estos trabajadores se consideran como particulares. .
 
 ## art:100 — RESPONSABILIDAD DE LOS NOTARIOS Y REGISTRADORES
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO IV. TRABAJADORES DE NOTARIAS PUBLICAS Y OFICINAS DE REGISTRO DE INSTRUMENTOS PUBLICOS Y PRIVADOS.
@@ -934,10 +948,12 @@ ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPI
 ## art:101 — DURACION DEL CONTRATO DE TRABAJO
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO V. PROFESORES DE ESTABLECIMIENTOS PARTICULARES DE ENSEÑANZA.
 
-El contrato de trabajo con los profesores de establecimientos particulares de enseñanza se entiende celebrado por el año escolar, salvo estipulación [TACHADO: por tiempo menor].
+<Aparte tachado INEXEQUIBLE> El contrato de trabajo con los profesores de establecimientos particulares de enseñanza se entiende celebrado por el año escolar, salvo estipulación [TACHADO: por tiempo menor].
 
 ## art:102 — VACACIONES Y CESANTIAS
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO V. PROFESORES DE ESTABLECIMIENTOS PARTICULARES DE ENSEÑANZA.
+
+<Artículo modificado por el artículo 5o. del Decreto 3743 de 1950. El nuevo texto es el siguiente:> 
 
 1. Para el efecto de los derechos de vacaciones y cesantía, se entiende que el trabajo del año escolar equivale a trabajo en un año del calendario. 
 
@@ -946,6 +962,8 @@ ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPI
 ## art:103 — TERMINACION DEL CONTRATO
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO VI. CHOFERES DE SERVICIO FAMILIAR.
 
+<Artículo modificado por el artículo 4o. del Decreto 617 de 1954. El nuevo texto es el siguiente:>
+
 1. Al contrato de trabajo con los choferes de servicio familiar se le aplican las disposiciones establecidas para trabajadores domésticos, pero la cesantía, las vacaciones remuneradas y el auxilio en caso de enfermedad no profesional se les liquidaran en la forma ordinaria. 
 
 2. <Numeral derogado tácitamente Sentencia C-036-20>
@@ -953,7 +971,7 @@ ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPI
 ## art:103c — PROTECCIÓN AL TRABAJO FEMENINO RURAL Y CAMPESINO
 ubicacion: TITULO III. CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES. > CAPITULO VI. CHOFERES DE SERVICIO FAMILIAR.
 
-El trabajo de la mujer rural y campesina será especialmente protegido, y se deberá reconocer la dimensión productiva, social y comunitaria de su trabajo. 
+<Artículo adicionado por el artículo 32 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> El trabajo de la mujer rural y campesina será especialmente protegido, y se deberá reconocer la dimensión productiva, social y comunitaria de su trabajo. 
 
 Deberán ser remuneradas por el trabajo que realizan en la preparación de alimentos, el cuidado de personas, animales y de cultivos, y las demás que desarrollen de manera subordinada, en relación con sus empleadores. 
 
@@ -1065,7 +1083,7 @@ El {empleador} no puede imponer a sus trabajadores sanciones no previstas en el 
 ## art:115 — PROCEDIMIENTO PARA SANCIONES
 ubicacion: TITULO IV. REGLAMENTO DE TRABAJO Y MANTENIMIENTO DEL ORDEN EN EL ESTABLECIMIENTO. > CAPITULO I. REGLAMENTO.
 
-En todas las actuaciones para aplicar sanciones disciplinarias, se deberán aplicar las garantías del debido proceso, esto es, como mínimo los siguientes principios: dignidad, presunción de inocencia, in dubio pro disciplinado, proporcionalidad, derecho a la defensa, contradicción y controversia de las pruebas, intimidad, lealtad y buena fe, imparcialidad, respeto al buen nombre y a la honra, y non bis in idem. También se deberá aplicar como mínimo el siguiente procedimiento: 
+<Artículo modificado por el artículo 7 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> En todas las actuaciones para aplicar sanciones disciplinarias, se deberán aplicar las garantías del debido proceso, esto es, como mínimo los siguientes principios: dignidad, presunción de inocencia, in dubio pro disciplinado, proporcionalidad, derecho a la defensa, contradicción y controversia de las pruebas, intimidad, lealtad y buena fe, imparcialidad, respeto al buen nombre y a la honra, y non bis in idem. También se deberá aplicar como mínimo el siguiente procedimiento: 
 
 1. Comunicación formal de la apertura del proceso al trabajador o trabajadora.
 
@@ -1111,7 +1129,7 @@ ubicacion: TITULO IV. REGLAMENTO DE TRABAJO Y MANTENIMIENTO DEL ORDEN EN EL ESTA
 ## art:119 — OBJECIONES
 ubicacion: TITULO IV. REGLAMENTO DE TRABAJO Y MANTENIMIENTO DEL ORDEN EN EL ESTABLECIMIENTO. > CAPITULO I. REGLAMENTO.
 
-El Empleador publicará en cartelera de la empresa el Reglamento Interno de Trabajo y en la misma informará a los trabajadores, mediante circular interna, del contenido de dicho reglamento, fecha desde la cual entrará en aplicación.
+<Artículo modificado por el artículo 17 de la Ley 1429 de 2010. El nuevo texto es el siguiente:> El Empleador publicará en cartelera de la empresa el Reglamento Interno de Trabajo y en la misma informará a los trabajadores, mediante circular interna, del contenido de dicho reglamento, fecha desde la cual entrará en aplicación.
 
 La organización sindical, si la hubiere, y los trabajadores no sindicalizados, podrán solicitar al empleador dentro de los quince (15) días hábiles siguientes los ajustes que estimen necesarios cuando consideren que sus cláusulas contravienen los artículos 106, 108, 111, 112 o 113 del Código Sustantivo del Trabajo.
 
@@ -1120,7 +1138,7 @@ Si no hubiere acuerdo el inspector del trabajo adelantará la investigación cor
 ## art:120 — PUBLICACION
 ubicacion: TITULO IV. REGLAMENTO DE TRABAJO Y MANTENIMIENTO DEL ORDEN EN EL ESTABLECIMIENTO. > CAPITULO I. REGLAMENTO.
 
-Una vez cumplida la obligación del artículo 119 del presente Código, el empleador debe publicar el reglamento de trabajo, mediante la fijación de dos (2) copias en carácter legible, en dos (2) sitios distintos y a través de medio virtual, al cual los trabajadores deberán poder acceder en cualquier momento. Si hubiera varios lugares de trabajo separados, la fijación debe hacerse en cada uno de ellos, salvo que se hiciere la publicación del reglamento a través de medio virtual, caso en el cual no se requerirá efectuar varias publicaciones físicas. 
+<Artículo modificado por el artículo 8 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> Una vez cumplida la obligación del artículo 119 del presente Código, el empleador debe publicar el reglamento de trabajo, mediante la fijación de dos (2) copias en carácter legible, en dos (2) sitios distintos y a través de medio virtual, al cual los trabajadores deberán poder acceder en cualquier momento. Si hubiera varios lugares de trabajo separados, la fijación debe hacerse en cada uno de ellos, salvo que se hiciere la publicación del reglamento a través de medio virtual, caso en el cual no se requerirá efectuar varias publicaciones físicas. 
 
 Adicionalmente, el empleador podrá cargar el reglamento de trabajo en la página web de la empresa, si cuenta con una, o enviarlo a los trabajadores por cualquier canal digital de su propiedad, como el correo electrónico, dejando constancia de dicha actuación.
 
@@ -1157,15 +1175,17 @@ Los directores o trabajadores no pueden ser agentes de la autoridad pública en 
 ## art:127 — ELEMENTOS INTEGRANTES
 ubicacion: TITULO V. SALARIOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
-Constituye salario no sólo la remuneración ordinaria, fija o variable, sino todo lo que recibe el trabajador en dinero o en especie como contraprestación directa del servicio, sea cualquiera la forma o denominación que se adopte, como primas, sobresueldos, bonificaciones habituales, valor del trabajo suplementario o de las horas extras, valor del trabajo en días de descanso obligatorio, porcentajes sobre ventas y comisiones.
+<Artículo modificado por el artículo 14 del Ley 50 de 1990. El nuevo texto es el siguiente:> Constituye salario no sólo la remuneración ordinaria, fija o variable, sino todo lo que recibe el trabajador en dinero o en especie como contraprestación directa del servicio, sea cualquiera la forma o denominación que se adopte, como primas, sobresueldos, bonificaciones habituales, valor del trabajo suplementario o de las horas extras, valor del trabajo en días de descanso obligatorio, porcentajes sobre ventas y comisiones.
 
 ## art:128 — PAGOS QUE NO CONSTITUYEN SALARIOS
 ubicacion: TITULO V. SALARIOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
-No constituyen salario las sumas que ocasionalmente y por mera liberalidad recibe el trabajador del empleador, como primas, bonificaciones o gratificaciones ocasionales, participación de utilidades, excedentes de las empresas de economía solidaria y lo que recibe en dinero o en especie no para su beneficio, ni para enriquecer su patrimonio, sino para desempeñar a cabalidad sus funciones, como gastos de representación, medios de transporte, elementos de trabajo y otros semejantes. Tampoco las prestaciones sociales de que tratan los títulos VIII y IX, ni los beneficios o auxilios habituales u ocasionales acordados convencional o contractualmente u otorgados en forma extralegal por el {empleador}, cuando las partes hayan dispuesto expresamente que no constituyen salario en dinero o en especie, tales como la alimentación, habitación o vestuario, las primas extralegales, de vacaciones, de servicios o de navidad.
+<Artículo modificado por el artículo 15 de la Ley 50 de 1990. El nuevo texto es el siguiente:> No constituyen salario las sumas que ocasionalmente y por mera liberalidad recibe el trabajador del empleador, como primas, bonificaciones o gratificaciones ocasionales, participación de utilidades, excedentes de las empresas de economía solidaria y lo que recibe en dinero o en especie no para su beneficio, ni para enriquecer su patrimonio, sino para desempeñar a cabalidad sus funciones, como gastos de representación, medios de transporte, elementos de trabajo y otros semejantes. Tampoco las prestaciones sociales de que tratan los títulos VIII y IX, ni los beneficios o auxilios habituales u ocasionales acordados convencional o contractualmente u otorgados en forma extralegal por el {empleador}, cuando las partes hayan dispuesto expresamente que no constituyen salario en dinero o en especie, tales como la alimentación, habitación o vestuario, las primas extralegales, de vacaciones, de servicios o de navidad.
 
 ## art:129 — SALARIO EN ESPECIE
 ubicacion: TITULO V. SALARIOS. > CAPITULO I. DISPOSICIONES GENERALES.
+
+<Artículo modificado por el artículo 16 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
 
 1. Constituye salario en especie toda aquella parte de la remuneración ordinaria y permanente que reciba el trabajador como contraprestación directa del servicio, tales como alimentación, habitación o vestuario que el {empleador} suministra al trabajador o a su familia, salvo la estipulación prevista en el artículo 15 <128> de esta ley. 
 
@@ -1175,6 +1195,8 @@ ubicacion: TITULO V. SALARIOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
 ## art:130 — VIATICOS
 ubicacion: TITULO V. SALARIOS. > CAPITULO I. DISPOSICIONES GENERALES.
+
+<Artículo modificado por el artículo 17 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
 
 1. Los viáticos permanentes constituyen salario en aquella parte destinada a proporcionar al trabajador manutención y alojamiento; pero no en lo que sólo tenga por finalidad proporcionar los medios de transporte o los gastos de representación. 
 
@@ -1265,6 +1287,8 @@ El derecho al salario es irrenunciable y no se puede ceder en todo ni en parte, 
 ## art:143 — A TRABAJO DE IGUAL VALOR, SALARIO IGUAL
 ubicacion: TITULO V. SALARIOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
+<Artículo modificado por el artículo 7 de la Ley 1496 de 2011. El nuevo texto es el siguiente:> 
+
 1. A trabajo igual desempeñado en puesto, jornada y condiciones de eficiencia también iguales, debe corresponder salario igual, comprendiendo en este todos los elementos a que se refiere el artículo 127.
 
 2. No pueden establecerse diferencias en el salario por razones de edad, género, sexo nacionalidad, raza, religión, opinión política o actividades sindicales.
@@ -1293,6 +1317,8 @@ ubicacion: TITULO V. SALARIOS. > CAPITULO II. SALARIO MINIMO.
 ## art:147 — PROCEDIMIENTO DE FIJACION
 ubicacion: TITULO V. SALARIOS. > CAPITULO II. SALARIO MINIMO.
 
+<Artículo modificado por el artículo 19 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
+
 1. El salario mínimo puede fijarse en pacto o convención colectiva o en fallo arbitral. 
 
 2. <Numeral 2o. subrogado por el artículo 8 de la Ley 278 de 1996. El nuevo texto es el siguiente:>
@@ -1313,6 +1339,8 @@ La fijación del salario mínimo modifica automáticamente los contratos de trab
 ## art:149 — DESCUENTOS PROHIBIDOS
 ubicacion: TITULO V. SALARIOS. > CAPITULO III. RETENCION, DEDUCCION Y COMPENSACION DE SALARIOS.
 
+<Artículo modificado por el artículo 18 de la Ley 1429 de 2010. El nuevo texto es el siguiente:> 
+
 1. El empleador no puede deducir, retener o compensar suma alguna del salario, sin orden suscrita por el trabajador, para cada caso, o sin mandamiento judicial. Quedan especialmente comprendidos en esta prohibición los descuentos o compensaciones por concepto de uso o arrendamiento de locales, herramientas o útiles de trabajo; deudas del trabajador para con el empleador, sus socios, sus parientes o sus representantes; indemnización por daños ocasionados a los locales, máquinas, materias primas o productos elaborados o pérdidas o averías de elementos de trabajo; entrega de mercancías, provisión de alimentos y precio de alojamiento.
 
 2. Tampoco se puede efectuar la retención o deducción sin mandamiento judicial, aunque exista orden escrita del trabajador, cuando quiera que se afecte el salario mínimo legal o convencional o la parte del salario declarada inembargable por la ley.
@@ -1322,12 +1350,12 @@ ubicacion: TITULO V. SALARIOS. > CAPITULO III. RETENCION, DEDUCCION Y COMPENSACI
 ## art:150 — DESCUENTOS PERMITIDOS
 ubicacion: TITULO V. SALARIOS. > CAPITULO III. RETENCION, DEDUCCION Y COMPENSACION DE SALARIOS.
 
-Son permitidos los descuentos y retenciones por concepto de cuotas sindicales y de cooperativas y cajas de ahorros, autorizadas en forma legal; de cuotas con destino al seguro social obligatorio, de sanciones disciplinarias impuestas de conformidad con el reglamento del trabajo debidamente aprobado, y de la Contribución Solidaria a la Educación Superior para el Servicio de Apoyo para el Acceso y Permanencia de Beneficiarios Activos en Educación Superior (Contribución Sabes).
+<Artículo modificado por el artículo 22 de la Ley 1911 de 2018. El nuevo texto es el siguiente:> Son permitidos los descuentos y retenciones por concepto de cuotas sindicales y de cooperativas y cajas de ahorros, autorizadas en forma legal; de cuotas con destino al seguro social obligatorio, de sanciones disciplinarias impuestas de conformidad con el reglamento del trabajo debidamente aprobado, y de la Contribución Solidaria a la Educación Superior para el Servicio de Apoyo para el Acceso y Permanencia de Beneficiarios Activos en Educación Superior (Contribución Sabes).
 
 ## art:151 — AUTORIZACION ESPECIAL
 ubicacion: TITULO V. SALARIOS. > CAPITULO III. RETENCION, DEDUCCION Y COMPENSACION DE SALARIOS.
 
-El empleador y su trabajador podrán acordar por escrito el otorgamiento de préstamos, anticipos, deducciones, retenciones o compensaciones del salario, señalando la cuota objeto de deducción o compensación y el plazo para la amortización gradual de la deuda.
+<Artículo modificado por el artículo 19 de la Ley 1429 de 2010. El nuevo texto es el siguiente:> El empleador y su trabajador podrán acordar por escrito el otorgamiento de préstamos, anticipos, deducciones, retenciones o compensaciones del salario, señalando la cuota objeto de deducción o compensación y el plazo para la amortización gradual de la deuda.
 
 Cuando pese a existir el acuerdo, el empleador modifique las condiciones pactadas, el trabajador podrá acudir ante el inspector de trabajo a efecto de que exija su cumplimiento, so pena de la imposición de sanciones.
 
@@ -1344,12 +1372,12 @@ Fuera de los casos a que se refiere el artículo anterior, los préstamos o anti
 ## art:154 — REGLA GENERAL
 ubicacion: TITULO V. SALARIOS. > CAPITULO IV. EMBARGOS DE SALARIO.
 
-No es embargable el salario mínimo legal o convencional.
+<Artículo modificado por el artículo 3o. de la Ley 11 de 1984. El nuevo texto es el siguiente:> No es embargable el salario mínimo legal o convencional.
 
 ## art:155 — EMBARGO PARCIAL DEL EXCEDENTE
 ubicacion: TITULO V. SALARIOS. > CAPITULO IV. EMBARGOS DE SALARIO.
 
-El excedente del salario mínimo mensual solo es embargable en una quinta parte.
+<Artículo modificado por el artículo 4o. de la Ley 11 de 1984. El nuevo texto es el siguiente:> El excedente del salario mínimo mensual solo es embargable en una quinta parte.
 
 ## art:156 — EXCEPCION A FAVOR DE COOPERATIVAS Y PENSIONES ALIMENTICIAS
 ubicacion: TITULO V. SALARIOS. > CAPITULO IV. EMBARGOS DE SALARIO.
@@ -1359,7 +1387,7 @@ Todo salario puede ser embargado hasta en un cincuenta por ciento (50%) en favor
 ## art:157 — PRELACION DE CREDITOS POR SALARIOS, PRESTACIONES SOCIALES E INDEMNIZACIONES LABORALES
 ubicacion: TITULO V. SALARIOS. > CAPITULO V. PRELACION DE LOS CREDITOS POR SALARIOS.
 
-Los créditos causados o exigibles de los trabajadores por concepto de salarios, las cesantías y demás prestaciones sociales e indemnizaciones laborales pertenecen a la primera clase que establece el artículo 2495 del Código Civil y tienen privilegio excluyente sobre todo los demás. 
+<Artículo modificado por el artículo 36 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Los créditos causados o exigibles de los trabajadores por concepto de salarios, las cesantías y demás prestaciones sociales e indemnizaciones laborales pertenecen a la primera clase que establece el artículo 2495 del Código Civil y tienen privilegio excluyente sobre todo los demás. 
 
 El juez civil que conozca del proceso de concurso de acreedores o de quiebra dispondrá el pago privilegiado y pronto de los créditos a los trabajadores afectados por la quiebra o insolvencia del {empleador}. 
 
@@ -1382,6 +1410,8 @@ Trabajo suplementario o de horas extras es el que excede de la jornada ordinaria
 ## art:160 — TRABAJO DIURNO Y NOCTURNO
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO I. DEFINICIONES.
 
+<Artículo modificado por el artículo 10 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> 
+
 1. Trabajo diurno es el que se realiza en el período comprendido entre las seis horas (6:00 a. m.) y las diecinueve horas (7:00 p. m.). 
 
 2. Trabajo nocturno es el que se realiza en el período comprendido entre las diecinueve horas (7:00 p. m.) y las seis horas del día siguiente (6:00 a. m.). 
@@ -1393,7 +1423,7 @@ PARÁGRAFO 2o. Lo dispuesto en el presente artículo entrará en vigencia seis (
 ## art:161 — DURACIÓN
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
 
-La duración máxima de la jornada ordinaria de trabajo es de ocho (8) horas al día, sin perjuicio de lo establecido en el artículo 3o de la Ley 2101 de 2021 sobre la aplicación gradual, y una jornada máxima de cuarenta y dos (42) horas a la semana. La jornada máxima semanal podrá ser distribuida, de común acuerdo, entre empleador y trabajador(a), de cinco (5) a seis (6) días a la semana, garantizando siempre el día de descanso y sin afectar el salario. 
+<Artículo modificado por el artículo 11 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> La duración máxima de la jornada ordinaria de trabajo es de ocho (8) horas al día, sin perjuicio de lo establecido en el artículo 3o de la Ley 2101 de 2021 sobre la aplicación gradual, y una jornada máxima de cuarenta y dos (42) horas a la semana. La jornada máxima semanal podrá ser distribuida, de común acuerdo, entre empleador y trabajador(a), de cinco (5) a seis (6) días a la semana, garantizando siempre el día de descanso y sin afectar el salario. 
 
 El número de horas de trabajo diario podrá distribuirse de manera variable. Si en el horario pactado el trabajador o trabajadora debe laborar en jornada nocturna, tendrá derecho al pago de recargo nocturno. 
 
@@ -1443,7 +1473,7 @@ PARÁGRAFO. No se requerirá permiso del Ministerio del Trabajo para laborar hor
 ## art:163 — EXCEPCIONES EN CASOS ESPECIALES
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
 
-El límite máximo de horas de trabajo previsto en el artículo 161 puede ser elevado por orden del {empleador} y sin permiso del Ministerio del Trabajo, por razón de fuerza mayor, caso fortuito, de amenazar u ocurrir algún accidente o cuando sean indispensables trabajos de urgencia que deban efectuarse en las máquinas o en la dotación de la empresa; pero únicamente se permite el trabajo en la medida necesaria para evitar que la marcha normal del establecimiento sufra una perturbación grave. El {empleador} debe anotar en un registro, ciñéndose a las indicaciones anotadas en el artículo anterior, las horas extraordinarias efectuadas de conformidad con el presente artículo.
+<Artículo modificado por el artículo 2o. del Decreto 13 de 1967. El nuevo texto es el siguiente:> El límite máximo de horas de trabajo previsto en el artículo 161 puede ser elevado por orden del {empleador} y sin permiso del Ministerio del Trabajo, por razón de fuerza mayor, caso fortuito, de amenazar u ocurrir algún accidente o cuando sean indispensables trabajos de urgencia que deban efectuarse en las máquinas o en la dotación de la empresa; pero únicamente se permite el trabajo en la medida necesaria para evitar que la marcha normal del establecimiento sufra una perturbación grave. El {empleador} debe anotar en un registro, ciñéndose a las indicaciones anotadas en el artículo anterior, las horas extraordinarias efectuadas de conformidad con el presente artículo.
 
 ## art:163a — DEDICACIÓN EXCLUSIVA EN DETERMINADAS ACTIVIDADES
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
@@ -1453,7 +1483,7 @@ ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
 ## art:164 — DESCANSO EN LA TARDE DEL SABADO
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
 
-Pueden repartirse las cuarenta y ocho (48) horas semanales de trabajo ampliando la jornada ordinaria hasta por dos (2) horas, por acuerdo entre las partes, pero con el fin exclusivo de permitir a los trabajadores el descanso durante todo el sábado. Esta ampliación no constituye trabajo suplementario o de horas extras.
+<Artículo modificado por el artículo 23 del Ley 50 de 1990. El nuevo texto es el siguiente:> Pueden repartirse las cuarenta y ocho (48) horas semanales de trabajo ampliando la jornada ordinaria hasta por dos (2) horas, por acuerdo entre las partes, pero con el fin exclusivo de permitir a los trabajadores el descanso durante todo el sábado. Esta ampliación no constituye trabajo suplementario o de horas extras.
 
 ## art:165 — TRABAJO POR TURNOS
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
@@ -1463,7 +1493,7 @@ Cuando la naturaleza de la labor no exija actividad continuada y se lleve a cabo
 ## art:166 — TRABAJO SIN SOLUCION DE CONTINUIDAD
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
 
-También puede elevarse el límite máximo de horas de trabajo establecido en el artículo 161, en aquellas labores que por razón de su misma naturaleza necesiten ser atendidas sin solución de continuidad, por turnos sucesivos de trabajadores, pero en tales casos las horas de trabajo no pueden exceder de cincuenta y seis (56) por semana.
+<Artículo modificado por el artículo 3o. del Decreto 13 de 1967. El nuevo texto es el siguiente:> También puede elevarse el límite máximo de horas de trabajo establecido en el artículo 161, en aquellas labores que por razón de su misma naturaleza necesiten ser atendidas sin solución de continuidad, por turnos sucesivos de trabajadores, pero en tales casos las horas de trabajo no pueden exceder de cincuenta y seis (56) por semana.
 
 ## art:167 — DISTRIBUCION DE LAS HORAS DE TRABAJO
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO II. JORNADA MAXIMA.
@@ -1479,6 +1509,8 @@ PARÁGRAFO. Se exceptúa de la aplicación de la presente disposición al sector
 
 ## art:168 — TASAS Y LIQUIDACION DE RECARGOS
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO III. REMUNERACION DEL TRABAJO NOCTURNO Y DEL SUPLEMENTARIO.
+
+<Artículo modificado por el artículo 24 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
 
 1. El trabajo nocturno por el solo hecho de ser nocturno se remunera con un recargo del treinta y cinco por ciento (35%) sobre el valor del trabajo diurno, con excepción del caso de la jornada de treinta y seis (36) horas semanales previstas en el artículo 20 <161> literal c) de esta ley. 
 
@@ -1501,6 +1533,8 @@ Cuando el trabajo por equipos implique la rotación sucesiva de turnos diurnos y
 ## art:171 — EDAD MINIMA
 ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO VI. TRABAJO DE MENORES DE EDAD.
 
+<Artículo modificado por el artículo 4o. del Decreto 13 de 1967. El nuevo texto es el siguiente:> 
+
 1. Los menores de catorce (14) años no pueden trabajar en las empresas industriales, ni en las empresas agrícolas cuando su labor en éstas les impida su asistencia a la escuela. 
 
 2. Los menores de diciocho (18) años no pueden trabajar durante la noche, excepto en empresas no industriales y en el servicio doméstico y siempre que el trabajo no sea peligroso para su salud o moralidad. 
@@ -1512,7 +1546,7 @@ ubicacion: TITULO VI. JORNADA DE TRABAJO. > CAPITULO VI. TRABAJO DE MENORES DE E
 ## art:172 — NORMA GENERAL
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO I. DESCANSO OBLIGATORIO REMUNERADO.
 
-Salvo la excepción consagrada en el literal c) del artículo 20 <161> de esta ley el empleador esta obligado a dar descanso dominical* remunerado a todos sus trabajadores. Este descanso tiene duración mínima de veinticuatro (24) horas.
+<Artículo modificado por el artículo 25 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Salvo la excepción consagrada en el literal c) del artículo 20 <161> de esta ley el empleador esta obligado a dar descanso dominical* remunerado a todos sus trabajadores. Este descanso tiene duración mínima de veinticuatro (24) horas.
 
 ## art:173 — REMUNERACION
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO I. DESCANSO OBLIGATORIO REMUNERADO.
@@ -1537,6 +1571,8 @@ ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO I. DESCANSO OBLIGATOR
 ## art:175 — EXCEPCIONES
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO I. DESCANSO OBLIGATORIO REMUNERADO.
 
+<Artículo modificado por el artículo 27 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
+
 1. El trabajo durante los días de descanso obligatorio solamente se permite retribuyéndolo o dando un descanso compensatorio remunerado: 
 
 a). En aquellas labores que no sean susceptibles de interrupción por naturaleza o por motivo de carácter técnico; 
@@ -1557,6 +1593,8 @@ Cuando no se trate de salario fijo como en los casos de remuneración por tarea,
 ## art:177 — REMUNERACION
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPITULO II. DESCANSO REMUNERADO EN OTROS DIAS DE FIESTA.
 
+<Artículo modificado por los artículos 1o. y 2o. de la Ley 51 de 1983. El nuevo texto es el siguiente:> 
+
 [ARTÍCULO 1.] Todos los trabajadores, tanto del sector público como del sector privado, tienen derecho al descanso remunerado en los siguientes días de fiesta de carácter civil o religioso: Primero de enero, seis de enero, diecinueve de marzo, primero de mayo, veintinueve de junio, veinte de julio, siete de agosto, quince de agosto, doce de octubre, primero de noviembre, once de noviembre, ocho de diciembre y veinticinco de diciembre, además de los días jueves y viernes santos, Ascensión del Señor, Corpus Christi y Sagrado Corazón de Jesús. 
 
 2. Pero el descanso remunerado del seis de enero, diecinueve de marzo, veintinueve de junio, quince de agosto, doce de octubre, primero de noviembre, Ascensión del Señor, Corpus Christi y Sagrado Corazón de Jesús cuando no caigan en día lunes se trasladarán al lunes siguiente a dicho día. 
@@ -1574,6 +1612,8 @@ Cuando por motivos de cualquier fiesta no determinada en el artículo anterior e
 
 ## art:179 — REMUNERACIÓN EN DÍAS DE DESCANSO OBLIGATORIO
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO III. TRABAJO EN DÍA DE DESCANSO OBLIGATORIO Y FESTIVO.
+
+<Artículo modificado por el artículo 14 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> 
 
 1. El trabajo en día de descanso obligatorio, o días de fiesta se remunera con un recargo del ciento por ciento (100%) sobre el salario ordinario en proporción a las horas laboradas, sin perjuicio del salario ordinario a que tenga derecho el trabajador por haber laborado la semana completa. 
 
@@ -1598,21 +1638,21 @@ Lo anterior, sin perjuicio de que, a la entrada en vigencia de la presente Ley, 
 ## art:180 — TRABAJO EXCEPCIONAL
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO III. TRABAJO EN DÍA DE DESCANSO OBLIGATORIO Y FESTIVO.
 
-El trabajador que labore excepcionalmente el día de descanso obligatorio tiene derecho a un descanso compensatorio remunerado, o a una retribución en dinero, a su elección, en la forma prevista en el artículo anterior. 
+<Artículo modificado por el artículo 30 de la Ley 50 de 1990. El nuevo texto es el siguiente:> El trabajador que labore excepcionalmente el día de descanso obligatorio tiene derecho a un descanso compensatorio remunerado, o a una retribución en dinero, a su elección, en la forma prevista en el artículo anterior. 
 
 Para el caso de la jornada de treinta y seis (36) semanales previstas en el artículo 20 literal c) de esta ley, <161 C.S.T.> el trabajador solo tendrá derecho a un descanso compensatorio remunerado cuando labore en domingo*.
 
 ## art:181 — DESCANSO COMPENSATORIO
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO III. TRABAJO EN DÍA DE DESCANSO OBLIGATORIO Y FESTIVO.
 
-El trabajador que labore habitualmente en día de descanso obligatorio tiene derecho a un descanso compensatorio remunerado, sin perjuicio de la retribución en dinero prevista en el artículo 180 del Código Sustantivo del Trabajo. 
+<Artículo modificado por el artículo 31 del Ley 50 de 1990. El nuevo texto es el siguiente:> El trabajador que labore habitualmente en día de descanso obligatorio tiene derecho a un descanso compensatorio remunerado, sin perjuicio de la retribución en dinero prevista en el artículo 180 del Código Sustantivo del Trabajo. 
 
 En el caso de la jornada de treinta y seis (36) horas semanales previstas en el artículo 20 literal c) de esta ley <161 c.s.t>, el trabajador solo tendrá derecho a un descanso compensatorio remunerado cuando labore en domingo.
 
 ## art:182 — TECNICOS
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO III. TRABAJO EN DÍA DE DESCANSO OBLIGATORIO Y FESTIVO.
 
-Las personas que por sus conocimientos técnicos o por razón del trabajo que ejecutan no puede reemplazarse sin grave perjuicio para la empresa, deben trabajar los domingos y días de fiesta [TACHADO: sin derecho al descanso compensatorio], pero su trabajo se remunera conforme al artículo 179.
+<Aparte tachado INEXEQUIBLE> Las personas que por sus conocimientos técnicos o por razón del trabajo que ejecutan no puede reemplazarse sin grave perjuicio para la empresa, deben trabajar los domingos y días de fiesta [TACHADO: sin derecho al descanso compensatorio], pero su trabajo se remunera conforme al artículo 179.
 
 ## art:183 — FORMAS DEL DESCANSO COMPENSATORIO
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO III. TRABAJO EN DÍA DE DESCANSO OBLIGATORIO Y FESTIVO.
@@ -1636,7 +1676,7 @@ Cuando se trate de trabajos habituales o permanentes en domingo, el {empleador} 
 ## art:185a — <185-A>. LABORES AGROPECUARIAS
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPÍTULO III. TRABAJO EN DÍA DE DESCANSO OBLIGATORIO Y FESTIVO.
 
-Los trabajadores de empresas agrícolas, forestales y ganaderas que ejecuten actividades no suceptibles de interrupción, deben de trabajar los domingos y días de fiesta, remunerándose su trabajo en la forma prevista en el artículo 179 y con derecho al descanso compensatorio.
+<Artículo adicionado por el artículo 28 de la Ley 50 de 1990.> Los trabajadores de empresas agrícolas, forestales y ganaderas que ejecuten actividades no suceptibles de interrupción, deben de trabajar los domingos y días de fiesta, remunerándose su trabajo en la forma prevista en el artículo 179 y con derecho al descanso compensatorio.
 
 ## art:186 — DURACION
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPITULO IV. VACACIONES ANUALES REMUNERADAS.
@@ -1662,6 +1702,8 @@ Si se presenta interrupción justificada en el disfrute de las vacaciones, el tr
 ## art:189 — COMPENSACION EN DINERO DE LAS VACACIONES
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPITULO IV. VACACIONES ANUALES REMUNERADAS.
 
+<Artículo modificado por el artículo 14 del Decreto 2351 de 1965. El nuevo texto es el siguiente:> 
+
 1. <Numeral modificado por el artículo 20 de la Ley 1429 de 2010. El nuevo texto es el siguiente:> Empleador y trabajador, podrán acordar por escrito, previa solicitud del trabajador, que se pague en dinero hasta la mitad de las vacaciones.
 
 2. <Numeral derogado por el artículo 2 de la Ley 995 de 2005. Ver Notas del Editor>
@@ -1670,6 +1712,8 @@ ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPITULO IV. VACACIONES ANUALES
 
 ## art:190 — ACUMULACION
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPITULO IV. VACACIONES ANUALES REMUNERADAS.
+
+<Artículo modificado por el artículo 6o. del Decreto 13 de 1967. El nuevo texto es el siguiente:> 
 
 1. En todo caso, el trabajador gozara anualmente, por lo menos de seis (6) días hábiles continuos de vacaciones, los que no son acumulables. 
 
@@ -1687,6 +1731,8 @@ El empleado de manejo que hiciere uso de vacaciones puede dejar un reemplazo, ba
 ## art:192 — REMUNERACION
 ubicacion: TITULO VII. DESCANSOS OBLIGATORIOS. > CAPITULO IV. VACACIONES ANUALES REMUNERADAS.
 
+<Artículo modificado por el artículo 8o. del Decreto 617 de 1954. El nuevo texto es el siguiente:> 
+
 1. Durante el período de vacaciones el trabajador recibirá el salario ordinario que esté devengando el día en que comience a disfrutar de ellas. En consecuencia, sólo se excluirán para la liquidación de vacaciones el valor del trabajo en días de descanso obligatorio y el valor del trabajo suplementario en horas extras. 
 
 2. Cuando el salario sea variable las vacaciones se liquidaran con el promedio de lo devengado por el trabajador en el año inmediatamente anterior a la fecha en que se concedan.
@@ -1700,6 +1746,8 @@ ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO I. DISPOSICI
 
 ## art:194 — DEFINICION DE EMPRESAS
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO I. DISPOSICIONES GENERALES.
+
+<Artículo modificado por el artículo 32 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
 
 1. Se entiende como una sola empresa, toda unidad de explotación económica o las varias unidades dependientes económicamente de una misma persona natural o jurídica, que correspondan a actividades similares, conexas o complementarias y que tengan trabajadores a su servicio. 
 
@@ -1939,7 +1987,7 @@ d). <Aparte tachado INEXEQUIBLE> A los criados* domésticos, los cuales tienen d
 ## art:230 — SUMINISTRO DE CALZADO Y VESTIDO DE LABOR
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO IV. CALZADO Y OBEROLES PARA TRABAJADORES.
 
-Todo {empleador} que habitualmente ocupe uno (1) o más trabajadores permanentes, deberá suministrar cada cuatro (4) meses, en forma gratuita, un (1) par de zapatos y un (1) vestido de labor al trabajador, cuya remuneración mensual sea hasta dos (2) meses el salario mínimo más alto vigente. Tiene derecho a esta prestación el trabajador que en las fechas de entrega de calzado y vestido haya cumplido más de tres (3) meses al servicio del empleador.
+<Artículo modificado por el artículo 7o. de la Ley 11 de 1984. El nuevo texto es el siguiente:> Todo {empleador} que habitualmente ocupe uno (1) o más trabajadores permanentes, deberá suministrar cada cuatro (4) meses, en forma gratuita, un (1) par de zapatos y un (1) vestido de labor al trabajador, cuya remuneración mensual sea hasta dos (2) meses el salario mínimo más alto vigente. Tiene derecho a esta prestación el trabajador que en las fechas de entrega de calzado y vestido haya cumplido más de tres (3) meses al servicio del empleador.
 
 ## art:231 — CONSIDERACION DE HIJOS Y OTRAS PERSONAS
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO IV. CALZADO Y OBEROLES PARA TRABAJADORES.
@@ -1949,12 +1997,12 @@ ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO IV. CALZADO 
 ## art:232 — FECHA DE ENTREGA
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO IV. CALZADO Y OBEROLES PARA TRABAJADORES.
 
-Los {empleadores} obligados a suministrar permanente calzado y vestido de labor a sus trabajadores harán entrega de dichos elementos en las siguientes fechas del calendario: 30 de abril, 31 de agosto y 20 de diciembre.
+<Artículo modificado por el artículo 8o. de la Ley 11 de 1984. El nuevo texto es el siguiente:> Los {empleadores} obligados a suministrar permanente calzado y vestido de labor a sus trabajadores harán entrega de dichos elementos en las siguientes fechas del calendario: 30 de abril, 31 de agosto y 20 de diciembre.
 
 ## art:233 — USO DEL CALZADO Y VESTIDO DE LABOR
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO IV. CALZADO Y OBEROLES PARA TRABAJADORES.
 
-El trabajador queda obligado a destinar a su uso en las labores contratadas el calzado y vestido que le suministre el {empleador}, y en el caso de que así no lo hiciere éste quedara eximido de hacerle el suministro en el período siguiente.
+<Artículo modificado por el artículo 10 de la Ley 11 de 1984. El nuevo texto es el siguiente:> El trabajador queda obligado a destinar a su uso en las labores contratadas el calzado y vestido que le suministre el {empleador}, y en el caso de que así no lo hiciere éste quedara eximido de hacerle el suministro en el período siguiente.
 
 ## art:234 — PROHIBICION DE LA COMPENSACION EN DINERO
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO IV. CALZADO Y OBEROLES PARA TRABAJADORES.
@@ -1969,7 +2017,7 @@ El Ministerio del Trabajo reglamentara la forma como los {empleadores} deben cum
 ## art:235a — <235-A>. PROTECCION A LA MATERNIDAD
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES.
 
-La Maternidad gozará de la protección especial del Estado.
+<Artículo adicionado por el artículo 33 de la Ley 50 de 1990. El nuevo texto es el siguiente:> La Maternidad gozará de la protección especial del Estado.
 
 ## art:236 — LICENCIA EN LA ÉPOCA DEL PARTO E INCENTIVOS PARA LA ADECUADA ATENCIÓN Y CUIDADO DEL RECIÉN NACIDO
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES.
@@ -2091,6 +2139,8 @@ La licencia parental flexible de tiempo parcial es aplicable también a los trab
 ## art:237 — DESCANSO REMUNERADO EN CASO DE ABORTO
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES.
 
+<Apartes subrayados CONDICIONALMENTE exequibles> 
+
 1. La [trabajadora] que en el curso del embarazo sufra un aborto o parto prematuro no viable, tiene derecho a una licencia de dos o cuatro semanas, remunerada con el salario que devengaba en el momento de iniciarse el descanso. Si el parto es viable, se aplica lo establecido en el artículo anterior. 
 
 2. Para disfrutar de la licencia de que trata este artículo, la [trabajadora] debe presentar al {empleador} un certificado médico sobre lo siguiente: 
@@ -2112,6 +2162,8 @@ ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCIO
 
 ## art:239 — PROHIBICIÓN DE DESPIDO
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES.
+
+<Artículo modificado por el artículo 2 de la Ley 1822 de 2017. El nuevo texto es el siguiente:> 
 
 1. <Numeral CONDICIONALMENTE exequible> Ninguna trabajadora podrá ser despedida por motivo de embarazo o lactancia sin la autorización previa del Ministerio de Trabajo que avale una justa causa.
 
@@ -2137,12 +2189,16 @@ ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCIO
 ## art:241 — NULIDAD DEL DESPIDO
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES.
 
+<Artículo modificado por el artículo 8o. del Decreto 13 de 1967. El nuevo texto es el siguiente:> 
+
 1. El empleador está obligado a conservar el puesto a la trabajadora que esté disfrutando de los descansos remunerados de que trata este capítulo, o de licencia por enfermedad motivada por el embarazo o parto. 
 
 2. No producirá efecto alguno el despido que el empleador comunique a la trabajadora en tales períodos, o en tal forma que, al hacer uso del preaviso, éste expire durante los descansos o licencias mencionados.
 
 ## art:241a — MEDIDAS ANTIDISCRIMINATORIAS EN MATERIA LABORAL
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES.
+
+<Artículo adicionado por el artículo 3 de la Ley 2114 de 2021. El nuevo texto es el siguiente:> 
 
 1. Pruebas de embarazo. La exigencia de la práctica de pruebas de embarazo queda prohibida como requisito obligatorio para el acceso o permanencia en cualquier actividad laboral. La prueba de embarazo solo podrá solicitarse, con consentimiento previo de la trabajadora, en los casos en los que el trabajo a desempeñar implique riesgos reales o potenciales que puedan incidir negativamente en el desarrollo normal del embarazo. 
 
@@ -2158,6 +2214,8 @@ El empleador que realice preguntas discriminatorias en contra de lo establecido 
 
 ## art:242 — TRABAJOS PROHIBIDOS
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES.
+
+<Artículo modificado por el artículo 9o. del Decreto 13 de 1967. El nuevo texto es el siguiente:>
 
 1. <Numeral INEXEQUIBLE>
 
@@ -2188,7 +2246,7 @@ ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO V. PROTECCIO
 ## art:247 — REGLA GENERAL
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO VI. GASTOS DE ENTIERRO DEL TRABAJADOR.
 
-Todo {empleador} esta obligado a pagar los gastos de entierro de cualquiera de sus trabajadores hasta una suma equivalente al salario del último mes. [TACHADO: Este precepto no se aplica a los trabajadores accidentales o transitorios].
+<Aparte tachado derogado según lo dispuesto por la Corte Constitucional en la Sentencia C-823-06> Todo {empleador} esta obligado a pagar los gastos de entierro de cualquiera de sus trabajadores hasta una suma equivalente al salario del último mes. [TACHADO: Este precepto no se aplica a los trabajadores accidentales o transitorios].
 
 ## art:248 — SALARIO VARIABLE
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO VI. GASTOS DE ENTIERRO DEL TRABAJADOR.
@@ -2227,6 +2285,8 @@ c). <Literal INEXEQUIBLE>
 ## art:252 — CESANTIA RESTRINGIDA
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO VII. AUXILIO DE CESANTIA.
 
+<Aparte tachado INEXEQUIBLE>
+
 1. [TACHADO: Los trabajadores del servicio domestico, los de empresas industriales de capital inferior a veinte mil pesos ($20.000) y los de empresas agrícolas, ganaderas o forestales de capital inferior a sesenta mil pesos ($60.000) tienen derecho a un auxilio de cesantía equivalente a quince (15) días de salario por cada año de servicios y proporcionalmente por fracciones de año]; pero en lo demás quedan sujetos a las normas sobre este auxilio. 
 
 2. <Aparte tachado INEXEQUIBLE, CONDICIONALMENTE exequible el resto del numeral> Para la liquidación de cesantía de los trabajadores del servicio doméstico [TACHADO: solo] se computará el salario que reciban en dinero. 
@@ -2236,7 +2296,7 @@ ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO VII. AUXILIO
 ## art:253 — SALARIO BASE PARA LA LIQUIDACION DE LA CESANTIA
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO VII. AUXILIO DE CESANTIA.
 
-1. Para liquidar el auxilio de Cesantía se toma como base el último salario mensual devengado por el trabajador, siempre que no haya tenido variación en los tres (3) últimos meses. En el caso contrario y en el de los salarios variables, se tomará como base el promedio de lo devengado en el último año de servicios o en todo el tiempo servido si fuere menor de un año. 
+<Artículo modificado por el artículo 17 del Decreto 2351 de 1965. El nuevo texto es el siguiente:> 1. Para liquidar el auxilio de Cesantía se toma como base el último salario mensual devengado por el trabajador, siempre que no haya tenido variación en los tres (3) últimos meses. En el caso contrario y en el de los salarios variables, se tomará como base el promedio de lo devengado en el último año de servicios o en todo el tiempo servido si fuere menor de un año. 
 
 2. Para el tiempo de servicios anterior al treinta y uno (31) de diciembre de mil novecientos sesenta y dos (1962) se aplicarán las normas vigentes hasta esta fecha.
 
@@ -2252,6 +2312,8 @@ Los trabajadores que entren a prestar servicio militar, por llamamiento ordinari
 
 ## art:256 — FINANCIACION DE VIVIENDAS
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO VII. AUXILIO DE CESANTIA.
+
+<Artículo modificado por el artículo 18 del Decreto 2351 de 1965. El nuevo texto es el siguiente:> 
 
 1. Los trabajadores individualmente, podrán exigir el pago parcial de su auxilio de cesantía para la adquisición, construcción, mejora o liberación de bienes raíces destinados a su vivienda, siempre que dicho pago se efectúe por un valor no mayor del requerido para tales efectos. 
 
@@ -2275,7 +2337,7 @@ Las casas de habitación adquiridas por el trabajador antes o dentro de la vigen
 ## art:258 — MUERTE DEL TRABAJADOR
 ubicacion: TITULO VIII. PRESTACIONES PATRONALES COMUNES. > CAPITULO VII. AUXILIO DE CESANTIA.
 
-El auxilio de cesantía en caso de muerte del trabajador no excluye el seguro de vida obligatorio y cuando aquél no exceda del equivalente a cincuenta (50) veces el salario mínimo mensual más alto, se pagara directamente por el {empleador} de acuerdo con el procedimiento establecido en el artículo 212 del Código Sustantivo del Trabajo.
+<Artículo modificado por el artículo 11 de la Ley 11 de 1984. El nuevo texto es el siguiente:> El auxilio de cesantía en caso de muerte del trabajador no excluye el seguro de vida obligatorio y cuando aquél no exceda del equivalente a cincuenta (50) veces el salario mínimo mensual más alto, se pagara directamente por el {empleador} de acuerdo con el procedimiento establecido en el artículo 212 del Código Sustantivo del Trabajo.
 
 ## art:259 — REGLA GENERAL
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO I. INTRODUCCION.
@@ -2328,6 +2390,8 @@ CONCURRENCIA DE JUBILACIÓN Y CESANTÍA. <Artículo modificado por el artículo 
 ## art:267 — PENSION-SANCION
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO II. PENSION DE JUBILACION.
 
+<Artículo modificado por el artículo 133 de la Ley 100 de 1993. El nuevo texto es el siguiente:> 
+
 El trabajador no afiliado al Sistema General de Pensiones por omisión del empleador, que sin justa causa sea despedido después de haber laborado para el mismo empleador durante diez (10) años o más y menos de quince (15) años, continuos o discontinuos, anteriores o posteriores a la vigencia de la presente ley, tendrá derecho a que dicho empleador lo pensione desde la fecha de su despido, si para entonces tiene cumplidos sesenta (60) años de edad si es hombre, o cincuenta y cinco (55) años de edad si es mujer, o desde la fecha en que cumpla esa edad con posterioridad al despido. 
 
 Si el retiro se produce por despido sin justa causa después de quince (15) años de servicios, la pensión se pagará cuando el trabajador despedido cumpla cincuenta y cinco (55) años de edad si es hombre, o cincuenta (50) años de edad si es mujer, o desde la fecha del despido, si ya los hubiere cumplido. 
@@ -2368,7 +2432,7 @@ ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO II. PENSION
 ## art:273 — NOCION DE CONTINUIDAD
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO II. PENSION DE JUBILACION.
 
-La continuidad o discontinuidad a que aluden los artículos 269, 270, 271 y 272, no se refiere al contrato de trabajo si no a la actividad o profesión de que se trate.
+<Artículo derogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:> La continuidad o discontinuidad a que aluden los artículos 269, 270, 271 y 272, no se refiere al contrato de trabajo si no a la actividad o profesión de que se trate.
 
 ## art:274 — SUSPENSION Y RETENCION
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO II. PENSION DE JUBILACION.
@@ -2377,6 +2441,8 @@ ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO II. PENSION
 
 ## art:275 — PENSION EN CASO DE MUERTE
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO II. PENSION DE JUBILACION.
+
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:>
 
 1. Fallecido un trabajador jubilado, su cónyuge y sus hijos menores de diez y ocho (18) años tendrán derecho a recibir la mitad de la respectiva pensión durante dos (2) años contados desde la fecha del fallecimiento, cuando el trabajador haya adquirido el derecho dentro de las normas de este Código, lo esté disfrutando en el momento de la muerte, y siempre que aquellas personas no dispongan de medios suficientes para su congrua subsistencia. 
 
@@ -2396,10 +2462,12 @@ Autorízase a las empresas obligadas al pago de la jubilación de que trata este
 ## art:277 — DERECHO AL AUXILIO POR ENFERMEDAD NO PROFESIONAL
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
 
-Todo trabajador que preste servicios a una empresa de capital de (800.000) o superior, que sufra una incapacidad para desempeñar sus labores por causa de enfermedad no profesional, tendrá derecho, además del auxilio monetario establecido en el artículo 227, a la asistencia médica, farmacéutica, quirúrgica y hospitalaria necesaria, hasta por seis (6) meses.
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:> Todo trabajador que preste servicios a una empresa de capital de (800.000) o superior, que sufra una incapacidad para desempeñar sus labores por causa de enfermedad no profesional, tendrá derecho, además del auxilio monetario establecido en el artículo 227, a la asistencia médica, farmacéutica, quirúrgica y hospitalaria necesaria, hasta por seis (6) meses.
 
 ## art:278 — AUXILIO DE INVALIDEZ
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
+
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:>
 
 1. Si como consecuencia de la enfermedad no profesional o por lesión distinta de accidente de trabajo o por debilitamiento de las condiciones físicas o intelectuales, no provocados intencionalmente le sobrevine al trabajador una invalidez que lo incapacite para procurarse una remuneración mayor de un tercio de la que estuviere devengado, tendrá derecho, además, a las siguientes presentaciones en dinero: 
 
@@ -2414,17 +2482,19 @@ c). En caso de gran invalidez, el trabajador tendrá derecho, a una pensión men
 ## art:279 — VALOR DE LA PENSION
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
 
-El monto mensual de la pensión de vejez, correspondiente a las primeras 1000 semanas de cotización, será equivalente al 65% del ingreso base de liquidación. Por cada 50 semanas adicionales a las 1000 hasta las 1200 semanas, este porcentaje se incrementará en un 2%, llegando a este tiempo de cotización al 73% del ingreso base de liquidación. Por cada 50 semanas adicionales a las 1200 hasta las 1400, este porcentaje se incrementará en 3% en lugar del 2%, hasta completar un monto máximo del 85% del ingreso base de liquidación. 
+<Artículo modificado por el artículo 34 de la Ley 100 de 1993. El nuevo texto es el siguiente:> El monto mensual de la pensión de vejez, correspondiente a las primeras 1000 semanas de cotización, será equivalente al 65% del ingreso base de liquidación. Por cada 50 semanas adicionales a las 1000 hasta las 1200 semanas, este porcentaje se incrementará en un 2%, llegando a este tiempo de cotización al 73% del ingreso base de liquidación. Por cada 50 semanas adicionales a las 1200 hasta las 1400, este porcentaje se incrementará en 3% en lugar del 2%, hasta completar un monto máximo del 85% del ingreso base de liquidación. 
 
 El valor total de la pensión no podrá ser superior al 85% del ingreso base de liquidación, ni inferior a la pensión mínima de que trata el artículo siguiente.
 
 ## art:280 — DECLARATORIA Y CALIFICACION
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
 
-Para la declaratoria de invalidez y su calificación se procede en la misma forma que para los casos de enfermedades profesionales en lo pertinente.
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:> Para la declaratoria de invalidez y su calificación se procede en la misma forma que para los casos de enfermedades profesionales en lo pertinente.
 
 ## art:281 — PAGO DE LA PENSION
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
+
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:>
 
 1. La pensión de invalidez se paga provisionalmente durante el primer año de incapacidad, pudiendo examinarse periódicamente al inválido con el fin de descubrir las incapacidades en evolución, evitar la simulación y controlar su permanencia. Vencido ese año se practicará examen médico y cesará la pensión si el inválido ha recuperado mas de la tercera parte de su primitiva capacidad de ganancia. 
 
@@ -2433,12 +2503,16 @@ ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILI
 ## art:282 — TRATAMIENTO OBLIGATORIO
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
 
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:>
+
 1. Es obligatorio para el trabajador el tratamiento médico prescrito, especialmente el quirúrgico, cuando de acuerdo con la apreciación médica conduzca a la curación. 
 
 2. La renuncia injustificada a cumplir con las prescripciones médicas priva del auxilio correspondiente.
 
 ## art:283 — RECUPERACION O REEDUCACION
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
+
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:>
 
 1. La empresa puede procurar la recuperación o reeducación de sus trabajadores inválidos, a su costo, a fin de habilitarlos para desempeñar oficios compatibles con su categoría anterior en la misma empresa, con su estado de salud y con sus fuerzas y aptitudes y para obtener una remuneración igual a la de ocupaciones semejantes en la misma empresa o en la región. 
 
@@ -2449,7 +2523,7 @@ ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILI
 ## art:284 — IMCOMPATIBILIDAD CON EL AUXILIO POR ENFERMEDAD
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO III. AUXILIO POR ENFERMEDAD NO PROFESIONAL E INVALIDEZ.
 
-Al declararse por el médico el estado de invalidez, cesan las prestaciones por enfermedad y empezarán a pagarse las correspondientes al auxilio de invalidez.
+<Artículo subrogado por La ley 100 de 1993. Ver Notas del Editor. El texto original es el siguiente:> Al declararse por el médico el estado de invalidez, cesan las prestaciones por enfermedad y empezarán a pagarse las correspondientes al auxilio de invalidez.
 
 ## art:285 — ESCUELAS PRIMARIAS
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO IV. ESCUELAS Y ESPECIALIZACION.
@@ -2615,7 +2689,7 @@ ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO V. SEGURO D
 ## art:306 — DE LA PRIMA DE SERVICIOS A FAVOR DE TODO EMPLEADO
 ubicacion: TITULO IX. PRESTACIONES PATRONALES ESPECIALES. > CAPITULO VI. PRIMA DE SERVICIOS.
 
-El empleador está obligado a pagar a su empleado o empleados, la prestación social denominada prima de servicios que corresponderá a 30 días de salario por año, el cual se reconocerá en dos pagos, así: la mitad máximo el 30 de junio y la otra mitad a más tardar los primeros veinte días de diciembre. Su reconocimiento se hará por todo el semestre trabajado o proporcionalmente al tiempo trabajado.
+<Artículo modificado por el artículo 1 de la Ley 1788 de 2016. El nuevo texto es el siguiente:> El empleador está obligado a pagar a su empleado o empleados, la prestación social denominada prima de servicios que corresponderá a 30 días de salario por año, el cual se reconocerá en dos pagos, así: la mitad máximo el 30 de junio y la otra mitad a más tardar los primeros veinte días de diciembre. Su reconocimiento se hará por todo el semestre trabajado o proporcionalmente al tiempo trabajado.
 
 PARÁGRAFO. Se incluye en esta prestación económica a los trabajadores del servicio doméstico, choferes de servicio familiar, trabajadores por días o trabajadores de fincas y en general, a los trabajadores contemplados en el Título III del presente código o quienes cumplan con las condiciones de empleado dependiente.
 
@@ -2882,7 +2956,7 @@ ubicacion: TITULO X. NORMAS PROTECTORAS DE LAS PRESTACIONES. > CAPITULO II. INEM
 ## art:345 — PRELACION DE CREDITOS POR SALARIOS, PRESTACIONES SOCIALES E INDEMNIZACIONES LABORALES
 ubicacion: TITULO X. NORMAS PROTECTORAS DE LAS PRESTACIONES. > CAPITULO III. PRELACION DE CREDITOS.
 
-Los créditos causados o exigibles de los trabajadores por concepto de salarios, la cesantía y demás prestaciones sociales e indemnizaciones laborales pertenecen a la primera clase que establece el artículo 2495 del Código Civil y tienen privilegio excluyente sobre todos los demás. 
+<Artículo modificado por el artículo 36 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Los créditos causados o exigibles de los trabajadores por concepto de salarios, la cesantía y demás prestaciones sociales e indemnizaciones laborales pertenecen a la primera clase que establece el artículo 2495 del Código Civil y tienen privilegio excluyente sobre todos los demás. 
 
 El juez civil que conozca del proceso de concurso de acreedores o de quiebra dispondrá el pago privilegiado y pronto de los créditos a los trabajadores afectados por la quiebra o insolvencia del {empleador}. 
 
@@ -2905,12 +2979,12 @@ ubicacion: TITULO X. NORMAS PROTECTORAS DE LAS PRESTACIONES. > CAPITULO IV. EXEN
 ## art:348 — MEDIDAS DE HIGIENE Y SEGURIDAD
 ubicacion: TITULO XI. HIGIENE Y SEGURIDAD EN EL TRABAJO. > CAPITULO I. UNICO.
 
-Todo {empleador} o empresa están obligados a suministrar y acondicionar locales y equipos de trabajo que garanticen la seguridad y salud de los trabajadores; a hacer practicar los exámenes médicos a su personal y adoptar las medidas de higiene y seguridad indispensables para la protección de la vida, la salud y la moralidad de los trabajadores a su servicio; de conformidad con la reglamentación que sobre el particular establezca el Ministerio del Trabajo.
+<Artículo modificado por el artículo 10 de Decreto 13 de 1967. El nuevo texto es el siguiente:> Todo {empleador} o empresa están obligados a suministrar y acondicionar locales y equipos de trabajo que garanticen la seguridad y salud de los trabajadores; a hacer practicar los exámenes médicos a su personal y adoptar las medidas de higiene y seguridad indispensables para la protección de la vida, la salud y la moralidad de los trabajadores a su servicio; de conformidad con la reglamentación que sobre el particular establezca el Ministerio del Trabajo.
 
 ## art:349 — REGLAMENTO DE HIGIENE Y SEGURIDAD
 ubicacion: TITULO XI. HIGIENE Y SEGURIDAD EN EL TRABAJO. > CAPITULO I. UNICO.
 
-Los empleadores que tengan a su servicio diez (10) o más trabajadores permanentes deben elaborar un reglamento especial de higiene y seguridad, a más tardar dentro de los tres (3) meses siguientes a la iniciación de labores, si se trata de un nuevo establecimiento. El Ministerio de la Protección Social vigilará el cumplimiento de esta disposición.
+<Artículo modificado por el artículo 55 de la Ley 962 de 2005. El nuevo texto es el siguiente:> Los empleadores que tengan a su servicio diez (10) o más trabajadores permanentes deben elaborar un reglamento especial de higiene y seguridad, a más tardar dentro de los tres (3) meses siguientes a la iniciación de labores, si se trata de un nuevo establecimiento. El Ministerio de la Protección Social vigilará el cumplimiento de esta disposición.
 
 ## art:350 — CONTENIDO DEL REGLAMENTO
 ubicacion: TITULO XI. HIGIENE Y SEGURIDAD EN EL TRABAJO. > CAPITULO I. UNICO.
@@ -2948,6 +3022,8 @@ Corresponde al Ministerio del Trabajo, por conducto de la Oficina Nacional de Me
 ## art:353 — DERECHOS DE ASOCIACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
+<Artículo modificado por el artículo 1 de la Ley 584 de 2000. El nuevo texto es el siguiente:> 
+
 1. De acuerdo con el artículo 39 de la Constitución Política los empleadores y los trabajadores tienen el derecho de asociarse libremente en defensa de sus intereses, formando asociaciones profesionales o sindicatos; estos poseen el derecho de unirse o federarse entre sí. 
 
 2. Las asociaciones profesionales o sindicatos deben ajustarse en el ejercicio de sus derechos y cumplimiento de sus deberes, a las normas de este título y están sometidos a la inspección y vigilancia del Gobierno, en cuanto concierne al orden público. 
@@ -2956,6 +3032,8 @@ Los trabajadores y empleadores, sin autorización previa, tienen el derecho de c
 
 ## art:354 — PROTECCION DEL DERECHO DE ASOCIACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO I. DISPOSICIONES GENERALES.
+
+<Artículo modificado por el artículo 39 del Ley 50 de 1990. El nuevo texto es el siguiente:> 
 
 1. En los términos del artículo 292 del Código Penal queda prohibido a toda persona atentar contra el derecho de asociación sindical. 
 
@@ -2981,7 +3059,7 @@ Los sindicatos no pueden tener por objeto la explotación de negocios o activida
 ## art:356 — SINDICATOS DE TRABAJADORES
 ubicacion: TITULO I. SINDICATOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
-Los sindicatos de trabajadores se clasifican así: 
+<Artículo modificado por el artículo 40 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Los sindicatos de trabajadores se clasifican así: 
 
 a). De empresa, si están formados por individuos de varias profesiones, oficios o especialidades, que prestan sus servicios en una misma empresa, establecimiento o institución; 
 
@@ -2994,7 +3072,7 @@ d). De oficios varios, si están formados por trabajadores de diversas profesion
 ## art:357 — SINDICATOS DE BASE
 ubicacion: TITULO I. SINDICATOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
-Representación sindical. 
+<Artículo subrogado por el artículo 26 del Decreto 2351 de 1965. El nuevo texto es el siguiente:> Representación sindical. 
 
 1. <Numeral INEXEQUIBLE> 
 
@@ -3005,7 +3083,7 @@ Representación sindical.
 ## art:358 — LIBERTAD DE AFILIACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO I. DISPOSICIONES GENERALES.
 
-Los sindicatos son organizaciones de libre ingreso y retiro de los trabajadores. En los estatutos se reglamentará la coparticipación en instituciones de beneficio mutuo que hubiere establecido el sindicato con aportes de sus miembros.
+<Artículo modificado por el artículo 2 de la Ley 584 de 2000. El nuevo texto es el siguiente:> Los sindicatos son organizaciones de libre ingreso y retiro de los trabajadores. En los estatutos se reglamentará la coparticipación en instituciones de beneficio mutuo que hubiere establecido el sindicato con aportes de sus miembros.
 
 ## art:359 — NUMERO MINIMO DE AFILIADOS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO II. ORGANIZACION.
@@ -3020,6 +3098,8 @@ ubicacion: TITULO I. SINDICATOS. > CAPITULO II. ORGANIZACION.
 ## art:361 — FUNDACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO II. ORGANIZACION.
 
+<Artículo modificado por el artículo 41 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
+
 1. De la reunión inicial de constitución de cualquier sindicato los iniciadores deben suscribir un "acta de fundación" donde se expresen los nombres de todos ellos, sus documentos de identificación, la actividad que ejerzan y que los vincule, el nombre y objeto de la asociación. 
 
 2. En la misma o en sucesivas reuniones se discutirán y aprobarán los estatutos de la asociación y se designará el personal directivo, todo lo cual se hará constar en el acta o actas que se suscriban.
@@ -3027,7 +3107,7 @@ ubicacion: TITULO I. SINDICATOS. > CAPITULO II. ORGANIZACION.
 ## art:362 — ESTATUTOS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO II. ORGANIZACION.
 
-Toda organización sindical tiene el derecho de realizar libremente sus estatutos y reglamentos administrativos. Dichos estatutos contendrán, por lo menos, lo siguiente: 
+<Artículo modificado por el artículo 42 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Toda organización sindical tiene el derecho de realizar libremente sus estatutos y reglamentos administrativos. Dichos estatutos contendrán, por lo menos, lo siguiente: 
 
 1. La denominación del sindicato y su domicilio. 
 
@@ -3056,17 +3136,17 @@ Toda organización sindical tiene el derecho de realizar libremente sus estatuto
 ## art:363 — NOTIFICACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO II. ORGANIZACION.
 
-Una vez realizada la asamblea de constitución, el sindicato de trabajadores comunicará por escrito al respectivo empleador y al inspector del trabajo, y en su defecto, al alcalde del lugar, la constitución del sindicato, con la declaración de los nombres e identificación de cada uno de los fundadores. El inspector o alcalde a su vez, pasarán igual comunicación al empleador inmediatamente.
+<Artículo modificado por el artículo 43 del Ley 50 de 1990. El nuevo texto es el siguiente:> Una vez realizada la asamblea de constitución, el sindicato de trabajadores comunicará por escrito al respectivo empleador y al inspector del trabajo, y en su defecto, al alcalde del lugar, la constitución del sindicato, con la declaración de los nombres e identificación de cada uno de los fundadores. El inspector o alcalde a su vez, pasarán igual comunicación al empleador inmediatamente.
 
 ## art:364 — PERSONERIA JURIDICA
 ubicacion: TITULO I. SINDICATOS. > CAPITULO III. PERSONERIA JURIDICA.
 
-Toda organización sindical de trabajadores por el solo hecho de su fundación, y a partir de la fecha de la asamblea constitutiva, goza de personería jurídica.
+<Artículo modificado por el artículo 44 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Toda organización sindical de trabajadores por el solo hecho de su fundación, y a partir de la fecha de la asamblea constitutiva, goza de personería jurídica.
 
 ## art:365 — REGISTRO SINDICAL
 ubicacion: TITULO I. SINDICATOS. > CAPITULO III. PERSONERIA JURIDICA.
 
-Todo sindicato de trabajadores deberá inscribirse en el registro que para tales efectos lleve el Ministerio de Trabajo y Seguridad Social. 
+<Artículo modificado por el artículo 45 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Todo sindicato de trabajadores deberá inscribirse en el registro que para tales efectos lleve el Ministerio de Trabajo y Seguridad Social. 
 
 Dentro de los cinco (5) días hábiles siguientes a la fecha de la asamblea de fundación, el sindicato presentará ante el Ministerio de Trabajo y Seguridad Social, solicitud escrita de inscripción en el registro sindical, acompañándola de los siguientes documentos: 
 
@@ -3089,6 +3169,8 @@ Los documentos de que trata los apartes a), b) y c) pueden estar reunidos en un 
 ## art:366 — TRAMITACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO III. PERSONERIA JURIDICA.
 
+<Artículo modificado por artículo 46 la Ley 50 de 1990. El nuevo texto es el siguiente:> 
+
 1) Recibida la solicitud de inscripción, el ministerio del trabajo y seguridad social, dispone de un término máximo e improrrogable de quince (15) días hábiles, contados a partir de la fecha de su presentación, para admitir, formular objeciones o negar la inscripción en el registro sindical. 
 
 2) En caso de que la solicitud no reuna los requisitos de que trata el artículo anterior, el Ministerio de Trabajo y Seguridad Social formulara por escrito a los interesados las objeciones a que haya lugar, para que se efectúen las correcciones necesarias. 
@@ -3110,17 +3192,17 @@ PARAGRAFO. El incumplimiento injustificado de los términos previstos en el pres
 ## art:367 — PUBLICACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO III. PERSONERIA JURIDICA.
 
-El acto administrativo por el cual se inscriba en el registro una organización sindical, deberá ser publicado por cuenta de ésta una sola vez en un diario de amplia circulación nacional, dentro de los diez (10) días siguientes a su ejecutoria. Un ejemplar del diario deberá ser depositado dentro de los cinco (5) días hábiles siguientes en el registro sindical del Ministerio del Trabajo y Seguridad Social.
+<Artículo modificado por el artículo 47 de la Ley 50 de 1990. El nuevo texto es el siguiente:> El acto administrativo por el cual se inscriba en el registro una organización sindical, deberá ser publicado por cuenta de ésta una sola vez en un diario de amplia circulación nacional, dentro de los diez (10) días siguientes a su ejecutoria. Un ejemplar del diario deberá ser depositado dentro de los cinco (5) días hábiles siguientes en el registro sindical del Ministerio del Trabajo y Seguridad Social.
 
 ## art:368 — PUBLICACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO III. PERSONERIA JURIDICA.
 
-El acto administrativo por el cual se inscriba en el registro una organización sindical, deberá ser publicado por cuenta de ésta una sola vez en un diario de amplia circulación nacional, dentro de los diez (10) días siguientes a su ejecutoria. Un ejemplar del diario deberá ser depositado dentro de los cinco (5) días hábiles siguientes en el registro sindical del Ministerio del Trabajo y Seguridad Social.
+<Artículo modificado por el artículo 47 de la Ley 50 de 1990. El nuevo texto es el siguiente:> El acto administrativo por el cual se inscriba en el registro una organización sindical, deberá ser publicado por cuenta de ésta una sola vez en un diario de amplia circulación nacional, dentro de los diez (10) días siguientes a su ejecutoria. Un ejemplar del diario deberá ser depositado dentro de los cinco (5) días hábiles siguientes en el registro sindical del Ministerio del Trabajo y Seguridad Social.
 
 ## art:369 — MODIFICACION DE LOS ESTATUTOS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO III. PERSONERIA JURIDICA.
 
-Toda modificación a los estatutos debe ser aprobada por la asamblea general del sindicato y remitida, para efectos del registro correspondiente, al Ministerio de Trabajo y Seguridad Social, dentro de los cinco (5) días hábiles siguientes a la fecha de su aprobación, con copia del acta de la reunión donde se haga constar las reformas introducidas y firmadas por todos los asistentes. 
+<Artículo modificado por el artículo 48 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Toda modificación a los estatutos debe ser aprobada por la asamblea general del sindicato y remitida, para efectos del registro correspondiente, al Ministerio de Trabajo y Seguridad Social, dentro de los cinco (5) días hábiles siguientes a la fecha de su aprobación, con copia del acta de la reunión donde se haga constar las reformas introducidas y firmadas por todos los asistentes. 
 
 Para el registro, se seguirá en lo pertinente, el trámite previsto en el artículo 366 de éste Código.
 
@@ -3136,6 +3218,8 @@ Cualquier cambio, total o parcial, en la Junta Directiva de un sindicato debe se
 
 ## art:372 — EFECTO JURIDICO DE LA INSCRIPCION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO III. PERSONERIA JURIDICA.
+
+<Artículo modificado por el artículo 6 de la Ley 584 de 2000. El nuevo texto es el siguiente:> 
 
 <Inciso CONDICIONALMENTE exequible> Ningún sindicato puede actuar como tal, ni ejercer las funciones que la ley y sus respectivos estatutos le señalen, ni ejercitar los derechos que le correspondan, mientras no se haya inscrito el acta de constitución ante el Ministerio de Trabajo y Seguridad Social y sólo durante la vigencia de esta inscripción. 
 
@@ -3187,7 +3271,7 @@ Las funciones señaladas en los artículos anteriores y que deban ejercerse ante
 ## art:376 — ATRIBUCIONES EXCLUSIVAS DE LA ASAMBLEA
 ubicacion: TITULO I. SINDICATOS. > CAPITULO IV. FACULTADES Y FUNCIONES SINDICALES.
 
-Son de atribución exclusiva de la asamblea general los siguientes actos: La modificación de estatutos, la fusión con otros sindicatos; la afiliación a federaciones o confederaciones y el retiro de ellas; la sustitución en propiedad de los directores que llegaren a faltar y la destitución de cualquier director; la expulsión de cualquier afiliado; la fijación de cuotas extraordinarias; la aprobación del presupuesto general; la determinación de la cuantía de la caución del tesorero; la asignación de los sueldos; la aprobación de todo gasto mayor de un equivalente a diez (10) veces el salario mínimo mensual más alto; la adopción de pliegos de peticiones que deberán presentarse a los {empleadores} a más tardar dos (2) meses después; la designación de negociadores; la elección de conciliadores* y de árbitros; la votación de la huelga en los casos de la ley y la disolución o liquidación del sindicato. 
+<Artículo modificado por el artículo 16 de la Ley 11 de 1984. El nuevo texto es el siguiente:> Son de atribución exclusiva de la asamblea general los siguientes actos: La modificación de estatutos, la fusión con otros sindicatos; la afiliación a federaciones o confederaciones y el retiro de ellas; la sustitución en propiedad de los directores que llegaren a faltar y la destitución de cualquier director; la expulsión de cualquier afiliado; la fijación de cuotas extraordinarias; la aprobación del presupuesto general; la determinación de la cuantía de la caución del tesorero; la asignación de los sueldos; la aprobación de todo gasto mayor de un equivalente a diez (10) veces el salario mínimo mensual más alto; la adopción de pliegos de peticiones que deberán presentarse a los {empleadores} a más tardar dos (2) meses después; la designación de negociadores; la elección de conciliadores* y de árbitros; la votación de la huelga en los casos de la ley y la disolución o liquidación del sindicato. 
 
 PARAGRAFO. <Parágrafo INEXEQUIBLE>
 
@@ -3225,6 +3309,8 @@ h) Ordenar, recomendar o patrocinar cualesquiera actos de violencia frente a las
 ## art:380 — SANCIONES
 ubicacion: TITULO I. SINDICATOS. > CAPITULO V. PROHIBICIONES Y SANCIONES.
 
+<Artículo subrogado por el artículo 52 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
+
 1). Cualquier violación de las normas del presente título, será sancionada así: 
 
 a) Si la violación es imputable al sindicato mismo, por constituir una actuación de sus directivas, y la infracción o hecho que la origina no se hubiere consumado, el Ministerio de Trabajo y Seguridad Social prevendrá al sindicato para que revoque su determinación dentro del término prudencial que fije; 
@@ -3249,55 +3335,7 @@ f) Vencido el término anterior el juez decidirá teniendo en cuenta los element
 
 g) La decisión del juez será apelable, en el efecto suspensivo, para ante el respectivo Tribunal Superior del Distrito Judicial, el cual deberá decidir de plano dentro de los cinco (5) días siguientes al en que sea recibido el expediente. Contra la decisión del Tribunal no cabe ningún recurso. 
 
-3). <Numeral derogado por el artículo 8 de la Ley 584 de 2000.> 
-
-Legislación Anterior
-
-Texto con las modificaciones introducidas por la Ley 11 de 1984: 
-
-ARTICULO 380. 1. Cualquier violación de las normas del presente título será sancionada así : 
-
-1a.Si la violación es imputable al sindicato mismo, por constituir una actuación de sus directivas, y la infracción o hecho que la origina no se hubiere consumado, el Ministerio del Trabajo prevendrá al sindicato para que revoque su determinación dentro del término prudencial que fije : 
-
-2. Numeral 2o. modificado por el artículo 17 de Ley 11 de 1984. El nuevo texto es el siguiente:> Si la infracción ya se hubiere cumplido, o si hecha la prevención anterior no se atendiere, el Ministerio de Trabajo, procederá, previa la suficiente comprobación, a imponer la sanción o las sanciones siguientes, en su orden así: 
-
-a). Literal a del numeral 2o. modificado por el artículo 17 de Ley 11 de 1984. El nuevo texto es el siguiente:> Multas hasta por un equivalente a cinco (5) veces el salario mínimo mensual más alto. 
-
-b) Si a pesar de la multa el sindicato persistiere en la violación, podrá suspender en sus cargos sindicales a los miembros responsables de la directiva, mientras se mantenga la transgresión. 
-
-c) En caso de que la violación continúe, sin que haya sido operante la sanción, podrá disponer la suspensión de la personería del sindicato por el tiempo que la transgresión subsista; y 
-
-d) En último término, podrá solicitar de la justicia del Trabajo la cancelación de la personería, la disolución y liquidación del sindicato. 
-
-2. Las solicitudes de cancelación de personerías, disolución y liquidación de sindicatos, se formularán ante el Juez del Trabajo del domicilio del sindicato o del Circuito Civil, en su defecto, de acuerdo con el artículo 13 del código Procesal del Trabajo y se tramitarán conforme al procedimiento ordinario señalado en el Capítulo XIV de ese Código, de acuerdo con lo dispuesto en el artículo 144 del mismo. 
-
-3. Las suspensiones de que tratan los ordinales b) y c) del presente artículo se levantarán tan pronto como cese la infracción que les dio origen. 
-
-4. Todo miembro de la directiva de un sindicato que haya originado como sanción la disolución de éste, podrá ser privado del derecho de asociación sindical en cualquier carácter, hasta por el término de tres (3) años, según la apreciación del Juez en la respectiva providencia o fallo que imponga la disolución y en la cual serán declarados nominalmente tales responsables. 
-
-Texto original del Código Sustantivo del Trabajo: 
-
-ARTICULO 380. SANCIONES. 
-
-1. Cualquier violación de las normas del presente título será sancionada así : 
-
-1a.Si la violación es imputable al sindicato mismo, por constituir una actuación de sus directivas, y la infracción o hecho que la origina no se hubiere consumado, el Ministerio del Trabajo prevendrá al sindicato para que revoque su determinación dentro del término prudencial que fije : 
-
-2a. Si la infracción ya se hubiere cumplido, o si hecha la operación anterior no se atendiere, el Ministerio del Trabajo procederá, previa la suficiente comprobación, a imponer la. 
-
-a) multa hasta de quinientos pesos ($ 500), en primer sanción, o las sanciones siguientes en su orden, así : 
-
-b) Si a pesar de la multa el sindicato persistiere en la violación, podrá suspender en sus cargos sindicales a los miembros responsables de la directiva, mientras se mantenga la transgresión. 
-
-c) En caso de que la violación continúe, sin que haya sido operante la sanción, podrá disponer la suspensión de la personería del sindicato por el tiempo que la transgresión subsista; y 
-
-d) En último término, podrá solicitar de la justicia del Trabajo la cancelación de la personería, la disolución y liquidación del sindicato. 
-
-2. Las solicitudes de cancelación de personerías, disolución y liquidación de sindicatos, se formularán ante el Juez del Trabajo del domicilio del sindicato o del Circuito Civil, en su defecto, de acuerdo con el artículo 13 del código Procesal del Trabajo y se tramitarán conforme al procedimiento ordinario señalado en el Capítulo XIV de ese Código, de acuerdo con lo dispuesto en el artículo 144 del mismo. 
-
-3. Las suspensiones de que tratan los ordinales b) y c) del presente artículo se levantarán tan pronto como cese la infracción que les dio origen. 
-
-4. Todo miembro de la directiva de un sindicato que haya originado como sanción la disolución de éste, podrá ser privado del derecho de asociación sindical en cualquier carácter, hasta por el término de tres (3) años, según la apreciación del Juez en la respectiva providencia o fallo que imponga la disolución y en la cual serán declarados nominalmente tales responsables.
+3). <Numeral derogado por el artículo 8 de la Ley 584 de 2000.>
 
 ## art:381 — SANCIONES A LOS DIRECTORES
 ubicacion: TITULO I. SINDICATOS. > CAPITULO V. PROHIBICIONES Y SANCIONES.
@@ -3337,14 +3375,14 @@ Cuando por la naturaleza misma de las actividades o profesión de los afiliados,
 ## art:388 — CONDICIONES PARA LOS MIEMBROS DE LA JUNTA DIRECTIVA
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
 
-Además de las condiciones que se exijan en los estatutos, para ser miembro de la junta directiva de un sindicato, se debe ser miembro de la organización sindical; la falta de esta condición invalida la elección. 
+<Artículo modificado por el artículo 10 de la Ley 584 de 2000. El nuevo texto es el siguiente:> Además de las condiciones que se exijan en los estatutos, para ser miembro de la junta directiva de un sindicato, se debe ser miembro de la organización sindical; la falta de esta condición invalida la elección. 
 
 <Inciso INEXEQUIBLE>
 
 ## art:389 — EMPLEADOS DIRECTIVOS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
 
-No pueden formar parte de la junta directiva de un sindicato, ni ser designados funcionarios del mismo, los afiliados que representen al empleador frente a sus trabajadores, ni los altos empleados directivos de las empresas. Es nula la elección que recaiga en uno de tales afiliados, y el que, debidamente electo, entre después a desempeñar alguno de los empleos referidos, dejará ipso facto vacante su cargo sindical.
+<Artículo modificado por el artículo 53 de la Ley 50 de 1990. El nuevo texto es el siguiente:> No pueden formar parte de la junta directiva de un sindicato, ni ser designados funcionarios del mismo, los afiliados que representen al empleador frente a sus trabajadores, ni los altos empleados directivos de las empresas. Es nula la elección que recaiga en uno de tales afiliados, y el que, debidamente electo, entre después a desempeñar alguno de los empleos referidos, dejará ipso facto vacante su cargo sindical.
 
 ## art:390 — PERIODO DE DIRECTIVAS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
@@ -3361,7 +3399,7 @@ ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
 ## art:391-1 — DIRECTIVAS SECCIONALES
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
 
-Todo sindicato podrá prever en sus estatutos la creación de Subdirectivas Seccionales, en aquellos municipios distintos al de su domicilio principal y en el que tenga un número no inferior a veinticinco (25) miembros. Igualmente sé podrá prever la creación de Comités Seccionales en aquellos municipios distintos al del domicilio principal o el domicilio de la subdirectiva y en el que se tenga un número de afiliados no inferior a doce (12) miembros. No podrá haber más de una subdirectiva o comité por municipio.
+<391-1. Artículo adicionado por el artículo 55 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Todo sindicato podrá prever en sus estatutos la creación de Subdirectivas Seccionales, en aquellos municipios distintos al de su domicilio principal y en el que tenga un número no inferior a veinticinco (25) miembros. Igualmente sé podrá prever la creación de Comités Seccionales en aquellos municipios distintos al del domicilio principal o el domicilio de la subdirectiva y en el que se tenga un número de afiliados no inferior a doce (12) miembros. No podrá haber más de una subdirectiva o comité por municipio.
 
 ## art:392 — CONSTANCIA EN EL ACTA, VOTACION SECRETA
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
@@ -3378,7 +3416,7 @@ ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
 ## art:394 — PRESUPUESTO
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
 
-El sindicato, en asamblea general, votará el presupuesto de gastos para períodos no mayores de un (1) año y sin autorización expresa de la misma asamblea no podrá hacerse ninguna erogación que no esté contemplada en dicho presupuesto. [TACHADO: Sin perjuicio de las prohibiciones o de los requisitos adicionales que los estatutos prevean, todo gasto que exceda del equivalente al salario mínimo mensual más alto, con excepción de los sueldos asignados en el presupuesto, requiere la aprobación previa de la Junta Directiva, los que excedan del equivalente a cuatro (4) veces el salario mínimo más alto, sin pasar del equivalente a diez (10) veces el salario mínimo más alto y no estén previstos en el presupuesto, necesitan, además la refrendación expresa de la Asamblea General, con el voto de la mayoría absoluta de los afiliados; y los que excedan del equivalente a diez (10) veces el salario mínimo mensual más alto aunque estén previstos en el presupuesto, la refrendación de la asamblea general, por las dos terceras partes (2/3) de los votos de los afiliados]. Estas normas no se aplican para gastos que ocasionen las huelgas declaradas por el sindicato, cualquiera que sea su cuantía.
+<Aparte tachado INEXEQUIBLE. Artículo modificado por el artículo 19 de la Ley 11 de 1984. El nuevo texto es el siguiente:> El sindicato, en asamblea general, votará el presupuesto de gastos para períodos no mayores de un (1) año y sin autorización expresa de la misma asamblea no podrá hacerse ninguna erogación que no esté contemplada en dicho presupuesto. [TACHADO: Sin perjuicio de las prohibiciones o de los requisitos adicionales que los estatutos prevean, todo gasto que exceda del equivalente al salario mínimo mensual más alto, con excepción de los sueldos asignados en el presupuesto, requiere la aprobación previa de la Junta Directiva, los que excedan del equivalente a cuatro (4) veces el salario mínimo más alto, sin pasar del equivalente a diez (10) veces el salario mínimo más alto y no estén previstos en el presupuesto, necesitan, además la refrendación expresa de la Asamblea General, con el voto de la mayoría absoluta de los afiliados; y los que excedan del equivalente a diez (10) veces el salario mínimo mensual más alto aunque estén previstos en el presupuesto, la refrendación de la asamblea general, por las dos terceras partes (2/3) de los votos de los afiliados]. Estas normas no se aplican para gastos que ocasionen las huelgas declaradas por el sindicato, cualquiera que sea su cuantía.
 
 ## art:395 — CAUCION DEL TESORERO
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
@@ -3388,7 +3426,7 @@ El Tesorero de todo sindicato debe prestar en favor de éste una caución para g
 ## art:396 — DEPOSITO DE LOS FONDOS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
 
-Los fondos de todo sindicato deben mantenerse en algún banco o caja de ahorros, salvo la cantidad para gastos cotidianos menores que autoricen los estatutos y que no puede exceder en ningún caso del equivalente al salario mínimo mensual más alto. Todo giro y toda orden de pago deben estar necesariamente autorizados por las firmas conjuntas del Presidente, Tesorero y el Fiscal.
+<Artículo modificado por el artículo 20 de la Ley 11 de 1984. El nuevo texto es el siguiente:> Los fondos de todo sindicato deben mantenerse en algún banco o caja de ahorros, salvo la cantidad para gastos cotidianos menores que autoricen los estatutos y que no puede exceder en ningún caso del equivalente al salario mínimo mensual más alto. Todo giro y toda orden de pago deben estar necesariamente autorizados por las firmas conjuntas del Presidente, Tesorero y el Fiscal.
 
 ## art:397 — CONTABILIDAD
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
@@ -3407,6 +3445,8 @@ Todo sindicato decretará la separación del socio que voluntariamente deje de e
 
 ## art:400 — RETENCION DE CUOTAS SINDICALES
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VI. REGIMEN INTERNO.
+
+<Artículo subrogado por el artículo 23 del Decreto 2351 de 1965. El nuevo texto es el siguiente:> 
 
 1. <Aparte tachado INEXEQUIBLE> Toda asociación sindical de trabajadores tiene derecho a solicitar [TACHADO: con el voto de las dos terceras partes de sus miembros], que los (empleadores) respectivos deduzcan de los salarios de los trabajadores afiliados y pongan a la disposición del sindicato, el valor de las cuotas ordinarias o extraordinarias con que aquellos deben contribuir. La retención de las cuotas extraordinarias requiere copia autenticada del acta de la asamblea sindical en que fueron aprobadas. Para la retención de las cuotas ordinarias bastará que el secretario y el fiscal del sindicato comuniquen certificadamente al (empleador) su valor y la nómina de sus afiliados. 
 
@@ -3444,17 +3484,17 @@ Lo que quedare del haber común, una vez pagadas las deudas y hechos los reembol
 ## art:404 — APROBACION OFICIAL
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VII. DISOLUCION Y LIQUIDACION.
 
-La liquidación debe ser sometida a la aprobación del Juez que la haya ordenado, [TACHADO: y en los demás casos, a la del Departamento Nacional de Supervigilancia Sindical], debiendo expedir el finiquito al liquidador, cuando sea el caso.
+<Aparte tachado INEXEQUIBLE> La liquidación debe ser sometida a la aprobación del Juez que la haya ordenado, [TACHADO: y en los demás casos, a la del Departamento Nacional de Supervigilancia Sindical], debiendo expedir el finiquito al liquidador, cuando sea el caso.
 
 ## art:405 — DEFINICION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 
-Se denomina "fuero sindical" la garantía de que gozan algunos trabajadores de no ser despedidos, ni desmejorados en sus condiciones de trabajo, ni trasladados a otros establecimientos de la misma empresa o a un municipio distinto, sin justa causa, previamente calificada por el juez del trabajo.
+<Artículo modificado por el artículo 1o. del Decreto Legislativo 204 de 1957. El nuevo texto es el siguiente:> Se denomina "fuero sindical" la garantía de que gozan algunos trabajadores de no ser despedidos, ni desmejorados en sus condiciones de trabajo, ni trasladados a otros establecimientos de la misma empresa o a un municipio distinto, sin justa causa, previamente calificada por el juez del trabajo.
 
 ## art:406 — TRABAJADORES AMPARADOS POR EL FUERO SINDICAL
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 
-Están amparados por el fuero sindical: 
+<Artículo modificado por el artículo 12 de la Ley 584 de 2000. El nuevo texto es el siguiente:> Están amparados por el fuero sindical: 
 
 a) Los fundadores de un sindicato, desde el día de su constitución hasta dos (2) meses después de la inscripción en el registro sindical, sin exceder de seis (6) meses; 
 
@@ -3480,7 +3520,7 @@ ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 ## art:408 — CONTENIDO DE LA SENTENCIA
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 
-El Juez negará el permiso que hubiere solicitado el {empleador} para despedir a un trabajador amparado por el fuero sindical, o para desmejorarlo, o para trasladarlo, si no comprobare la existencia de una justa causa. 
+<Artículo modificado por el artículo 7o. del Decreto 204 de 1957. El nuevo texto es el siguiente:> El Juez negará el permiso que hubiere solicitado el {empleador} para despedir a un trabajador amparado por el fuero sindical, o para desmejorarlo, o para trasladarlo, si no comprobare la existencia de una justa causa. 
 
 Si en el caso de que trata el inciso primero del artículo 118 del Código Procesal del Trabajo se comprobare que el trabajador fue despedido sin sujeción a las normas que regulan el fuero sindical, se ordenará su reintegro y se condenará al {empleador} a pagarle, a título de indemnización, los salarios dejados de percibir por causa del despido. 
 
@@ -3494,7 +3534,7 @@ ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 ## art:410 — JUSTAS CAUSAS DEL DESPIDO
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 
-Son justas causas para que el Juez autorice el despido de un trabajador amparado por el fuero: 
+<Artículo modificado por el artículo 8o. del Decreto Legislativo 204 de 1957. El nuevo texto es el siguiente:> Son justas causas para que el Juez autorice el despido de un trabajador amparado por el fuero: 
 
 a) La liquidación o clausura definitiva de las empresa o establecimiento y la suspensión total o parcial de actividades por parte del {empleador} durante más de ciento veinte (120) días, y 
 
@@ -3503,12 +3543,12 @@ b) Las causales enumeradas en los artículos 62 y 63 del Código Sustantivo del 
 ## art:411 — TERMINACION DEL CONTRATO SIN PREVIA CALIFICACION JUDICIAL
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 
-La terminación del contrato de trabajo por la realización de la obra contratada, por la ejecución del trabajo accidental, ocasional o transitorio, por mutuo consentimiento o por sentencia de autoridad competente, no requiere previa calificación judicial de la causa en ningún caso.
+<Artículo modificado por el artículo 9o. del Decreto 204 de 1957. El nuevo texto es el siguiente:> La terminación del contrato de trabajo por la realización de la obra contratada, por la ejecución del trabajo accidental, ocasional o transitorio, por mutuo consentimiento o por sentencia de autoridad competente, no requiere previa calificación judicial de la causa en ningún caso.
 
 ## art:412 — SUSPENSION DEL CONTRATO DE TRABAJO
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
 
-Las simples suspensiones del contrato de trabajo no requieren intervención judicial.
+<Artículo modificado por el artículo 10 del Decreto Legislativo 204 de 1957. El nuevo texto es el siguiente:> Las simples suspensiones del contrato de trabajo no requieren intervención judicial.
 
 ## art:413 — SANCIONES DISCIPLINARIAS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO VIII. FUERO SINDICAL.
@@ -3546,12 +3586,12 @@ Las funciones señaladas en los apartes 3o y 4o del artículo anterior implican 
 ## art:416 — LIMITACION DE LAS FUNCIONES
 ubicacion: TITULO I. SINDICATOS. > CAPITULO IX. TRABAJADORES OFICIALES.
 
-Los sindicatos de empleados públicos no pueden presentar pliegos de peticiones ni celebrar convenciones colectivas, pero los sindicatos de los demás trabajadores oficiales tienen todas las atribuciones de los otros sindicatos de trabajadores, y sus pliegos de peticiones se tramitarán en los mismos términos que los demás, aún cuando no puedan declarar o hacer huelga.
+<Texto subrayado CONDICIONALMENTE EXEQUIBLE> Los sindicatos de empleados públicos no pueden presentar pliegos de peticiones ni celebrar convenciones colectivas, pero los sindicatos de los demás trabajadores oficiales tienen todas las atribuciones de los otros sindicatos de trabajadores, y sus pliegos de peticiones se tramitarán en los mismos términos que los demás, aún cuando no puedan declarar o hacer huelga.
 
-## art:416a — Artículo adicionado por el artículo 13 de la Ley 584 de 2000. El texto es el siguiente:
+## art:416a — 
 ubicacion: TITULO I. SINDICATOS. > CAPITULO IX. TRABAJADORES OFICIALES.
 
-Las organizaciones sindicales de los servidores públicos tienen derecho a que las entidades públicas les concedan permisos sindicales para que, quienes sean designados por ellas, puedan atender las responsabilidades que se desprenden del derecho fundamental de asociación y libertad sindical. El Gobierno Nacional reglamentará la materia, en concertación con los representantes de las centrales sindicales.
+<Artículo adicionado por el artículo 13 de la Ley 584 de 2000. El texto es el siguiente:> Las organizaciones sindicales de los servidores públicos tienen derecho a que las entidades públicas les concedan permisos sindicales para que, quienes sean designados por ellas, puedan atender las responsabilidades que se desprenden del derecho fundamental de asociación y libertad sindical. El Gobierno Nacional reglamentará la materia, en concertación con los representantes de las centrales sindicales.
 
 ## art:417 — DERECHO DE FEDERACION
 ubicacion: TITULO I. SINDICATOS. > CAPITULO X. FEDERACIONES Y CONFEDERACIONES.
@@ -3583,7 +3623,7 @@ Para los efectos del fuero sindical, los avisos se darán en la misma forma pres
 ## art:422 — JUNTA DIRECTIVA
 ubicacion: TITULO I. SINDICATOS. > CAPITULO X. FEDERACIONES Y CONFEDERACIONES.
 
-Para ser miembro del comité ejecutivo y/o la junta directiva de una organización de segundo o tercer grado, además de las condiciones que se exijan en los estatutos, se debe ser miembro activo de una de las organizaciones afiliadas; la falta de esta condición invalida la elección. 
+<Artículo modificado por el artículo 14 de la Ley 584 de 2000. El nuevo texto es el siguiente:> Para ser miembro del comité ejecutivo y/o la junta directiva de una organización de segundo o tercer grado, además de las condiciones que se exijan en los estatutos, se debe ser miembro activo de una de las organizaciones afiliadas; la falta de esta condición invalida la elección. 
 
 <Inciso INEXEQUIBLE>
 
@@ -3592,7 +3632,7 @@ La condición de ser miembro activo de una de las organizaciones referidas en el
 ## art:423 — REGISTRO SINDICAL
 ubicacion: TITULO I. SINDICATOS. > CAPITULO X. FEDERACIONES Y CONFEDERACIONES.
 
-Para la inscripción en el registro sindical de una federación o confederación se procederá en la misma forma que para los sindicatos, en lo pertinente.
+<Artículo modificado por el artículo 59 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Para la inscripción en el registro sindical de una federación o confederación se procederá en la misma forma que para los sindicatos, en lo pertinente.
 
 ## art:424 — DIRECTIVA PROVISIONAL
 ubicacion: TITULO I. SINDICATOS. > CAPITULO X. FEDERACIONES Y CONFEDERACIONES.
@@ -3602,7 +3642,7 @@ ubicacion: TITULO I. SINDICATOS. > CAPITULO X. FEDERACIONES Y CONFEDERACIONES.
 ## art:425 — ESTATUTOS
 ubicacion: TITULO I. SINDICATOS. > CAPITULO X. FEDERACIONES Y CONFEDERACIONES.
 
-Las organizaciones de trabajadores de segundo y tercer grado tienen el derecho de redactar libremente sus estatutos y reglamentos administrativos. 
+<Artículo modificado por el artículo 15 de la Ley 584 de 2000. El nuevo texto es el siguiente:> Las organizaciones de trabajadores de segundo y tercer grado tienen el derecho de redactar libremente sus estatutos y reglamentos administrativos. 
 
 Dichos estatutos contendrán, por lo menos: 
 
@@ -3626,12 +3666,12 @@ El Ministerio del Trabajo propiciará la reunión de congresos sindicales, de ac
 ## art:429 — DEFINICION DE HUELGA
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO I. DISPOSICIONES GENERALES.
 
-Se entiende por huelga la suspensión colectiva temporal y pacífica del trabajo, efectuada por los trabajadores de un establecimiento o empresa con fines económicos y profesionales propuestos a sus {empleadores} y previos los trámites establecidos en el presente título.
+<Aparte subrayado CONDICIONALMENTE exequible> Se entiende por huelga la suspensión colectiva temporal y pacífica del trabajo, efectuada por los trabajadores de un establecimiento o empresa con fines económicos y profesionales propuestos a sus {empleadores} y previos los trámites establecidos en el presente título.
 
 ## art:430 — PROHIBICION DE HUELGA EN LOS SERVICIOS PUBLICOS
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO I. DISPOSICIONES GENERALES.
 
-De conformidad con la Constitución Nacional, está prohibida la huelga en los servicios públicos. 
+<Artículo modificado por el artículo 1o. del Decreto Extraordinario 753 de 1956. El nuevo texto es el siguiente:> De conformidad con la Constitución Nacional, está prohibida la huelga en los servicios públicos. 
 
 Para este efecto se considera como servicio público, toda actividad organizada que tienda a satisfacer necesidades de interés general en forma regular y continua, de acuerdo con un régimen jurídico especial, bien que se realice por el Estado, directa o indirectamente, o por personas privadas. 
 
@@ -3672,6 +3712,8 @@ ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO II. ARREGLO D
 ## art:433 — INICIACION DE CONVERSACIONES
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO II. ARREGLO DIRECTO.
 
+<Artículo modificado por el artículo 27 del Decreto 2351 de 1965. El nuevo texto es el siguiente:>
+
 1. El {empleador} o la representante, están en la obligación de recibir a los delegados de los trabajadores dentro de las veinticuatro horas siguientes a la presentación oportuna del pliego de peticiones para iniciar conversaciones. Si la persona a quién se presentare el pliego considerare que no está autorizada para resolver sobre él debe hacerse autorizar o dar traslado al {empleador} dentro de las veinticuatro horas siguientes a la presentación del pliego, avisándolo así a los trabajadores. En todo caso, la iniciación de las conversaciones en la etapa de arreglo directo no puede diferirse por más de cinco (5) días hábiles a partir de la presentación del pliego. 
 
 2. <Numeral modificado por el artículo 21 de la Ley 11 de 1984. El nuevo texto es el siguiente:> El {empleador} que se niegue o eluda iniciar las conversaciones de arreglo directo dentro del término señalado será sancionado por las autoridades del trabajo con multas equivalentes al monto de cinco (5) a diez (10) veces el salario mínimo mensual más alto por cada día de mora, a favor del Servicio Nacional de Aprendizaje SENA. Para interponer los recursos legales contra las resoluciones de multa, el interesado deberá consignar previamente su valor a órdenes de dicho establecimiento.
@@ -3679,7 +3721,7 @@ ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO II. ARREGLO D
 ## art:434 — DURACION DE LAS CONVERSACIONES
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO II. ARREGLO DIRECTO.
 
-Las conversaciones de negociación de los pliegos de peticiones en esta etapa de arreglo directo durarán veinte (20) días calendario, prorroglables de común acuerdo entre las partes, hasta por veinte (20) días calendario adicionales. 
+<Artículo modificado por el artículo 60 de la Ley 50 de 1990. El nuevo texto es el siguiente:>. Las conversaciones de negociación de los pliegos de peticiones en esta etapa de arreglo directo durarán veinte (20) días calendario, prorroglables de común acuerdo entre las partes, hasta por veinte (20) días calendario adicionales. 
 
 PARAGRAFO 1o. Si al término de la etapa de arreglo directo persistieren diferencias sobre alguno o algunos de los puntos del pliego, las partes suscribirán un acta final que registre los acuerdos y dejarán las constancias expresas sobre las diferencias que subsistan. 
 
@@ -3688,7 +3730,7 @@ PARAGRAFO 2o. Durante esta etapa podrán participar en forma directa en la mesa 
 ## art:435 — ACUERDO
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO II. ARREGLO DIRECTO.
 
-Los negociadores de los pliegos de peticiones deberán estar investidos de plenos poderes, que se presumen, para celebrar y suscribir en nombre de las partes que representan los Acuerdos a que lleguen en la etapa de arreglo directo, los cuales no son susceptibles de replanteamiento o modificaciones en las etapas posteriores del conflicto colectivo. 
+<Artículo modificado por el artículo 2o. de la Ley 39 de 1985. El nuevo texto es el siguiente:> Los negociadores de los pliegos de peticiones deberán estar investidos de plenos poderes, que se presumen, para celebrar y suscribir en nombre de las partes que representan los Acuerdos a que lleguen en la etapa de arreglo directo, los cuales no son susceptibles de replanteamiento o modificaciones en las etapas posteriores del conflicto colectivo. 
 
 Si se llegare a un Acuerdo total o parcial sobre el pliego de peticiones, se firmará la respectiva convención colectiva o el pacto entre los trabajadores no sindicalizados y el {empleador}, y se enviará una copia al Ministerio de Trabajo y Seguridad Social por conducto del inspector respectivo. 
 
@@ -3697,7 +3739,7 @@ Los Acuerdos que se produzcan en la primera etapa del Trámite de negociación s
 ## art:436 — DESACUERDO
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO II. ARREGLO DIRECTO.
 
-Si no se llegare a un arreglo directo en todo o en parte, se hará constar así en acta final que suscribirán las partes, en la cual se expresará el estado en que quedaron las conversaciones sobre el pliego de peticiones y se indicará con toda precisión cuáles fueron los acuerdos parciales sobre los puntos del pliego y cuáles en los que no se produjo arreglo alguno. 
+<Artículo modificado por el artículo 3o. de la Ley 39 de 1985. El nuevo texto es el siguiente:> Si no se llegare a un arreglo directo en todo o en parte, se hará constar así en acta final que suscribirán las partes, en la cual se expresará el estado en que quedaron las conversaciones sobre el pliego de peticiones y se indicará con toda precisión cuáles fueron los acuerdos parciales sobre los puntos del pliego y cuáles en los que no se produjo arreglo alguno. 
 
 Copia de esta acta final se entregará al día siguiente al Ministerio de Trabajo y Seguridad Social.
 
@@ -3739,7 +3781,7 @@ De todos los nombramientos, actas, convenciones y pactos se entregarán copias a
 ## art:444 — DECISION DE LOS TRABAJADORES
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO IV. DECLARATORIA Y DESARROLLO DE LA HUELGA.
 
-Concluida la etapa de arreglo directo sin que las partes hubieren logrado un acuerdo total sobre el diferendo laboral, los trabajadores podrán optar por la declaratoria de huelga o por someter sus diferencias a la decisión de un Tribunal de Arbitramento. 
+<Artículo modificado por el artículo 61 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Concluida la etapa de arreglo directo sin que las partes hubieren logrado un acuerdo total sobre el diferendo laboral, los trabajadores podrán optar por la declaratoria de huelga o por someter sus diferencias a la decisión de un Tribunal de Arbitramento. 
 
 La huelga o la solicitud de arbitramento serán decididas dentro de los diez (10) días hábiles siguientes a la terminación de la etapa de arreglo directo, mediante votación secreta, personal e indelegable, por la mayoría absoluta de los trabajadores de la empresa, o de la asamblea general de los afiliados al sindicato o sindicatos que agrupen más de la mitad de aquellos trabajadores. 
 
@@ -3749,6 +3791,8 @@ Para este efecto, si los afiliados al sindicato o sindicatos mayoritarios o los 
 
 ## art:445 — DESARROLLO DE LA HUELGA
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO IV. DECLARATORIA Y DESARROLLO DE LA HUELGA.
+
+<Artículo modificado por el artículo 62 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
 
 1. La cesación colectiva del trabajo, cuando los trabajadores optaren por la huelga, sólo podrá efectuarse transcurridos dos (2) días hábiles a su declaración y no más de diez (10) días hábiles después. 
 
@@ -3768,6 +3812,8 @@ Los directores del movimiento pueden constituir "Comités de Huelga" que sirvan 
 
 ## art:448 — FUNCIONES DE LAS AUTORIDADES
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO IV. DECLARATORIA Y DESARROLLO DE LA HUELGA.
+
+<Artículo modificado por el artículo 63 de la Ley 50 de 1990. El nuevo texto es el siguiente:> 
 
 1. Durante el desarrollo de la huelga, las autoridades policivas tienen a su cargo la vigilancia del curso pacífico del movimiento y ejercerán de modo permanente la acción que les corresponda, a fin de evitar que los huelguistas, los empleadores, o cualesquiera personas en conexión con ellos excedan las finalidades jurídicas de la huelga, o intenten aprovecharla para promover desórdenes o cometer infracciones o delitos. 
 
@@ -3797,6 +3843,8 @@ PARAGRAFO. El Inspector de Trabajo deberá pronunciarse sobre las solicitudes de
 ## art:450 — CASOS DE ILEGALIDAD Y SANCIONES
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO V. SUSPENSION COLECTIVA ILEGAL DEL TRABAJO.
 
+<Artículo modificado por el artículo 65 de la Ley 50 de 1990. El nuevo texto es el siguienrte:> 
+
 1. La suspensión colectiva del trabajo es ilegal en cualquiera de los siguientes casos: 
 
 a) Cuando se trate de un servicio público; 
@@ -3821,6 +3869,8 @@ g) Cuando se promueva con el propósito de exigir a las autoridades la ejecució
 
 ## art:451 — DECLARACION DE ILEGALIDAD
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO V. SUSPENSION COLECTIVA ILEGAL DEL TRABAJO.
+
+<Artículo modificado por el artículo 2 de la Ley 1210 de 2008. El nuevo texto es el siguiente:> 
 
 1. La legalidad o ilegalidad de una suspensión o paro colectivo del trabajo será declarada judicialmente mediante trámite preferente. En primera instancia, conocerá la Sala Laboral del Tribunal Superior competente. Contra la decisión procederá el recurso de apelación que se concederá en el efecto suspensivo y se tramitará ante la Sala Laboral de la Corte Suprema de Justicia. La providencia respectiva deberá cumplirse una vez quede ejecutoriada.
 
@@ -3896,7 +3946,7 @@ El hecho de terminar la huelga por arreglo entre las partes o por decisión arbi
 ## art:463 — PERSONAS QUE NO PUEDEN INTERVENIR
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO VIII. DISPOSICIONES COMUNES A LOS CAPITULOS ANTERIORES.
 
-No pueden ser [TACHADO: representantes o voceros de los trabajadores ni de los {empleadores}], ni conciliadores*, ni miembros de tribunales de arbitramento, individuos condenados a sufrir pena aflictiva que no hubieren sido rehabilidados.
+<Aparte tachado INEXEQUIBLE> No pueden ser [TACHADO: representantes o voceros de los trabajadores ni de los {empleadores}], ni conciliadores*, ni miembros de tribunales de arbitramento, individuos condenados a sufrir pena aflictiva que no hubieren sido rehabilidados.
 
 ## art:464 — EMPRESAS DE SERVICIOS PUBLICOS
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO IX. CIERRE DE EMPRESAS.
@@ -3911,7 +3961,7 @@ En cualquier caso en que se presentare, de hecho, la suspensión de los servicio
 ## art:466 — EMPRESAS QUE NO SON DE SERVICIO PUBLICO
 ubicacion: TITULO II. CONFLICTOS COLECTIVOS DE TRABAJO. > CAPITULO IX. CIERRE DE EMPRESAS.
 
-Las empresas que no sean de servicio público no pueden clausurar labores, total o parcialmente, en forma definitiva o temporal, sin previa autorización del Ministerio de Trabajo y Seguridad Social, salvo fuerza mayor o caso fortuito, y sin perjuicio de las indemnizaciones a que haya lugar por razón de contratos de trabajo concertados por un tiempo mayor. Para tal efecto la empresa deberá presentar la correspondiente solicitud y en forma simultánea informar por escrito a sus trabajadores tal hecho. 
+<Artículo modificado por el artículo 66 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Las empresas que no sean de servicio público no pueden clausurar labores, total o parcialmente, en forma definitiva o temporal, sin previa autorización del Ministerio de Trabajo y Seguridad Social, salvo fuerza mayor o caso fortuito, y sin perjuicio de las indemnizaciones a que haya lugar por razón de contratos de trabajo concertados por un tiempo mayor. Para tal efecto la empresa deberá presentar la correspondiente solicitud y en forma simultánea informar por escrito a sus trabajadores tal hecho. 
 
 La suspensión de actividades o clausura temporal de la empresa, establecimiento o negocio, en todo o en parte, hasta por ciento veinte (120) días, suspende los contratos de trabajo. Cuando la empresa reanudare actividades deberá admitir de preferencia al personal licenciado, en condiciones no inferiores a las que disfrutaba en el momento de la clausura. Para tal efecto, deberá avisar a los trabajadores la fecha de reanudación de labores. Los trabajadores que debidamente avisados no se presenten dentro de los tres (3) días siguientes, perderán este derecho preferencial. 
 
@@ -3935,10 +3985,12 @@ La convención colectiva debe celebrarse por escrito y se extenderá en tantos e
 ## art:470 — CAMPO DE APLICACIÓN
 ubicacion: TITULO III. CONVENCIONES PACTOS COLECTIVOS Y CONTRATOS SINDICALES. > CAPITULO I. CONVENCIONES COLECTIVAS.
 
-Las convenciones colectivas entre {empleadores} y sindicatos cuyo número de afiliados no exceda de la tercera parte del total de los trabajadores de la empresa, solamente son aplicables a los miembros del sindicato que las haya celebrado, y a quienes adhieran a ellas o ingresen posteriormente al sindicato.
+<Artículo modificado por el artículo 37o. del Decreto 2351 de 1965. El nuevo texto es el siguiente:> Las convenciones colectivas entre {empleadores} y sindicatos cuyo número de afiliados no exceda de la tercera parte del total de los trabajadores de la empresa, solamente son aplicables a los miembros del sindicato que las haya celebrado, y a quienes adhieran a ellas o ingresen posteriormente al sindicato.
 
 ## art:471 — EXTENSION A TERCEROS
 ubicacion: TITULO III. CONVENCIONES PACTOS COLECTIVOS Y CONTRATOS SINDICALES. > CAPITULO I. CONVENCIONES COLECTIVAS.
+
+<Artículo modificado por el artículo 38 del Decreto 2351 de 1965. El nuevo texto es el siguiente:> 
 
 1. Cuando en la convención colectiva sea parte un sindicato cuyos afiliados excedan de la tercera parte del total de los trabajadores de la empresa, las normas de la convención se extienden a todos los trabajadores de la misma, sean o no sindicalizados. 
 
@@ -3984,6 +4036,8 @@ A menos que se hayan pactado normas diferentes en la convención colectiva, si d
 ## art:479 — DENUNCIA
 ubicacion: TITULO III. CONVENCIONES PACTOS COLECTIVOS Y CONTRATOS SINDICALES. > CAPITULO I. CONVENCIONES COLECTIVAS.
 
+<Artículo modificado por el artículo 14 del Decreto 616 de 1954. El nuevo texto es el siguiente:> 
+
 1. Para que sea válida la manifestación escrita de dar por terminada una convención colectiva de trabajo, si se hace por una de las partes, o por ambas separadamente, debe presentarse por triplicado ante el Inspector del Trabajo del lugar, y en su defecto, ante el Alcalde, funcionarios que le pondrán la nota respectiva de presentación, señalando el lugar, la fecha y la hora de la misma. El original de la denuncia será entregado al destinatario por dicho funcionario, y las copias serán destinadas para el Departamento Nacioanl de Trabajo y para el denunciante de la convención. 
 
 2. Formulada así la denuncia de la convención colectiva, ésta continuará vigente hasta tanto se firme una nueva convención.
@@ -4001,7 +4055,7 @@ ubicacion: TITULO III. CONVENCIONES PACTOS COLECTIVOS Y CONTRATOS SINDICALES. > 
 ## art:481-1 — PROHIBICIÓN
 ubicacion: TITULO III. CONVENCIONES PACTOS COLECTIVOS Y CONTRATOS SINDICALES. > CAPITULO II. PACTOS COLECTIVOS.
 
-Cuando el sindicato o sindicatos agrupe más de la tercera parte de los trabajadores de una empresa, ésta no podrá suscribir pactos colectivos o prorrogar los que tenga vigentes.
+<Artículo adicionado por el artículo 70 de la Ley 50 de 1990. El nuevo texto es el siguiente:> Cuando el sindicato o sindicatos agrupe más de la tercera parte de los trabajadores de una empresa, ésta no podrá suscribir pactos colectivos o prorrogar los que tenga vigentes.
 
 CAPITULO III. 
 
@@ -4030,6 +4084,8 @@ La vigilancia y el control del cumplimiento de las normas de éste Código y dem
 ## art:486 — ATRIBUCIONES Y SANCIONES
 ubicacion: TITULO I. VIGILANCIA Y CONTROL.
 
+<Artículo subrogado por el artículo 41 del Decreto 2351 de 1965. El nuevo texto es el siguiente:> 
+
 1. <Numeral modificado por el artículo 20 de la Ley 584 de 2000. El nuevo texto es el siguiente:> Los funcionarios del Ministerio de Trabajo podrán hacer comparecer a sus respectivos despachos a los empleadores, para exigirles las informaciones pertinentes a su misión, la exhibición de libros, registros, planillas y demás documentos, la obtención de copias o extractos de los mismos. Así mismo, podrán entrar sin previo aviso, y en cualquier momento mediante su identificación como tales, en toda empresa con el mismo fin y ordenar las medidas preventivas que consideren necesarias, asesorándose de peritos como lo crean conveniente para impedir que se violen las disposiciones relativas a las condiciones de trabajo y a la protección de los trabajadores en el ejercicio de su profesión y del derecho de libre asociación sindical. Tales medidas tendrán aplicación inmediata sin perjuicio de los recursos y acciones legales consignadas en ellos. Dichos funcionarios no quedan facultados, sin embargo, para declarar derechos individuales ni definir controversias cuya decisión esté atribuida a los jueces, aunque sí para actuar en esos casos como conciliadores. 
 
 Los funcionarios del Ministerio del Trabajo y Seguridad Social tendrán las mismas facultades previstas en el presente numeral respecto de trabajadores, directivos o afiliados a las organizaciones sindicales, siempre y cuando medie solicitud de parte del sindicato y/o de las organizaciones de segundo y tercer grado a las cuales se encuentra afiliada la organización sindical. 
@@ -4048,7 +4104,7 @@ El Jefe del Departamento de Supervigilancia Sindical y los Inspectores del Traba
 ## art:488 — REGLA GENERAL
 ubicacion: TITULO II. DISPOSICIONES FINALES. > CAPITULO I. PRESCRIPCION DE ACCIONES.
 
-Las acciones correspondientes a los derechos regulados en este Código prescriben en tres (3) años, salvo en los casos de prescripciones especiales establecidas en el Código Procesal del Trabajo y de la Seguridad Social o en el presente estatuto. En el evento en que se reclamen derechos emanados de una relación de trabajo, dicho término se contará desde que la respectiva obligación se hace exigible, salvo en los casos de prescripciones especiales establecidas en el Código Procesal del Trabajo y de la Seguridad Social.
+<Artículo modificado por el artículo 62 de la Ley 2466 de 2025. El nuevo texto es el siguiente:> Las acciones correspondientes a los derechos regulados en este Código prescriben en tres (3) años, salvo en los casos de prescripciones especiales establecidas en el Código Procesal del Trabajo y de la Seguridad Social o en el presente estatuto. En el evento en que se reclamen derechos emanados de una relación de trabajo, dicho término se contará desde que la respectiva obligación se hace exigible, salvo en los casos de prescripciones especiales establecidas en el Código Procesal del Trabajo y de la Seguridad Social.
 
 ## art:489 — INTERRUPCION DE LA PRESCRIPCION
 ubicacion: TITULO II. DISPOSICIONES FINALES. > CAPITULO I. PRESCRIPCION DE ACCIONES.

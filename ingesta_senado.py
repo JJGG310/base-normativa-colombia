@@ -36,13 +36,35 @@ ACCION = {"modificado": "modifica", "adicionado": "adiciona", "derogado": "derog
 TIPO_NORMA = {"acto legislativo": "acto-legislativo", "ley": "ley",
               "decreto ley": "decreto-ley", "decreto": "decreto"}
 
+# El grupo 1 es el alcance: solo «Artículo» afecta al artículo entero. «Parágrafo 4
+# derogado» (o la errata «Parágarfo») convertido en `deroga` mataba artículos vivos.
 RE_ACCION = re.compile(
-    r"(?:Art[íi]culo|Par[áa]grafo|Inciso|Numeral|Literal|Aparte)(?:\s+\S+){0,3}?\s+(%s)\s+por"
+    r"(Art[íi]culo|Par[áa]g\w*|Inciso|Numeral|Literal|Aparte|Ordinal|Expresi[óo]n)(?:\s+\S+){0,3}?\s+(%s)\s+por"
     % "|".join(ACCION), re.I)
+# Marcador de muerte del artículo entero al inicio de su propio texto en la fuente.
+RE_MUERTE_TEXTO = re.compile(r"derogad|suprimid|INEXEQUIBLE|\bNULO\b|^\s*DEROGADO", re.I)
+RE_NO_TOTAL = re.compile(r"^\s*(?:Inciso|Numeral|Literal|Par[áa]g|Aparte|Ordinal|Expresi|Texto|El art|Ver )"
+                         r"|reviv|en lo |en cuanto|parcial|salvo|excep|CONDICIONAL", re.I)
+
+
+def muerto_en_texto(texto):
+    """¿El texto publicado del artículo abre con un marcador de muerte total?
+
+    La fuente siempre encabeza el artículo derogado con «<Artículo derogado…>». Si no
+    lo hace, la nota «Artículo derogado» de la caja es de otro momento: el artículo
+    fue re-adicionado (ET 882-916, derogados en 1991 y re-creados en 2016), revivido
+    (ET 38, Ley 2010 de 2019) o la nota es de un inciso."""
+    m = re.search(r"<([^<>]{0,400})>?", texto[:300])
+    s = m.group(1) if m and m.start() < 150 else texto[:60]
+    return bool(RE_MUERTE_TEXTO.search(s)) and not RE_NO_TOTAL.search(s)
+
+
 RE_ORIGEN = re.compile(
     r"(?:el\s+art[íi]culo\s+(?P<art>[\dA-Za-z]+)[o°º]?\.?\s+d[el]{1,2}\s+)?"
     r"(?P<tipo>Acto\s+Legislativo|Ley|Decreto\s+Ley|Decreto)\s+(?:N[o°º]\.?\s*)?(?P<num>[\d\.]+)\s+de\s+(?:\d{1,2}\s+de\s+\w+\s+de\s+)?(?P<anio>\d{4})", re.I)
-RE_FECHA = re.compile(r"\bde\s+(\d{1,2})\s+de\s+(%s)\s+de\s+(\d{4})" % "|".join(MESES), re.I)
+# «de 27 de diciembre 2019» (sin «de») existe: sin admitirlo se tomaba la fecha
+# siguiente de la nota, que suele ser la de una reforma anterior.
+RE_FECHA = re.compile(r"\bde\s+(\d{1,2})o?\.?\s+de\s+(%s)\s+(?:del?\s+)?(\d{4})" % "|".join(MESES), re.I)
 RE_SENTENCIA = re.compile(r"\b(C|T|SU)-(\d+)-(\d{2})\b")
 # La propia fuente lo dice en el epígrafe o el cuerpo del artículo vigente
 # ("...anteriormente era el artículo 263-A"): no hace falta adivinar la
@@ -126,6 +148,9 @@ def paginas(url):
 def limpiar(fragmento):
     """Quita los widgets de navegación (tablas vacías que llena el JS) y el marcado."""
     f = re.sub(r'<div><a class="caja_vja_encabezado".*?</table>', "", fragmento, flags=re.S)
+    # Cajas editoriales incrustadas («Reglas Jurisprudenciales», «Legislación
+    # Anterior», «Nota Aclaratoria»): no son texto del artículo.
+    f = re.sub(r'<div class="caja_vja">.*?</div>', "", f, flags=re.S)
     f = re.sub(r"<a [^>]*title=\"Ir al inicio\".*?</a>", "", f, flags=re.S)
     f = re.sub(r"<img[^>]*>", "", f)
     f = re.sub(r"<a class=antsig[^>]*>[^<]*</a>(?:\s*\|\s*<a class=antsig[^>]*>[^<]*</a>)?", "", f)
@@ -160,14 +185,14 @@ def descripciones(js):
 def clave(num):
     """Número de artículo como lo pide esquema.md §2: `82a` para el 82A (la fuente
     escribe «82-A», «82 A» o «82A» según la página) y `82-1` para el 82-1."""
-    return re.sub(r"-(?=[a-z]+$)", "", re.sub(r"\s+", "", num.lower()))
+    return re.sub(r"-(?=[a-zñ]+$)", "", re.sub(r"\s+", "", html.unescape(num).lower()))
 
 
 def num_ancla(nombre, encabezado):
     """Número del artículo. Manda el que dice el encabezado: la fuente a veces repite
     un `name` ajeno (el art. 264 del C.C. lleva `name="6"`), y por el nombre el
     artículo chocaba con el 6 y se descartaba como repetido."""
-    m = re.match(r"\s*ART[IÍ]CULO\s+(\d+[A-Za-z\-]*?)[o°º]?\s*\.", encabezado, re.I)
+    m = re.match(r"\s*ART[IÍ]CULO\s+(\d+[A-Za-zÑñ\-]*?)[o°º]?\s*\.", encabezado, re.I)
     return clave(m.group(1) if m else nombre)
 
 
@@ -190,6 +215,12 @@ def procesar(url):
             nombre = m.group(1).strip()
             encabezado = limpiar(m.group(2))
             fin = anclas[k + 1].start() if k + 1 < len(anclas) else len(doc)
+            # `<a name="868">A</a>RTICULO 868.`: el ancla abarca solo la «A». Sin
+            # juntarlas, el epígrafe salía «A» y el cuerpo «RTÍCULO…».
+            partido = re.match(r"\s*RT[IÍ]CULO\s+[^.]{0,20}\.", limpiar(doc[m.end():fin])) \
+                if encabezado == "A" else None
+            if partido:
+                encabezado = "A" + partido.group(0).strip()
 
             cuerpo = None
             if re.match(r"^\s*(T[IÍ]TULO|CAP[IÍ]TULO)", encabezado, re.I):
@@ -206,12 +237,22 @@ def procesar(url):
                 if not art:
                     continue
                 num, epi, cuerpo = clave(art.group(1)), "", RE_FIRMAS.split(resto[art.end():])[0].strip()
-            elif re.match(r"^\d", nombre):
+            elif re.fullmatch(r"(\d+)(?:_T|-A)", nombre, re.I) and not re.match(
+                    r"\s*ART[IÍ]CULO\s+<?\d+\s*-?\s*A\b", encabezado, re.I):
+                # Disposiciones transitorias con numeración propia: `1_T` (Ley 600),
+                # `5-A` bajo «PARTE FINAL. DISPOSICIONES TRANSITORIAS» (Ley 5/1992),
+                # con encabezado «ARTÍCULO 5o.». Por el encabezado chocaban con el
+                # artículo 5 permanente y se descartaban.
+                num = "transitorio-" + re.match(r"\d+", nombre).group(0)
+            # Un ancla con nombre ajeno («Nivel001», «TITULO PRE») y encabezado de
+            # artículo es un artículo (ET 19-5 y 580-1, C.Co. 508, Ley 142 art. 82).
+            elif re.match(r"^\d", nombre) or re.match(r"\s*ART[IÍ]CULO\s+\d", encabezado, re.I):
                 # Los planes de desarrollo numeran secciones («2.6 VIVIENDA Y
                 # CIUDADES AMABLES», name="2.6-IIIII") con ancla de artículo.
                 if re.match(r"\s*\d+(\.\d+)+\s+[^\d\s.]", encabezado):
                     continue
-                num = num_ancla(nombre, encabezado)
+                num = num_ancla(nombre, encabezado) if re.match(r"^\d", nombre) else clave(re.match(
+                    r"\s*ART[IÍ]CULO\s+(\d+(?:-\d+)?[A-Za-z]?)(?<![oO])", encabezado, re.I).group(1))
             elif "TRANSITORIO" in nombre.upper():
                 # Los transitorios de los Actos Legislativos (JEP, curules de paz)
                 # son derecho vigente; el nombre del ancla dice cuál AL los agregó.
@@ -223,6 +264,8 @@ def procesar(url):
             span = doc[m.end():fin]
             if cuerpo is None:
                 cuerpo = RE_FIRMAS.split(limpiar(span))[0].strip()
+                if partido:
+                    cuerpo = cuerpo[len(partido.group(0).strip()):].strip()
                 epi = re.sub(r"^ART[IÍ]CULO\s*(TRANSITORIO)?\s*[\dA-Za-z\-]*[o°º]?\.?\s*",
                              "", encabezado, flags=re.I).strip(" .:-")
             # Algunos artículos los resuelve la fuente en el propio encabezado
@@ -280,6 +323,10 @@ def separar_epigrafe(cuerpo):
     for patron in (r"<([^>]{2,120})>\.?\s*",
                    r"([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ0-9 ,;()/\-]{3,110})\.\s+"):
         m = re.match(patron, cuerpo)
+        # «<Artículo derogado por…>» detrás del epígrafe es la nota de vigencia, no
+        # un epígrafe: arrancarla dejaba vivo un artículo muerto (Ley 1306, 39 arts).
+        if m and re.search(r"[a-z]{3}(?:ad|id)[oa]s?\b|INEXEQUIBLE|EXEQUIBLE|\bNULO\b|\bVer\b", m.group(1)):
+            break
         if m and cuerpo[m.end():].strip():
             return m.group(1).strip(), cuerpo[m.end():].strip()
     return "", cuerpo
@@ -346,7 +393,9 @@ def fecha_norma(url):
 
 
 def fecha_de(texto, anio):
-    m = RE_FECHA.search(texto)
+    """Primera fecha de la nota que no sea anterior al año de la norma origen: una
+    reforma no surte efecto antes de expedirse."""
+    m = next((x for x in RE_FECHA.finditer(texto) if int(x.group(3)) >= int(anio)), None)
     if m:
         return "%s-%02d-%02d" % (m.group(3), MESES[m.group(2).lower()], int(m.group(1))), ""
     return "%s-12-31" % anio, "fecha aproximada: la fuente solo da el año"
@@ -395,7 +444,11 @@ def aristas(cajas, id_norma, fuente):
             if RE_HISTORICA.search(texto):
                 sin_parsear.append((destino, etiqueta + " (histórica, ignorada)", texto[:110]))
                 continue
-            for trozo in re.split(r"(?=- Art[íi]culo\s)", texto):
+            for trozo in re.split(r"(?=- (?:Art[íi]culo|Par[áa]g\w*|Inciso|Numeral|Literal|Aparte|Ordinal|Texto)\s)", texto):
+                # «Texto vigente antes de la derogatoria … revivido por …»: no es
+                # una reforma, es la resurrección del texto; no produce arista.
+                if re.search(r"\breviv", trozo, re.I):
+                    continue
                 acc = RE_ACCION.search(trozo)
                 org = RE_ORIGEN.search(trozo[acc.end():]) if acc else None
                 if not (acc and org):
@@ -414,7 +467,11 @@ def aristas(cajas, id_norma, fuente):
                 # reforma cayó, decir "modificado" a secas engañaría.
                 if re.search(r"\bINEXEQUIBLE\b", trozo):
                     nota = (nota + "; " if nota else "") + "la fuente marca INEXEQUIBLE sobre esta reforma — verificar si surtió efecto"
-                filas.append((origen, ACCION[acc.group(1).lower()], destino, f, nota, fuente))
+                tipo = ACCION[acc.group(2).lower()]
+                if tipo == "deroga" and not re.match(r"Art", acc.group(1), re.I):
+                    tipo, nota = "modifica", "; ".join(x for x in (
+                        nota, "derogación parcial: " + " ".join(trozo.split())[:200]) if x)
+                filas.append((origen, tipo, destino, f, nota, fuente))
 
         elif etiqueta == "Jurisprudencia Vigencia":
             for trozo in re.split(r"(?=- (?:La Corte|Art[íi]culo|Aparte|Expresi))", texto):
@@ -456,17 +513,22 @@ def aristas(cajas, id_norma, fuente):
 
 
 def guardar_relaciones(raiz, id_norma, filas):
-    """Idempotente: borra las aristas que apuntan a esta norma y reescribe."""
+    """Idempotente: borra las aristas que apuntan a artículos de esta norma y
+    reescribe. Las aristas a la norma entera (destino == id_norma) son manuales y
+    se conservan. Con candado: varias ingestas pueden correr a la vez."""
+    import fcntl
     ruta = os.path.join(raiz, "relaciones.csv")
-    previas = []
-    if os.path.exists(ruta):
-        with open(ruta, encoding="utf-8") as fh:
-            previas = [f for f in csv.reader(fh)
-                       if f and f[0] != "origen" and not f[2].startswith(id_norma)]
-    with open(ruta, "w", encoding="utf-8", newline="") as fh:
-        w = csv.writer(fh)
-        w.writerow(["origen", "tipo", "destino", "fecha", "nota", "fuente"])
-        w.writerows(previas + filas)
+    with open(os.path.join(raiz, ".relaciones.lock"), "w") as candado:
+        fcntl.flock(candado, fcntl.LOCK_EX)
+        previas = []
+        if os.path.exists(ruta):
+            with open(ruta, encoding="utf-8") as fh:
+                previas = [f for f in csv.reader(fh)
+                           if f and f[0] != "origen" and not f[2].startswith(id_norma + ":")]
+        with open(ruta, "w", encoding="utf-8", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["origen", "tipo", "destino", "fecha", "nota", "fuente"])
+            w.writerows(previas + filas)
 
 
 def main():
@@ -494,6 +556,12 @@ def main():
         sys.exit("ABORTA: %d artículos, se esperaban al menos %d. No se escribe %s."
                  % (len(arts), a.minimo, a.salida))
     filas, sin_parsear = aristas(cajas, a.id, a.url)
+    textos = {"%s:art:%s" % (a.id, x[0]): x[3] for x in arts}
+    filas = [f if f[1] != "deroga" or muerto_en_texto(textos.get(f[2], "<derogado>")) else
+             (f[0], "modifica", f[2], f[3], "; ".join(x for x in (f[4], (
+                 "la nota de vigencia dice «derogado», pero la fuente publica el artículo sin "
+                 "marcador de derogatoria (derogación parcial, re-adicionado o revivido)")) if x), f[5])
+             for f in filas]
     for num, epi, _, txt in arts:
         m = RE_RENUMERA.search(epi + " " + txt)
         if m:
@@ -588,6 +656,19 @@ def check():
                 '<p style="x"><a class=antsig href="a.html">Anterior</a> | '
                 '<a class=antsig href="b.html">Siguiente</a></p>')
     assert t == "Texto. Sigue [TACHADO: esto cayó].", repr(t)
+
+    # Derogatoria de un inciso/parágrafo no mata el artículo; «revivido» no produce arista.
+    filas, _ = aristas([("468", "Notas de Vigencia", (
+        "- Parágarfo derogado por el artículo 160 de la Ley 2010 de 2019, publicada en el Diario "
+        "Oficial No. 51.179 de 27 de diciembre 2019. - Texto vigente antes de la derogatoria por la "
+        "Ley 1943 de 2018 revivido por el artículo 160 de la Ley 2010 de 2019.",) * 2)], "co:d:1:1", "x")
+    assert [f[1] for f in filas] == ["modifica"] and "parcial" in filas[0][4], filas
+    # El marcador de vigencia detrás del epígrafe se queda en el texto.
+    r = partir_inline("2", "LOS SUJETOS", "", "<Artículo derogado por el artículo 61 de la Ley 1996 de 2019> Una persona")
+    assert r[0][3].startswith("<Artículo derogado"), r
+    assert muerto_en_texto(r[0][3]) and not muerto_en_texto("<Inciso derogado por la Ley 1> Texto")
+    assert not muerto_en_texto("<Texto vigente antes de la derogatoria por la Ley 1943 revivido> T")
+    assert clave("38-&Ntilde;") == "38ñ", clave("38-&Ntilde;")
 
     # Año de 2 dígitos de la sentencia: la fecha aproximada debe salir con 4.
     filas, _ = aristas([("9", "Jurisprudencia Vigencia",
