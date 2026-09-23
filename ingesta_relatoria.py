@@ -34,6 +34,10 @@ def url_de(sid):
     # La relatoría rellena el número a tres cifras: C-41 de 2000 vive en C-041-00.htm
     # y sin el relleno devuelve una página de error de 8 KB que parece una sentencia.
     serie, num, anio = m.group(1).upper(), m.group(2).zfill(3), m.group(3)
+    # Las SU van sin guion entre serie y número (SU214-16.htm); con guion, el sitio
+    # devuelve el cascarón JS de 8 KB con HTTP 200.
+    if serie == "SU":
+        return BASE.replace("%s-%s-%s", "%s%s-%s") % (anio, serie, num, anio[2:])
     return BASE % (anio, serie, num, anio[2:])
 
 
@@ -114,13 +118,46 @@ def resuelve(txt):
         marcas = [m for m in re.finditer(r"(?i)\bresuelve\b\s*:?\s*(?=PRIMERO|[ÚU]NICO)", txt)]
     if not marcas:
         return ""
-    i = marcas[-1].start()
-    cuerpo = txt[marcas[-1].end():]
+    # Tras el fallo suelen venir autos de corrección o de seguimiento con su propio
+    # RESUELVE (T-025/04, T-051/10). El del fallo va precedido de la fórmula
+    # «administrando justicia en nombre del pueblo»: si está, manda esa.
+    formula = [m for m in marcas if "administrando justicia" in txt[max(0, m.start() - 300):m.start()]]
+    marca = (formula or marcas)[-1]
+    cuerpo = txt[marca.end():]
     fin = re.search(r"(Notif[ií]quese|C[óo]piese|Cumplase|C[úu]mplase)", cuerpo)
     return cuerpo[:fin.start() if fin else 4000].strip(" .:-")
 
 
-def decision_de(res):
+# Verbos de la Sala en infinitivo. «que resolvió negar…» describe la instancia, no el fallo.
+_NO_INST = r"(?<!resolvió )(?<!decidió )"
+# ORDENAR a una parte también es conceder (T-881/02 concede así, sin decir «conceder»);
+# «ordenar que se remita…» u ordenarle algo a la Secretaría es trámite, no amparo.
+RE_CONCEDE = re.compile(_NO_INST + r"\b(conceder|tutelar|amparar|ordenar(?=\s+al?\s)(?!\s+a\s+la\s+secretar|\s+al\s+secretari))\b"
+                        r"|\bse\s+(?:conceden?|tutelan?|amparan?)\b")
+RE_NIEGA = re.compile(_NO_INST + r"\b(negar|denegar)\b|\bdeclarar\s+(?:la\s+)?improcedente")
+# CONFIRMAR hereda el sentido del fallo confirmado, dicho en la misma frase.
+# CONFIRMAR PARCIALMENTE no: la parte revocada puede ir en el otro sentido.
+RE_CONF_NIEGA = re.compile(r"\bconfirmar\b(?!\s+parcialmente)[^.]{0,500}?\b(negó|denegó|declaró\s+improcedente|rechaz|improcedente)")
+RE_CONF_CONCEDE = re.compile(r"\bconfirmar\b(?!\s+parcialmente)[^.]{0,500}?\b(concedió|amparó|tuteló|accedió|acceder a la tutela)")
+
+
+def decision_tutela(res):
+    """tutela-concede / tutela-niega. Si el RESUELVE trae las dos señales (varios
+    expedientes, confirma y a la vez concede otro derecho) o ninguna (carencia de
+    objeto, remisiones), devuelve "": ambiguo no se adivina."""
+    t = " ".join(res.lower().split())
+    concede = RE_CONCEDE.search(t) or RE_CONF_CONCEDE.search(t)
+    niega = RE_NIEGA.search(t) or RE_CONF_NIEGA.search(t)
+    if concede and not niega:
+        return "tutela-concede"
+    if niega and not concede:
+        return "tutela-niega"
+    return ""
+
+
+def decision_de(res, serie="c"):
+    if serie.lower() in ("t", "su"):
+        return decision_tutela(res)
     alto = res.upper()
     inex = re.search(r"INEXEQ", alto) is not None
     # "EXEQUIBLE" es subcadena de "INEXEQUIBLE": sin el lookbehind, un fallo que
@@ -266,15 +303,18 @@ def ficha(sid, con=None):
     if meta.get("fecha") and not meta["fecha"].startswith(anio_id):
         meta["aviso"] = "la fuente trae fecha %s, distinta del año del ID" % meta.pop("fecha")
     ramas = ramas_de(sid, con)
+    serie = RE_ID.match(sid).group(1).lower()
 
     fm = ["---", "id: " + sid, "tipo: sentencia", "corporacion: corte-constitucional",
-          "sala: " + meta.get("sala", "plena"),
+          # Las T las decide siempre una Sala de Revisión; «Sala Plena» en el texto
+          # suele ser una cita (T-025/04 quedó como plena por eso).
+          "sala: " + ("revision" if serie == "t" else meta.get("sala", "plena")),
           "titulo: Sentencia %s de %s" % (sid.split(":")[2].upper(), sid.split(":")[3])]
     for k in ("ponente", "fecha", "expediente"):
         if meta.get(k):
             fm.append("%s: %s" % (k, meta[k]))
     fm += ["ramas: [%s]" % ", ".join(ramas or ["constitucional"]),
-           "decision: " + (decision_de(res) or "sin-determinar"),
+           "decision: " + (decision_de(res, serie) or "sin-determinar"),
            "afectaciones: cargadas",
            "fuente: " + url, "verificado: " + date.today().isoformat(), "---", ""]
     if meta.get("aviso"):
@@ -329,6 +369,26 @@ def check():
     assert decision_de(rv) == "exequible", decision_de(rv)
     assert decision_de("INHIBIRSE de emitir pronunciamiento") == "inhibitoria"
 
+    # Tutelas: el sentido sale del verbo de la Sala, no de lo que hizo la instancia.
+    assert decision_de("PRIMERO.- REVOCAR la decisión que negó por improcedente el amparo. "
+                       "En su lugar, CONCEDER el amparo impetrado.", "t") == "tutela-concede"
+    assert decision_de("Primero.- Confirmar la sentencia del Juzgado, mediante la cual "
+                       "rechaza las pretensiones", "t") == "tutela-niega"
+    assert decision_de("REVOCAR las sentencias. En su lugar, NEGAR el amparo", "t") == "tutela-niega"
+    assert decision_de("CONFIRMAR el fallo que revocó el del a quo y amparó el derecho", "t") == "tutela-concede"
+    assert decision_de("REVOCAR el fallo que resolvió negar por improcedente la tutela", "t") == ""
+    assert decision_de("DECLARAR la carencia actual de objeto", "t") == ""
+    assert decision_de("CONFIRMAR los fallos. Segundo. ORDENAR que se remita copia", "t") == ""
+    assert decision_de("CONFIRMAR PARCIALMENTE la sentencia que negó el amparo", "t") == ""
+    assert decision_de("CONDENAR a las IPS y médicos que negaron el procedimiento", "t") == ""
+    # Varios expedientes, uno con orden y otro denegado: ambiguo, no se adivina.
+    assert decision_de("Primero. Confirmar la sentencia en el sentido de ordenar a Electrocosta "
+                       "abstenerse. Cuarto. Confirmar en el sentido de denegar la tutela", "t") == ""
+    assert decision_de("Declarar EXEQUIBLE", "t") == "", "una T nunca es exequible"
+    ra = resuelve("administrando justicia en nombre del pueblo, RESUELVE PRIMERO.- CONCEDER la "
+                  "tutela. Notifíquese. " + "x " * 200 + "AUTO En mérito de lo expuesto RESUELVE Primero. CORREGIR la página 9")
+    assert ra.startswith("PRIMERO.- CONCEDER"), ra
+
     m = metadatos(txt, "2019")
     assert m["expediente"] == "D-12981", m
     assert m["fecha"] == "2019-09-25", m
@@ -336,7 +396,7 @@ def check():
     assert m["sala"] == "plena", m
 
     assert url_de("co:cc:c-443:2019").endswith("/relatoria/2019/C-443-19.htm"), url_de("co:cc:c-443:2019")
-    assert url_de("co:cc:su-214:2016").endswith("/relatoria/2016/SU-214-16.htm")
+    assert url_de("co:cc:su-214:2016").endswith("/relatoria/2016/SU214-16.htm")
     assert url_de("co:cc:c-41:2000").endswith("/relatoria/2000/C-041-00.htm"), url_de("co:cc:c-41:2000")
     print("check OK")
 

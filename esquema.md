@@ -197,6 +197,7 @@ disciplinario       notarial-registral                datos-personales
 consumo             competencia      propiedad-intelectual
 transporte          aduanero         policivo         electoral
 minero-energetico   salud            urbanistico      contratacion-estatal
+financiero          etnico
 ```
 
 Se etiqueta por **lo que la norma regula**, no por dónde se estudia en la facultad.

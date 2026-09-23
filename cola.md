@@ -343,6 +343,34 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
 
 ---
 
+## P6 — Vivienda, laboral reciente, financiero, étnico, DUR 2016 · **cargada** (`./cargar_p6.sh`)
+
+Todas con `verificar.py` en `faltan 0` (2026-09-23).
+
+- [x] Vivienda y registro: `co:ley:675:2001` (87) · `co:ley:820:2003` (43) · `co:ley:1579:2012` (104)
+- [x] Laboral y pensional: `co:ley:2381:2024` (95) · `co:ley:789:2002` (52) · `co:ley:2101:2021` (8) ·
+  `co:ley:2466:2025` (70) — la reforma laboral de 2025; el número se tomó de senado
+  («Reforma Laboral para el trabajo decente y digno en Colombia»).
+- [x] Penal: `co:ley:1453:2011` (111) · `co:ley:890:2004` (15 — la ley es así de corta).
+- [x] Fiscal: `co:ley:610:2000` (69). Disciplinario ya estaba: `co:ley:1952:2019`
+  (la 734/2002 que deroga no se cargó).
+- [x] Financiero y competencia: `co:ley:1328:2009` (103, incluye 2 transitorios fuera del
+  índice) · `co:ley:964:2005` (86) · `co:ley:527:1999` (47) · `co:ley:1340:2009` (34) ·
+  `co:ley:256:1996` (33)
+- [x] Ambiental y étnico: `co:ley:1333:2009` (70) · `co:ley:70:1993` (68)
+- [x] `co:ley:1450:2011` — PND 2010-2014: 276. Arreglo a `ingesta_senado.py`: las
+  secciones numeradas del plan («2.6 VIVIENDA Y CIUDADES AMABLES», `name="2.6-IIIII"`)
+  entraban como artículos falsos; ahora se saltan.
+- [x] DUR vía Gestor: `co:decreto:1833:2016` pensiones (967, `i=85319`) ·
+  `co:decreto:780:2016` salud (2291, `i=77813`) · `co:decreto:1625:2016` tributario
+  (2130, `i=83233`). Traen 4/8/15 artículos que el índice del Gestor no lista (revisados:
+  son artículos reales agregados después, p. ej. megainversiones 1.2.1.28.1.x).
+- [!] `co:ley:21:1991` — Convenio 169 OIT. Senado no la publica (`ley_0021_1991.html`
+  404). En el Gestor (`i=37032`) `ingesta_gestor.py` la parte mal: los arts. 1-3 de la
+  ley chocan con los 1-3 del Convenio y el art. 6 del Convenio (consulta previa, «ARTICULO
+  6°» sin punto) queda pegado al 5. Hace falta decidir cómo identificar los artículos del
+  tratado (¿`art:convenio-6`?) y ajustar el parser. No se escribió archivo.
+
 ## Bloqueados
 
-_(vacío — aquí van las `[!]` con motivo, URL que falló y fecha)_
+- [!] 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).

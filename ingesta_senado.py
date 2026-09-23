@@ -207,6 +207,10 @@ def procesar(url):
                     continue
                 num, epi, cuerpo = clave(art.group(1)), "", RE_FIRMAS.split(resto[art.end():])[0].strip()
             elif re.match(r"^\d", nombre):
+                # Los planes de desarrollo numeran secciones («2.6 VIVIENDA Y
+                # CIUDADES AMABLES», name="2.6-IIIII") con ancla de artículo.
+                if re.match(r"\s*\d+(\.\d+)+\s+[^\d\s.]", encabezado):
+                    continue
                 num = num_ancla(nombre, encabezado)
             elif "TRANSITORIO" in nombre.upper():
                 # Los transitorios de los Actos Legislativos (JEP, curules de paz)
