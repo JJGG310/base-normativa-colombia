@@ -526,6 +526,30 @@ aristas la cola es larga (≈3.800 normas, casi todas con 1-4 citas).
   C-224 de 2025; C-280/2024; C-099/2012, C-194/2012, C-682/2012; C-114/2009; C-120/2019,
   C-308/2019; C-1058/2000; C-122/2007, C-140/2007.
 
+## P15 y vigencia de normas muertas enteras · **cargada** (2026-09-24)
+
+`cargar_p15.sh`: `co:ley:905:2004` (25) · `co:ley:2068:2020` (56) · `co:decreto:266:2000` (164,
+declarado INEXEQUIBLE entero) y la sentencia `co:cc:c-073:2018` (81 aristas). Con esto no queda
+ningún origen cargable con ≥20 aristas (restan `co:ley:57:1887` y `co:ley:11:1984`, bloqueadas, y
+la C-067/2026, aún sin publicar en la relatoría).
+
+- [x] **`build.py` no reconocía la muerte de normas enteras** marcada en el texto de cada artículo:
+  6 leyes completas salían VIGENTES en `contexto.jsonl` — 104/1993 (derogada por la 418/1997),
+  1152/2007 (C-175/09), 1382/2010 (C-366/11, efectos diferidos 2 años), 1530/2012 (derogada por la
+  2056/2020), 43/1993 (derogada por la 2332/2023) y 1943/2018 (inexequible desde el 1-1-2020) —,
+  más los decretos 266/2000 y 1122/1999. `RE_MARCA` ahora reconoce «<Ley/Decreto/Acto Legislativo
+  [declarado] derogado|INEXEQUIBLE…>» sin número, «<Título II. derogado por…>» (137 artículos de
+  la Ley 222/1995), «<Derogado por…>» a secas, «<Artículo suprimido…>»; `RE_FECHA` acepta el
+  ordinal «1o. de enero». «…transitoriedad…» cuenta como salvedad (Ley 1530, arts. 106-126 y 128,
+  exceptuados para los procedimientos en curso). Autotest ampliado (arts. 18-25 del caso de prueba).
+  Resultado: MUERTO pasa de 4.036 a 4.879 artículos.
+- [x] Aristas `manual:` a la norma entera donde la fuente trae la nota pero algunos artículos no
+  la marca: Ley 104/1993 (Ley 418 art. 131), Ley 1152/2007 (C-175/09), Ley 43/1993 (Ley 2332 art.
+  54) y los arts. sin marca de los decretos 266/2000 (C-1316/2000) y 1122/1999 (C-923/99).
+- Residuo sin clasificar a propósito (ambiguo): «<Seguro colectivo derogado como consecuencia…>»
+  (CST, 16 arts.), «<Comisión/Instituto/Corporación suprimida…>» (7), y notas sobre la norma
+  citada dentro del artículo («<Artículo 75 de la Ley 23 de 1991 derogado…>», 6).
+
 ## Bloqueados
 
 - [x] (resuelto en P10) 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).

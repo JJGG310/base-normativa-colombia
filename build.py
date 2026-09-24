@@ -21,18 +21,26 @@ PARCIAL = "INEXEQUIBLE EN PARTE — alcance no registrado; verificar en la sente
 # Nota de vigencia que la fuente (Senado/SUIN) pone al inicio del propio texto:
 # «<Artículo derogado por…>», «<Artículo INEXEQUIBLE>». Si no está al inicio (p. ej.
 # «PARÁGRAFO. <Artículo INEXEQUIBLE>») o es parcial («salvo…», «en lo referente…»), no cuenta.
-# También «<Ley 1288 de 2009 declarada INEXEQUIBLE>» (el artículo lo creó una ley que cayó entera).
-RE_MARCA = re.compile(r"<(?:Art[íi]culo (?:declarado )?(?:derogad[oa]|INEXEQUIBLE)"
-                      r"|Ley [^<>]{1,40}? (?:derogada|declarada INEXEQUIBLE))[^>]{0,300}>?", re.I)
+# También «<Ley 1288 de 2009 declarada INEXEQUIBLE>» (el artículo lo creó una ley que cayó entera)
+# y sin número: «<Ley derogada por el artículo 54 de la Ley 2332 de 2023>», «<Ley INEXEQUIBLE a
+# partir del 1o. de enero de 2020, C-481-19>», «<Decreto INEXEQUIBLE>» (la norma cayó entera); el
+# título que lo contiene («<Título II. derogado por el artículo 126 de la Ley 1116 de 2006…>») o la
+# marca a secas («<Derogado por el artículo 353 del Decreto 2737 de 1989>», «<Derogado tácitamente…>»).
+RE_MARCA = re.compile(r"<(?:Art[íi]culo (?:declarado )?(?:derogad[oa]|suprimid[oa]|INEXEQUIBLE)"
+                      r"|(?:Ley|Decreto|Acto Legislativo)(?: [^<>]{1,40}?)? (?:declarad[oa] )?(?:derogad[oa]|INEXEQUIBLE)"
+                      r"|(?:T[íi]tulo|Cap[íi]tulo|Libro|Parte|Secci[óo]n)\b[^<>]{0,40}? (?:derogad[oa]|INEXEQUIBLE)"
+                      r"|Derogad[oa]\b)[^>]{0,300}>?", re.I)
 # El mismo marcador puede venir en el epígrafe (Senado: «Artículo derogado por…»;
 # Gestor: «Comité de seguimiento.(Derogado por el art»).
 RE_EPIGRAFE = re.compile(r"^<?Art[íi]culo (?:declarado )?(?:derogad[oa]|INEXEQUIBLE)|\(Derogad[oa] por", re.I)
 # «derogado a partir del 2 de abril de 2026», «efectos diferidos hasta el …»: si la fecha
 # es futura, todavía no muere (misma regla que las fechas de relaciones.csv).
-RE_FECHA = re.compile(r"(\d{1,2}) de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|"
+RE_FECHA = re.compile(r"(\d{1,2})o?\.? de (enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|"
                       r"octubre|noviembre|diciembre) de (\d{4})", re.I)
 MESES = "enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre".split()
-RE_PARCIAL = re.compile(r"en lo |en cuanto|parcial|salvo|excepto", re.I)
+# «…tener en cuenta los efectos de la transitoriedad…» (Ley 1530/2012, arts. 106-126 y 128): la
+# derogatoria los exceptúa para los procedimientos en curso; no se dan por muertos.
+RE_PARCIAL = re.compile(r"en lo |en cuanto|parcial|salvo|excepto|transitoriedad", re.I)
 RE_EMBEBIDO = re.compile(r"A?RT[ÍI]CULO \d")  # artículo siguiente pegado por el parser
 # Tipos que comparten numeración: un destino con uno se resuelve al doc cargado con el otro.
 ALIAS = {"ley": "ley-estatutaria", "ley-estatutaria": "ley",
@@ -269,7 +277,16 @@ def check():
                  "\n## art:13 — Artículo derogado a partir del 2 de abril de 2099 por el artículo 1 de la Ley 9 de 2098\nT.\n"
                  "\n## art:14 — Catorce\n<Ley 1288 de 2009 declarada INEXEQUIBLE>\n"
                  "\n## art:15 — Comité.(Derogado por el art\n26, Decreto 1017 de 2025). Texto.\n"
-                 "\n## art:16 — Dieciséis\nTexto.\n\n## art:17 — Diecisiete\nTexto.\n")
+                 "\n## art:16 — Dieciséis\nTexto.\n\n## art:17 — Diecisiete\nTexto.\n"
+                 "\n## art:18 — Dieciocho\n<Decreto INEXEQUIBLE> Texto.\n"
+                 "\n## art:19 — Diecinueve\n<Ley derogada por el artículo 54 de la Ley 2332 de 2023> T.\n"
+                 "\n## art:20 — Veinte\n<Ley INEXEQUIBLE a partir del 1o. de enero de 2099, C-1-19> T.\n"
+                 "\n## art:21 — Veintiuno\n<Artículo suprimido por el artículo 60 de la Ley 241 de 1995.>\n"
+                 "\n## art:22 — Veintidós\n<Ley derogada por el artículo 9 de la Ley 9 de 2020, sobre este "
+                 "artículo tener en cuenta los efectos de la transitoriedad> T.\n"
+                 "\n## art:23 — Veintitrés\n<Título II. derogado por el artículo 126 de la Ley 1116 de 2006, a partir del 28 de junio de 2007> T.\n"
+                 "\n## art:24 — Veinticuatro\n<Derogado por el artículo 353 del Decreto 2737 de 1989, Código del Menor.> T.\n"
+                 "\n## art:25 — Veinticinco\n<Título modificado por el artículo 51 del Decreto 19 de 2012> T.\n")
     with open(tmp + "/normativa/y.md", "w", encoding="utf-8") as fh:
         fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nramas: [civil]\n"
                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n")
@@ -318,6 +335,14 @@ def check():
     assert est["co:ley:1:2000:art:12"] == "MUERTO", "marcador en el epígrafe (Senado)"
     assert est["co:ley:1:2000:art:13"] == "VIGENTE", "marcador con fecha futura aún no mata"
     assert est["co:ley:1:2000:art:14"] == "MUERTO", "«Ley … declarada INEXEQUIBLE»"
+    assert est["co:ley:1:2000:art:18"] == "MUERTO", "«Decreto INEXEQUIBLE»"
+    assert est["co:ley:1:2000:art:19"] == "MUERTO", "«Ley derogada por…» sin número"
+    assert est["co:ley:1:2000:art:20"] != "MUERTO", "«Ley INEXEQUIBLE a partir del 1o. de enero de 2099»: futura"
+    assert est["co:ley:1:2000:art:21"] == "MUERTO", "«Artículo suprimido por…»"
+    assert est["co:ley:1:2000:art:22"] != "MUERTO", "derogada con salvedad de transitoriedad"
+    assert est["co:ley:1:2000:art:23"] == "MUERTO", "«<Título II. derogado por…>»"
+    assert est["co:ley:1:2000:art:24"] == "MUERTO", "«<Derogado por…>» a secas"
+    assert est["co:ley:1:2000:art:25"] != "MUERTO", "«<Título modificado…>» no mata"
     assert est["co:ley:1:2000:art:15"] == "MUERTO", "marcador «(Derogado por» en el epígrafe (Gestor)"
     assert est["co:ley:1:2000:art:16"] == "VIGENTE_REFORMADO", "reforma posterior a la sentencia: sin aviso en parte"
     assert est["co:ley:1:2000:art:17"] == "VIGENTE_CONDICIONADO", "reforma anterior a la sentencia: aviso sigue"

@@ -1,0 +1,1311 @@
+---
+id: co:decreto:266:2000
+tipo: decreto-ley
+titulo: Decreto 266 de 2000 - Por el cual se dictan normas para suprimir y reformar las regulaciones, trámites y procedimientos (declarado INEXEQUIBLE)
+fecha: 2000-02-22
+ramas: [administrativo]
+estado_general: vigente
+afectaciones: cargadas
+fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_0266_2000.html
+verificado: 2026-09-24
+---
+
+## art:1 — OBJETIVO GENERAL
+
+<Decreto INEXEQUIBLE> El presente decreto tiene por objeto suprimir o reformar las regulaciones, procedimientos y trámites sobre lo que versó el Decreto 1122 de 1999, sin incluir ningún tema adicional.
+
+## art:2 — AMBITO DE APLICACION
+
+<Decreto INEXEQUIBLE> El presente decreto se aplicará a los organismos públicos de cualquier nivel, así como aquellos que teniendo naturaleza privada ejerzan por atribución legal funciones públicas de carácter administrativo, pero sólo en relación con estas últimas.
+
+## art:3 — PRESUNCION DE VERACIDAD
+
+<Decreto INEXEQUIBLE> Las entidades públicas tendrán por ciertas las afirmaciones que presenten los administrados en sus actuaciones y asumirán la carga de desvirtuarlas para proceder en el supuesto contrario, salvo que la ley establezca una formalidad probatoria o cuando la Administración Pública actúe como entidad de previsión o seguridad social o como responsable en el reconocimiento y/o pago de pensiones.
+
+## art:4 — MEDIOS TECNOLOGICOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 26 del decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 26. Medios tecnológicos. Se autoriza a la Administración Pública el empleo de cualquier medio tecnológico o documento electrónico, que permita la realización de los principios de igualdad, economía, celeridad, imparcialidad, publicidad, moralidad y eficacia en la función administrativa, así como el establecimiento de condiciones y requisitos de seguridad que para cada caso sean procedentes, sin perjuicio de las competencias que en la materia tengan algunas entidades especializadas. 
+
+Toda persona podrá en su relación con la administración hacer uso de cualquier medio técnico o electrónico, para presentar peticiones, quejas o reclamaciones ante las autoridades. Las entidades harán públicos los medios de que dispongan para permitir esta utilización. 
+
+Los mensajes electrónicos de datos serán admisibles como medios de prueba y su fuerza probatoria será la otorgada en las disposiciones del Capítulo VIII del Título XIII, Sección III Libro Segundo del Código de Procedimiento Civil, siempre que sea posible verificar la identidad del remitente, así como la fecha de recibo del documento. 
+
+PARAGRAFO. En todo caso el uso de los medios tecnológicos y electrónicos deberá garantizar la identificación del emisor, del receptor, la transferencia del mensaje, su recepción y la integridad del mismo.
+
+## art:5 — DERECHOS BÁSICOS DE LAS PERSONAS EN SUS RELACIONES CON LA ADMINISTRACIÓN PÚBLICA
+
+<Decreto INEXEQUIBLE> Las personas, en sus relaciones con la Administración Pública, tienen los siguientes derechos, los cuales pueden ejercitar directamente sin necesidad de apoderado: 
+
+1. A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a las peticiones, actuaciones, solicitudes o quejas que se propongan realizar y a llevarlas a cabo. 
+
+2. A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados y obtener copias, a su costa, de documentos contenidos en ellos. 
+
+3. A abstenerse de presentar documentos no exigidos por las normas aplicables a los procedimientos de que se trate. 
+
+4. Al acceso a los registros y archivos de la Administración Pública en los términos previstos en la Constitución y las leyes. 
+
+5. A ser tratadas con respeto por las autoridades y servidores, los cuales deben facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones. 
+
+6. A exigir la responsabilidad de la Administración Pública y del personal a su servicio, cuando así corresponda legalmente. 
+
+7. A obtener respuesta oportuna y eficaz a sus peticiones, quejas o reclamaciones en los plazos establecidos para el efecto. 
+
+8. A cualesquiera otros que les reconozcan la Constitución y las leyes. 
+
+PARAGRAFO. Todas las entidades de la Administración Pública deberán compilar las regulaciones de que trata el numeral 1 del presente artículo. Esta información deberá ser actualizada permanentemente y publicada en medios impresos o electrónicos, que faciliten su acceso a través de redes de información. Las entidades de la Administración Pública dispondrán de seis (6) meses para hacer efectivo el mandato del presente parágrafo en cuanto la primera compilación.
+
+## art:6 — ENTREGA DE INFORMACION
+
+<Decreto INEXEQUIBLE> La información sobre normas básicas de competencia de las entidades, funciones, regulaciones, procedimientos y trámites ante las distintas dependencias deberá estar disponible al público a través de los mecanismos de difusión electrónica de que disponga la respectiva autoridad. En ningún caso, se requerirá la presencia personal del interesado para obtener esta información, la cual podrá ser suministrada telefónicamente o enviada, si así se solicita, por correo a su costa.
+
+## art:7 — ATENCION ESPECIAL A DISCAPACITADOS
+
+<Decreto INEXEQUIBLE> De conformidad con el artículo 13 de la Constitución Política, la Administración dará prelación a la atención personal a los discapacitados. Dentro del año siguiente a la entrada en vigencia del presente decreto, cada entidad adecuará un lugar idóneo para su atención personal.
+
+## art:8 — PROHIBICION DE RETENER DOCUMENTOS DE IDENTIDAD
+
+<Decreto INEXEQUIBLE> El artículo 18 del decreto 2150 de 1995 quedará así: 
+
+"Artículo 18. Prohibición de retener documentos de identidad. Ninguna autoridad podrá retener la cédula de ciudadanía, la cédula de extranjería, el pasaporte, o la licencia de conducción de los administrados. Si se exige la identificación de una persona, ella cumplirá la obligación mediante la exhibición de los citados documentos. Queda prohibido retenerlos para ingresar a cualquier dependencia pública o privada."
+
+## art:9 — REMISIÓN GRATUITA DE FORMULARIOS PARA CUMPLIR OBLIGACIONES PERIÓDICAS
+
+<Decreto INEXEQUIBLE> Todas las entidades a las cuales se les aplica el presente decreto, deberán habilitar los mecanismos necesarios para hacer llegar gratuitamente, por una sola vez, a las personas que los soliciten, los formularios que éstas deben diligenciar para cumplir con las obligaciones periódicas que la ley les impone frente a la Administración. Los formularios, en forma impresa o electrónica, deberán ser remitidos a la dirección del interesado con suficiente antelación al vencimiento de la respectiva obligación. Lo anterior no obsta para que la entidad establezca mecanismos de distribución y venta de los respectivos formularios.
+
+## art:10 — UTILIZACION DEL CORREO PARA EL ENVIO DE INFORMACION
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 25 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 25. Utilización del correo para el envío de información. Las entidades de la Administración Pública deberán facilitar la recepción y envío de documentos o solicitudes y sus respectivas respuestas por medio de correo certificado. 
+
+En ningún caso se podrán inadmitir las solicitudes o informes enviados por personas naturales o jurídicas que se hayan recibido por correo certificado dentro del territorio nacional, siempre que los escritos reúnan los requisitos exigidos por la ley. 
+
+Para los efectos de vencimiento de términos, se entenderá que el peticionario presentó la solicitud o dio respuesta al requerimiento de la entidad pública en la fecha y hora en que la empresa de correo certificado expidió con fecha y hora, el respectivo recibo de envío. 
+
+Igualmente, los peticionarios podrán solicitar el envío por correo de documentos o información a la entidad pública, para lo cual deberán adjuntar a su petición un sobre al cual se adhiera la estampilla postal requerida. 
+
+PARAGRAFO. Para efectos del presente artículo, se entenderá válido el envío por correo certificado, siempre y cuando la dirección del despacho público, esté correcta y claramente diligenciada."
+
+## art:11 — INCORPORACION DE MEDIOS TECNICOS
+
+<Decreto INEXEQUIBLE> Copia de las leyes, de los actos administrativos de carácter general o de documentos de interés público, relativos a cada entidad, serán puestos a disposición del público a través de medios electrónicos. Las reproducciones efectuadas se reputarán auténticas para todos los efectos legales, siempre que no se altere el contenido del acto o documento.
+
+## art:12 — PROHIBICIÓN DE EXIGENCIA DE REQUISITOS PREVIAMENTE ACREDITADOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 14 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 14. Prohibición de exigencia de requisitos previamente acreditados. En relación con las actuaciones que deban efectuarse ante la Administración Pública, prohíbese la exigencia de todo comprobante o documento que acredite el cumplimiento de una actuación administrativa agotada, cuando una en curso suponga que la anterior fue regularmente concluida."
+
+## art:13 — PROHIBICION DE EXIGENCIA DE PAGOS ANTERIORES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 34 del Decreto 2150, el cual quedará así: 
+
+"Artículo 34. Prohibición de exigencia de pagos anteriores. En relación con los pagos que deben efectuarse ante la Administración Pública, prohíbese la exigencia de comprobantes de pago hechos con anterioridad, como condición para aceptar un nuevo pago. 
+
+Lo anterior sin perjuicio de las disposiciones que se expidan con base en las facultades de intervención del Gobierno Nacional para evitar la desviación de recursos dentro del sistema de seguridad social integral, en desarrollo del artículo 48 de la Constitución Política."
+
+## art:14 — DIRECTORIO DE AUTORIDADES PUBLICAS
+
+La remisión de correspondencia a las autoridades públicas a la dirección, correo electrónico o fax que indique el directorio elaborado por el Departamento Administrativo de la Función Pública, se entenderá debidamente realizada, siempre y cuando quede constancia de ella, de conformidad con el reglamento interno del derecho de petición de cada entidad.
+
+## art:15 — CORRECCIÓN DE ERRORES E INCONSISTENCIAS EN LAS DECLARACIONES Y RECIBOS DE PAGO
+
+<Decreto INEXEQUIBLE> Cuando en la verificación al cumplimiento de las obligaciones de los contribuyentes, responsables, agentes de retención, y demás declarantes de los tributos, se detecten inconsistencias en el diligenciamiento de los formularios prescritos para el efecto, tales como omisiones o errores en el concepto del tributo que se cancela, año y/o período gravable; estos se podrán corregir de oficio o a solicitud de parte, para que prevalezca la verdad real sobre la formal, generada por error. 
+
+Bajo estos mismos presupuestos, la Administración podrá corregir sin sanción, errores de NIT, de imputación o errores aritméticos, siempre y cuando la modificación no resulte relevante para definir de fondo la determinación del tributo o la discriminación de los valores retenidos para el caso de la declaración mensual de retención en la fuente. 
+
+La corrección se podrá realizar en cualquier tiempo, modificando la información en los sistemas que para tal efecto maneje la entidad, ajustando registros y los estados financieros a que haya lugar, e informará de la corrección al interesado. 
+
+La declaración, así corregida, reemplaza para todos los efectos legales la presentada por el contribuyente, responsable, agente retenedor o declarante, si dentro del mes siguiente al aviso, el interesado no ha presentado por escrito ninguna objeción. 
+
+PARAGRAFO. Lo dispuesto en el presente artículo no es aplicable a las declaraciones de importación.
+
+## art:16 — IMPOSIBILIDAD DE DENEGAR DECISIONES O RESPUESTAS POR PARTE DE LA ADMINISTRACIÓN
+
+<Decreto INEXEQUIBLE> Las autoridades administrativas no pueden dejar de resolver, por deficiencia de las leyes, los asuntos que se les propongan en el ámbito de su competencia. En este caso acudirán a las normas de integración del derecho y, en su defecto, a las de la Constitución Política que definen los fines y objetivos del Estado en armonía con el principio de equidad.
+
+## art:17 — SOLICITUD OFICIOSA POR PARTE DE LAS ENTIDADES PUBLICAS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 16 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 16. Solicitud oficiosa por parte de las entidades públicas. Cuando las entidades de la Administración Pública requieran comprobar la existencia de alguna circunstancia necesaria para la solución de un procedimiento o petición ciudadana que obre en otra entidad pública, procederán a solicitar a la entidad el envío de dicha información. En tal caso, la carga de la prueba no corresponderá al ciudadano. 
+
+El envío por fax, o por cualquier medio de transmisión electrónica, proveniente de la entidad pública prestará mérito suficiente y servirá de prueba en la actuación de que se trate, sin que se requiera el envío del original. 
+
+Las entidades de la Administración Pública a las que se les solicite información darán prioridad a la atención de dichas peticiones, debiendo resolverlas en un término no mayor de diez (10) días, estableciendo sistemas telemáticos compatibles que permitan integrar y compartir información de uso frecuente por otras autoridades. 
+
+PARAGRAFO. Lo dispuesto en este artículo no será aplicable a la información que de conformidad con lo dispuesto por la Constitución Política o la ley está amparada por la reserva. En todo caso cuando existan diferentes fuentes para la obtención de información deberá acudirse a la fuente que no esté amparada por reserva alguna.
+
+## art:18 — CERTIFICADO DE EXISTENCIA Y REPRESENTACION LEGAL
+
+<Decreto INEXEQUIBLE> Las entidades públicas a las que se les aplica este Decreto podrán conectarse gratuitamente con los registros de organismos que expiden certificado de existencia y representación legal, con el fin de verificar el cumplimiento de este requisito por parte de los administrados, quienes por la anterior lectura y anotación del funcionario que realiza la consulta, quedan exonerados de su respectiva presentación. 
+
+Las entidades que llevan el registro, deberán disponer lo necesario a efecto de permitir la conexión de que trata este artículo.
+
+## art:19 — SUPRESION DE LAS CUENTAS DE COBRO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 19 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 19. Supresión de las cuentas de cobro. Para el pago de las obligaciones contractuales contraídas por las entidades públicas, o las privadas que cumplan funciones públicas o administren recursos públicos, no se requerirá de la presentación de cuentas de cobro por parte del prestatario del servicio. La orden de trabajo, el contrato o el documento en el cual conste la obligación, acompañado, si es del caso, de la manifestación de recibo o cumplimiento a satisfacción suscrita por el funcionario competente de la entidad contratante, serán requisitos suficientes para el pago de la obligación contraída. 
+
+Las órdenes de compra de elementos o las de prestación de servicios que se encuentren acompañadas de la oferta o cotización presentada por el oferente y aceptada por el funcionario competente, no requerirán de la firma de aceptación del proponente. 
+
+Lo anterior, sin perjuicio de la obligación de la expedición de la factura cuando las normas tributarias así lo exijan".
+
+## art:20 — AUTORIZACIONES GENERALES
+
+<Decreto INEXEQUIBLE> Suprímense las licencias, permisos y autorizaciones que se conceden de manera previa y particular, siempre que exista la reglamentación que establezca los requisitos y condiciones para el ejercicio de la actividad por parte de los particulares.
+
+## art:21 — SUPRESION DE DOBLES FIRMAS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 31 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 31. Supresión de dobles firmas. Con excepción de los actos de gobierno, ningún acto administrativo cuya competencia esté atribuida a ministro, director, superintendente, presidente, gerente, subdirectores de áreas técnicas y en general a algún funcionario del nivel directivo o ejecutivo, requerirá, para su expedición, de la firma de otro funcionario de la entidad respectiva."
+
+## art:22 — IMPEDIMENTOS EN DECISIONES DE CUERPOS COLEGIADOS
+
+<Decreto INEXEQUIBLE> Los impedimentos de miembros de cuerpos colegiados para adoptar una decisión no suspenden la actuación, a menos que se afecte el quorum para decidir.
+
+## art:23 — CANCELACION DE OBLIGACIONES A FAVOR DEL ESTADO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 4 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 4. Cancelación de obligaciones a favor del Estado. La cancelación de obligaciones dinerarias, derechos y multas a favor de las entidades de la Administración Pública, podrá realizarse a través de cualquier medio de pago, incluyendo las transferencias electrónicas de fondos, abono en cuenta y sistemas de crédito, mediante la utilización de tarjetas. 
+
+Para tal efecto, las entidades públicas deberán difundir las tablas y las tarifas que permitan a los particulares efectuar la liquidación y pago de tales obligaciones. En caso de que la entidad incumpla esta obligación, el particular podrá cancelarla en el mes siguiente a su vencimiento."
+
+## art:24 — PAGO EN CUENTAS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 7 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 7. Cuentas únicas. Con el objeto de poder hacer efectivo el pago de las obligaciones de los particulares para con la Administración, las entidades públicas abrirán cuentas únicas con cobertura en los lugares de prestación de sus servicios, en las entidades autorizadas para captar y colocar recursos provenientes de ahorro del publico. Para tal efecto las entidades encargadas de la supervisión, inspección y vigilancia, velarán por la adecuada prestación de este servicio. El régimen tarifario para la prestación de estos servicios financieros se regirá por los principios de homogeneidad, equidad y eficiencia. 
+
+Los particulares podrán consignar el importe de sus obligaciones en cualquier oficina ubicada en el área de prestación de servicio. En tal caso, el pago se entenderá efectuado en la fecha en que se realice la consignación respectiva". 
+
+PARAGRAFO. Mediante actos administrativos de carácter general, el Ministerio de Hacienda y Crédito Público, en relación con las entidades del orden nacional, las secretarías de hacienda departamentales distritales y municipales, en el ámbito de su competencia, determinarán las condiciones para el cumplimiento del precepto contenido en el presente artículo.
+
+## art:25 — PROHIBICION DE DECLARACIONES EXTRAJUICIO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 10 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 10. Prohibición de declaraciones extrajuicio. En todas las actuaciones administrativas, suprímese como requisito las declaraciones extrajuicio ante juez o autoridad de cualquier índole. Para estos efectos, bastará la afirmación que haga el particular ante la entidad pública, la cual se entenderá hecha bajo la gravedad del juramento. Cuando se requieran testigos para acreditar hechos ante una autoridad administrativa bastará la declaración que rindan los mismos bajo la gravedad del juramento, ante la misma autoridad, bien sea en declaración verbal o por escrito en documento aparte. 
+
+Del mismo modo, ninguna autoridad administrativa podrá exigir la presentación de declaraciones extrajuicio en las certificaciones que expidan. 
+
+PARAGRAFO. Lo dispuesto en el presente artículo no regirá en los casos en que la Administración Pública actúe como entidad de previsión o seguridad social o como responsable en el reconocimiento o pago de pensiones."
+
+## art:26 — SUPRESION DE AUTENTICACIONES Y RECONOCIMIENTOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 1 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 1. Supresión de autenticaciones y reconocimientos. Está prohibido exigir documentos originales, copias o fotocopias, autenticados o reconocidos notarial o judicialmente, sin perjuicio de los controles o verificaciones que dichas entidades deban realizar salvo en los casos en que la Administración Pública actúe como entidad de previsión o seguridad social o como responsable en el reconocimiento o pago de pensiones. 
+
+Los documentos producidos por las autoridades administrativas en sus distintas actuaciones, siempre que reposen en sus archivos, tampoco requieren autenticación o reconocimiento. A este efecto, bastará con la simple copia o fotocopia del mismo aportada dentro de la actuación en la que se les requiera."
+
+## art:27 — CUMPLIDOS DE COMISIONES
+
+<Decreto INEXEQUIBLE> A partir de la entrada en vigencia del presente decreto, no se requiere escrito que certifique el cumplimiento de las funciones de los servidores públicos en comisión fuera de la sede habitual de su trabajo. Al efecto bastará con la afirmación del funcionario comisionado sobre el cumplimiento de su encargo.
+
+## art:28 — CERTIFICACIONES DE INDICADORES ECONOMICOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 98 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 98. Certificaciones de indicadores económicos. Las entidades legalmente habilitadas para el efecto surtirán el trámite de certificación del interés bancario corriente, la tasa de cambio representativa del mercado, el precio del oro, valor de la Unidad de Valor Real - UVR, y demás indicadores económicos y financieros requeridos en procesos administrativos o judiciales, mediante su envío periódico a las cámaras de comercio, una vez hayan sido expedidas las respectivas certificaciones. De igual manera, los datos pertinentes se publicarán al menos en un diario de amplia circulación nacional. 
+
+Ninguna autoridad podrá exigir la presentación de estas certificaciones para adelantar procesos o actuaciones ante sus despachos, para lo cual bastará la copia simple del diario en donde aparezcan."
+
+## art:29 — ELIMINACION DE LA TARJETA DE IDENTIDAD
+
+<Decreto INEXEQUIBLE> Elimínase la expedición de tarjetas de identidad para menores de edad, siendo suficiente como documento de identidad para los menores el registro civil de nacimiento o el pasaporte para salir del país o tratándose de extranjeros.
+
+## art:30 — ELIMINACION DE LA DENUNCIA POR PERDIDA DE DOCUMENTOS
+
+<Decreto INEXEQUIBLE> A partir de la vigencia del presente decreto, ninguna autoridad podrá exigir la presentación de denuncia por pérdida de documentos con el fin de tramitar la expedición del duplicado o reemplazo correspondiente, para lo cual bastará la afirmación del peticionario sobre tal circunstancia, la cual se entenderá efectuada bajo la gravedad del juramento. 
+
+Lo previsto en el presente artículo no aplicará a los documentos que acrediten la calidad de miembros de la fuerza pública y de los cuerpos de seguridad del Estado.
+
+## art:31 — PUBLICIDAD DE PROYECTOS DE REGULACIONES
+
+<Decreto INEXEQUIBLE> Las autoridades a las cuales se aplican el presente decreto deberán publicar con antelación no inferior a quince (15) días a la fecha de su expedición, todos los proyectos de regulaciones que pretendan adoptar, mediante acto administrativo de carácter general, en los siguientes casos: 
+
+1. Las que desarrollen las leyes de intervención en la actividad económica de que tratan los artículos 334 y 335 de la Constitución Política. 
+
+2. Las que reglamenten el medio ambiente y la preservación y defensa del patrimonio ecológico, histórico y cultural y la explotación de los recursos naturales. 
+
+3. Las normas urbanísticas, planes parciales, delimitación de unidades de actuación urbanística, planes de alto impacto en zonas rurales y demás regulaciones en desarrollo de los planes de ordenamiento territorial. 
+
+4. Las que en sus respectivos ámbitos de competencia, ordenen someter a consulta pública previa el Presidente de la República, los ministros, los gobernadores o los alcaldes. 
+
+5. Las que impongan nuevas obligaciones a los productores de bienes y oferentes de servicios que afecten a los consumidores y usuarios. 
+
+6. Los expedidos con base en las facultades de inspección, control y vigilancia. 
+
+PARAGRAFO 1o. Las autoridades del orden nacional harán la publicación de que trata el presente artículo en el Diario Oficial, en las gacetas oficiales departamentales, distritales y municipales respectivas. No obstante, el gobierno municipal podrá disponer que las publicaciones de carácter municipal se realicen en la gaceta departamental correspondiente y que el proyecto de regulación pueda ser notificado a la población municipal mediante bando, caso en el cual este último indicará el número y fecha de la gaceta pertinente. Sin perjuicio de lo previsto en este parágrafo, las autoridades podrán emplear medios técnicos de divulgación. 
+
+PARAGRAFO 2o. Para los efectos previstos en este artículo entiéndese por regulación de carácter general, toda norma sustantiva expedida por cualquier autoridad administrativa con jurisdicción en todo o parte del territorio nacional relativa a requisitos o formalidades que gobiernan las relaciones entre los particulares y la Administración Pública o que se exigen a las personas para el ejercicio de sus actividades. 
+
+PARAGRAFO 3o. Estarán exceptuados de la publicación de que trata este artículo, los siguientes proyectos de regulación: 
+
+1. Aquellos que por razones de interés público, integridad, seguridad o salubridad nacional deban adoptarse inmediatamente por parte de la Administración. 
+
+2. Aquellos mediante los cuales se formulen o ejecuten directamente las políticas monetaria, cambiaria, crediticia, fiscal o aduanera. 
+
+3. Aquellos que expida el Presidente de la República, en ejercicio de su facultad reglamentaria. 
+
+4. Aquellos que por razones de conveniencia pública, sean excluidos de dicho procedimiento por parte del Consejo de Ministros.
+
+## art:32 — REQUISITOS ESENCIALES DE LA PUBLICACIÓN DE LOS PROYECTOS DE REGULACIONES
+
+<Decreto INEXEQUIBLE> La publicación incluirá, por lo menos, los siguientes aspectos: 
+
+1. La indicación de la autoridad que proyecta adoptar la decisión, su ubicación geográfica y el alcance nacional, departamental, distrital, municipal, local o sectorial de la decisión. 
+
+2. El texto del proyecto. 
+
+3. La identificación de la dependencia administrativa y de las personas a quienes podrá solicitarse información sobre el proyecto y hacer llegar las observaciones, sugerencias o propuestas alternativas, indicando tanto la dirección ordinaria y el teléfono, como el fax y dirección electrónica, si la hubiera. 
+
+4. La fecha límite para la recepción de las observaciones, sugerencias o propuestas alternativas. El término para formular observaciones no podrá ser menor a una (1) semana contada a partir de la fecha de publicación oficial. 
+
+PARAGRAFO. De las observaciones, sugerencias o propuestas alternativas formuladas por los intervinientes, se dejará copia en la Secretaría General de la entidad o la dependencia que haga sus veces.
+
+## art:33 — PLAZO DE ADOPCION, MOTIVACION DE LAS REGULACIONES Y EFECTOS
+
+<Decreto INEXEQUIBLE> Las regulaciones se podrán expedir una vez venza el plazo de que trata este decreto. 
+
+La motivación dará cuenta razonada de los elementos de juicio que se tuvieron en cuenta y de la aceptación o rechazo de las observaciones, sugerencias o propuestas alternativas, formuladas en la oportunidad de que trata este decreto. 
+
+Si las regulaciones no fueren expedidas, las autoridades deberán hacer pública su decisión. 
+
+PARAGRAFO. La ausencia de motivación y la falsa motivación de la regulación darán lugar a la nulidad del acto administrativo así expedido.
+
+## art:34 — TRANSICION
+
+<Decreto INEXEQUIBLE> Las normas dispuestas para la modificación del procedimiento para la expedición de regulaciones, comenzarán a regir el 1o. de mayo del año 2000.
+
+## art:35 — CONSEJOS Y JUNTAS DIRECTIVAS NO PRESENCIALES
+
+<Decreto INEXEQUIBLE> Cuando sus reglamentos así lo establezcan y siempre que se pueda probar, habrá reunión de los Consejos o Juntas Directivas de las entidades descentralizadas cuando por cualquier medio sus miembros puedan deliberar o decidir por comunicación simultánea o sucesiva inmediata.
+
+## art:36 — AVALUO DE BIENES INMUEBLES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 27 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 27: Avalúo de bienes inmuebles. Los avalúos de bienes inmuebles que deban realizar las entidades públicas o que se realicen en actuaciones administrativas, podrán ser adelantados por el Instituto Geográfico Agustín Codazzi, las oficinas de los catastros municipales de aquellas ciudades que la ley ha autorizado, o por peritos privados inscritos en las Lonjas de Propiedad Raíz.
+
+## art:37 — CONTROL FISCAL DE LAS EMPRESAS DE SERVICIOS PUBLICOS
+
+<Artículo INEXEQUIBLE>
+
+## art:38 — REQUISITOS DE LAS FACTURAS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 148 de la Ley 142 de 1994, el cual quedará así: 
+
+"Los requisitos formales de las facturas serán los que determinen las condiciones uniformes del contrato, pero contendrán, como mínimo, información suficiente para que el suscriptor o usuario pueda establecer con facilidad si la empresa se ciñó a la ley y al contrato al elaborarlas, cómo se determinaron y valoraron sus consumos, cómo se comparan éstos y su precio con los de períodos anteriores, y el plazo y modo en el que debe hacerse el pago. 
+
+En los contratos se pactará la forma, tiempo, sitio y modo en los que la empresa hará conocer la factura a los suscriptores o usuarios y el conocimiento se presumirá de derecho cuando la empresa cumpla lo estipulado. Corresponde a la empresa demostrar su cumplimiento. El suscriptor o usuario no está obligado a cumplir las obligaciones que le cree la factura, sino después de conocerla. No se cobrarán servicios no prestados, tarifas, ni conceptos diferentes a los previstos en las condiciones uniformes de los contratos, ni se podrá alterar la estructura tarifaria definida para cada servicio público domiciliario. 
+
+Todo suscriptor o usuario tiene derecho a recibir oportunamente las facturas de los servicios públicos domiciliarios y la empresa la obligación de entregarla oportunamente. Las empresas deberán entregar la factura a los suscriptores o usuarios por lo menos con cinco (5) días de antelación a la fecha de pago oportuno señalada en la misma."
+
+## art:39 — RECONEXION DE LOS SERVICIOS PUBLICOS DOMICILIARIOS
+
+<Decreto INEXEQUIBLE> Modifícase el segundo inciso del artículo 142 de la Ley 142 de 1994, el cual quedará así: 
+
+"Las comisiones de regulación fijarán plazos máximos para el restablecimiento del servicio, teniendo en cuenta las características de cada servicio".
+
+## art:40 — IMPUGNACION DE LAS ELECCIONES DEL VOCAL DE CONTROL
+
+<Decreto INEXEQUIBLE> Modifícase el inciso 8o. del artículo 62 de la Ley 142 de 1994, el cual quedará así: 
+
+"Las elecciones del vocal de control podrán impugnarse ante el Personero del Municipio donde se realiza la Asamblea de elección".
+
+## art:41 — CONSULTAS Y QUEJAS
+
+<Decreto INEXEQUIBLE> Modifícase el numeral 64.3 del artículo 64 de la Ley 142 de 1994, el cual quedará así: 
+
+"64.3. Dar atención oportuna a todas las consultas y tramitar las quejas que cualquiera de los usuarios o suscriptores planteen al Comité, sino hacen uso del derecho de petición ante la empresa prestadora correspondiente de manera directa".
+
+## art:42 — DE LA NOTIFICACION DE LA DECISION SOBRE PETICIONES Y RECURSOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 159 de la Ley 142 de 1994, el cual quedará así: 
+
+"La Superintendencia de Servicios Públicos Domiciliarios y los prestadores de los servicios públicos domiciliarios, notificarán la decisión sobre los recursos interpuestos por los usuarios en desarrollo del contrato de condiciones uniformes, mediante comunicaciones que se enviarán por correo certificado. De ello quedará constancia en el respectivo expediente o utilizando la autorización contenida en el artículo 112 de esta ley".
+
+## art:43 — AUTORIZACION PREVIA DEL ARRENDADOR
+
+<Decreto INEXEQUIBLE> Modifícase el segundo inciso del artículo 130 de la Ley 142 de 1994, el cual quedará así: 
+
+"El propietario o poseedor a cualquier título, el suscriptor y los usuarios, serán solidarios en sus obligaciones y derechos en el contrato de servicios públicos, siempre y cuando el propietario o poseedor haya dado expresa autorización para que sus arrendatarios soliciten los servicios. No operará la solidaridad entre el propietario o poseedor del inmueble y el suscriptor o usuario en caso de que la empresa omita el cumplimiento de este requisito".
+
+## art:44 — PLANES DE GESTION Y RESULTADOS
+
+<Decreto INEXEQUIBLE> Suprímense los trámites de presentación, aprobación, evaluación y actualización del plan de gestión y resultados de corto, mediano y largo plazo, que sirva de base para el control que deben ejercer las auditorías externas, previsto en el parágrafo del artículo 52 de la Ley 142 de 1994.
+
+## art:45 — DERECHOS DE PETICIÓN DE LOS USUARIOS Y/O SUSCRIPTORES DE LA TELEFONÍA MÓVIL CELULAR
+
+<Decreto INEXEQUIBLE> Para efectos de la defensa de los usuarios y/o suscriptores de la telefonía móvil celular y de los servicios de telecomunicaciones no domiciliarios, la solicitud, trámite de respuesta de sus peticiones, quejas y reclamos se sujetarán a lo dispuesto en el Título VIII, Capítulo VII de la Ley 142 de 1994 y las normas que lo modifiquen o adicionen.
+
+## art:46 — CLAUSULAS DE PERMANENCIA
+
+<Decreto INEXEQUIBLE> La Comisión de Regulación de Telecomunicaciones, reglamentará las cláusulas de protección a los usuarios en los contratos para la prestación de servicios no domiciliarios de telecomunicaciones, considerando entre otras, las siguientes reglas: 
+
+1. Sólo se establecerán períodos de permanencia mínima, sanciones o multas por terminación anticipada, o prórroga automática, cuando el usuario, en anexo independiente al contrato acepte expresamente tal condición. 
+
+2. Los operadores deberán presentar alternativas de suscripción al usuario que no le impongan un determinado período de permanencia. 
+
+3. Los operadores no podrán fijar cláusulas que limiten o excluyan las responsabilidades que correspondan a los operadores. 
+
+4. Los operadores no tendrán facultades para terminar los contratos por razones distintas al incumplimiento del usuario, a causas legales, fuerza mayor o caso fortuito. 
+
+A partir de la vigencia del presente decreto, la Superintendencia de Industria y Comercio velará porque se cumplan las reglas establecidas para la protección de los usuarios en cláusulas de los contratos de suscripción del servicio de telefonía móvil celular y de otros servicios de telecomunicaciones no domiciliarios. 
+
+Respecto de los contratos vigentes a la fecha de expedición del presente decreto, se aplicará lo dispuesto en el inciso anterior para los nuevos períodos en que se prorroguen éstos.
+
+## art:47 — COMPETENCIA
+
+<Decreto INEXEQUIBLE> Corresponde a la Superintendencia de Industria y Comercio resolver los recursos de apelación contra las decisiones que versen sobre las peticiones, quejas y reclamos que se reciban, atiendan, tramiten y respondan los operadores de servicios de telecomunicaciones no domiciliarios, para lo cual contará, además de las propias, con las facultades que en materia de protección al consumidor se consagran para la Superintendencia de Servicios Públicos Domiciliarios. 
+
+En relación con la función aquí prevista, la Superintendencia de Industria y Comercio deberá: 
+
+1. Atender los recursos que interpongan los suscriptores o usuarios, una vez surtido el trámite del recurso de reposición ante la entidad prestadora del servicio. 
+
+2. Señalar el procedimiento para que el usuario pueda hacer efectivos los derechos que se desprendan del silencio administrativo positivo de que trata la Ley 142 de 1994 y, para que pueda acudir después a cualquier otra autoridad competente. 
+
+PARAGRAFO. El Ministerio de Comunicaciones, la Superintendencia de Servicios Públicos Domiciliarios y la Comisión de Regulación de Telecomunicaciones, apoyarán de manera efectiva, con recursos humanos, técnicos y económicos a la Superintendencia de Industria y Comercio, con el fin de que ésta pueda cumplir cabalmente las funciones previstas en el presente decreto.
+
+## art:48 — REDUCCIONES DE CAPITAL
+
+<Decreto INEXEQUIBLE> La Superintendencia de Sociedades autorizará las reducciones de capital de las empresas prestadoras de los servicios públicos a que hacen referencia las Leyes 142 y 143 de 1994, cuando verifique que cumplen las exigencias del artículo 145 del Código de Comercio y del numeral 7 del artículo 86 de la Ley 222 de 1995, para lo cual examinará exclusivamente los estados financieros de la empresa y solicitará al Ministerio de Trabajo y Seguridad Social, dentro del mismo trámite, el examen correspondiente al pasivo externo por prestaciones sociales.
+
+## art:49 — LICENCIA AMBIENTAL
+
+<Decreto INEXEQUIBLE> El artículo 49 de la Ley 99 de 1993 quedará así: 
+
+"Artículo 49. Licencia ambiental. Requerirán Licencia ambiental para su ejecución los proyectos, obras o actividades, que puedan generar deterioro grave al medio ambiente, a los recursos naturales renovables o al paisaje, de conformidad con el artículo siguiente".
+
+## art:50 — RACIONALIZACIÓN DE LA EXIGENCIA DE LA LICENCIA AMBIENTAL
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 52 de la Ley 99 de 1993, el cual quedará así: 
+
+"Artículo 52. De la exigencia de licencia ambiental. El Ministerio del Medio Ambiente otorgará licencia ambiental respecto de las siguientes actividades: 
+
+1. Explotación, transporte, conducción y depósito de hidrocarburos, y construcción de refinerías. 
+
+2. Proyectos de gran minería. 
+
+3. Proyectos de generación y transmisión de energía eléctrica de orden nacional. 
+
+4. Proyectos de infraestructura vial, fluvial y ferroviaria nacional; infraestructura aeroportuaria de carácter internacional; proyectos portuarios de gran calado. 
+
+5. Producción e importación de plaguicidas. 
+
+6. Importación, tratamiento, disposición y eliminación de sustancias, productos o materiales regulados por Tratados, Convenios y Protocolos Internacionales de carácter ambiental. 
+
+7. Proyectos en áreas del Sistema de Parques Nacionales Naturales. 
+
+8. Proyectos que requieran licencia ambiental y que adelanten las Corporaciones Autónomas Regionales y de Desarrollo Sostenible o los grandes centros urbanos. 
+
+9. Generación de energía nuclear. 
+
+10. Introducción de especies foráneas de fauna y flora silvestre y microorganismos. 
+
+11. Transvases de una cuenca a otra de corrientes de agua que excedan de 2 mt3/segundo durante los períodos de mínimo caudal. 
+
+PARAGRAFO 1o. La facultad de otorgar licencias ambientales para la construcción de puertos se hará sin perjuicio de la competencia legal de la Superintendencia General de Puertos y Transporte de otorgar concesiones portuarias. No obstante la licencia ambiental es prerrequisito para el otorgamiento de concesiones portuarias. 
+
+PARAGRAFO 2o. El Ministerio del Medio Ambiente podrá definir mecanismos e instrumentos administrativos de prevención, control y seguimiento ambiental para la ejecución de proyectos, obras o actividades que no generen impactos significativos al medio ambiente, los recursos naturales renovables o al paisaje.
+
+## art:51 — RACIONALIZACIÓN DE LA REGULACIÓN RELATIVA AL DIAGNÓSTICO AMBIENTAL DE ALTERNATIVAS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 56 de la Ley 99 de 1993, el cual quedará así: 
+
+"Artículo 56. Del diagnóstico ambiental de alternativas. En los proyectos que requieran de licencia ambiental, el interesado deberá solicitar en la etapa de factibilidad a la autoridad ambiental competente que ésta se pronuncie sobre la necesidad de presentar o no un diagnóstico ambiental de alternativas. Con base en la información suministrada la autoridad ambiental fijará en un término no mayor de 30 días hábiles, los términos de referencia para la elaboración del Diagnóstico Ambiental de Alternativas, salvo que los términos de referencia hayan sido definidos de manera genérica para la actividad por la autoridad ambiental. 
+
+El Diagnóstico Ambiental de Alternativas incluirá información sobre la localización y características del entorno geográfico, de las alternativas del proyecto, además de un análisis comparativo de los riesgos inherentes al proyecto sobre el medio ambiente y los recursos naturales. Con base en el Diagnóstico Ambiental de Alternativas presentado, la autoridad ambiental elegirá en un plazo no mayor a treinta (30) días, la alternativa o las alternativas sobre las cuales deberá elaborarse el correspondiente Estudio de Impacto Ambiental, antes de otorgarse la respectiva licencia. En el evento que la información o documentos que proporcione el interesado no sean suficientes para decidir, la autoridad ambiental le requerirá, por una sola vez, el aporte de lo que haga falta. Este requerimiento interrumpirá el término con que cuenta la autoridad para la elección de la alternativa.
+
+## art:52 — DEL ESTUDIO DE IMPACTO AMBIENTAL
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 57 de la Ley 99 de 1993, el cual quedará así: 
+
+"Artículo 57. Del estudio de impacto ambiental. Se entiende por estudio de impacto ambiental el conjunto de la información, que deberá presentar ante la autoridad ambiental competente, el peticionario de una licencia ambiental. 
+
+El estudio de impacto ambiental contendrá información sobre la localización del proyecto y los elementos abióticos, bióticos y socioeconómicos del medio que puedan sufrir deterioro por el respectivo proyecto obra o actividad, para cuya ejecución se pide la licencia y la evaluación de los impactos que puedan producirse. Además, incluirá el diseño de los planes de manejo ambiental respectivos. 
+
+La autoridad ambiental competente para otorgar la licencia ambiental fijará los términos de referencia de los estudios de impacto ambiental en un término que no podrá exceder de treinta (30) días hábiles, contados a partir de la solicitud por parte del interesado, salvo que los términos de referencia hayan sido definidos de manera genérica para la actividad por la autoridad ambiental".
+
+## art:53 — SIMPLIFICACIÓN DEL PROCEDIMIENTO PARA EL OTORGAMIENTO DE LAS LICENCIAS AMBIENTALES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 58 de la Ley 99 de 1993, el cual quedará así: 
+
+"Artículo 58. Del procedimiento para el otorgamiento de las licencias ambientales. El interesado en el otorgamiento de una licencia ambiental presentará ante la autoridad ambiental competente la solicitud acompañada del Estudio de Impacto Ambiental correspondiente para su evaluación. La autoridad competente dispondrá de quince (15) días hábiles para solicitar a otras entidades o autoridades los conceptos técnicos o informaciones pertinentes que deberán serle remitidos en un plazo no mayor a treinta (30) días hábiles. Allegada la información y los conceptos técnicos requeridos, la autoridad competente dispondrá de quince (15) días hábiles para solicitar información adicional al interesado, en caso de requerirse. Recibida la información o vencido el término del requerimiento de informaciones adicionales, la autoridad ambiental decidirá mediante resolución motivada sobre la viabilidad ambiental del proyecto o actividad y otorgará o negará la respectiva licencia ambiental en un término que no podrá exceder de sesenta (60) días hábiles".
+
+## art:54 — CAZA DE ESPECIES DE FAUNA SILVESTRE
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 30 de la Ley 84 de 1989, el cual quedará así: 
+
+"La caza de especies de fauna silvestre, deberá corresponder a una práctica que no implique el agotamiento de las poblaciones naturales y de sus habitats y se permitirá en casos como los que se enuncian a continuación: 
+
+a) Con fines de subsistencia, entendiéndose por tal la caza que se realiza para consumo de quien la ejecuta o de su familia siempre y atendiendo a los lineamientos para el manejo sostenible de las especies establecidas por la autoridad ambiental. 
+
+b) Con fines científicos o investigativos, de control, deportivos, comerciales y de fomento previa autorización de la autoridad ambiental competente, de conformidad con el Decreto 1608 de 1978.
+
+## art:55 — COMITE DE ETICA
+
+<Decreto INEXEQUIBLE> Suprímase la exigencia de conformar un comité de ética para todo experimento con animales vivos contenida en el artículo 26 de la Ley 84 de 1989.
+
+## art:56 — DEROGATORIAS
+
+<Decreto INEXEQUIBLE> Derógase el artículo 31 de la Ley 84 de 1989.
+
+## art:57 — SIMPLIFICACIÓN DEL PROCEDIMIENTO DE DESLINDE DE ENTIDADES TERRITORIALES
+
+<Decreto INEXEQUIBLE> Modifícanse los artículos 1 de la Ley 62 de 1939, 9 del Decreto 1222 de 1986 y 20 del Decreto 1333 de 1986, los cuales quedarán así: 
+
+"El Instituto Geográfico Agustín Codazzi realizará el deslinde de las entidades territoriales de la República, de oficio o a petición del representante legal de una, varias o todas las entidades territoriales interesadas e informará al Ministerio del Interior, tanto la iniciación de la diligencia de deslinde, como los resultados de la misma."
+
+## art:58 — PRECISIÓN DEL CONCEPTO DE LÍMITE DEFINIDO EN EL DESLINDE DE ENTIDADES TERRITORIALES Y SIMPLIFICACIÓN DEL PROCEDIMIENTO EN CASO DE LÍMITE DUDOSO
+
+<Decreto INEXEQUIBLE> Modifícanse los artículo 3 de la Ley 62 de 1939, 11 del Decreto 1222 de 1986 y 22 del Decreto 1333 de 1986, los cuales quedarán así: 
+
+"Cuando un límite no presente duda y su descripción esté contenida en un acta de deslinde que precise el límite sin introducir modificaciones que generen agregación o segregación de territorio y se suscriba en total acuerdo por los representantes de todas las entidades territoriales interesadas, se considerará como límite definido cuando dicha acta sea aprobada por el Gobernador, tratándose de límites municipales, o por el Ministro del Interior, tratándose de límites departamentales o distritales. 
+
+Cuando un límite presente duda, el Instituto Geográfico Agustín Codazzi, por acta marcará el trazado técnico que juzgue más adecuado y junto con los documentos referentes al límite dudoso, la remitirá para su decisión, así: 
+
+Al Congreso de la República, por intermedio del Ministro del Interior, cuando se trate de límites departamentales o distritales. 
+
+A la Asamblea Departamental, por intermedio del Gobernador, cuando se trate de límites municipales."
+
+## art:59 — AMOJONAMIENTO Y LIMITE PROVISIONAL DE ENTIDADES TERRITORIALES
+
+<Decreto INEXEQUIBLE> Modifícanse los artículos 6 de la Ley 62 de 1939, 13 del Decreto 1222 de 1986 y 25 del Decreto 1333 de 1986, los cuales quedarán así: 
+
+"El deslinde adoptado y aprobado por la autoridad competente será el definitivo y se procederá al amojonamiento y a la publicación del mapa oficial por parte del Instituto Geográfico Agustín Codazzi. 
+
+Cuando la autoridad competente para aprobar el acto de deslinde, desatar las controversias o definir el límite dudoso, no lo hiciere dentro del año siguiente a la fecha de radicación del expediente sobre el límite, levantado por el Instituto Geográfico Agustín Codazzi, el trazado técnico propuesto por este instituto se considerará como límite provisional y surtirá todos los efectos legales hasta cuando se apruebe el deslinde en la forma prevenida por la ley. 
+
+Igualmente se considerará como límite provisional, para todos los efectos legales, el deslinde que realice autónomamente el Instituto Geográfico Agustín Codazzi y lo formalice mediante resolución, cuando previa citación efectuada por el dicho instituto, una o ambas parte no asistan a dos convocatorias de diligencias de deslinde."
+
+## art:60 — SIMPLIFICACIÓN DE REQUISITOS PARA LA ADMINISTRACIÓN DE LOS RECURSOS DEL SITUADO FISCAL
+
+<Decreto INEXEQUIBLE> Para los efectos de lo dispuesto por el artículo 13 de la Ley 60 de 1993 y con el fin de simplificar los requisitos para la asignación de recursos del situado fiscal entre los municipios, las reglas deberán ser las previstas en el artículo 11 de la Ley 60 de 1993, exceptuando la alicuota del 15%. 
+
+En todo caso, la asignación debe respetar los criterios de equidad y eficiencia previstos en la ley".
+
+## art:61 — SIMPLIFICACIÓN DEL PROCEDIMIENTO DE COMUNICACIÓN DEL SITUADO FISCAL
+
+<Decreto INEXEQUIBLE> Modifícase el numeral 1o. del artículo 18 de la Ley 60 de 1993, el cual quedará así: 
+
+"1o. El Departamento Nacional de Planeación comunicará a los departamentos, distritos y municipios, los montos del situado fiscal y de la participación en los ingresos corrientes de la Nación para la vigencia siguiente, asignados conforme a los criterios constitucionales y legales, a más tardar el 31 de agosto de cada año, con base en el valor incluido en el plan operativo anual de transferencias incorporado en el proyecto de presupuesto general de la Nación. 
+
+En el evento que el monto aprobado en la Ley General de Presupuesto difiera del monto inicialmente programado el Departamento Nacional de Planeación enviará una nueva comunicación a las autoridades de las entidades territoriales con los datos definitivos. 
+
+PARAGRAFO. Los Ministerios de Salud y Educación reportarán al Departamento Nacional de Planeación la información correspondiente de conformidad con lo previsto en la presente ley, a más tardar el 30 de junio de cada año".
+
+## art:62 — RACIONALIZACIÓN DE LA CESIÓN DE INSTITUCIONES PRESTADORAS DE SERVICIOS DE SALUD Y SU IMPACTO SOBRE EL GASTO PÚBLICO
+
+<Decreto INEXEQUIBLE> La cesión a los municipios de las instituciones destinadas a la prestación de servicios de salud, se efectuará conforme lo dispone la Ley 10 de 1990. No obstante, para que la cesión sea procedente, se requerirá, previa legalización o acuerdo definitivo, que la institución objeto de cesión sea viable financieramente, conforme a las definiciones que sobre el particular se determinen por vía general.
+
+## art:63 — AJUSTE DEL SITUADO FISCAL Y DE LAS PARTICIPACIONES MUNICIPALES EN LOS INGRESOS CORRIENTES DE LA NACIÓN
+
+<Decreto INEXEQUIBLE> Cuando los recaudos efectivos de una vigencia para la Nación resulten inferiores a la programación en que se fundamentó el presupuesto de rentas y deban efectuarse ajustes en las apropiaciones, los montos del situado fiscal y de las participaciones municipales en los ingresos corrientes de la Nación de la respectiva vigencia, se disminuirán en la misma proporción en que se haya afectado el recaudo de los ingresos corrientes de la Nación.
+
+## art:64 — DE LOS PRINCIPIOS DE COMPETENCIA Y DE SELECCION OBJETIVA
+
+<Decreto INEXEQUIBLE> Tanto la selección de los agentes que efectúen el manejo, la adquisición, la venta o la asesoría relacionada con los valores mobiliarios y los depósitos poseídos o administrados por las entidades a las que se aplica este decreto, así como todas las operaciones que se efectúen con los mismos, deberán realizarse con estricta sujeción a los principios de transparencia, competencia y de selección objetiva, sin perjuicio de la seguridad y el cuidado que deberá emplearse para su gestión, en aplicación de lo establecido en el artículo siguiente del presente decreto, y en los reglamentos que lo desarrollen. 
+
+Para asegurar la vigencia de los principios enunciados, la Tesorería General de la Nación podrá establecer la obligación de utilizar sistemas de subasta o transaccionales que permitan la exposición al mercado de las operaciones que se efectúen respecto de los activos mencionados en el inciso anterior. Así mismo, podrá hacer extensiva dicha obligación a la selección de los agentes encargados de ejecutar las órdenes de comprar y vender activos mobiliarios en el mercado, o de invertir recursos en dichos activos, o de celebrar cualquier otra operación que pudiera afectarlos directa o indirectamente. 
+
+En todo caso, la Tesorería General de la Nación establecerá metodologías generales, obligatoriamente aplicables a los distintos grupos de entidades públicas, con el fin de asegurar los principios a que se refiere el inciso primero del presente artículo tanto en la contratación de agentes para el manejo de los mencionados recursos, como en las operaciones que se efectúen con los mismos. 
+
+PARAGRAFO 1o. La Tesorería General de la Nación podrá establecer un conjunto de reglas especiales respecto de las operaciones interadministrativas. 
+
+PARAGRAFO 2o. Las instituciones vigiladas por las Superintendencias Bancaria o de Valores tendrán el deber de queja establecido en el Código Disciplinario Único, respecto de la información que conozcan en desarrollo de las operaciones y contratos que efectúen con los recursos a los que se refiere este Decreto.
+
+## art:65 — DE LA SEGURIDAD DEL MANEJO DE LOS VALORES MOBILIARIOS Y DE LOS DEPÓSITOS DE DINERO
+
+<Decreto INEXEQUIBLE> Con el fin de propender por el adecuado manejo de los valores mobiliarios y de los depósitos de dinero poseídos o administrados por entidades del sector público, la Tesorería General de la Nación definirá las obligaciones mínimas en materia de políticas, parámetros y criterios que deberán adoptar los sujetos a quienes sea aplicable el presente decreto, los cuales contendrán, por lo menos, reglas relacionadas con políticas de tesorería, prácticas de tesorería, seguridad, información contable, evaluación financiera, selección de los agentes que participen en la respectiva operación, selección de operaciones, montos, plazos y en general manejo de los riesgos que deben tenerse en cuenta para evitar el deterioro del patrimonio público. Al fijar las obligaciones a las que se refiere el presente artículo, la Tesorería General de la Nación, tendrá en cuenta las diferencias en materia de medios y de localización de las diferentes entidades. 
+
+Los valores poseídos o administrados por las entidades a las cuales se aplican este decreto deberán estar depositados en un depósito centralizado de valores. Sin embargo, la Tesorería General de la Nación podrá establecer excepciones a lo dispuesto en el presente inciso en atención a las características especiales de determinadas inversiones, y a los medios y localización de las entidades públicas cobijadas por las obligaciones establecidas en el presente artículo. 
+
+PARAGRAFO. El Gobierno podrá establecer un conjunto de reglas especiales respecto de las operaciones interadministrativas.
+
+## art:66 — IDONEIDAD DE LOS EMPLEADOS DE LAS TESORERIAS
+
+<Decreto INEXEQUIBLE> Las personas encargadas de manejar los activos a que se refiere el presente capítulo, tendrán que cumplir con los requisitos que fije el Gobierno Nacional en cuanto a poseer y mantener estándares mínimos de capacidad técnica y de conocimientos necesarios para cumplir adecuadamente su tarea, de manera proporcional a las exigencias de su labor en la respectiva entidad. 
+
+Con ese fin el Gobierno podrá fijar, a cargo de las entidades a las cuales el presente decreto es aplicable, obligaciones de formación académica y verificación periódica, así como establecer una metodología de evaluación de desempeño.
+
+## art:67 — REGIMEN DE EXTENSION
+
+<Decreto INEXEQUIBLE> Lo previsto en los artículos anteriores se extenderá, de conformidad con la reglamentación que expida el Gobierno Nacional, a las operaciones realizadas por entidades públicas con las entidades que intermedien en las operaciones de seguros y a aquellas otras que determine.
+
+## art:68 — TRANSITORIO
+
+<Decreto INEXEQUIBLE> Lo dispuesto en el presente Decreto sobre el Régimen de Tesorerías empezará a regir a partir de los seis (6) meses siguientes a su vigencia de este decreto.
+
+## art:69 — CONCURSOS QUE SE REALICEN EN EL MINISTERIO DE DEFENSA NACIONAL, EN LAS FUERZAS MILITARES Y EN LA POLICÍA NACIONAL
+
+<Decreto INEXEQUIBLE> Modifícase el parágrafo del artículo 22 de la Ley 443 de 1998 el cual quedará así: 
+
+"Parágrafo: En los concursos que se realicen en el Ministerio de Defensa Nacional, en las Fuerzas Militares y en la Policía nacional, con excepción de sus entidades descentralizadas, se efectuará un estudio de seguridad de carácter reservado a quien esté ocupando el primer lugar de la lista de elegibles, antes de producirse el nombramiento. En el evento de que éste sea desfavorable, no podrá efectuarse el nombramiento, se excluirá de la lista y el mismo proceso se adelantará con quien siga en orden descendente dentro de la misma. De igual manera, se procederá cuando se trate de utilizar listas de elegibles de otras entidades u órganos, caso en el cual el resultado desfavorable del estudio de seguridad no dará lugar al retiro de la lista."
+
+## art:70 — CIRCUNSCRIPCION TERRITORIAL PARA CONCURSOS
+
+<Decreto INEXEQUIBLE> Modificase el inciso 3 del artículo 24 de la Ley 443 de 1998, el cual quedará así: 
+
+"La convocatoria a estos concursos se realizará en la circunscripción territorial que determine la Comisión Nacional del Servicio Civil y las listas de elegibles serán obligatorias para las entidades que se encuentren en dicha circunscripción, cuando la entidad no cuente con listas de elegibles vigentes de concursos de ascenso o abiertos."
+
+## art:71 — DEL ESTABLECIMIENTO DE LAS PLANTAS DE PERSONAL
+
+<Decreto INEXEQUIBLE> Derógase el parágrafo del artículo 31 del Decreto 1569 de 1998.
+
+## art:72 — FORMULARIO UNICO PARA ENTIDADES TERRITORIALES
+
+<Decreto INEXEQUIBLE> Con el objeto de minimizar la cantidad de formularios que las entidades territoriales deben diligenciar a pedido de las entidades del orden nacional, la Dirección General de Asuntos Territoriales del Ministerio del Interior coordinará con las entidades solicitantes, el diseño y la aplicación de un formato común cuando varias de ellas soliciten información de la misma naturaleza. 
+
+Las entidades solicitantes estarán en la obligación de aplicar el formato que acuerden con el Ministerio del Interior.
+
+## art:73 — DECLARACION DE URGENCIA MANIFIESTA
+
+<Decreto INEXEQUIBLE> El Director de la Dirección General para Derechos Humanos queda facultado para declarar la urgencia manifiesta, cuando se trate de ejecutar acciones relacionadas con la protección de la vida o la integridad personal de dirigentes y activistas de movimientos sociales, sindicales y de organizaciones no gubernamentales de Derechos Humanos.
+
+## art:74 — SIMPLIFICACIÓN DEL TRÁMITE PARA OBTENER LOS BENEFICIOS CONTENIDOS EN LA LEY 387 DE 1997
+
+<Decreto INEXEQUIBLE> Modifícanse los numerales 1 y 2 del artículo 32 de la Ley 387 de 1997, los cuales quedarán así: 
+
+"1. Que hayan declarado esos hechos ante la Procuraduría General de la Nación, la Defensoría del Pueblo, las personerías municipales o distritales, en formato único diseñado por la Red de Solidaridad Social. 
+
+2. Que además remitan para su inscripción a la Red de Solidaridad Social o a la oficina que esta designe a nivel departamental, distrital o municipal copia de la declaración de los hechos de que trata el numeral anterior."
+
+## art:75 — PROHIBICIÓN DE EXIGIR LA INSCRIPCIÓN DE OBRAS LITERARIAS Y ARTÍSTICAS EN EL REGISTRO NACIONAL DE DERECHO DE AUTOR
+
+<Decreto INEXEQUIBLE> La inscripción de las obras literarias y artísticas en el Registro Nacional de Derecho de Autor no podrá ser exigido con carácter obligatorio, en ningún trámite que se surta ante la Administración Pública.
+
+## art:76 — SUPRESION DE REGULACIONES RELATIVAS A DERECHOS DE AUTOR
+
+<Decreto INEXEQUIBLE> Derógase el parágrafo del artículo 73 de la Ley 23 de 1982.
+
+## art:77 — SECUESTRO PREVENTIVO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 244 de la Ley 23 de 1982, el cual quedará así: 
+
+"Artículo 244. El autor, el editor, el productor de fonogramas, de programas de ordenador, de obras audiovisuales, los artistas intérpretes o ejecutantes, los organismos de radiodifusión o los causahabientes de éstos, y quien tenga la representación legal o convencional con ellos, pueden pedir al juez el secuestro preventivo: 
+
+1. De toda obra, producción, edición y ejemplares; 
+
+2. Del producido de la venta y alquiler de tales obras, producciones, edición o ejemplares; y 
+
+3. Del producido de la venta y alquiler de los espectáculos teatrales, cinematográficos, musicales y otros análogos.
+
+## art:78 — PROCEDIBILIDAD
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 246 de la ley 23 de 1982, el cual quedará así: 
+
+"Artículo 246. Para que la acción de que trata el artículo 244 proceda, se requiere que quien solicita la medida afirme que ha demandado o va a demandar a la persona contra la cual dicha medida se impetra por actos y hechos jurídicos vinculados con el derecho de autor, los mismos que concretará en el libelo. En este caso, la demanda deberá presentarse dentro del término que razonablemente el juez establezca, y que a falta de esa determinación, este término no será superior a 20 días hábiles o 31 días calendario, si este plazo fuere mayor."
+
+## art:79 — CARTOGRAFÍA GEOREFERENCIADA DE ÁREAS DONDE EXISTAN COMUNIDADES INDÍGENAS O NEGRAS
+
+<Decreto INEXEQUIBLE> Dentro del año siguiente a la vigencia del presente decreto, el Instituto Geográfico Agustín Codazzi - IGAC -, o la entidad que haga sus veces, elaborará una cartografía referenciada a escala apropiada, respecto de las áreas donde existan asentamientos de comunidades indígenas o negras de que trata la ley 70 de 1993, en los términos de ocupación territorial referenciados en las leyes y reglamentos sobre la materia. La cartografía será actualizada cada 6 meses.
+
+## art:80 — CONSULTA PREVIA
+
+<Decreto INEXEQUIBLE> Cuando surtido el procedimiento legal y reglamentario de la Consulta Previa que propicia la participación de las comunidades negras en la realización de la explotación de los recursos naturales en sus territorios, no se logra un acuerdo con dichas comunidades, la decisión que adopte la autoridad competente deberá tener en cuenta la identidad cultural, social y económica de las comunidades afectadas e igualmente establecerá los mecanismos para la prevención mitigación, corrección, compensación y manejo de los efectos ambientales de la obra o actividad. 
+
+El acto que adopte la decisión deberá ser motivado y dará cuenta razonada de los aspectos acogidos y rechazados, así como de las manifestaciones de las comunidades. Dicha decisión se tomará dentro de los términos señalados en las disposiciones vigentes sobre la materia. 
+
+PARAGRAFO 1o. En ningún caso la suspensión de la reunión de la consulta previa por desacuerdo entre las partes podrá ser superior a diez (10) días. 
+
+PARAGRAFO 2o. Agotado el procedimiento de la consulta, la autoridad ambiental competente lo dará por terminado dejando constancia de lo ocurrido en el acta y continuará con el trámite establecido en la ley 99 de 1993 y en el decreto 1753 de 1994 o normas que lo modifiquen o sustituyan con el objeto de tomar una decisión sobre el otorgamiento o negación de la licencia ambiental y el establecimiento del Plan de Manejo Ambiental en un plazo que no podrá exceder de sesenta (60) días.
+
+## art:81 — TRAMITE ADMINISTRATIVO DE LA EXTRADICION
+
+<Decreto INEXEQUIBLE> Corresponde al Gobierno Nacional, ofrecer o conceder la extradición de una persona condenada o procesada en el exterior mediante acto administrativo firmado por el Presidente y todos los Ministros. La oferta o concesión de la extradición procede por el concepto previo y favorable de la Corte Suprema de Justicia. Recibido el concepto de la Corte Suprema de Justicia, el Gobierno Nacional dictará dentro de los diez (10) días siguientes la resolución correspondiente. Sólo podrá negarse por razones de conveniencia nacional expresadas en acto administrativo motivado.
+
+## art:82 — DESTINACIÓN DE LOS RECURSOS DEL FONDO PARA LA REHABILITACIÓN, INVERSIÓN SOCIAL Y LA LUCHA CONTRA EL CRIMEN ORGANIZADO
+
+<Decreto INEXEQUIBLE> El Consejo Nacional de Estupefacientes asignará los bienes y recursos que ingresen al Fondo para la Rehabilitación, Inversión Social y la Lucha contra el Crimen Organizado, exclusivamente para: 
+
+a. Financiación y dotación de las entidades legitimadas para la presentación de demandas de extinción de dominio, de los gastos que ocasione la investigación, el respectivo proceso y la capacitación de los funcionarios encargados de dicha labor. 
+
+b. Financiación de acciones del Estado en su lucha contra el delito del narcotráfico y conexos, destinando inversión en capacitación de funcionarios, preparación técnica y tecnológica, en soporte logístico, adquisición de equipos, y en general, programas que contribuyan al fortalecimiento de la estrategia antidrogas en diversas manifestaciones. 
+
+c. Financiación de programas para prevenir, combatir y erradicar la corrupción en cualquiera de sus manifestaciones. 
+
+d. Asignación de recursos para la financiación de programas destinados a la protección de funcionarios de la Rama Judicial, del Ministerio Público y autoridades administrativas, vinculados en la lucha contra la corrupción y la estrategia antidrogas. 
+
+e. Financiación de programas de Reforma Agraria, de Reforma Urbana y de Vivienda de Interés Social. 
+
+f. Financiación de programas de infraestructura y rehabilitación de la población carcelaria y penitenciaria. 
+
+g. Financiación de programas de reinserción en los procesos de paz que se adelanten, de atención de los desplazados por la violencia y de erradicación de cultivos ilícitos. 
+
+PARAGRAFO 1o. Las tierras aptas para la producción, que ingresen al Fondo para la Rehabilitación, Inversión Social y la Lucha contra el Crimen Organizado se adjudicará a los campesinos e indígenas que cumplan los requisitos establecidos. La adjudicación se hará de conformidad con lo dispuesto por la ley 160 de 1994 y las demás normas que la modifiquen, sustituyan o adicionen. Los desplazados por la violencia y los involucrados en programas de erradicación de cultivos ilícitos tendrán prioridad para la adjudicación. 
+
+PARAGRAFO 2o. Los bienes y recursos que se encuentren dentro de la jurisdicción del Departamento Archipiélago de San Andrés, Providencia y Santa Catalina, y cuya extinción de dominio se haya decretado conforme a la ley, serán asignados por el Consejo Nacional de Estupefacientes al Instituto de Tierras del Archipiélago, para el cumplimiento de sus fines, consagrados en la legislación correspondiente.
+
+## art:83 — ADMINISTRACION DE BIENES
+
+<Decreto INEXEQUIBLE> Los bienes objeto de comiso, decomiso, incautación y demás medidas en procesos penales por delitos de narcotráfico y conexos, así como aquellos con medida provisional decretada en proceso de extinción de dominio, serán administrados por la Dirección Nacional de Estupefacientes. 
+
+Previo avalúo de los mismos, cuando se trate de bienes de género, fungibles o muebles automotores, la Dirección Nacional de Estupefacientes, procederá a su enajenación en condiciones de mercado, a través de mecanismos de oferta pública que garanticen la participación en igualdad de condiciones, y la posibilidad de ofrecer los bienes de manera individual o agrupados de acuerdo con el género o naturaleza de los mismos. El producto de tal enajenación ingresará al Fondo para la Rehabilitación, Inversión Social y la Lucha Contra el Crimen Organizado, con el fin de ser destinados en los términos del artículo 26 de la Ley 333 de 1996. Cuando la medida adoptada sobre el bien sea provisional, el producto de la enajenación ingresará al Fondo en una subcuenta especial para el respectivo reconocimiento del valor del bien en caso de que se ordene la devolución del mismo. 
+
+Igualmente podrá la Dirección Nacional de Estupefacientes realizar encargos fiduciarios con o sin constitución de patrimonio autónomo, con entidades dedicadas a ello y vigiladas por el Estado para la administración de bienes, con el fin de mantener la productividad de los mismos y la generación de empleo. 
+
+En el evento en que los bienes hubiesen sido enajenados y se ordenare su devolución mediante sentencia judicial debidamente ejecutoriada, el Fondo reconocerá el precio de la venta con actualización de su valor, sin perjuicio de las acciones consagradas en la Ley. 
+
+Los bienes culturales e históricos serán asignados a las entidades estatales pertinentes para los efectos consagrados en la legislación sobre la materia. 
+
+PARAGRAFO. Corresponderá al Consejo Nacional de Estupefacientes determinar en adición a las categorías de bienes de que trata el inciso segundo del presente artículo, aquellos que serán susceptibles de enajenación, la oportunidad y el procedimiento más conveniente frente a los principios de transparencia, celeridad, eficacia, productividad, economía y moralidad. En tal caso éstos recibirán el mismo tratamiento establecido en el presente artículo.
+
+## art:84 — EXAMEN PARA EL EJERCICIO DEL OFICIO DE TRADUCTOR E INTÉRPRETE OFICIAL
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 4o. del Decreto 382 de 1951, el cual quedará así: 
+
+"Artículo 4o. Toda persona que aspire a desempeñar el oficio de traductor e intérprete oficial deberá aprobar los exámenes que sobre la materia disponga la Universidad Nacional de Colombia. 
+
+El documento que expida la Universidad Nacional en que conste la aprobación del examen correspondiente, esto es, la idoneidad para el ejercicio del oficio, y su registro en el Ministerio de Relaciones Exteriores, constituye licencia para desempeñarse como traductor e intérprete oficial. 
+
+PARAGRAFO TRANSITORIO. Las licencias expedidas con anterioridad a la entrada en vigencia del presente Decreto continuarán vigentes. 
+
+Quienes a la fecha de entrada en vigencia del presente Decreto hayan aprobado el examen para acreditar la calidad de Intérprete o Traductor Oficial, y no haya solicitado la licencia respectiva ante el Ministerio de Justicia y del Derecho, se regirán por lo establecido en el presente decreto".
+
+## art:85 — SUPRESIÓN DE LA LICENCIA QUE HABILITA PARA DESEMPEÑAR EL CARGO DE INTÉRPRETE OFICIAL EXPEDIDA POR EL MINISTERIO DE JUSTICIA
+
+<Decreto INEXEQUIBLE> Deróganse los artículos 3, 5, 6, 7, 8, y 9 del Decreto 382 de 1951.
+
+## art:86 — ESTADISTICAS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 39 de la Ley 228 de 1995, el cual quedará así: 
+
+"Artículo 39. Estadísticas. Dentro de los primeros cinco (5) días hábiles de cada mes, los jueces penales y promiscuos municipales, así como los de circuito, deberán presentar un informe al Consejo Seccional de la Judicatura correspondiente a las actuaciones adelantadas en desarrollo de la presente ley, durante el mes calendario inmediatamente anterior. 
+
+Dicho informe servirá para desarrollar investigaciones sobre delincuencia y criminalidad, para lo cual el Consejo Superior de la Judicatura establecerá el formato con sujeción al cual deberá elaborarse. 
+
+El incumplimiento de la obligación prevista en el presente artículo constituirá falta disciplinaria."
+
+## art:87 — DE LA PRUEBA DE NACIONALIDAD
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 3o. de la Ley 43 de 1993, el cual quedará así: 
+
+"Artículo 3o. De la prueba de nacionalidad. Para todos los efectos legales se considerarán como pruebas de la nacionalidad colombiana, la cédula de ciudadanía expedida por la Registraduría Nacional del Estado Civil o el registro civil, para los menores de 18 años acompañado de la prueba del domicilio cuando sea el caso. 
+
+PARAGRAFO. Sin embargo, las personas que han cumplido con las condiciones establecidas en el artículo 96 de la Constitución Política para ser colombianos por nacimiento y no se les haya expedido los documentos que prueban la nacionalidad, de conformidad con lo señalado en el presente artículo, podrán, únicamente para efectos de renunciar a la nacionalidad colombiana, presentar la respectiva solicitud acompañada de la documentación que permita constatar el cumplimiento de los requisitos exigidos en el citado artículo de la Constitución Política."
+
+## art:88 — DE LA ADQUISICION DE LA NACIONALIDAD COLOMBIANA
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 5o. de la Ley 43 de 1993, el cual quedará así: 
+
+"Artículo 5o. Requisitos para la adquisición de la nacionalidad colombiana por adopción. 
+
+Sólo se podrá expedir carta de naturaleza o resolución de autorización: 
+
+a) A los extranjeros a que se refiere el literal a) del numeral 2o. del artículo 96 de la Constitución Política que durante los 5 años inmediatamente anteriores a la fecha de presentación de la solicitud hayan estado domiciliados en el país en forma continua. En el evento en que los mencionados extranjeros se encuentren casados con nacional colombiano, el término de domicilio continuo se reducirá a dos años, los cuales se contarán desde la fecha de presentación de la solicitud. 
+
+b) A los latinoamericanos y del caribe por nacimiento que durante el año inmediatamente anterior a la fecha de presentación de la solicitud, hayan estado domiciliados en el país en forma continua, teniendo en cuenta el principio de reciprocidad mediante tratados internacionales vigentes. 
+
+PARAGRAFO 1o. Las anteriores disposiciones se aplicarán sin perjuicio de lo que sobre el particular se establezcan sobre nacionalidades en tratados internacionales en los que Colombia sea parte. 
+
+PARAGRAFO 2o. Para efectos de este artículo entiéndese que los extranjeros están domiciliados cuando el Gobierno Nacional les expide la respectiva Visa de Residente. Por lo tanto, los términos de domicilio exigidos se contarán a partir de la expedición de la citada Visa."
+
+## art:89 — INTERRUPCION
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 6o. de la Ley 43 de 1993, modificado por el Artículo 77 del Decreto 2150 de 1995, el cual quedará así. 
+
+"Artículo 6o. Interrupción de domicilio. La ausencia de Colombia por un término igual o superior a un (1) año, interrumpe el periodo de domicilio continuo exigido en el artículo anterior. 
+
+Unicamente el Presidente de la República con la firma del Ministro de Relaciones Exteriores podrá reducir o exonerar el término de domicilio previsto en los literales a), b) y c) del artículo anterior, cuando a su juicio se considere de conveniencia para Colombia. Así mismo, podrá eximir de la presentación de los requisitos señalados en los numerales 2, 3, 4, 6 y 7 referentes a la documentación de que trata el reformado artículo 9o. de la Ley 43 de 1993."
+
+## art:90 — DOCUMENTACION
+
+<Decreto INEXEQUIBLE> Modifícase lo dispuesto en los numerales 2 y 5 artículo 9o. de la Ley 43 de 1993, reformado por el artículo 79 del Decreto 2150 de 1995, por lo tanto este artículo quedará así: 
+
+"Artículo 9o. Documentación. Para la expedición de la Carta de Naturaleza o Resolución de Inscripción como colombianos por adopción, el extranjero deberá presentar los siguientes documentos: 
+
+1. Memorial dirigido al Ministro de Relaciones Exteriores solicitando la nacionalidad colombiana, con su respectiva motivación. 
+
+2. Acreditación del conocimiento satisfactorio del idioma castellano, cuando este no fuere su lengua materna. Para los indígenas que comparten territorios fronterizos que hablen una o más de las lenguas indígenas oficiales en Colombia, no será requisito el conocimiento del idioma castellano. También se exceptúa de acreditar este requisito a quienes hayan culminado sus estudios secundarios o universitarios en el territorio colombiano. 
+
+3. Acreditación de conocimientos básicos de la Constitución Política de Colombia y conocimientos generales de la historia patria y geografía de Colombia. Se exceptúa de acreditar este requisito a quienes hayan culminado sus estudios secundarios o universitarios en Colombia. 
+
+4. Acreditación de profesión, actividad u oficio que ejerce en Colombia con certificación expedida por autoridad competente. 
+
+5. Acreditación mediante documento idóneo del lugar y fecha de nacimiento del solicitante. 
+
+6. Registro Civil de Matrimonio válido en Colombia en caso de que el solicitante sea casado (a) con colombiana (o). 
+
+7. Registro de nacimiento de los hijos nacidos en Colombia, si es el caso. 
+
+PARAGRAFO 1o. El peticionario que no pueda acreditar algunos de los requisitos señalados en este artículo, deberá acompañar a la solicitud de nacionalización una carta explicativa de los motivos que le impiden hacerlo, dirigida al Ministro de Relaciones Exteriores quien a su juicio considerará el autorizar la presentación de las pruebas supletorias del caso. 
+
+PARAGRAFO 2o. Las personas que obtengan la nacionalidad colombiana por adopción definirán su situación militar conforme a la legislación nacional."
+
+## art:91 — INFORME SOBRE EL SOLICITANTE
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 10 de la Ley 43 de 1993, el cual quedará así: 
+
+"Artículo 10. Informe sobre el solicitante. El Ministerio de Relaciones Exteriores podrá solicitar a la autoridad oficial respectiva, la información necesaria para tener un conocimiento completo sobre los antecedentes, actividades del solicitante y demás informaciones pertinentes para los fines previstos en esta ley. El Ministerio solicitará al Departamento Administrativo de Seguridad - DAS información sobre las actividades del extranjero, si este posee antecedentes judiciales y cualquier otro dato que esta entidad considera importante. En todo caso, el informe deberá contener la información que suministre la respectiva Oficina Internacional de Policía - INTERPOL. El informe remitido por el Departamento Administrativo de Seguridad - DAS será reservado. En el evento que el concepto no sea satisfactorio, el Ministerio de Relaciones Exteriores podrá, sin necesidad de trámite adicional, negar la solicitud de nacionalidad.
+
+## art:92 — INFORMACION SOBRE CONTRIBUYENTES
+
+<Decreto INEXEQUIBLE> La Dirección de Impuestos y Aduanas Nacionales DIAN no podrá requerir informaciones y pruebas que le hayan sido suministradas previamente por la misma persona.
+
+## art:93 — REQUISITO DE REGISTRO Y PERMISO EN INSCRIPCIÓN DE EMISIÓN DE BONOS
+
+<Decreto INEXEQUIBLE> Sin perjuicio de la obligación de inscribir el respectivo valor en el Registro Nacional de Valores y de solicitar la autorización de la oferta pública correspondiente, cuando sea del caso, las emisiones de bonos que efectúen las entidades sometidas a control exclusivo de la Superintendencia de Valores no requerirán ninguna autorización especial. No obstante, la entidad emisora deberá cumplir con las obligaciones de suministro de información eventual a que haya lugar de conformidad con las normas establecidas para el efecto.
+
+## art:94 — PORTAFOLIO DE INVERSIONES DE LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES
+
+<Decreto INEXEQUIBLE> Modifícase el Inciso primero del artículo 100 de la Ley 100 de 1993, el cual quedará así: 
+
+"Con el fin de garantizar la seguridad, rentabilidad y liquidez de los recursos del sistema, las administradoras los invertirán en las condiciones y con sujeción a los límites que para el efecto establezca el Gobierno a través de la Superintendencia Bancaria."
+
+## art:95 — INSCRIPCION DE ACCIONES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 5o. de la Ley 422 de 1998, el cual quedará así: 
+
+"Artículo 5o. Las sociedades privadas y mixtas de que trata el artículo 3o. de la ley 37 de 1993, deben ser sociedades anónimas. Las sociedades privadas deben inscribir sus acciones en una bolsa de valores nacional. La Superintendencia Nacional de Valores vigilará lo dispuesto en el presente artículo".
+
+## art:96 — TERMINO PARA LA EMISION DEL CONCEPTO TOXICOLOGICO
+
+<Decreto INEXEQUIBLE> De acuerdo con lo establecido en el artículo 137 de la Ley 9 de 1979, una vez entregada la solicitud para que se conceda el concepto toxicológico para la obtención del registro de venta de plaguicidas, con el cumplimiento de toda la documentación y de los requisitos legales previstos para tal efecto, la autoridad competente deberá emitir el concepto en un término máximo treinta (30) días contados a partir de la fecha de la presentación de la solicitud.
+
+## art:97 — REVISION DE PENSIONES DE INVALIDEZ
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 44 de la Ley 100 de 1993, el cual quedará así: 
+
+"Revisión de las Pensiones de Invalidez. El estado de invalidez podrá revisarse: 
+
+a) Por solicitud de la entidad de previsión o seguridad social correspondiente o de la entidad responsable del pago de la pensión cada dos años, con el fin de ratificar, modificar o dejar sin efectos el dictamen que sirvió de base para la liquidación de la pensión que disfruta su beneficiario y proceder a la extinción, disminución o aumento de la misma, si a ello hubiere lugar. En todo caso deberá procederse a la revisión después de los primeros tres años de otorgada. 
+
+Este nuevo dictamen se sujeta a las reglas de los artículos anteriores. 
+
+El pensionado tendrá un plazo de un mes contado desde la fecha en que le sea notificada personalmente o enviada la notificación correspondiente a su domicilio mediante correo certificado, para someterse a la respectiva revisión del estado de invalidez. Si no se presenta o impide la revisión dentro de dicho plazo, la entidad correspondiente ordenará la suspensión del pago de dicha pensión, y sólo la reanudará en concordancia con los resultados de la revisión cuando esta sea debidamente practicada, previa justificación de la no comparencia oportuna o el no sometimiento a la revisión por causa de fuerza mayor debidamente comprobada. Transcurridos doce (12) meses contados desde la misma fecha sin que el pensionado se presente o permita el examen, la respectiva pensión quedará extinguida. Para readquirir el derecho en forma posterior, el afiliado que alegue permanecer inválido deberá someterse a un nuevo dictamen. Los gastos de este nuevo dictamen serán pagados por el afiliado; 
+
+b) Por solicitud del pensionado en cualquier tiempo y a su costa.
+
+## art:98 — AMBITO TERRITORIAL DEL POS
+
+<Decreto INEXEQUIBLE> Modifícase el parágrafo 2o. del artículo 162 de la Ley 100 de 1993, el cual quedará así: 
+
+"Paragrafo 2o. Los servicios de salud incluidos en el plan obligatorio de salud serán actualizados por el Consejo Nacional de Seguridad Social en Salud, de acuerdo con los cambios en la estructura demográfica de la población, el perfil epidemiológico nacional, la tecnología apropiada disponible en el país y las condiciones financieras del sistema. 
+
+Con el objeto de evitar la desviación de recursos de la seguridad social y conductas de fraude, para efecto del trámite de reclamación de las prestaciones de Plan Obligatorio de Salud de los afiliados, se establece que éstas se prestarán en el territorio nacional "conforme a la tecnología apropiada disponible en el país" según se dispone en el artículo 162 de la ley 100 de 1993, y teniendo en cuenta el principio previsto en virtud del cual la esencia de un derecho prestacional limita su acción en la razonable capacidad de los poderes público y ocasionalmente de los particulares. Las EPS deben prestar el Plan Obligatorio de Salud dentro de los parámetros que el mismo Estado ha fijado. 
+
+En situaciones excepcionales, cuando esté de por medio el derecho a la vida, se autorizará mediante trámite especial que definirá el Consejo Nacional de Seguridad Social, conforme su competencia, la prestación del servicio de salud por fuera del POS definido por ese organismo y obligatorio para todas las entidades promotoras de salud, cualquiera que sea su naturaleza, en Colombia o excepcionalmente en el exterior, por limitaciones de la tecnología nacional, siempre que la atención en el país no sea posible, no se trate de tratamientos experimentales, que en ningún caso serán procedentes, y se ajusten a las situaciones y procedimientos que para el efecto reglamente el Consejo Nacional de Seguridad Social en Salud. 
+
+Para este efecto las prestaciones en el exterior se deberán otorgar por entidades acreditadas y debidamente adscritas al Sistema de Seguridad Social del país correspondiente. El Ministerio de Salud o, en su caso, la EPS conforme lo defina el Consejo Nacional de Seguridad Social, tendrán la responsabilidad de escoger la entidad en el exterior que se debe hacer cargo del procedimiento. 
+
+El afiliado que requiera o adelante trámite para tratamientos, procedimientos o medicamentos por fuera del POS deberá demostrar que ha cumplido en forma plena y oportuna con sus obligaciones, conforme se dispone en las normas legales y reglamentarias. Es deber de las autoridades judiciales y administrativas velar por que esta disposición se cumpla como requisito para el ejercicio de los derechos, disponiendo las medidas que garanticen por parte del usuario el pago de las sumas que le corresponda cancelar."
+
+## art:99 — RECLAMACIONES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 6o. del Decreto Ley 1295 de 1994, el cual quedará así: 
+
+"Artículo 6. Prestación de los servicios de salud. Para la prestación de los servicios de salud a los afiliados al sistema general de riesgos profesionales, las entidades administradoras de riesgos profesionales deberán suscribir los convenios correspondientes con las entidades promotoras de salud. 
+
+El origen determina a cargo de cuál sistema general se imputarán los gastos que demande el tratamiento respectivo. El Gobierno Nacional reglamentará los procedimientos y términos dentro de los cuales se harán los reembolsos entre las administradoras de riesgos profesionales, las entidades promotoras de salud y las instituciones prestadoras de servicios de salud. 
+
+Las entidades administradoras de riesgos profesionales reembolsarán a las entidades promotoras de salud, las prestaciones asistenciales que hayan otorgado a los afiliados al sistema general de riesgos profesionales, a las mismas tarifas convenidas entre la entidad promotora de salud y la institución prestadora de servicios de salud, en forma general, con independencia a la naturaleza del riesgo. Sobre dichas tarifas se liquidará una comisión a favor de la entidad promotora que será reglamentada por el Gobierno Nacional, y que en todo caso no excederá al 10%, salvo pacto en contrario entre las partes. 
+
+Corresponde a las Administradoras de Riesgos Profesionales verificar cuándo se está en presencia de una enfermedad profesional o de un accidente de trabajo, frente a las reclamaciones que presenten las entidades promotoras de salud. Las entidades promotoras de salud, deberán presentar las reclamaciones con base en documentos que incorporen un indicio o conjunto de indicios sobre el nexo de causalidad necesario entre la patología del accidente de trabajo o la enfermedad profesional. 
+
+Las administradoras de riesgos profesionales contarán con un plazo máximo de sesenta (60) días calendario para cumplir plenamente con su responsabilidad. En caso de que existan dudas sobre el origen o fecha de estructuración, se acudirá a la Junta de Calificación de Invalidez, que tendrá, para este efecto, un plazo máximo de sesenta días calendario para emitir su dictamen. El costo de los honorarios de la Junta deberá ser asumido, en primera instancia, por la administradora de riesgos profesionales. No obstante, si finalmente se determina el origen con enfermedad general o accidente común la entidad promotora de salud deberá reembolsar el costo de los honorarios mencionados a la Administradora de Riesgos Profesionales. 
+
+Las instituciones prestadoras de servicios de salud serán solidariamente responsables por la pérdida o disminución de los derechos asistenciales y prestacionales del trabajador. De igual manera lo serán las personas o empresas públicas y privadas que oculten el accidente de trabajo o la enfermedad profesional o no dejen constancia de los indicios que permitan su determinación. Lo anterior, sin perjuicio de las acciones legales que tenga la EPS contra el tercero por cuenta de su omisión. 
+
+Las administradoras de riesgos profesionales deberán informar sobre la detección de la enfermedad profesional o el accidente de trabajo a la respectiva entidad promotora de salud a la que se encuentre afiliado el trabajador, dentro de los treinta días calendario a partir de la confirmación del diagnóstico. 
+
+Con el fin de preservar o mantener la salud, del trabajador afectado, la entidad administradora de riesgos profesionales está obligada en todo tiempo a suministrar la información y las recomendaciones al empleador y a la respectiva EPS, sobre los riesgos y las condiciones de trabajo específicas, con el objeto de que se tomen las medidas y correctivos necesarios. 
+
+Hasta tanto no opere el sistema general de seguridad social en salud, mediante la subcuenta de compensación del fondo de solidaridad y garantía, las entidades administradoras podrán celebrar contratos con instituciones prestadoras de servicios de salud en forma directa; no obstante se deberá prever la obligación por parte de las entidades administradoras, al momento en que se encuentre funcionando en la respectiva región las entidades promotoras de salud, el contratar a través de éstas cuando estén en capacidad de hacerlo. 
+
+Para efectos de procedimientos de rehabilitación las administradoras podrán organizar o contratar directamente en todo tiempo la atención del afiliado, con cargo a sus propios recursos. 
+
+Finalmente, las entidades administradoras podrán solicitar a la entidad promotora de salud la adscripción de instituciones prestadoras de servicios de salud. En este caso, la entidad administradora de riesgos profesionales asumirá el mayor valor de la tarifa que la institución prestadora de servicios de salud cobre por sus servicios, diferencia sobre la cual no se cobrará la suma prevista en el inciso cuarto de este artículo. 
+
+PARAGRAFO. La prestación de servicio de salud se hará en las condiciones medias de calidad que determine el Gobierno Nacional, y utilizando para este propósito la tecnología disponible en el país."
+
+## art:100 — NEGOCIACION Y PAGO DE BONOS PENSIONALES
+
+<Decreto INEXEQUIBLE> Modifícase el inciso 5o. del artículo 4o. de la Ley 490 de 1998, el cual quedará así: 
+
+"La Nación podrá pagar por cuenta de las entidades territoriales las cuotas obligatorias cuando existan obligaciones recíprocas de pago de cuotas partes pensionales entre entidades del orden nacional y entidades territoriales; procederá la compensación de las mismas mediante convenios en los términos del Código Civil sin perjuicio que por acuerdo de las partes puedan compensar dichas obligaciones de pagar cuotas partes entre ellas. Al respecto las entidades públicas deberán establecer los valores que por dicho concepto existen a favor y en contra de ellas, de tal manera que sólo se pague el saldo".
+
+## art:101 — RECONOCIMIENTO DE PENSIONES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 24 del decreto 1299 de 1994, el cual quedará así: 
+
+"Artículo 24. Corresponderá al Ministerio de Hacienda y Crédito Público el reconocimiento, liquidación, emisión y pago de los bonos pensionales y cuotas partes a cargo de la Nación, y el reconocimiento y liquidación de pensiones causadas que deban ser asumidas por el fondo de pensiones públicas del nivel nacional. 
+
+Para tal finalidad se crea en la dirección general del tesoro nacional la oficina de obligaciones pensionales que tendrá como función desarrollar las actividades relacionadas con el reconocimiento, liquidación y emisión de bonos pensionales y cuotas partes a cargo de la Nación, y el reconocimiento y liquidación de pensiones causadas que deban ser asumidas por el fondo de pensiones públicas del nivel nacional. El desarrollo de estas funciones y la realización de todos los trámites necesarios, podrá contratarse con entidades públicas o privadas o personas naturales. 
+
+Para facilitar la efectiva emisión de los bonos pensionales, las controversias de carácter técnico que se susciten entre emisores, contribuyentes y administradores en asuntos tales como la aplicación de fórmulas, el valor del bono o los métodos utilizados para su cálculo serán dirimidos por la Oficina de Obligaciones Pensionales del Ministerio de Hacienda y Crédito Público. 
+
+La Oficina de Obligaciones Pensionales en las cuales sea parte de las controversias a que se refiere este artículo, emitirá los bonos y cuotas partes sin acudir al procedimiento indicado, sin perjuicio de las acciones de vía gubernativa o judiciales que correspondan. 
+
+Para el reconocimiento de pensiones no será necesario el pago del bono pensional. En todo caso será necesario que el bono haya sido expedido y que se hayan constituido las garantías que exijan las normas correspondientes, de acuerdo con las condiciones que establezca el Gobierno Nacional. 
+
+Lo aquí dispuesto se aplicará a todo tipo de bono pensional. 
+
+El pago de los bonos pensionales estará a cargo de la Tesorería General de la Nación y el de pensiones a cargo del fondo de pensiones públicas del nivel nacional. 
+
+PARAGRAFO 1o. Las funciones contempladas en el presente artículo serán realizadas por las entidades que tenían a su cargo el reconocimiento de las pensiones, hasta tanto se organice la oficina de obligaciones pensionales prevista en el mismo y a más tardar el 1o. de marzo de 1995. 
+
+PARAGRAFO 2o. El Ministerio de Hacienda y Crédito Público modificará su planta con el fin de crear los cargos necesarios para el ejercicio de estas funciones. 
+
+PARAGRAFO 3o. Las entidades territoriales emitirán los bonos pensionales a través de la unidad que para el efecto determine su gobierno local. Corresponderá a estas unidades la expedición de los bonos de las entidades del nivel territorial referidas en el artículo 23 del presente decreto que sean sustituidas por los fondos de pensiones públicas correspondientes".
+
+## art:102 — DETERMINACION DE LA PERDIDA DE CAPACIDAD LABORAL Y GRADO DE INVALIDEZ
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 41 de la Ley 100 de 1993, el cual quedará así: 
+
+"Artículo 41. El estado de invalidez será determinado de conformidad con lo dispuesto en los artículos siguientes y con base en el manual único para la calificación de la invalidez, expedido por el Gobierno Nacional, que deberá contemplar los criterios técnicos de evaluación, para calificar la imposibilidad que tenga el afectado para desempeñar su trabajo por pérdida de la capacidad laboral. 
+
+Corresponde al Instituto de Seguros Sociales, a las Administradoras de Riesgos Profesionales ARP, a las Compañías de Seguros que asumen el riesgo de invalidez y muerte, a las Entidades Promotoras de Salud EPS, determinar en primera oportunidad la pérdida de capacidad laboral y calificar el grado de invalidez y el origen de las contingencias. En caso de que el interesado no esté de acuerdo con la calificación, dentro de los cinco (5) días siguientes a la comunicación, se acudirá a las Juntas de Calificación de Invalidez del orden regional, cuya decisión será apelable ante la Junta Nacional. Contra dichas decisiones proceden las acciones legales. 
+
+El acto que declara la invalidez que expida cualquiera de aquellas entidades, deberá contener expresamente los fundamentos de hecho y de derecho que dieron origen a esta decisión, así como la forma y oportunidad que el interesado pueda solicitar la calificación por parte de la junta regional y la facultad de recurrir esta calificación ante la Junta Nacional. 
+
+Cuando la incapacidad declarada por una de las entidades arriba mencionadas (ARP, aseguradoras o ISS) sea inferior en no más de un 10% a los límites que califican el grado de invalidez y que implican cambios en el monto de la prestación tendrá que acudirse en forma obligatoria a la Junta Regional de Calificación de Invalidez por cuenta de la entidad."
+
+## art:103 — CONTRATACION DE APRENDICES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 1 del Decreto Ley 2838 de 1960, el cual quedará así: 
+
+"Artículo 1. Los empleadores de todas las actividades económicas, con excepción de los del sector de la construcción, con capital suscrito y pagado igual o superior a doscientos (200) salarios mínimos legales mensuales y que ocupen un número de trabajadores permanentes no inferior a diez (10), están obligados a contratar aprendices, para los oficios que requieran formación profesional metódica y completa en un número que no podrá ser superior al cinco por ciento (5%) del total de sus trabajadores. 
+
+La obligación de contratar aprendices deberá cumplirse sin perjuicio de la regulación de la cuota respectiva que para cada empresa haga el Servicio Nacional de Aprendizaje SENA. 
+
+La regulación de la cuota de aprendices se efectuará de acuerdo con las disponibilidades de formación profesional existentes en el país y teniendo en cuenta las necesidades de mano de obra calificada. En el análisis ocupacional se tendrá en cuenta el total de trabajadores calificados permanentes de la empresa. 
+
+PARAGRAFO 1o. Las fracciones de unidad en el cálculo que se precisa en este artículo, darán lugar a la contratación de un aprendiz. 
+
+PARAGRAFO 2o. Cuando el contrato de aprendizaje termine por cualquier causa, el empleador deberá reemplazar al aprendiz para conservar la proporción que le haya sido regulada. 
+
+PARAGRAFO 3o. Cuando el empleador tenga cobertura en dos o más departamentos, se regulará la cuota mediante el procedimiento de concertación.
+
+## art:104 — LISTAS PERIODICAS PARA LA CONTRATACION DE APRENDICES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 3 del Decreto Ley 2838 de 1960 así: 
+
+"Artículo 3. Los empleadores sólo podrán contratar aprendices para los oficios u ocupaciones que figuren en las listas que periódicamente publique el Servicio Nacional de Aprendizaje".
+
+## art:105 — SUPRESIÓN DEL REQUISITO DE AUTORIZACIÓN PARA LA CONTRATACIÓN DE APRENDICES A EMPLEADORES PARA LOS OFICIOS QUE REQUIEREN FORMACIÓN PROFESIONAL METÓDICA Y COMPLETA
+
+<Decreto INEXEQUIBLE> Derógase el artículo 2o. de Decreto Ley 2838 de 1960.
+
+## art:106 — <MODIFICACIONES DE LAS LISTAS DE OFICIOS SUJETAS AL APRENDIZAJE>
+
+<Decreto INEXEQUIBLE> Supresión de la solicitud del Consejo Nacional del Servicio de Aprendizaje ante el Ministerio de Trabajo con relación a modificaciones o revisiones de las listas de oficios u ocupaciones sujetas al aprendizaje y de la duración de los respectivos contratos. Derógase el artículo 4o. del Decreto 2838 de 1960.
+
+## art:107 — SUPRESIÓN DE LA INSCRIPCIÓN DE EMPRESAS DE ALTO RIESGO ANTE LA DIRECCIÓN DE RIESGOS PROFESIONALES DEL MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL
+
+<Decreto INEXEQUIBLE> Derógase el artículo 64 del Decreto 1295 de 1994.
+
+## art:108 — ELIMINACIÓN DE TRÁMITES RELATIVOS A LAS EMPRESAS ASOCIATIVAS DE TRABAJO
+
+<Decreto INEXEQUIBLE> Derógase el inciso 2o. del artículo 25 de la ley 10 de 1991.
+
+## art:109 — SUPRESIÓN DE LA INSCRIPCIÓN DE EMPRESAS CONSIDERADAS DE ALTO RIESGO EN LAS DIRECCIONES REGIONALES Y SECCIONALES DEL MINISTERIO DE TRABAJO Y SEGURIDAD SOCIAL
+
+<Decreto INEXEQUIBLE> Derógase el artículo 116 del Decreto 2150 de 1995.
+
+## art:110 — DEROGATORIAS
+
+<Decreto INEXEQUIBLE> Derógase el artículo 12 del decreto 1650 de 1977 modificado por la ley 20 de 1987.
+
+## art:111 — REFORMAS ESTATUTARIAS Y PLANES DE PREPAGO
+
+<Decreto INEXEQUIBLE> Modifícase el literal a, del numeral 12 del artículo 14 del Decreto Ley 1259 de 1.994, el cual quedará así: 
+
+"a. Evaluar los reglamentos de emisión y colocación de acciones y de bonos. Las reformas a los estatutos no requerirán autorización previa, sin perjuicio de las autorizaciones especiales que estas entidades deben otorgar de acuerdo con sus facultades. No obstante, las reformas estatutarias deberán ser informadas al organismo correspondiente tan pronto sean aprobadas, para el cumplimiento de sus funciones de inspección y control y, si fuera el caso, ésta podrá ordenar las modificaciones respectivas cuando se aparten de la ley¯.
+
+## art:112 — PLANES DE MEDICINA PREPAGADA
+
+<Decreto INEXEQUIBLE> Modifícase el literal c, del numeral 12 del artículo 14 del Decreto Ley 1259 de 1.994, el cual quedará así: 
+
+"c. Aprobar los planes y contratos de medicina prepagada en un plazo no mayor a treinta (30) días hábiles contados a partir de la fecha de su solicitud, sin perjuicio de los regímenes de autorización general o especial que le corresponde expedir. Cuando se trate de planes que busquen el otorgamiento o concesión de prestaciones adicionales permanentes a las contenidas en los contratos celebrados con los usuarios, no requerirán autorización previa siempre que tales beneficios no impliquen desmejora o gravamen alguno para los usuarios y la entidad esté habilitada legalmente para otorgarlos. La entidad de medicina prepagada deberá informar a los usuarios las variaciones en el plan contratado".
+
+## art:113 — LICENCIAS PARA CERRAMIENTOS DE OBRA Y REPARACIONES LOCATIVAS
+
+<Decreto INEXEQUIBLE> Se eliminan las licencias para cerramientos de obra y para reparaciones locativas. En todo caso las autoridades podrán intervenir las obras que amenacen riesgo social o vulneren derechos ciudadanos, o que afecten normas urbanísticas o de construcción, mediante la aplicación de las medidas correctivas y sanciones establecidas por la ley 388 de 1997.
+
+## art:114 — PROCEDIMIENTO PARA LA ADOPCIÓN DE DECISIONES EN MATERIA DE PROTECCIÓN DEL CONSUMIDOR
+
+<Decreto INEXEQUIBLE> Para el cumplimiento de las funciones relacionadas con protección de los consumidores que se inicien a partir de la vigencia del presente decreto, la Superintendencia de Industria y Comercio seguirá el siguiente procedimiento: 
+
+1. Una vez se encuentre que existen motivos suficientes para continuar con el trámite, se abrirá la investigación en contra del presunto infractor para que en el término de 15 días aporte y/o solicite las pruebas que pretenda hacer valer. Vencido el término anterior, dentro de los 5 días siguientes el denunciante podrá aportar y/o solicitar las pruebas que pretenda hacer valer respecto de los hechos nuevos. 
+
+2. La Superintendencia ordenará y practicará las pruebas conducentes, pertinentes y procedentes. Los gastos que ocasione la práctica de pruebas serán a cargo de quien las pidió y, si se decretan de oficio, el costo se distribuirá en cuotas iguales entre las partes. 
+
+3. En este y los demás procedimientos administrativos y jurisdiccionales que se adelanten ante la Superintendencia de Industria y Comercio, esta Entidad podrá comisionar la práctica de pruebas a autoridades jurisdiccionales competentes por razón del territorio en el que se deban realizar. La decisión sobre la práctica de pruebas se comunicará mediante oficio dirigido a las partes. 
+
+4. Concluida la práctica de pruebas, mediante estado se dará traslado a las partes por el término de cinco días, para que expresen sus opiniones. 
+
+5. De no mediar respuesta a la solicitud de explicaciones, la Superintendencia de Industria y Comercio decidirá con base en los hechos denunciados. La Superintendencia determinará la forma de hacer efectiva la garantía de acuerdo con la naturaleza del bien o servicio, por parte del productor o del expendedor, y adoptará las medidas que se requieran para su efectividad. 
+
+6. La Superintendencia de Industria y Comercio podrá en cualquier momento solicitar explicaciones nuevas o adicionales al investigado o demandado. 
+
+7. En cualquier estado de la actuación, incluso en el trámite del recurso, procederá el cierre y archivo de la actuación en lo referente a la petición de efectividad de garantía, cuando se acredite que la misma ha sido debidamente satisfecha. 
+
+8. El procedimiento ante los operadores y en la Superintendencia de Industria y Comercio para la defensa de los usuarios y suscriptores del servicio de telefonía móvil celular y de los demás servicios no domiciliarios de telecomunicaciones, incluidos los casos de uso del espectro electromagnético a través de la línea fija para tener acceso a un servicio no domiciliario de telecomunicaciones, se sujetará a lo dispuesto en la ley 142 de 1994 y las normas que lo modifiquen o adicionen. Los trámites ya iniciados al entrar en vigencia se adelantarán y terminarán según la norma vigente al momento de su iniciación. 
+
+PARAGRAFO. La Superintendencia de Industria y Comercio rechazará las peticiones de efectividad de garantía presentadas por quienes no sean destinatarios finales de los bienes o servicios de que se trate. 
+
+La Superintendencia de Industria y Comercio podrá ejercer directamente las funciones a las que se refieren los literales f) y h) del artículo 43 del decreto 3466 de 1982 en cualquier parte del país, cuando a su juicio las condiciones del caso lo requieran. 
+
+Las peticiones de efectividad de la garantía mínima de idoneidad y calidad de todo bien y servicio comprenderán también la entrega oportuna del bien o servicio.
+
+## art:115 — LABORATORIOS ACREDITADOS PARA EMPRESAS PRESTADORAS DE SERVICIOS PÚBLICOS DOMICILIARIOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 33 del Decreto 2269 de 1993, el cual quedará así: "La Superintendencia de Industria y Comercio señalará los casos y condiciones en que las empresas prestadoras de servicios públicos domiciliarios deberán contar con laboratorios de metrología acreditados por esta Superintendencia".
+
+## art:116 — ELIMINACIÓN DE LA OBLIGACIÓN DE FIJAR LOS PRECIOS MÁXIMOS AL PÚBLICO POR PARTE DEL PRODUCTOR
+
+<Decreto INEXEQUIBLE> Derógase el inciso 2o. del artículo 18 del Decreto 3466 de 1982.
+
+## art:117 — SISTEMA DE FIJACION DE PRECIOS EN LOS BIENES MISMOS
+
+<Decreto INEXEQUIBLE> Modifícase el inciso primero del artículo 20 del Decreto 3466 de 1982, el cual quedará así: "Se entiende por sistema de fijación de precios en los bienes mismos la indicación que de dichos precios hagan los proveedores o expendedores en el empaque, el envase o el cuerpo del bien o en etiquetas adheridas a cualquiera de ellos".
+
+## art:118 — PRONUNCIAMIENTO DE LA SUPERINTENDENCIA SOBRE INTEGRACIONES EMPRESARIALES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 4 de la Ley 155 de 1959, el cual quedará así: 
+
+"Artículo 4. La Superintendencia de Industria y Comercio deberá pronunciarse sobre la fusión, consolidación, integración y adquisición del control de empresas que conjuntamente atiendan el 25% o más del mercado respectivo o cuyos activos superen una suma equivalente a veinte mil* (50.000) salarios mínimos legales mensuales vigentes, en los casos exigidos por las normas sobre prácticas comerciales restrictivas. Además de las causales previstas en las normas vigentes, las operaciones deberán objetarse cuando sean el medio para obtener posición de dominio en el mercado."
+
+## art:119 — DOCUMENTACION REQUERIDA
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 9 de Decreto 1302 de 1964, el cual quedará así: 
+
+"Artículo 9: La Superintendencia de Industria y Comercio señalará de manera general los documentos y la información que sea necesaria presentar con la solicitud de estudio."
+
+## art:120 — PROCEDIMIENTO PARA LA TOMA DE DECISIONES EN PROCEDIMIENTOS DE PRÁCTICAS COMERCIALES RESTRICTIVAS Y COMPETENCIA DESLEAL
+
+<Decreto INEXEQUIBLE> Para el cumplimiento de las funciones relacionadas con promoción de la competencia y prácticas comerciales restrictivas, así como de las normas de competencia desleal, para todos los sectores económicos, que se inicien a partir de la vigencia del presente decreto, la Superintendencia de Industria y Comercio adelantará el siguiente procedimiento: 
+
+1. Una vez se encuentre que existen motivos suficientes para continuar con el trámite, se abrirá la investigación en contra del presunto infractor para que en el término de 15 días aporte y/o solicite las pruebas que pretenda hacer valer. 
+
+Vencido el término anterior, dentro de los 5 días siguientes el denunciante podrá aportar y/o solicitar las pruebas que pretenda hacer valer respecto de los hechos nuevos. 
+
+2. La Superintendencia ordenará y practicará las pruebas conducentes, pertinentes y procedentes. Los gastos que ocasione la práctica de pruebas serán a cargo de quien las pidió y, si se decretan de oficio, el costo se distribuirá en cuotas iguales entre las partes. 
+
+En este y en los demás procedimientos administrativos y jurisdiccionales que se adelanten ante la Superintendencia de Industria y Comercio, esta Entidad podrá comisionar la práctica de pruebas a autoridades jurisdiccionales competentes por razón del territorio en el que se deban realizar. 
+
+3. El Superintendente de Industria y Comercio podrá ordenar la terminacióin de investigaciones por prácticas comerciales restrictivas, cuando a su juicio el investigado haga un ofrecimiento idóneo de que suspenderá, modificará o no incurrirá nuevamente en la conducta por la cual se investiga y presente garantías suficientes de ello. El ofrecimiento deberá realizarse dentro del término para aportar y/o solicitar pruebas y las condiciones que el Superintendente indique, aceptarse o no, dentro de los 5 días siguientes a que lo requiera. Si el investigado no aceptare los condicionamientos que el Superintendente exprese, a la comunicación en la que exprese esa circunstancia acompañará las pruebas que pretenda hacer valer en la investigación. 
+
+En los casos de competencia desleal la terminación anticipada requerirá de la aceptación del denunciante. 
+
+4. Al finalizar el periodo probatorio, el Superintendente Delegado para la Promoción de la Competencia presentará al Superintendente de Industria y Comercio un informe motivado respecto de si ha habido o no infracción. 
+
+5. Mediante resolución motivada, se tomará la decisión que sea procedente o se ordenará el archivo de la investigación. 
+
+6. Tratándose de casos respecto de los prestadores de servicios públicos domiciliarios, se observará lo siguiente: 
+
+6.1 Tratándose de casos de competencia desleal, la Superintendencia de Industria y Comercio seguirá ejerciendo las funciones jurisdiccionales de que trata la ley 446 de 1998. 
+
+6.2 Si la práctica que se ponga en conocimiento de la Superintendencia de Industria y Comercio pudiera afectar la prestación del servicio, con la apertura de la investigación se informará a la Superintendencia de Servicios Públicos Domiciliarios para que ésta proceda, según sus funciones y facultades ordinarias, a corregir cautelarmente la situación. 
+
+6.3 En firme la decisión del Superintendente de Industria y Comercio en que se ordene la modificación o la terminación de conductas contrarias a las disposiciones de prácticas comerciales restrictivas o de competencia desleal, se correrá traslado al Superintendente de Servicios Públicos Domiciliarios a fin de que éste evalúe la necesidad de instruir al infractor sobre la forma como se debe proceder para evitar que con el desmonte se vea afectada la prestación del servicio público domiciliario. 
+
+6.4 Recibida la información de que trata el artículo 4 de la ley 155 de 1959, el Superintendente de Industria y Comercio pondrá en conocimiento al Superintendente de Servicios Públicos Domiciliarios a fin de que éste pueda, si es del caso, solicitar que la operación sea objetada en razón de los efectos que tendría sobre la prestación del servicio respectivo. 
+
+PARAGRAFO 1o. La notificación de la apertura de investigación y aquella en la cual se adopte la decisión final serán notificadas personalmente. Las demás actuaciones en el procedimiento serán notificadas por estado o casillero. 
+
+PARAGRAFO 2o. A partir de la vigencia de este decreto, para señalar los sectores básicos a que hace referencia el parágrafo del artículo 1 de la ley 155 de 1959, el Superintendente de Industria y Comercio seguirá el procedimiento previsto en el capítulo II del título I del libro primero de la parte primera del código contencioso administrativo. 
+
+PARAGRAFO 3o. Modifícase el segundo párrafo del artículo 24 del decreto 2153 de 1992 para que se lea: "El consejo asesor será un órgano auxiliar de carácter consultivo y sus opiniones no obligarán al Superintendente de Industria y Comercio. Este último podrá convocarlo cada vez que lo crea necesario y será obligatorio que lo oiga en los eventos a que se refieren los numerales 15 y 16 del artículo 4 de este decreto."
+
+## art:121 — DERECHOS DE LAS CÁMARAS DE COMERCIO POR LOS SERVICIOS QUE PRESTA
+
+<Decreto INEXEQUIBLE> El artículo 124 de la Ley 6a. de 1992, quedará así: 
+
+"El Gobierno Nacional fijará el monto de los derechos que deban sufragarse a favor de las Cámaras de Comercio por los servicios que éstas prestan relacionados con las matrículas, sus renovaciones e inscripciones de los actos, libros y documentos que la ley determine efectuar en el registro mercantil, así como el valor de los certificados que dichas entidades expidan en ejercicio de sus funciones. 
+
+Para el señalamiento de los relacionados con la obligación de la matrícula mercantil y su renovación, el Gobierno Nacional establecerá derechos diferenciales en función del monto de los activos del comerciante o de los activos vinculados al establecimiento de comercio, según sea el caso."
+
+## art:122 — DE LA FIJACION DE TARIFAS EN EL REGISTRO DE PROPONENTES
+
+<Decreto INEXEQUIBLE> Modifícase el numeral 22.8 del artículo 22 de la Ley 80 de 1993, el cual quedará así: 
+
+(..) 
+
+"22.8. Derechos de las Cámaras de Comercio por los servicios que presta. El Gobierno Nacional fijará el monto de los derechos que a favor de las Cámaras de Comercio deban sufragarse por la prestación de los servicios relacionados con la inscripción en el registro de proponentes, su renovación y actualización y por las certificaciones que se le soliciten en relación con dicho registro. Igualmente fijará el costo de la publicación del boletín de información y del trámite de impugnación de la calificación y clasificación. Para estos efectos, el Gobierno deberá tener en cuenta el costo de la operación de registro, en que incurran las Cámaras de Comercio, así como de la expedición de los certificados, de publicación del boletín de información y del trámite de impugnación".
+
+## art:123 — INSCRIPCIÓN DE ESTATUTOS, REFORMAS, NOMBRAMIENTOS DE ADMINISTRADORES, LIBROS, DISOLUCIÓN Y LIQUIDACIÓN DE LAS PERSONAS JURÍDICAS DE DERECHO PRIVADO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 42 del Decreto 2150 de 1995, el cual quedará así: 
+
+Los estatutos y sus reformas, los nombramientos de administradores, los libros, la disolución y la liquidación de las personas jurídicas formadas según lo previsto en este capítulo, se inscribirán en la Cámara de Comercio con jurisdicción en el domicilio principal de la persona jurídica en los mismos términos, derechos y condiciones previstos para el registro de actos de las sociedades comerciales. 
+
+El Gobierno Nacional fijará el monto de los derechos que deban sufragarse a favor de las Cámaras de Comercio por los servicios que prestan relacionados en este artículo. Para estos efectos, el Gobierno deberá tener en cuenta el costo de la operación de registro, en que incurran las Cámaras de Comercio, así como de la expedición de los certificados y otras operaciones que se deriven de éstas.
+
+## art:124 — PRUEBA DE LA EXISTENCIA Y REPRESENTACIÓN LEGAL DE LAS PERSONAS JURÍDICAS DE DERECHO PRIVADO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 43 del Decreto 2150 de 1995, el cual quedará así: 
+
+"Artículo 43. La existencia y la representación legal de las personas jurídicas de derecho privado a que se refiere este capítulo, se probará con certificación expedida por la Cámara de Comercio competente, la cual llevará el registro de las mismas, con sujeción al régimen previsto para las sociedades comerciales y en los mismos términos y condiciones que regulan sus servicios. 
+
+En todo caso, el control de legalidad estará a cargo de la autoridad que de conformidad con la ley ejerza las funciones de inspección, vigilancia y control sobre tales entidades.
+
+## art:125 — PATRIMONIO DE LAS CAMARAS DE COMERCIO
+
+<Decreto INEXEQUIBLE> El patrimonio de las Cámaras de Comercio como entidades sin ánimo de lucro y de naturaleza corporativa, gremial y privada, continuará constituido por: 
+
+1. El producto de los derechos a su favor por los servicios que prestan relacionados con la administración de los registros públicos, los actos, libros y demás documentos que la ley determine inscribir en los mismos y el valor de los certificados que expidan en ejercicio de sus funciones; 
+
+2. Los bienes muebles e inmuebles adquiridos desde su creación y las inversiones en bienes, servicios y demás derechos realizados a sus expensas; 
+
+3. El producto de las cuotas que el reglamento señale para los comerciantes afiliados e inscritos; 
+
+4. Los rendimientos y valorizaciones de sus bienes y rentas; 
+
+5. Los demás ingresos ordinarios previstos en el Código de Comercio. 
+
+6. Los que obtengan en ejercicio de las demás funciones públicas o por los servicios que presten de acuerdo con la ley; los reglamentos y sus estatutos.
+
+## art:126 — DESTINACION
+
+<Decreto INEXEQUIBLE> Los bienes y rentas que constituyen el patrimonio de las Cámaras de Comercio se continuarán destinando en su integridad al cumplimiento de las funciones previstas o autorizadas en el Código de Comercio y en las demás disposiciones legales, reglamentarias y estatutarias; a los actos directamente relacionados con las mismas y a los que tengan como finalidad ejercer los derechos o cumplir las obligaciones legal o convencionalmente derivados de la existencia y actividades de dichas instituciones.
+
+## art:127 — LICENCIAS
+
+<Decreto INEXEQUIBLE> Previo acuerdo entre las Cámaras de Comercio y las autoridades respectivas, toda persona con matrícula vigente en el registro mercantil podrá tramitar a través de éstas la obtención de licencias, permisos o autorizaciones que conforme a la ley exijan las autoridades distritales o municipales de su jurisdicción, para la realización de sus actividades. 
+
+Para estos efectos, es necesario que la Cámara de Comercio celebre previamente con la autoridad pública respectiva los convenios que permitan la realización de tales trámites en los cuales se determinarán los procedimientos correspondientes.
+
+## art:128 — TRANSPORTE MULTIMODAL
+
+<Decreto INEXEQUIBLE> Modifícase el artículo séptimo (7) de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 7. Para ejecutar operaciones de Transporte Multimodal nacional o internacional, el operador de Transporte Multimodal deberá estar previamente inscrito en el Registro que para el efecto establezca en el Ministerio de Transporte. Para obtener este registro, el solicitante deberá acreditar el cumplimiento de los requisitos que sobre la materia establezca el Gobierno Nacional. 
+
+Los agentes o representantes en Colombia de Operadores de Transporte multimodal extranjeros responderán solidariamente con sus representados o agenciados por el cumplimiento de las obligaciones y las sanciones que le sean aplicables por parte del Ministerio de Transporte o la autoridad competente. 
+
+En todo caso, la reglamentación a que se refiere este artículo estará sujeta a las normas internacionales adoptadas por el país y que regulen la materia."
+
+## art:129 — DIRECCION Y TUTELA
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 8o. de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 8. Bajo la suprema dirección y tutela administrativa del Gobierno Nacional a través del Ministerio de Transporte, las autoridades que conforman el Sector y el Sistema de Transporte serán las encargadas de la organización, vigilancia y control de la actividad transportadora dentro de su jurisdicción y competencia, sin perjuicio de la competencia que se asigne a otras autoridades del orden Nacional, y ejercerán sus funciones con base en los criterios de colaboración y armonía. 
+
+PARAGRAFO. El Gobierno Nacional reglamentará todo lo pertinente al transporte turístico contemplado en la Ley 300 de 1996."
+
+## art:130 — ALCANCE Y REGIMEN APLICABLE
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 9o. de la Ley 336 de 1996 el cual quedará así: 
+
+"Artículo 9. El servicio público de transporte dentro del país se prestará por empresas, personas naturales o jurídicas, legalmente constituidas de acuerdo con las disposiciones colombianas y debidamente habilitadas por la autoridad de transporte competente. 
+
+La prestación del servicio público de Transporte Internacional se regirá de conformidad con los Tratados, Convenios, Acuerdos y prácticas, celebrados o acogidos por el país para tal efecto."
+
+## art:131 — SUPRESIÓN DEL TRÁMITE DE LA HABILITACIÓN PARA OPERAR EXIGIDA A LAS EMPRESAS INTERESADAS EN PRESTAR EL SERVICIO PÚBLICO DE TRANSPORTE
+
+<Decreto INEXEQUIBLE> Deróganse el último inciso del parágrafo del artículo 11 y el artículo 12 de la Ley 336 de 1996.
+
+## art:132 — DE LA HABILITACION
+
+<Decreto INEXEQUIBLE> Sin perjuicio de lo dispuesto en el parágrafo del artículo 10o. de la Ley 336 de 1.996, para acceder a la prestación del servicio público dentro del territorio nacional, las empresas de todos los modos de transporte deberán ser habilitadas por el Estado. 
+
+El Gobierno Nacional fijará las condiciones y requisitos que deben cumplir y acreditar las empresas, para el otorgamiento de la habilitación, con el fin de garantizar el cumplimiento y desarrollo de los principios de: libertad de empresa, libre competencia, seguridad, calidad, comodidad, cubrimiento y libertad de acceso al servicio de transporte. 
+
+En los casos que según la ley o los decretos reglamentarios, no existan restricciones para rutas y frecuencias, el procedimiento de habilitación deberá garantizar el acceso al servicio, su calidad y la seguridad de los usuarios. 
+
+PARAGRAFO. El Gobierno Nacional reglamentará la habilitación para cada modo de transporte. Los prestadores del servicio público de transporte que se encuentren con Licencia de Funcionamiento tendrán doce (12) meses a partir de la fecha de la publicación de la reglamentación para acogerse a ella.
+
+## art:133 — APLICACION DE LAS NORMAS DE DERECHO PRIVADO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 13o. de la Ley 336 de 1996, el cual quedará así: 
+
+"Artículo 13. A la habilitación, así como a todos los actos de comercio de las empresas de servicio de transporte público, así como los que ejerzan sus asociados o socios, se regirán exclusivamente por las reglas de derecho privado salvo que la Constitución o la ley dispongan lo contrario. 
+
+Cuando de la realización de dichos actos o por causa de muerte, resulte que la actividad transportadora se desarrollaría por persona distinta a la que inicialmente le fue concedida la habilitación, y/ o la autorización para la prestación del servicio público de transporte, la nueva persona deberá obtener la habilitación y/o la respectiva autorización para la prestación del servicio de acuerdo con la reglamentación que para el efecto expida el Gobierno nacional".
+
+## art:134 — TERMINOS PARA DECIDIR LA HABILITACION
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 14 de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 14. En los casos en que el Gobierno Nacional exija la verificación previa de condiciones y requisitos por parte de la autoridad competente para la habilitación en cada modo de transporte, ésta dispondrá de noventa (90) días contados a partir de la fecha de presentación de la solicitud para decidir. En este caso la habilitación se concederá mediante Resolución motivada en la que se especificarán las características de la empresa y del servicio a prestar".
+
+## art:135 — VIGENCIA DE LA HABILITACION
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 15 de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 15. Sin perjuicio de las disposiciones legales contenidas en el régimen sancionatorio, la habilitación será indefinida mientras subsistan las condiciones exigidas para su otorgamiento de conformidad con las disposiciones pertinentes. 
+
+La autoridad competente podrá en cualquier tiempo de oficio o a petición de parte, verificar su cumplimiento."
+
+## art:136 — DE LA AUTORIZACIÓN PARA LA PRESTACIÓN DEL SERVICIO Y EL REGISTRO DE RUTAS Y HORARIOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 16o. de la ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 16. Sin perjuicio de lo previsto en Tratados, Acuerdos o Convenios de carácter internacional, la prestación del servicio público de transporte estará sujeta a la expedición de un permiso o a la celebración de un contrato de concesión u operación, según lo determinen los reglamentos correspondientes. 
+
+Cuando el servicio a prestar en cualquier modo no esté sujeto a rutas y horarios predeterminados el permiso se entiende otorgado con la habilitación".
+
+## art:137 — ARTICULO TRANSITORIO
+
+<Decreto INEXEQUIBLE> Las actuaciones iniciadas con anterioridad a la vigencia del presente decreto, relacionadas con las solicitudes de adjudicación de todo tipo de rutas, horarios o frecuencias, continuarán tramitándose bajo el régimen vigente al momento de presentación de la solicitud hasta tanto entre en vigor el régimen de libertad de acuerdo con lo previsto en la ley 336 de 1996.
+
+## art:138 — DETERMINACION DE LA DEMANDA
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 17 de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 17. En el transporte de pasajeros, cuando el servicio esté operando de manera regulada, será la autoridad competente la que determine las medidas conducentes a satisfacer las necesidades de movilización. Para estos efectos se basará en el estudio de demanda que presenten los interesados en prestar el servicio".
+
+## art:139 — DEL PERMISO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 18 de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 18. El permiso para prestar el servicio público de transporte es cancelable y obliga a sus beneficiarios a cumplir lo autorizado bajo las condiciones en él establecidas."
+
+## art:140 — REGULACION DEL SERVICIO
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 19 de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 19. Cuando la autoridad decida intervenir en un servicio de transporte de conformidad con la ley, para otorgar el permiso correspondiente, deberá hacerlo mediante licitación pública, en la cual se garantizará la libre concurrencia de las empresas en igualdad de condiciones y la iniciativa privada sobre creación de nuevas empresas".
+
+## art:141 — PERMISOS ESPECIALES Y TRANSITORIOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 20 de la ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 20. Dentro del territorio de su jurisdicción, las autoridades metropolitanas, distritales y/o municipales de transporte podrán expedir permisos especiales y transitorios para superar precisas situaciones de catástrofe, alteración del orden público, cualquiera que sea su causa, y para garantizar la prestación del servicio de transporte, así como para satisfacer el surgimiento de ocasionales demandas de transporte. 
+
+Para garantizar los derechos de los usuarios, el Ministerio de Transporte además de las circunstancias anteriores y en todo el territorio nacional, podrá autorizar en cualquier tiempo y en las condiciones que estime necesarias, dichos permisos especiales y transitorios. 
+
+Superadas las situaciones mencionadas, los permisos transitorios cesarán en su vigencia y la prestación del servicio quedará sujeta a las condiciones normalmente establecidas."
+
+## art:142 — EQUIPOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 22 de la ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 22. Las empresas habilitadas de servicio público de transporte podrán prestar el servicio con equipos propios o ajenos".
+
+## art:143 — EQUIPOS DE EMPRESAS DE SERVICIO PUBLICO
+
+<Decreto INEXEQUIBLE> Modifícase el Artículo 23 de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 23. Las empresas habilitadas para la prestación del servicio público de transporte deberán hacerlo con equipos que cumplan con las especificaciones y requisitos técnicos establecidos en las normas aplicables para cada modo de transporte."
+
+## art:144 — FABRICACION, IMPORTACION O ENSAMBLE DE VEHICULOS
+
+<Decreto INEXEQUIBLE> El artículo 25 de la Ley 336 de 1.996, quedará así: 
+
+"Artículo 25. Las personas que se dediquen a la importación, fabricación y ensamble de equipos, o de sus componentes, con destino al transporte público y privado deberán obtener el certificado de conformidad expedido por un organismo debidamente acreditado en el sistema nacional de normalización, certificación y metrología. Cuando no haya norma técnica, deberán homologarse previamente ante la autoridad competente."
+
+## art:145 — COORDINACION INTERINSTITUCIONAL
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 24 de la ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 24. Las autoridades de Comercio Exterior y de Desarrollo Económico, antes de aprobar las importaciones, ensamble o fabricación de equipos deberán consultar las normas técnicas establecidas, y en caso de que estas no existan, los conceptos técnicos sobre tipología emitidos por el Ministerio de Transporte".
+
+## art:146 — TRÁMITE DE LA HOMOLOGACIÓN DE LOS EQUIPOS DESTINADOS AL SERVICIO PÚBLICO DE TRANSPORTE EN CUALQUIER MODO
+
+<Decreto INEXEQUIBLE> Derógase el artículo 31 de la Ley 336 de 1996.
+
+## art:147 — CONDICIONES TECNICAS
+
+<Decreto INEXEQUIBLE> Derógase el artículo 32 de la Ley 336 de 1996.
+
+## art:148 — REPUESTOS Y PARTES
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 33 de la Ley 336 de 1.996, el cual quedará así: 
+
+"Artículo 33. Los importadores, productores y comercializadores de repuestos, partes y demás elementos de los equipos destinados al servicio público de transporte, registrarán ante la autoridad competente sus productos con la determinación de su vida útil, pruebas de laboratorio y medición que certifique su resistencia".
+
+## art:149 — PROGRAMAS DE CAPACITACION
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 35 de la Ley 336 de 1996, el cual quedará así: 
+
+"Artículo 35. Las empresas de transporte público deberán desarrollar los programas de capacitación a través del SENA o de las entidades especializadas, a todos los operadores de los equipos destinados al servicio público, con el fin de garantizar la eficiencia y profesionalización de los operarios."
+
+## art:150 — CONDUCTORES DE EQUIPOS AJENOS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 36 de la Ley 336 de 1996, el cual quedará así: 
+
+"Artículo 36. Los conductores de los equipos que no sean propiedad de la empresa o del operador, destinados al servicio público de transporte, podrán ser contratados directamente por la empresa operadora de transporte. En cualquier caso, y para todos los efectos legales el operador y el propietario del equipo responderán solidariamente."
+
+## art:151 — SUPRESIÓN DE LA FUNCIÓN DE LA SUPERINTENDENCIA BANCARIA DE GARANTIZAR EL OTORGAMIENTO DE LAS PÓLIZAS, SIN NINGÚN TIPO DE COMPENSACIÓN, POR PARTE DE LAS COMPAÑÍAS DE SEGUROS
+
+<Decreto INEXEQUIBLE> Derógase el artículo 37 de la Ley 336 de 1996.
+
+## art:152 — CONDICIONES TECNICO-MECANICAS
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 38 de la Ley 336 de 1996, el cual quedará así: 
+
+"Artículo 38. Los equipos destinados a la prestación del servicio público de transporte deberán reunir las condiciones técnico-mecánicas establecidas para su funcionamiento. Sin perjuicio de las normas sobre la materia, las autoridades competentes en cualquier tiempo podrán ordenar la revisión para determinados casos."
+
+## art:153 — ELIMINACIÓN DE TRÁMITES RELATIVOS A LAS FUNCIONES DEL MINISTERIO DE TRANSPORTE PARA DECIDIR LO PERTINENTE SOBRE LA INFRAESTRUCTURA DE TRANSPORTE TERRESTRE AUTOMOTOR A NIVEL MUNICIPAL, DISTRITAL E INTERMUNICIPAL
+
+<Decreto INEXEQUIBLE> Derógase el artículo 57 de la Ley 336 de 1996.
+
+## art:154 — REVOCACION DE OFICIO
+
+<Decreto INEXEQUIBLE> Derógase el artículo 60 de la ley 336 de 1996.
+
+## art:155 — FONDOS DE RESPONSABILIDAD
+
+<Decreto INEXEQUIBLE> Modifícase el artículo 61 de la Ley 336 de 1996, el cual quedará así: 
+
+"Artículo 61. Sin perjuicio de las garantías establecidas por las normas pertinentes, las empresas de Transporte Terrestre Automotor podrán constituir Fondos de Responsabilidad como mecanismo complementario para cubrir los riesgos derivados de la prestación del servicio, cuyo funcionamiento, administración, vigilancia y control lo ejercerá la Superintendencia Bancaria o la entidad de inspección y vigilancia que sea competente, según la naturaleza jurídica del Fondo. 
+
+Para los efectos pertinentes, el Seguro Obligatorio de Accidentes de Tránsito continuará rigiéndose por las normas que regulan la materia."
+
+## art:156 — SUPRESIÓN DE LA OBLIGACIÓN DEL GOBIERNO NACIONAL DE EXPEDIR REGLAMENTOS SOBRE LAS RELACIONES EQUITATIVAS ENTRE LOS DISTINTOS ELEMENTOS QUE INTERVENGAN EN LA CONTRATACIÓN Y PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE
+
+<Decreto INEXEQUIBLE> Derógase el artículo 65 de la Ley 336 de 1996.
+
+## art:157 — ELIMINACIÓN DE LA FACULTAD DE REGULAR EL INGRESO POR INCREMENTO DE VEHÍCULOS AL SERVICIO PÚBLICO DE TRANSPORTE
+
+<Decreto INEXEQUIBLE> Derógase el artículo 66 de la Ley 336 de 1996.
+
+## art:158 — APERTURA DE INVESTIGACION
+
+<Decreto INEXEQUIBLE> Modifícase el literal c) del artículo 50 de la Ley 336 de 1996 quedará así: 
+
+"c) Traslado por un término de diez ( 10 ) días al presunto infractor para que presente por escrito responda los cargos formulados y solicite las pruebas que considere pertinentes, las que se apreciarán y valorarán de acuerdo con el sistema de la sana crítica."
+
+## art:159 — REDUCCION DE TERMINOS
+
+<Decreto INEXEQUIBLE> En los eventos de alteración o interrupción en la prestación del servicio público de transporte propiciadas o permitidas por cualquier persona natural o jurídica, los términos del procedimiento establecidos en la Ley 336 de 1996 relativos a sanciones se reducirán a la mitad.
+
+## art:160 — SUPRESIÓN DE REQUISITOS RELATIVOS A LA EXPEDICIÓN DE SALVOCONDUCTOS, PERMISOS, CERTIFICACIONES Y CARNETS EXPEDIDOS A LOS EXTRANJEROS, DIFERENTES A LAS CÉDULAS DE EXTRANJERÍA EXPEDIDA POR EL DAS
+
+<Decreto INEXEQUIBLE> Derógase el inciso 2 del artículo 6o. del Decreto 271 de 1981.
+
+## art:161 — SUPRESION DEL REGISTRO NACIONAL DE PROTECCION FAMILIAR
+
+<Decreto INEXEQUIBLE> Derógase la Ley 311 de 1996.
+
+## art:162 — DELEGACION DE FUNCIONES
+
+<Decreto INEXEQUIBLE> El artículo 40 del Decreto 1421 de 1993 quedará así: 
+
+"Artículo 40. Delegación de funciones. El Alcalde Mayor podrá delegar las funciones que le asigne la Ley y los Acuerdos, en otros funcionarios distritales, de conformidad con las delegaciones previstas en leyes orgánicas y demás leyes que regulen la materia. 
+
+En ejercicio de la anterior atribución podrá también delegar sus funciones en los funcionarios de la administración tributaria y en las juntas administradoras y los alcaldes locales".
+
+## art:163 — RACIONALIZACION DE TRAMITES EN LA FUNCION PUBLICA
+
+<Decreto INEXEQUIBLE> Deróganse los artículo 7, 8, 11, 49, 56 y el parágrafo del artículo 48 de la Ley 190 de 1995.
+
+## art:164 — VIGENCIA
+
+<Decreto INEXEQUIBLE> El presente decreto ley rige a partir la fecha de su publicación. 
+
+PUBLÍQUESE, COMUNÍQUESE Y CÚMPLASE 
+
+Dado en Santafé de Bogotá D. C., a 22 de febrero de 2000. 
+
+ANDRES PASTRANA ARANGO 
+
+EL MINISTRO DEL INTERIOR, 
+
+NÉSTOR HUMBERTO MARTÍNEZ NEIRA 
+
+EL DIRECTOR DEL DEPARTAMENTO ADMINISTRATIVO 
+
+DE LA FUNCIÓN PÚBLICA, 
+
+MAURICIO ZULUAGA RUIZ
