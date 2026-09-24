@@ -3,7 +3,7 @@ id: co:decreto:1069:2015
 tipo: decreto
 titulo: Decreto 1069 de 2015 - DUR del Sector Justicia y del Derecho
 fecha: 2015-05-26
-ramas: [justicia, administrativo, procesal]
+ramas: [administrativo, procesal]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=74174

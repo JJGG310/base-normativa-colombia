@@ -3,7 +3,7 @@ id: co:decreto:1743:2015
 tipo: decreto
 titulo: Decreto 1743 de 2015 - Modifica el Decreto 1067 de 2015 (DUR Relaciones Exteriores)
 fecha: 2015-08-31
-ramas: [administrativo, internacional]
+ramas: [administrativo, internacional-publico]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=62959

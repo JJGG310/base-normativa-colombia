@@ -3,7 +3,7 @@ id: co:decreto:1260:1970
 tipo: decreto
 titulo: Decreto 1260 de 1970 - Estatuto del Registro del Estado Civil
 fecha: 1970-08-05
-ramas: [civil, familia, notarial]
+ramas: [civil, familia, notarial-registral]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_1260_1970.html

@@ -484,14 +484,17 @@ def aristas(cajas, id_norma, fuente):
                 # otra es una no-decisión por demanda mal formulada.
                 if re.search(r"estarse a lo resuelto|INHIBIDA", trozo, re.I):
                     continue
-                alto = trozo.upper()
+                # Revisión previa de estatutarias: la fuente dice (IN)CONSTITUCIONAL, en
+                # mayúsculas; sensible a mayúsculas para no confundirlo con «Corte Constitucional».
+                alto = re.sub(r"\bCONSTITUCIONAL(ES)?\b", "EXEQUIBLE",
+                              re.sub(r"\bINCONSTITUCIONAL(ES)?\b", "INEXEQUIBLE", trozo)).upper()
                 if "INEXEQUIBLE" in alto:
                     tipo = ("declara_inexequible_parcial"
-                            if re.search(r"\b(la expresi|los apartes?|el aparte|parcialmente)", trozo, re.I)
+                            if re.search(r"\b(las? expresi|los apartes?|el aparte|parcialmente|salvo|excepto)", trozo, re.I)
                             else "declara_inexequible")
                 elif "EXEQUIBLE" in alto:
                     tipo = ("declara_exequible_condicionado"
-                            if re.search(r"en el entendido|CONDICIONAL|bajo el entendido", trozo, re.I)
+                            if re.search(r"en el entendido|CONDICIONA|bajo el entendido", trozo, re.I)
                             else "declara_exequible")
                 else:
                     sin_parsear.append((destino, etiqueta, trozo[:110]))

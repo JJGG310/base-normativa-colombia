@@ -9,7 +9,7 @@ run() { echo "== $2"; python3 ingesta_gestor.py "$1" "${@:3}" 2>&1 \
 
 run 74174 1069 --minimo 150 --id co:decreto:1069:2015 \
     --titulo "Decreto 1069 de 2015 - DUR del Sector Justicia y del Derecho" \
-    --ramas "justicia, administrativo, procesal" --salida normativa/co-decreto-1069-2015.md
+    --ramas "administrativo, procesal" --salida normativa/co-decreto-1069-2015.md
 
 run 72173 1072 --minimo 150 --id co:decreto:1072:2015 \
     --titulo "Decreto 1072 de 2015 - DUR del Sector Trabajo" \

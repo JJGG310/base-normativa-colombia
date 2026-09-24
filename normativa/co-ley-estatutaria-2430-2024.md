@@ -5,7 +5,7 @@ titulo: Ley 2430 de 2024 - Modifica la Ley 270 de 1996, Estatutaria de la Admini
 fecha: 2024-10-09
 ramas: [constitucional, procesal]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_2430_2024.html
 verificado: 2026-09-24
 ---

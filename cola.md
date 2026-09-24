@@ -372,7 +372,7 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23).
   `co:decreto:780:2016` salud (2291, `i=77813`) · `co:decreto:1625:2016` tributario
   (2130, `i=83233`). Traen 4/8/15 artículos que el índice del Gestor no lista (revisados:
   son artículos reales agregados después, p. ej. megainversiones 1.2.1.28.1.x).
-- [!] `co:ley:21:1991` — Convenio 169 OIT. Senado no la publica (`ley_0021_1991.html`
+- [x] (resuelto en P10) `co:ley:21:1991` — Convenio 169 OIT. Senado no la publica (`ley_0021_1991.html`
   404). En el Gestor (`i=37032`) `ingesta_gestor.py` la parte mal: los arts. 1-3 de la
   ley chocan con los 1-3 del Convenio y el art. 6 del Convenio (consulta previa, «ARTICULO
   6°» sin punto) queda pegado al 5. Hace falta decidir cómo identificar los artículos del
@@ -419,11 +419,9 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
 - [x] Reformadoras: `co:ley:1151:2007` (160) · `co:ley:812:2003` (137) · `co:ley:1111:2006` (78) ·
   `co:ley:488:1998` (155) · `co:ley:633:2000` (134) · `co:ley:863:2003` (69) · `co:ley:795:2003` (114) ·
   `co:ley:49:1990` (83, Gestor `i=6545`) · `co:ley-estatutaria:2430:2024` (93, reforma a la Ley 270)
-- [ ] `co:ley-estatutaria:2430:2024`: 109 notas «Jurisprudencia Vigencia» de la revisión previa
-  C-134/2023 que `aristas()` no reconoce («Mediante Sentencia C-134-23 de 3 de mayo de 2023…»).
+- [x] `co:ley-estatutaria:2430:2024`: notas de la revisión previa C-134/2023 — resuelto en P10.
 - [x] `co:ley:50:1990` y `co:decreto:648:2017` — resueltos en P9.
-- Ramas nuevas en uso, no listadas en `esquema.md` §5: `cambiario`, `maritimo`, `penal-militar`
-  (la lista del §5 ya estaba incompleta: `territorial`, `tic`, `educacion`, `defensa`…).
+- [x] Ramas en uso no listadas en `esquema.md` §5 — resuelto en P10.
 
 ## P9 — Normas origen más citadas (build.py -v) · **cargada** (2026-09-24)
 
@@ -447,6 +445,29 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
   reconocen en `ingesta_gestor` y en el índice de `verificar.py` — destapó 2 artículos que le
   faltaban al DUR 1083 (2.2.18.3.10, 2.2.18.5.4), ya reingerido: 930, aristas idénticas.
 
+## P10 — Normas origen más citadas, estatutarias, Convenio 169 · **cargada** (2026-09-24)
+
+`cargar_p10.sh`. Todas con `faltan 0`.
+- [x] Senado: `co:ley:241:1995` (63) · `co:ley:418:1997` (143) · `co:ley:1849:2017` (58) ·
+  `co:ley:1739:2014` (77) · `co:ley:1592:2012` (41) · `co:ley:982:2005` (47) · `co:ley:1430:2010` (68) ·
+  `co:ley:1152:2007` (178) · `co:ley:383:1997` (74) · `co:ley-estatutaria:134:1994` (109; la fuente la
+  titula «LEY <ESTATUTARIA>», el alias de build.py resuelve las citas a `co:ley:134:1994`).
+  Sin `.js` de notas (404) en alguna página: 1849/2017, 982/2005, 1152/2007 (`_pr002`).
+- [x] Gestor `--enteros`, reformadores de DUR: `co:decreto:104:2025` (1069) · `1836:2021` y `1167:2023`
+  y `1338:2021` (1074) · `1783:2021` (1077) · `1063:2024` (1070) · `1648:2021` (1085) · `1650:2021`
+  (1072) · `2348:2015` (1067). DUR de Regalías `co:decreto:1821:2020` (374, 129 aristas).
+- [x] `co:ley:21:1991` (Convenio 169 OIT, Gestor `i=37032`, 44). Decisión: como la Ley 518/1999
+  (CISG), los artículos del tratado son `art:N` — así se citan («art. 6 del Convenio 169»); los
+  arts. 1-3 aprobatorios de la ley quedan en el texto del art. 44, tras la constancia de Cancillería.
+  Los arreglos de P9 al parser del Gestor ya lo parten bien (el art. 6 ya no queda pegado al 5).
+- [x] `ingesta_senado.aristas()`: la revisión previa de estatutarias dice «declara CONSTITUCIONAL /
+  INCONSTITUCIONAL» (no EXEQUIBLE); ahora se lee (sensible a mayúsculas: «Corte Constitucional» no
+  cuenta), y «salvo / excepto / las expresiones» marcan parcialidad. Re-ingesta de las 12
+  estatutarias: 1957/2019 (JEP) pasa de 3 a 149 aristas de la C-080/2018, 270/1996 de 231 a 276,
+  2430/2024 de 0 a 94 (C-134/2023).
+- [x] `esquema.md` §5: vocabulario de ramas completado con las etiquetas en uso; `justicia`,
+  `notarial` e `internacional` normalizadas a `procesal`/`notarial-registral`/`internacional-publico`.
+
 ## Bloqueados
 
-- [!] 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).
+- [x] (resuelto en P10) 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).

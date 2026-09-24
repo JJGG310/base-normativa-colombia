@@ -40,7 +40,7 @@ gestor() { echo "== $1"; python3 ingesta_gestor.py "$1" "${@:2}" 2>&1 \
     | grep -E "artículos ->|aristas ->|ABORTA|Error"; sleep 5; }
 gestor 62959 --enteros --id co:decreto:1743:2015 --tipo decreto --minimo 2 \
     --titulo "Decreto 1743 de 2015 - Modifica el Decreto 1067 de 2015 (DUR Relaciones Exteriores)" \
-    --ramas "administrativo, internacional" --salida normativa/co-decreto-1743-2015.md
+    --ramas "administrativo, internacional-publico" --salida normativa/co-decreto-1743-2015.md
 gestor 98270 --enteros --id co:decreto:1330:2019 --tipo decreto --minimo 2 \
     --titulo "Decreto 1330 de 2019 - Sustituye el Capítulo 2 del Título 3 del Decreto 1075 de 2015 (registro calificado)" \
     --ramas "educacion, administrativo" --salida normativa/co-decreto-1330-2019.md

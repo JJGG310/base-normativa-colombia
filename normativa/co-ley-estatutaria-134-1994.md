@@ -1,0 +1,752 @@
+---
+id: co:ley-estatutaria:134:1994
+tipo: ley-estatutaria
+titulo: Ley 134 de 1994 - Mecanismos de participación ciudadana
+fecha: 1994-05-31
+ramas: [constitucional, electoral]
+estado_general: vigente
+afectaciones: cargadas
+fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_0134_1994.html
+verificado: 2026-09-24
+---
+
+## art:1 — OBJETO DE LA LEY
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+La presente Ley estatutaria de los mecanismos de participación del pueblo regula la iniciativa popular legislativa y normativa; el referendo; la consulta popular, del orden nacional, departamental, distrital, municipal y local; la revocatoria del mandato; el plebiscito y el cabildo abierto.
+
+Establece las normas fundamentales por las que se regirá la participación democrática de las organizaciones civiles.
+
+La regulación de estos mecanismos no impedirá el desarrollo de otras formas de participación ciudadana en la vida política, económica, social, cultural, universitaria, sindical o gremial del país ni el ejercicio de otros derechos políticos no mencionados en esta Ley.
+
+## art:2 — INICIATIVA POPULAR LEGISLATIVA Y NORMATIVA ANTE LAS CORPORACIONES PÚBLICAS
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+La iniciativa popular legislativa y normativa ante las corporaciones públicas es el derecho político de un grupo de ciudadanos de presentar Proyecto de Acto Legislativo y de ley ante el Congreso de la República, de Ordenanza ante las Asambleas Departamentales, de Acuerdo ante los Concejos Municipales o Distritales y de Resolución ante las Juntas Administradoras Locales, y demás resoluciones de las corporaciones de las entidades territoriales, de acuerdo con las leyes que las reglamentan, según el caso, para que sean debatidos y posteriormente aprobados, modificados o negados por la corporación pública correspondiente.
+
+## art:3 — REFERENDO
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+Es la convocatoria que se hace al pueblo para que apruebe o rechace un proyecto de norma jurídica o derogue o no una norma ya vigente.
+
+PARÁGRAFO. El referendo puede ser nacional, regional, departamental, distrital, municipal o local.
+
+(Exequible, en el sentido expuesto en la sentencia C-180 de 1994 de la Corte Constitucional).
+
+## art:4 — REFERENDO DEROGATORIO
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+Un referendo derogatorio es el sometimiento de un acto legislativo, de una ley, de una ordenanza, de un acuerdo o de una resolución local en alguna de sus partes o en su integridad, a consideración del pueblo para que éste decida si lo deroga o no.
+
+## art:5 — REFERENDO APROBATORIO
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+Un referendo aprobatorio es el sometimiento de un proyecto de acto legislativo, de una ley, de una ordenanza, de acuerdo o de una resolución local, de iniciativa popular que no haya sido adoptado por la corporación pública correspondiente, a consideración del pueblo para que éste decida si lo aprueba o lo rechaza, total o parcialmente.
+
+## art:6 — REVOCATORIA DEL MANDATO
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+La revocatoria del mandato es un derecho político, por medio del cual los ciudadanos dan por terminado el mandato que le han conferido a un gobernador o a un alcalde.
+
+## art:7 — EL PLEBISCITO
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+El plebiscito es el pronunciamiento del pueblo convocado por el Presidente de la República, mediante el cual apoya o rechaza una determinada decisión del Ejecutivo.
+
+(Exequible, en el sentido expuesto en la Sentencia C- 180 de 1994 de la Corte Constitucional).
+
+## art:8 — CONSULTA POPULAR
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+La consulta popular es la institución mediante la cual, una pregunta de carácter general sobre un asunto de trascendencia nacional, departamental, municipal, distrital o local, es sometida por el Presidente de la República, el gobernador o el alcalde, según el caso, a consideración del pueblo para que éste se pronuncie formalmente al respecto. 
+
+En todos los casos, la decisión del pueblo es obligatoria. 
+
+Cuando la consulta se refiera a la conveniencia de convocar una asamblea constituyente, las preguntas serán sometidas a consideración popular mediante ley aprobada por el Congreso de la República.
+
+## art:9 — CABILDO ABIERTO
+ubicacion: TITULO I. OBJETO Y DEFINICIONES.
+
+El cabildo abierto es la reunión pública de los concejos distritales, municipales o de las juntas administradoras locales, en la cual los habitantes pueden participar directamente con el fin de discutir asuntos de interés para la comunidad.
+
+## art:10 — LOS PROMOTORES Y VOCEROS
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO I. INSCRIPCIÓN DE LA INICIATIVA LEGISLATIVA Y NORMATIVA Y DE LA SOLICITUD DE REFERENDO.
+
+Para ser promotor de una iniciativa legislativa y normativa o de una solicitud de referendo, se requiere ser ciudadano en ejercicio y contar con el respaldo del cinco por mil de los ciudadanos inscritos en el respectivo censo electoral, cumpliendo con este requisito, podrán también ser promotores, una organización cívica, sindical, gremial, indígena o comunal del orden nacional, departamental, municipal o local, según el caso, o un partido o movimiento político, debiendo cumplir con el requisito de la personería jurídica en todos los casos. 
+
+Además del cumplimiento de los requisitos exigidos en el inciso 1°; en el caso de las organizaciones, partidos o movimientos políticos, la iniciativa legislativa y normativa y la solicitud de referendo deberá ser aprobada en asamblea, congreso o convención, por la mayoría de los asistentes con derecho a voto, y será la misma asamblea la que los elija.
+
+Deberán constituirse en comité e inscribirse como tales ante la Registraduría del Estado Civil de la correspondiente circunscripción electoral. Este comité estará integrado por nueve ciudadanos, y elegirá el vocero, quien lo presidirá y representará. Si el promotor es la misma organización, partido o movimiento, el comité podrá estar integrado por sus directivas o por las personas que éstas designen para tal efecto.
+
+En el caso de que la iniciativa legislativa sea presentada por un grupo de concejales o de diputados, el comité será integrado por cinco de ellos, en uno y otro caso, quienes elegirán a su vocero. Por el solo hecho de ser concejal o diputado se podrá ser promotor.
+
+## art:11 — EL FORMULARIO PARA LA INSCRIPCIÓN DE INICIATIVAS LEGISLATIVAS Y NORMATIVAS O DE SOLICITUDES DE REFERENDO
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO I. INSCRIPCIÓN DE LA INICIATIVA LEGISLATIVA Y NORMATIVA Y DE LA SOLICITUD DE REFERENDO.
+
+El formulario para la inscripción de una iniciativa legislativa y normativa o de una solicitud del referendo, será elaborado por la Registraduría del Estado Civil correspondiente, de conformidad con las instrucciones que sobre la materia imparta el Consejo Nacional Electoral, y deberá ser entregado gratuitamente a quien lo solicite.
+
+En este formulario deberá aparecer, en lugar visible, el número de firmas que deberán ser recogidas para que los promotores puedan presentare inscribir la iniciativa legislativa y normativa o la solicitud del referendo y la advertencia de que cualquier fraude en el proceso de recolección de firmas será castigado penalmente.
+
+## art:12 — REQUISITOS PARA LA INSCRIPCIÓN DE INICIATIVAS LEGISLATIVAS Y NORMATIVAS O DE SOLICITUDES DE REFERENDO
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO I. INSCRIPCIÓN DE LA INICIATIVA LEGISLATIVA Y NORMATIVA Y DE LA SOLICITUD DE REFERENDO.
+
+Al momento de la inscripción de una iniciativa legislativa y normativa o de la solicitud de un referendo, el vocero del comité de promotores deberá presentar el formulario que le entregó la Registraduría del Estado Civil correspondiente, diligenciado con la siguiente información:
+
+a) El nombre completo y el número del documento de identificación de los miembros del comité de promotores y de su vocero, previamente inscritos ante la registraduría correspondiente;
+
+b) La exposición de motivos de la iniciativa legislativa y normativa o de la solicitud de referendo que promueven y el resumen del contenido de la misma;
+
+c) En el caso de la iniciativa popular legislativa y normativa ante una corporación pública, o de la solicitud de un referendo aprobatorio, el título que describa la esencia de su contenido, y el proyecto de articulado;
+
+d) En el caso de iniciativas legislativas y normativas o de las solicitudes de referendo presentados en el marco de una entidad territorial, un espacio en el que se indique lugar y la dirección de la residencia de quienes respaldan su inscripción;
+
+e) El nombre de las organizaciones que respaldan la iniciativa legislativa y normativa o la solicitud del referendo con la prueba de su existencia y copia del acta de la asamblea, congreso o convención en que fue adoptada la decisión, o, en su defecto, la lista con el nombre, la firma y el número del documento de identificación de las personas que respaldan estos procesos;
+
+f) En el caso de solicitud de referendo derogatorio, el texto de la norma que se pretende derogar, el número que la identifica y la fecha de su expedición;
+
+g) Cuando la iniciativa legislativa sea promovida por concejales o diputados, el municipio o departamento respectivo.
+
+## art:13 — REDACCIÓN DE INICIATIVAS POPULARES LEGISLATIVAS Y NORMATIVAS
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO I. INSCRIPCIÓN DE LA INICIATIVA LEGISLATIVA Y NORMATIVA Y DE LA SOLICITUD DE REFERENDO.
+
+Toda iniciativa popular legislativa y normativa ante una corporación pública debe estar redactada en forma de proyecto de acto legislativo, de ley, de ordenanza, de acuerdo o de resolución local, según el caso, y referirse a una misma materia.
+
+## art:14 — REGISTRO DE INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE SOLICITUDES DE REFERENDO
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO I. INSCRIPCIÓN DE LA INICIATIVA LEGISLATIVA Y NORMATIVA Y DE LA SOLICITUD DE REFERENDO.
+
+El registrador correspondiente asignará un número consecutivo de identificación a las iniciativas legislativas y normativas así como a las solicitudes de referendo, con el cual indicará el orden en que éstos han sido inscritos y la fecha de su inscripción. Así mismo, llevará un registro de todas las iniciativas legislativas y normativas y de las solicitudes de referendo inscritas, e informará inmediatamente del hecho a la corporación correspondiente o, en el caso de la revocatoria del mandato, a la persona involucrada, e informará trimestralmente a la ciudadanía, por un medio idóneo de comunicación escrito, sobre los procesos de recolección de firmas en curso.
+
+## art:15 — EFECTOS DE LA INSCRIPCIÓN
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO I. INSCRIPCIÓN DE LA INICIATIVA LEGISLATIVA Y NORMATIVA Y DE LA SOLICITUD DE REFERENDO.
+
+La inscripción de iniciativas populares legislativas y normativas ante la Registraduría del Estado Civil correspondiente, no impide que la respectiva corporación pública decida sobre tales materias en el mismo sentido o en sentido distinto al de la iniciativa popular legislativa y normativa. Si así lo hiciere, deberá indicar expresamente si su decisión concuerda o contradice la iniciativa, así como los motivos que tuvo para ello.
+
+## art:16 — EL FORMULARIO PARA EL TRÁMITE DE INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LAS SOLICITUDES DE REFERENDO
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+El documento sobre el cual firmarán los ciudadanos que apoyan la iniciativa legislativa y normativa o la solicitud del referendo, deberá ser un formulario diferente a aquel con el cual se efectuó la inscripción en la registraduría correspondiente y contendrá cuando menos la siguiente información:
+
+a) El número que la Registraduría del Estado Civil le asignó a la iniciativa legislativa y normativa o a la solicitud de referendo;
+
+b) La información requerida en el formulario presentado para la inscripción de la iniciativa legislativa y normativa o la solicitud de referendo, de conformidad con los artículos 11 y 12 de la presente Ley;
+
+c) El resumen del contenido de la propuesta y la invitación a los eventuales firmantes a leerlo antes de apoyarlo.
+
+El texto de la iniciativa legislativa y normativa o de la solicitud de referendo y su resumen, no podrán contener alusiones personales ni hacer publicidad personal o comercial.
+
+En el caso de las firmas que se recolecten por correo, según lo previsto en el artículo 19 de esta Ley, el documento en que se firme deberá contener la información exigida en el presente artículo.
+
+Los promotores deberán anexar además el texto completo del articulado correspondiente y las razones que lo hacen conveniente para que el ciudadano que desee conocer el proyecto completo tenga la posibilidad de hacerlo. Si se trata de una solicitud de referendo derogatorio, se anexará el texto de la norma en cuestión.
+
+## art:17 — DECLARADO INEXEQUIBLE
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+DECLARADO INEXEQUIBLE
+
+## art:18 — PLAZO PARA LA RECOLECCIÓN DE APOYOS
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+Inscrita la iniciativa legislativa y normativa o la solicitud de referendo ante la Registraduría del Estado Civil correspondiente, el Registrador del Estado Civil dispondrá de quince días para la elaboración y entrega de los formularios a los promotores, éstos contarán, desde ese momento, con seis meses para la recolección de las firmas de quienes apoyan estos procesos de participación.
+
+Este plazo podrá ser prorrogado, en caso de fuerza mayor, en la forma y por el tiempo que señale el Consejo Nacional Electoral.
+
+## art:19 — SUSCRIPCIÓN DE APOYOS
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+Para consignar su apoyo en una iniciativa legislativa y normativa o en una solicitud de referendo, el ciudadano deberá escribir en el formulario, de su puño y letra, la fecha en que firma, su nombre, el número de su documento de identificación, el lugar y la dirección de su residencia, todo esto en forma completa y legible, y su firma. Si la persona no supiere escribir imprimirá su huella dactilar a continuación del que firme a su ruego. Si hubiere firmas repetidas, se tendrá por válida la que tenga la fecha más reciente.
+
+ En el caso de iniciativas promovidas por concejales o diputados, se escribirá el nombre del municipio o departamento en el que ejercen dicha representación.
+
+Serán anulados por la Registraduría de la Circunscripción Electoral correspondiente los respaldos suscritos en documentos que no cumplan los requisitos señalados en el artículo 16, al igual que aquellos que incurran en alguna de las siguientes razones, las cuales deberán ser certificadas por escrito:
+
+1. Fecha, nombre o número de la cédula de ciudadanía ilegibles o no identificables.
+
+2. Firma con datos incompletos, falsos o erróneos.
+
+3. Firmas de la misma mano.
+
+4. Firma no manuscrita.
+
+5. No inscrito en el censo electoral correspondiente.
+
+PARÁGRAFO. Tratándose de una iniciativa legislativa y normativa o de una solicitud de referendo en el ámbito de las entidades territoriales, será causal de nulidad del respaldo no ser residente en la respectiva entidad territorial.
+
+## art:20 — RECOLECCIÓN DE APOYOS POR CORREO
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+Los respaldos también podrán ser remitidos por correo que deberá ser certificado, debiendo la persona que desee apoyar la iniciativa legislativa o la solicitud de referendo consignar la información requerida y firmar en la forma prevista en el artículo anterior. El documento donde firme podrá ser un formulario, una copia del mismo o un formato donde aparezca la información exigida en el artículo 16. El Estado asumirá los costos del envío de los formularios firmados.
+
+## art:21 — DESISTIMIENTO
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+Por decisión de la mitad más uno de los miembros del comité de promotores, éstos podrán desistir de la iniciativa legislativa y normativa o de la solicitud de referendo antes del vencimiento del plazo para la recolección de los apoyos. Decisión que debe ser presentada por escrito, motivada y personalmente al registrador correspondiente, junto con todas las firmas recogidas hasta el momento.
+
+Dentro del mes siguiente a la presentación del desistimiento, la Registraduría efectuará el conteo, hará público el número de firmas recogidas y señalará el plazo para que cualquier ciudadano, concejal o diputado que lo desee integre un nuevo comité de promotores. Este dispondrá, para completar el número de apoyos requerido, de lo que restaba del plazo, contado a partir del momento en que el nuevo comité se haya inscrito ante el Registrador del Estado Civil correspondiente y reciba los formularios respectivos.
+
+Los documentos entregados por los que desistieron reposarán en la Registraduría. Para la continuación del proceso de recolección de apoyos los nuevos promotores recibirán otros formularios en los que, además de la información contenida en los anteriores, se indique el nombre de los integrantes del nuevo comité de promotores, y el número total de apoyos recogidos hasta el momento.
+
+## art:22 — ENTREGA DE LOS FORMULARIOS A LA REGISTRADURÍA
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+Antes de vencerse el plazo de seis meses, los promotores presentarán los formularios debidamente diligenciados, al Registrador del Estado Civil correspondiente.
+
+Vencido el plazo sin que se haya logrado completar el número de apoyos requeridos, la iniciativa legislativa y normativa o la solicitud de referendo será archivada.
+
+Si el número mínimo de firmas requerido no se ha cumplido y aún no ha vencido el plazo para la recolección de firmas podrá continuarse con el proceso por el período que falte y un mes más. Vencido este plazo, las firmas adicionales serán entregadas para que la Registraduría expida un nuevo certificado.
+
+## art:23 — VERIFICACIÓN DE LA REGISTRADURÍA
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+El Registrador Nacional del Estado Civil señalará el procedimiento que deba seguirse para la verificación de la autenticidad de los respaldos y podrá adoptar técnicas de muestreo científicamente sustentadas, previa aprobación de las mismas por el Consejo Nacional Electoral.
+
+## art:24 — CERTIFICACIÓN DE LA REGISTRADURÍA
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+En el término de un mes, contado a partir de la fecha de la entrega de los formularios por los promotores y hechas las verificaciones de ley, el respectivo Registrador del Estado Civil certificará el número total de respaldos consignados, el número de respaldos válidos y nulos y, finalmente, si se ha cumplido o no con los requisitos constitucionales y legales exigidos para el apoyo de la iniciativa legislativa y normativa o de la solicitud de referendo.
+
+## art:25 — DESTRUCCIÓN DE LOS FORMULARIOS
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+Una vez que la Registraduría correspondiente haya expedido el certificado a que se refiere el artículo anterior, conservará los formularios por veinte (20) días. Durante ese término, los promotores podrán interponer ante la jurisdicción contencioso administrativa las acciones a que haya lugar cuando, por la anulación de firmas, no se hubiere obtenido el apoyo requerido.
+
+Cuando se haya interpuesto alguna acción contra la decisión de la Registraduría, los formularios deberán conservarse mientras ésta se resuelve.
+
+PARÁGRAFO. Vencido el término o resueltas las acciones, los materiales quedarán a disposición del Fondo Rotatorio de la Registraduría.
+
+## art:26 — RECOLECCIÓN DE FIRMAS EN ENTIDADES TERRITORIALES
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+Cuando se realicen procesos de participación ciudadana en el ámbito de las entidades territoriales o de las comunas, corregimientos o localidades, sólo podrán consignar su apoyo quienes residan en la respectiva entidad territorial, comuna, corregimiento o localidad además de estar inscritos en el correspondiente censo electoral.
+
+## art:27 — CERTIFICACIÓN
+ubicacion: TITULO II. INSCRIPCION Y TRAMITE DE LAS INICIATIVAS LEGISLATIVAS Y NORMATIVAS Y DE LA SOLICITUD DE REFERENDOS. > CAPITULO 2. TRÁMITE DE LA INICIATIVA LEGISLATIVA Y LAS SOLICITUDES DE REFERENDO.
+
+La organización electoral certificará, para todos los efectos legales, el cumplimiento de los requisitos exigidos para la realización de los mecanismos de participación ciudadana.
+
+## art:28 — RESPALDO DE LAS INICIATIVAS POPULARES LEGISLATIVAS Y NORMATIVAS
+ubicacion: TITULO III. DE LA INICIATIVA POPULAR LEGISLATIVA Y NORMATIVA ANTE LAS CORPORACIONES PUBLICAS.
+
+Para que una iniciativa popular de acto legislativo, de ley, de ordenanza, de acuerdo o de resolución local sea presentada ante la respectiva corporación pública, deberá contar con el respaldo de por lo menos el cinco por ciento (5%) de los ciudadanos inscritos en el censo electoral correspondiente.
+
+Cuando las iniciativas populares legislativas y normativas promovidas por concejales o diputados sean de ley, requerirán un respaldo del treinta por ciento (30%) de los concejales o diputados del país.
+
+## art:29 — MATERIAS QUE PUEDEN SER OBJETO DE INICIATIVA POPULAR LEGISLATIVA Y NORMATIVA ANTE LAS CORPORACIONES PÚBLICAS
+ubicacion: TITULO III. DE LA INICIATIVA POPULAR LEGISLATIVA Y NORMATIVA ANTE LAS CORPORACIONES PUBLICAS.
+
+Sólo pueden ser materia de iniciativa popular legislativa y normativa ante las corporaciones públicas, aquellas que sean de la competencia de la respectiva corporación.
+
+No se podrán presentar iniciativas populares legislativas y normativas ante el Congreso, las asambleas, los concejos o las juntas administradoras locales, sobre las siguientes materias:
+
+1. Las que sean de iniciativa exclusiva del Gobierno, de los gobernadores o de los alcaldes, según lo establecido en los artículos 154, 300, 313, 315, 322 y 336 de la Constitución Política.
+
+2. Presupuestales, fiscales o tributarias.
+
+3. Relaciones internacionales.
+
+4. Concesión de amnistías o indultos.
+
+5. Preservación y restablecimiento del orden público.
+
+## art:30 — PRESENTACIÓN Y PUBLICACIÓN DE LAS INICIATIVAS POPULARES LEGISLATIVAS Y NORMATIVAS ANTE LAS CORPORACIONES PÚBLICAS
+ubicacion: TITULO III. DE LA INICIATIVA POPULAR LEGISLATIVA Y NORMATIVA ANTE LAS CORPORACIONES PUBLICAS.
+
+Una vez certificado por la Registraduría del Estado Civil correspondiente, el cumplimiento de los requisitos de una iniciativa legislativa y normativa, exigidos por esta Ley, su vocero, presentará dicho certificado con el proyecto de articulado y la exposición de motivos, así como la dirección de su domicilio y la de los promotores, ante la Secretaría de una de las Cámaras del Congreso de la República o de la Corporación Pública respectiva, según el caso.
+
+El nombre de la iniciativa, el de sus promotores y vocero, así como el texto del proyecto de articulado y su exposición de motivos, deberán ser divulgados en la publicación oficial de la correspondiente corporación.
+
+## art:31 — REGLAS PARA EL TRÁMITE DE INICIATIVAS POPULARES LEGISLATIVAS Y NORMATIVAS ANTE LAS CORPORACIONES PÚBLICAS
+ubicacion: TITULO III. DE LA INICIATIVA POPULAR LEGISLATIVA Y NORMATIVA ANTE LAS CORPORACIONES PUBLICAS.
+
+Para garantizar la eficacia de la participación ciudadana durante el trámite de la iniciativa popular legislativa y normativa en la corporación respectiva, se respetarán las siguientes reglas:
+
+1. La iniciativa popular será estudiada de conformidad con lo establecido en el reglamento de la corporación respectiva y se aplicarán las disposiciones establecidas en el artículo 163 de la Constitución Política para los proyectos que hayan sido objeto de manifestación de urgencia.
+
+En el caso de la iniciativa popular de acto legislativo presentada por el 20% de los concejales o diputados del país se aplicará el trámite previsto en el artículo 375 de la Constitución.
+
+2. El vocero deberá ser convocado a todas las sesiones en que se tramite el proyecto y ser oído en todas las etapas del trámite.
+
+3. El vocero podrá apelar ante la plenaria cuando la comisión respectiva se haya pronunciado en contra de la iniciativa popular.
+
+4. Cuando la respectiva corporación no dé primer debate a una iniciativa popular legislativa o normativa durante una legislatura y ésta deba ser retirada, se podrá volver a presentar en la siguiente legislatura. En este caso, seguirán siendo válidas las firmas que apoyan la iniciativa popular, y no será necesario volver a recolectarlas.
+
+Las firmas ciudadanas que apoyen iniciativas que al momento de entrar en vigencia la presente Ley, se encuentren en tránsito en cualquier Corporación seguirán siendo válidas por un año más.
+
+## art:32 — RESPALDO PARA LA CONVOCATORIA
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO I. RESPALDO PARA LA CONVOCATORIA DE UN REFERENDO.
+
+Un número de ciudadanos no menor al diez por ciento del censo electoral nacional, departamental, municipal, distrital o local, según el caso, podrá solicitar ante el Registrador del Estado Civil correspondiente la convocatoria de un referendo para la aprobación de un proyecto de ley, de ordenanza, de acuerdo o de resolución local de iniciativa popular que sea negado por la corporación respectiva o vencido el plazo de que trata el artículo 163 de la Constitución Política, o solicitar la derogatoria total o parcial de leyes, ordenanzas, acuerdos o resoluciones locales.
+
+PARÁGRAFO. En el caso del referendo aprobatorio, los promotores dispondrán de otros seis meses para completar un número de respaldos no menor al 10% del censo electoral de la circunscripción respectiva.
+
+Si dicho respaldo ya hubiere sido alcanzado para la presentación de la iniciativa legislativa y normativa, a la corporación pública, los promotores podrán solicitar la convocatoria de referendo sin más requisitos pero, de presentarse otras iniciativas complementarias o contradictorias sobre la misma materia, según lo dispuesto en el artículo 38 de esta Ley, podrán continuar el proceso de recolección de apoyos por el tiempo señalado.
+
+En tal caso, podrán emplear el mismo formulario, surtir el mismo procedimiento y cumplir con las condiciones exigidas para la recolección de las firmas en apoyo a la iniciativa original, que no hubiere sido aprobado por la corporación correspondiente, o derogatoria total o parcial de leyes, ordenanzas, acuerdos o resoluciones locales (sic).
+
+## art:33 — REFERENDO CONSTITUCIONAL
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO I. RESPALDO PARA LA CONVOCATORIA DE UN REFERENDO.
+
+A iniciativa del Gobierno o de un grupo de ciudadanos no menor al 5% del censo electoral, el Congreso, mediante ley que requiere la aprobación de la mayoría de los miembros de ambas Cámaras podrá someter a referendo un proyecto de reforma constitucional que el mismo Congreso incorpore a la ley. El referendo será presentado de manera que los electores puedan escoger libremente en el temario o articulado que votan positivamente y que votan negativamente.
+
+La aprobación de reformas a la Constitución por vía de referendo requiere el voto afirmativo de más de la mitad de los sufragantes y que el número de éstos exceda de la cuarta parte del total de ciudadanos que integran el censo electoral.
+
+## art:34 — CONVOCATORIA DEL REFERENDO
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO I. RESPALDO PARA LA CONVOCATORIA DE UN REFERENDO.
+
+Expedidas las certificaciones por la Registraduría del Estado Civil correspondiente, sobre el número de apoyos requerido, así como el fallo de la Corte Constitucional, el Gobierno Nacional, departamental, distrital, municipal o local correspondiente, convocará el referendo mediante decreto, en el término de ocho días, y adoptará las demás disposiciones necesarias para su ejecución.
+
+(Exequible, en el sentido expuesto en la Sentencia C-180 de 1994 de la Corte Constitucional).
+
+## art:35 — MATERIAS QUE PUEDEN SER OBJETO DE REFERENDOS
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 2. MATERIA DE LOS REFERENDOS.
+
+Pueden ser objeto de referendos los proyectos de ley, de ordenanza, de acuerdo o de resolución local que sean de la competencia de la corporación pública de la respectiva circunscripción electoral de conformidad con lo dispuesto en el artículo 29 de esta Ley.
+
+Para efectos del referendo derogatorio son leyes las expedidas por el Congreso y los decretos que dicte el Presidente de la República en ejercicio de facultades extraordinarias que éste le haya conferido; son ordenanzas las expedidas por las asambleas departamentales y los decretos que dicte el gobernador con fuerza de ordenanza; son acuerdos los expedidos por los concejos municipales y los decretos que dicten los alcaldes con fuerza de acuerdo; y son resoluciones las expedidas por las Juntas Administradoras Locales y las resoluciones que dicte el alcalde local, todos de conformidad con las facultades extraordinarias otorgada para tal evento.
+
+## art:36 — REFERENDOS DEROGATORIOS DE CIERTOS ACTOS LEGISLATIVOS
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 2. MATERIA DE LOS REFERENDOS.
+
+Deberán someterse a referendo las reformas constitucionales aprobadas por el Congreso, cuando se refieran a los derechos reconocidos en el Capítulo I del Título II y a sus garantías, a los procedimientos de participación popular, o al Congreso, si así lo solicita, dentro de los seis meses siguientes a la promulgación del acto legislativo, un cinco por ciento de los ciudadanos que integren el censo electoral.
+
+## art:37 — DE CUANDO NO HAY LUGAR A REFERENDOS DEROGATORIOS
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 2. MATERIA DE LOS REFERENDOS.
+
+Si antes de la fecha señalada para la votación de un referendo para derogar un acto legislativo, una ley, una ordenanza, un acuerdo local o una resolución local, la corporación respectiva lo deroga, no habrá lugar a la celebración del referendo.
+
+## art:38 — PERÍODO PARA LA RECOLECCIÓN DE APOYOS
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 3. LA CAMPAÑA DEL REFERENDO.
+
+Inscrita una solicitud de referendo, la organización electoral fijará un plazo de un mes para la inscripción de otras iniciativas legislativas y normativas sobre la misma materia, sean éstas complementarias o contradictorias de la primera, siempre y cuando hayan sido consideradas y no aprobadas por el Congreso o por la Corporación Administrativa correspondiente. Transcurrido dicho plazo, se inicia el de seis meses para la recolección de las firmas adicionales de los ciudadanos. Ningún ciudadano podrá suscribir su apoyo a más de una iniciativa.
+
+Será sometida a referendo la iniciativa presentada al Registrador del Estado Civil correspondiente, dentro del término antes señalado, que, según certificación del mismo Registrador, haya recogido el mayor número de apoyos válidos, siempre y cuando este número sea al menos igual al exigido en la presente Ley, y sus promotores harán campaña por el sí.
+
+Los promotores de las otras iniciativas podrán hacer campaña por el sí o por el no, y gozarán de los beneficios especiales de que tratan los artículos siguientes, si la iniciativa que promueven lograse, cuando menos, el apoyo del diez por ciento de los ciudadanos que conformen el respectivo censo electoral, según certificación del respectivo Registrador.
+
+PARÁGRAFO. No serán admitidas nuevas iniciativas sobre la misma materia antes de que el proceso del referendo haya culminado en todas sus partes.
+
+## art:39 — FECHA PARA LA REALIZACIÓN DEL REFERENDO
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 3. LA CAMPAÑA DEL REFERENDO.
+
+El referendo deberá realizarse dentro de los seis meses siguientes a la presentación de la solicitud.
+
+Cuando se trate de un referendo de carácter nacional, departamental, municipal o local, la votación no podrá coincidir con ningún otro acto electoral. No podrá acumularse la votación de más de tres referendos para la misma fecha.
+
+## art:40 — FINALIZACIÓN DE LAS CAMPAÑAS
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 3. LA CAMPAÑA DEL REFERENDO.
+
+Las campañas de todos los procesos de participación ciudadana reglamentados en la presente Ley, y que culminen con una votación, finalizarán a las 12 de la noche del día anterior al señalado por la misma.
+
+## art:41 — CONTENIDO DE LA TARJETA ELECTORAL
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+El Registrador del Estado Civil correspondiente, diseñará la tarjeta electoral que será usada en la votación de referendos, la cual deberá, por lo menos, contener:
+
+1. La pregunta sobre si el ciudadano ratifica o deroga íntegramente la norma que se somete a referendo.
+
+2. Casillas para el sí, para el no y para el voto en blanco.
+
+3. El articulado sometido a referendo.
+
+## art:42 — LA TARJETA ELECTORAL PARA EL REFERENDO CONSTITUCIONAL
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+La tarjeta para la votación del referendo constitucional deberá ser elaborada de tal forma que, además del contenido indicado en el artículo anterior, presente a los ciudadanos la posibilidad de escoger libremente el articulado que aprueban y el articulado que rechazan, mediante casillas para emitir el voto a favor o en contra de cada uno de los artículos cuando el elector no vote el proyecto en bloque. En todo caso, habrá una casilla para que vote el proyecto en bloque si así lo desea.
+
+## art:43 — SUSPENSIÓN DE LA VOTACIÓN DE LOS REFERENDOS DURANTE LOS ESTADOS DE EXCEPCIÓN
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+El Presidente de la República, con la firma de todos sus ministros, mediante decreto legislativo y por motivos de orden público podrá suspender la realización de la votación de un referendo durante la vigencia de cualquiera de los estados de excepción, siempre que su celebración pudiere afectar el orden público o se observare un ambiente de intimidación para los votantes. Dentro de los tres días siguientes a la expedición del decreto el Presidente de la República presentará un informe motivado al Congreso de la República sobre las razones que determinaron la suspensión. Si éste no estuviere sesionando podrá hacerlo dentro del mismo término.
+
+El Gobierno enviará a la Corte Constitucional al día siguiente de su expedición el decreto legislativo de suspensión para que ésta se decida definitivamente sobre su constitucionalidad, si el Gobierno no cumpliere con el deber de enviarlo, la Corte Constitucional aprehenderá de oficio y en forma inmediata su conocimiento.
+
+## art:44 — CONTROL PREVIO DE CONSTITUCIONALIDAD DEL TEXTO QUE SE SOMETE A REFERENDO
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+Para evitar un pronunciamiento popular sobre iniciativas inconstitucionales, el tribunal de la jurisdicción contencioso - administrativa competente, en el caso de referendos normativos departamentales, distritales, municipales o locales, previamente revisarán la constitucionalidad del texto sometido a referendo. El Tribunal Contencioso Administrativo competente, según el caso, se pronunciará después de un período de fijación en lista de diez días, para que cualquier ciudadano impugne o coadyuve la constitucionalidad de la iniciativa y el Ministerio Público rinda su concepto.
+
+## art:45 — MAYORÍAS
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+En todo referendo, el pueblo tomará decisiones obligatorias por medio de la mitad más uno de los votantes, siempre y cuando haya participado una cuarta parte de los ciudadanos que componen el censo electoral de la respectiva circunscripción electoral.
+
+## art:46 — DECISIÓN POSTERIOR SOBRE NORMAS SOMETIDAS AL REFERENDO
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+Las normas que hayan sido derogadas o aprobadas mediante referendo no podrán ser objeto de decisión dentro de los dos años siguientes, salvo por decisión de la mayoría absoluta de los miembros de la respectiva corporación. 
+
+Pasado ese término se aplicarán las mayorías ordinarias.
+
+Cuando se trate de referendos aprobatorios o derogatorios de carácter nacional no podrá solicitarse referendo sobre el mismo asunto sino hasta pasados dos años.
+
+## art:47 — NOMBRE Y ENCABEZAMIENTO DE LA DECISIÓN
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+La decisión adoptada en referendo se denominará acto legislativo, ley, ordenanza, acuerdo, o resolución local, según corresponda a materias de competencia del Congreso de la República, de las asambleas departamentales o de los concejos municipales, distritales o de las juntas administradoras locales, y así se encabezará el texto aprobado.
+
+Si se trata de una ley o de un acto legislativo aprobado mediante referendo, el encabezamiento deberá ser el siguiente según el caso:
+
+"El pueblo de Colombia decreta".
+
+## art:48 — PROMULGACIÓN DE ACTOS LEGISLATIVOS, LEYES, ORDENANZAS, ACUERDOS O RESOLUCIONES LOCALES APROBADOS EN REFERENDOS
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+Aprobado un referendo, el Presidente de la República, el gobernador o el alcalde, según el caso, sancionará la norma y dispondrá su promulgación en el término de ocho días contados a partir de la declaración de los resultados por parte de la Registraduría del Estado Civil correspondiente, so pena de incurrir en causal de mala conducta.
+
+## art:49 — VIGENCIA DE LA DECISIÓN
+ubicacion: TITULO IV. DE LOS REFERENDOS. > CAPITULO 4. VOTACIÓN DEL REFERENDO Y ADOPCIÓN DE LA DECISIÓN.
+
+Los actos legislativos, las leyes, las ordenanzas, los acuerdos y las resoluciones locales, entrarán en vigencia a partir del momento de la publicación a menos que en la misma se establezca otra fecha.
+
+La publicación deberá hacerse a los ocho días siguientes a la aprobación de los resultados por la organización electoral en el Diario Oficial o en la publicación oficial de la respectiva corporación y, de no realizarse, se entenderá surtida una vez vencido dicho término, configurándose para el funcionario reticente una causal de mala conducta.
+
+## art:50 — CONSULTA POPULAR NACIONAL
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+El Presidente de la República, con la firma de todos los ministros y previo concepto favorable del Senado de la República, podrá consultar al pueblo una decisión de trascendencia nacional.
+
+No se podrán realizar consultas sobre temas que impliquen modificación a la Constitución Política.
+
+## art:51 — CONSULTA POPULAR A NIVEL DEPARTAMENTAL, DISTRITAL, MUNICIPAL Y LOCAL
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+Sin perjuicio de los requisitos y formalidades adicionales que señale el Estatuto General de la Organización Territorial y de los casos que éste determine, los gobernadores y alcaldes podrán convocar consultas para que el pueblo decida sobre asuntos departamentales, municipales, distritales o locales.
+
+## art:52 — FORMA DEL TEXTO QUE SE SOMETERÁ A VOTACIÓN
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+Las preguntas que se formulen al pueblo estarán redactadas en forma clara, de tal manera que puedan contestarse con un sí o un no.
+
+No podrán ser objeto de consulta popular proyectos de articulado, ni tampoco la convocatoria a una asamblea constituyente, salvo cuando se vaya a reformar la Constitución según el procedimiento establecido en el artículo 376 de la Constitución Política y en esta Ley.
+
+## art:53 — CONCEPTO PREVIO PARA LA REALIZACIÓN DE UNA CONSULTA POPULAR
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+En la consulta popular de carácter nacional, el texto que se someterá a la decisión del pueblo, acompañado de una justificación de la consulta y de un informe sobre la fecha de su realización, será enviado por el Presidente de la República al Senado para que, dentro de los veinte días siguientes, emita concepto favorable. Por decisión de mayoría de sus miembros, el Senado podrá prorrogar este plazo en diez días más.
+
+El gobernador o el alcalde solicitará a la asamblea, al concejo o a la junta administradora local, un concepto sobre la conveniencia de la consulta de carácter departamental, municipal o local en los mismos términos y con los mismos requisitos de la consulta nacional. Si éste fuere desfavorable el gobernador o el alcalde no podrá convocar la consulta. El texto de la consulta se remitirá al tribunal contencioso administrativo competente para que se pronuncie dentro de los 15 días siguientes sobre su constitucionalidad.
+
+## art:54 — FECHA PARA LA REALIZACIÓN DE LA CONSULTA POPULAR
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+La votación de la consulta popular nacional se realizará dentro de los cuatro meses siguientes a la fecha del pronunciamiento del Senado de la República, o del vencimiento del plazo indicado para ello. En el caso de las consultas populares celebradas en el marco de las entidades territoriales y en las comunas, corregimientos y localidades, el término será de dos meses.
+
+## art:55 — DECISIÓN DEL PUEBLO
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+La decisión tomada por el pueblo en la consulta, será obligatoria. Se entenderá que ha habido una decisión obligatoria del pueblo, cuando la pregunta que le ha sido sometida ha obtenido el voto afirmativo de la mitad más uno de los sufragios válidos, siempre y cuando haya participado no menos de la tercera parte de los electores que componen el respectivo censo electoral.
+
+## art:56 — EFECTOS DE CONSULTA
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+Cuando el pueblo haya adoptado una decisión obligatoria, el órgano correspondiente deberá adoptar las medidas para hacerla efectiva. Cuando para ello se requiera una ley, una ordenanza, un acuerdo o una resolución local, la corporación respectiva deberá expedirla dentro del mismo período de sesiones y a más tardar en el período siguiente. Si vencido este plazo el Congreso, la asamblea, el concejo o la junta administradora local, no la expidieren, el Presidente de la República, el gobernador, el alcalde, o el funcionario respectivo, dentro de los tres meses siguientes la adoptará mediante decreto con fuerza de ley, ordenanza, acuerdo o resolución local, según el caso. En este caso el plazo para hacer efectiva la decisión popular será de tres meses.
+
+## art:57 — SUSPENSIÓN DE LA VOTACIÓN PARA LA CONSULTA POPULAR
+ubicacion: TITULO V. LA CONSULTA POPULAR.
+
+El Presidente de la República con la firma de todos sus ministros, mediante decreto legislativo, podrá suspender la realización de la votación durante la vigencia de cualquiera de los estados de excepción si su celebración pudiere afectar el orden público o se observare un ambiente de intimidación para los votantes. Dentro de los tres días siguientes a la expedición del decreto, el Presidente de la República, presentará un informe motivado al Congreso, sobre las razones que determinaron la suspensión.
+
+El Gobierno enviará a la Corte Constitucional, al día siguiente de su expedición, el decreto legislativo de suspensión para que ésta decida sobre su constitucionalidad. Si el Gobierno no cumpliere con el deber de enviarlo, la Corte Constitucional aprehenderá de oficio y en forma inmediata su conocimiento.
+
+## art:58 — INICIATIVA Y CONVOCATORIA DE LA CONSULTA
+ubicacion: TITULO VI. CONSULTA PARA CONVOCAR UNA ASAMBLEA CONSTITUYENTE.
+
+El Congreso de la República, mediante una ley aprobada por la mayoría de los miembros de una y otra Cámara, podrá disponer que el pueblo en votación popular decida si convoca a una Asamblea Constituyente para reformar parcial o totalmente la Constitución.
+
+## art:59 — CONTENIDO DE LA LEY DE CONVOCATORIA
+ubicacion: TITULO VI. CONSULTA PARA CONVOCAR UNA ASAMBLEA CONSTITUYENTE.
+
+Además de la convocatoria de la Asamblea Constituyente, la ley deberá definir el número de delegatarios, el sistema para elegirlos, la competencia de la Asamblea, la fecha de su iniciación y su período.
+
+## art:60 — CONTROL DE CONSTITUCIONALIDAD
+ubicacion: TITULO VI. CONSULTA PARA CONVOCAR UNA ASAMBLEA CONSTITUYENTE.
+
+Sancionada la ley que convoca la consulta, el Presidente de la República la remitirá a la Corte Constitucional para que ésta decida previamente sobre su constitucionalidad formal, de conformidad con lo establecido en los artículos 241, inciso 2, y 379 de la Constitución Política.
+
+## art:61 — LA TARJETA ELECTORAL
+ubicacion: TITULO VI. CONSULTA PARA CONVOCAR UNA ASAMBLEA CONSTITUYENTE.
+
+La tarjeta electoral para la consulta deberá ser diseñada de tal forma que los electores puedan votar con un sí o un no la convocatoria y los temas que serán competencia de la Asamblea.
+
+## art:62 — CONVOCATORIA DE LA ASAMBLEA
+ubicacion: TITULO VI. CONSULTA PARA CONVOCAR UNA ASAMBLEA CONSTITUYENTE.
+
+Se entiende que el pueblo convoca la Asamblea, si así lo aprueba, cuando menos, la tercera parte de los integrantes del censo electoral. Las reglas definidas por el pueblo en la consulta no podrán ser variadas posteriormente.
+
+## art:63 — FECHA PARA LA REALIZACIÓN DE LA CONSULTA
+ubicacion: TITULO VI. CONSULTA PARA CONVOCAR UNA ASAMBLEA CONSTITUYENTE.
+
+La consulta para convocar una Asamblea Constituyente y la elección de sus delegatarios serán dos actos separados. 
+
+Esta deberá realizarse entre los dos y los seis meses a partir de la fecha de la expedición de la ley. Estos mismos términos rigen para la elección de los delegatarios a la Asamblea, contados desde la fecha de promulgación de los resultados por el Consejo Nacional Electoral. Las dos votaciones no podrán coincidir con otro acto electoral.
+
+## art:64 — REVOCATORIA DEL MANDATO
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+<Artículo modificado por el artículo 1 de la Ley 741 de 2002. El nuevo texto es el siguiente:> La revocatoria del mandato procederá, siempre y cuando se surtan los siguientes requisitos:
+
+1. Haber transcurrido no menos de un año, contado a partir del momento de la posesión del respectivo alcalde o gobernador.
+
+2. Mediar por escrito, ante la Registraduría Nacional, solicitud de convocatoria a pronunciamiento popular para revocatoria, mediante un memorial que suscriban los ciudadanos en número no inferior al 40% del total de votos que obtuvo el elegido.
+
+## art:65 — MOTIVACIÓN DE LA REVOCATORIA
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+El formulario de solicitud de convocatoria a la votación para la revocatoria, deberá contener las razones que la fundamentan, por la insatisfacción general de la ciudadanía o por el incumplimiento del programa de Gobierno*.
+
+## art:66 — INFORME DE LA SOLICITUD DE REVOCATORIA
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Aprobada la solicitud y expedida la respectiva certificación, el Registrador del Estado Civil correspondiente, dentro de los cinco días siguientes, informará del hecho al respectivo funcionario.
+
+## art:67 — CONVOCATORIA A LA VOTACIÓN EN LAS ENTIDADES TERRITORIALES
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Los ciudadanos de la respectiva entidad territorial serán convocados a la votación para la revocatoria, por la Registraduría del Estado Civil correspondiente dentro de un término no superior a dos meses, contados a partir de la certificación expedida por la misma entidad.
+
+## art:68 — DIVULGACIÓN, PROMOCIÓN Y REALIZACIÓN DE LA CONVOCATORIA
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Corresponderá al Registrador del Estado Civil respectivo, una vez cumplidos los requisitos establecidos para la solicitud de revocatoria, coordinar con las autoridades electorales del respectivo departamento o municipio, la divulgación, promoción y realización de la convocatoria para la votación de acuerdo con las normas establecidas en el Título X de la presente Ley.
+
+## art:69 — APROBACIÓN DE LA REVOCATORIA
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+<Artículo modificado por el artículo 2 de la Ley 741 de 2002. El nuevo texto es el siguiente:> Sólo para efectos del voto programático, procederá la revocatoria del mandato para gobernadores y alcaldes, al ser ésta aprobada en el pronunciamiento popular por la mitad más uno de los votos ciudadanos que participen en la respectiva convocatoria, siempre que el número de sufragios no sea inferior al cincuenta y cinco por ciento (55%) de la votación válida registrada el día en que se eligió al respectivo mandatario.
+
+## art:70 — RESULTADO DE LA VOTACIÓN
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Si como resultado de la votación no se revoca el mandato del gobernador o del alcalde, no podrá volver a intentarse en lo que resta de su período.
+
+## art:71 — INSCRIPCIÓN DE CANDIDATOS
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Podrá inscribirse como candidato cualquier ciudadano que cumpla los requisitos constitucionales y legales para ello, de conformidad con lo establecido en las normas electorales generales, a excepción del mandatario que ha renunciado o al que le ha sido revocado el mandato.
+
+La inscripción del candidato deberá hacerse ante el correspondiente Registrador del Estado Civil, por lo menos veinte días antes de la fecha de la votación.
+
+## art:72 — REMOCIÓN DEL CARGO
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Habiéndose realizado la votación y previo informe del resultado de los escrutinios por la registraduría correspondiente, el Registrador Nacional del Estado Civil la comunicará al Presidente de la República o al gobernador respectivo para que procedan, según el caso, a la remoción del cargo del respectivo gobernador o alcalde revocado.
+
+## art:73 — EJECUCIÓN INMEDIATA DE LA REVOCATORIA
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Surtido el trámite establecido en el artículo anterior, la revocatoria del mandato será de ejecución inmediata.
+
+## art:74 — ELECCIÓN DEL SUCESOR
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+Revocado el mandato a un gobernador o a un alcalde se convocará a elecciones para escoger al sucesor, dentro de los treinta (30) días siguientes a la fecha en que el registrador correspondiente certificare los resultados de la votación.
+
+Durante el período que transcurra entre la fecha de la revocatoria y la posesión del nuevo mandatario, será designado en calidad de encargado por el Presidente de la República o el gobernador, según el caso, un ciudadano del mismo grupo, partido o movimiento político del mandatario revocado.
+
+## art:75 — DESIGNACIÓN DEL SUCESOR
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+El funcionario reemplazante dará cumplimiento, en lo que fuere pertinente, al programa inscrito para la gestión gubernamental en el respectivo período.
+
+## art:76 — SUSPENSIÓN DE ELECCIONES
+ubicacion: TITULO VII. DE LA REVOCATORIA DEL MANDATO.
+
+El Presidente de la República decidirá, en caso de grave perturbación del orden público, sobre el aplazamiento de la celebración de las elecciones según lo establecido en las normas electorales vigentes.
+
+## art:77 — PLEBISCITO
+ubicacion: TITULO VIII. DEL PLEBISCITO.
+
+El Presidente de la República, con la firma de todos los ministros, podrá convocar al pueblo para que se pronuncie sobre las políticas del Ejecutivo que no requieran aprobación del Congreso; excepto las relacionadas con los estados de excepción y el ejercicio de los poderes correspondientes.
+
+El Presidente deberá informar inmediatamente al Congreso su intención de convocar un plebiscito, las razones para hacerlo y la fecha en que se llevará a cabo la votación, la cual no podrá ser anterior a un mes ni posterior a cuatro meses, contados a partir de la fecha en que el Congreso reciba el informe del Presidente. El Plebiscito no podrá coincidir con otra elección.
+
+## art:78 — CONCEPTO OBLIGATORIO DE LAS CÁMARAS Y PREVIO DE LA CORTE CONSTITUCIONAL
+ubicacion: TITULO VIII. DEL PLEBISCITO.
+
+Cuando dentro del mes siguiente a la fecha en que el Presidente haya informado sobre su intención de realizar un plebiscito, ninguna de las dos Cámaras, por la mayoría de asistentes, haya manifestado su rechazo, el Presidente podrá convocarlo. 
+
+En ningún caso el plebiscito podrá versar sobre la duración del período constitucional del mandato presidencial, ni podrá modificar la Constitución Política.
+
+Nota: El control previo de la Corte Constitucional se declaró inexequible. Sentencia C-180 de 1994.
+
+## art:79 — CAMPAÑA A FAVOR O EN CONTRA DEL PLEBISCITO
+ubicacion: TITULO VIII. DEL PLEBISCITO.
+
+El acceso de los partidos y movimientos políticos a los espacios de televisión financiados por el Estado se hará de conformidad con lo establecido para el referendo constitucional.
+
+El Gobierno dispondrá del mismo tiempo en televisión para expresar su opinión sobre el plebiscito. El uso de estos espacios se hará dentro de los veinte días anteriores a la fecha señalada para la votación.
+
+## art:80 — EFECTO DE LA VOTACIÓN
+ubicacion: TITULO VIII. DEL PLEBISCITO.
+
+El pueblo decidirá, en plebiscito, por la mayoría del censo electoral.
+
+## art:81 — OPORTUNIDAD
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+En cada período de sesiones ordinarias de los concejos municipales o distritales, o de las juntas administradoras locales, deben celebrarse por lo menos dos sesiones en las que se considerarán los asuntos que los residentes en el municipio, distrito, localidad, comuna o corregimiento, soliciten sean estudiados y sean de competencia de la corporación respectiva.
+
+## art:82 — PETICIÓN DE CABILDO ABIERTO
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+Un número no inferior al cinco por mil del censo electoral del municipio, distrito, localidad, comuna o corregimiento, según el caso, podrán presentar ante la secretaría de la respectiva corporación la solicitud razonada para que sea discutido un asunto en cabildo abierto, con no menos de quince días de anticipación a la fecha de iniciación del período de sesiones.
+
+Las organizaciones civiles podrán participaren todo el proceso de convocatoria y celebración de los cabildos abiertos.
+
+## art:83 — MATERIAS OBJETO DE CABILDO ABIERTO
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+Podrá ser materia del cabildo abierto cualquier asunto de interés para la comunidad. Sin embargo, no se podrán presentar proyectos de ordenanza, acuerdo o cualquier otro acto administrativo.
+
+## art:84 — PRELACIÓN
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+En los cabildos abiertos se tratarán los temas en el orden en que fueron presentados ante la respectiva secretaría.
+
+## art:85 — DIFUSIÓN DEL CABILDO
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+Los concejos municipales o distritales, o las juntas administradoras locales, dispondrán la amplia difusión de la fecha, el lugar y de los temas que serán objeto del cabildo abierto. Para ello, ordenarán la publicación de dos convocatorias en un medio de comunicación idóneo.
+
+## art:86 — ASISTENCIA Y VOCERÍA
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+A los cabildos abiertos podrán asistir todas las personas que tengan interés en el asunto. 
+
+Además del vocero de quienes solicitaron el cabildo abierto, tendrán voz quienes se inscriban a más tardar tres (3) días antes de la realización del cabildo en la secretaría respectiva, presentando para ello un resumen escrito de su futura intervención.
+
+## art:87 — OBLIGATORIEDAD DE LA RESPUESTA
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+Terminado el cabildo, dentro de la semana siguiente, en audiencia pública a la cual serán invitados los voceros, el presidente de la respectiva corporación dará respuesta escrita y razonada a los planteamientos y solicitudes ciudadanas. Cuando se trate de un asunto relacionado con inversiones públicas municipales, distritales o locales, la respuesta deberá señalar el orden de prioridad de las mismas dentro del presupuesto y los planes correspondientes.
+
+## art:88 — CITACIÓN A PERSONAS
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+Por solicitud de los promotores del cabildo o por iniciativa de los voceros, previa proposición aprobada por la corporación, podrá citarse a funcionarios municipales o distritales, con cinco (5) días de anticipación, para que concurran al cabildo y para que respondan, oralmente o por escrito, sobre hechos relacionados con el tema del cabildo. La desatención a la citación sin justa causa, será causal de mala conducta.
+
+## art:89 — SESIONES FUERA DE LA SEDE
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+Cuando se trate de asuntos que afecten específicamente a una localidad, corregimiento o comuna, el cabildo abierto podrá sesionar en cualquier sitio de éste, con la presencia del respectivo concejo municipal o distrital, o la junta administradora local, según el caso.
+
+## art:90 — DECLARADO INEXEQUIBLE
+ubicacion: TITULO IX. DEL CABILDO ABIERTO.
+
+DECLARADO INEXEQUIBLE
+
+## art:91 — ESPACIOS INSTITUCIONALES EN TELEVISIÓN
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+En el referendo de carácter constitucional o legal, los promotores a favor o en contra de la iniciativa, así como los partidos y movimientos con personería jurídica, tendrán derecho dentro de los treinta (30) días anteriores a la fecha de la votación, a por lo menos dos espacios institucionales en cada canal nacional de televisión. El Gobierno Nacional, si lo desea, dispondrá de tres espacios en cada canal para que presente su posición sobre la materia.
+
+En las campañas de referendo de ordenanzas, de acuerdo o de resoluciones locales, en las capitales de los departamentos, los promotores de la iniciativa y los que promuevan el voto por el no, así como los partidos y movimientos con personería jurídica, que participen en el debate, tendrán derecho a por lo menos tres espacios institucionales en el canal de televisión de la respectiva región, dentro de los treinta (30) días anteriores a la fecha de la votación. En el caso del Distrito Capital, y mientras no disponga de canal regional, se considerará para tales efectos como canal regional la cadena tres de televisión.
+
+El Consejo Nacional Electoral previo concepto del Consejo Nacional de Televisión o el órgano que haga sus veces, distribuirá los espacios, señalará la duración de cada presentación y establecerá las reglas que deban observarse en los mismos.
+
+El tiempo asignado a los promotores de la iniciativa no podrá ser inferior al promedio del asignado a los partidos y movimientos políticos con personería jurídica.
+
+## art:92 — PUBLICACIONES INSTITUCIONALES
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+El Registrador del Estado Civil correspondiente, ordenará tres (3) publicaciones del texto del proyecto sometido a referendo, al comienzo, en el intermedio y al final de la campaña, en dos diarios de circulación nacional si se trata de un referendo de carácter constitucional o legal, o dos publicaciones en un diario de amplia circulación en el respectivo territorio, en el caso de un referendo de carácter departamental o municipal.
+
+## art:93 — CAMPAÑA INSTITUCIONAL DE LA ORGANIZACIÓN ELECTORAL
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+Sin perjuicio de la campaña que adelanten los distintos grupos, la organización electoral será responsable de la campaña por el sí y por el no, y para dar una orientación objetiva al debate, escuchará en audiencia los argumentos de los promotores y opositores según lo establecido por el Consejo Nacional Electoral.
+
+Durante el tiempo de la campaña, la organización electoral publicará anuncios en los medios de comunicación más adecuados para la suficiente divulgación del contenido de la propuesta que será sometida a referendo, para invitar a los ciudadanos a participar en la votación, y para ilustrar a los ciudadanos sobre la organización del mismo, pero no podrá expresar juicio alguno sobre el texto que será votado, ni señalar sus ventajas, implicaciones o desventajas, si las hubiere.
+
+## art:94 — REGLAS PARA CAMPAÑAS PUBLICITARIAS
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+En las campañas de los procesos de participación ciudadana de iniciativa popular, toda persona natural o jurídica de derecho privado podrá contratar publicidad para promover la recolección de firmas, la participación ciudadana y una determinada posición frente al tema de la iniciativa. En todo caso, deberá indicarse el nombre de quien financie los anuncios.
+
+Las afirmaciones falsas sobre el contenido de una iniciativa o de un referendo serán sancionadas, en el caso de personas de derecho privado, por el Consejo Nacional Electoral, con multas entre diez y cincuenta salarios mínimos. En el caso de funcionarios o de entidades públicas, éstas podrán ser denunciadas ante el Ministerio Público por cualquier ciudadano.
+
+## art:95 — PUBLICIDAD EN LAS CAMPAÑAS DE REFERENDO
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+Los promotores de una iniciativa de referendo, los que promuevan el voto por el no, así como los partidos y movimientos políticos que intervengan en el debate, podrán hacer propaganda por todos los medios de comunicación, de acuerdo con la reglamentación que para el efecto expida el Consejo Nacional Electoral.
+
+## art:96 — PUBLICIDAD PAGADA EN LOS MEDIOS DE COMUNICACIÓN SOCIAL
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+Cuando un periódico, una emisora, una programadora de televisión u otro medio de comunicación social acepte difundir publicidad pagada sobre un referendo, deberá prestar sus servicios a todos los promotores, partidos o grupos políticos que intervengan en el debate y que los soliciten en igualdad de condiciones.
+
+## art:97 — CONTROL DE CONTRIBUCIONES
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+Los promotores podrán recibir contribuciones de los particulares para sufragar los gastos del proceso de recolección de firmas y deberán llevar una cuenta detallada de las mismas y de los fines a que hayan sido destinadas.
+
+Quince días después de terminado el proceso de recolección de firmas, deberá presentarse a la Registraduría el balance correspondiente, suscrito por un contador público juramentado.
+
+Desde el inicio del proceso de recolección de firmas, cualquier persona podrá solicitar que se haga público el nombre de quienes hayan financiado la iniciativa, en dinero o en especie, por un valor superior a un salario mínimo mensual.
+
+Ninguna contribución podrá superar el monto que cada año fije el Consejo Nacional Electoral.
+
+## art:98 — FIJACIÓN DEL MONTO MÁXIMO DE DINERO PRIVADO PARA LAS CAMPAÑAS DE LOS DISTINTOS MECANISMOS DE PARTICIPACIÓN
+ubicacion: TITULO X. NORMAS SOBRE DIVULGACION INSTITUCIONAL, PUBLICIDAD Y CONTRIBUCIONES.
+
+El monto máximo de dinero privado que podrá ser gastado en cada una de las campañas relacionadas con los derechos e instituciones reguladas en la presente Ley, será fijado por el Consejo Nacional Electoral en el mes de enero de cada año. El incumplimiento de esta disposición será causal de mala conducta.
+
+## art:99 — DE LA PARTICIPACIÓN ADMINISTRATIVA COMO DERECHO DE LAS PERSONAS
+ubicacion: TITULO XI. DE LA PARTICIPACION DEMOCRATICA DE LAS ORGANIZACIONES CIVILES. > CAPITULO I. DE LA DEMOCRATIZACIÓN, DEL CONTROL Y DE LA FISCALIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA.
+
+La participación en la gestión administrativa se ejercerá por los particulares y por las organizaciones civiles en los términos de la Constitución, y de aquellos que se señalen mediante la ley que desarrolle el inciso final del artículo 103 de la Constitución Política y establezcan los procedimientos reglamentarios requeridos para el efecto, los requisitos que deban cumplirse, la definición de las decisiones y materias objeto de la participación, así como de sus excepciones y las entidades en las cuales operarán estos procedimientos.
+
+## art:100 — DE LAS VEEDURÍAS CIUDADANAS
+ubicacion: TITULO XI. DE LA PARTICIPACION DEMOCRATICA DE LAS ORGANIZACIONES CIVILES. > CAPITULO I. DE LA DEMOCRATIZACIÓN, DEL CONTROL Y DE LA FISCALIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA.
+
+Las organizaciones civiles podrán constituir veedurías ciudadanas o juntas de vigilancia a nivel nacional y en todos los niveles territoriales, con el fin de vigilar la gestión pública, los resultados de la misma y la prestación de los servicios públicos.
+
+La vigilancia podrá ejercerse en aquellos ámbitos, aspectos y niveles en los que en forma total o mayoritaria se empleen los recursos públicos, de acuerdo con la Constitución y la ley que reglamente el artículo 270 de la Constitución Política.
+
+## art:101 — DECLARADO INEXEQUIBLE
+ubicacion: TITULO XI. DE LA PARTICIPACION DEMOCRATICA DE LAS ORGANIZACIONES CIVILES. > CAPITULO I. DE LA DEMOCRATIZACIÓN, DEL CONTROL Y DE LA FISCALIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA.
+
+DECLARADO INEXEQUIBLE
+
+## art:102 — DECLARADO INEXEQUIBLE
+ubicacion: TITULO XI. DE LA PARTICIPACION DEMOCRATICA DE LAS ORGANIZACIONES CIVILES. > CAPITULO I. DE LA DEMOCRATIZACIÓN, DEL CONTROL Y DE LA FISCALIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA.
+
+DECLARADO INEXEQUIBLE
+
+## art:103 — DECLARADO INEXEQUIBLE
+ubicacion: TITULO XI. DE LA PARTICIPACION DEMOCRATICA DE LAS ORGANIZACIONES CIVILES. > CAPITULO I. DE LA DEMOCRATIZACIÓN, DEL CONTROL Y DE LA FISCALIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA.
+
+DECLARADO INEXEQUIBLE
+
+## art:104 — FACULTADES EXTRAORDINARIAS
+ubicacion: TITULO XII. DISPOSICIONES GENERALES.
+
+Revístese de facultades extraordinarias al Presidente de la República por el término de seis meses, de acuerdo con lo establecido en el numeral 10 del artículo 150 de la Constitución Política, para crear el "Fondo para la Participación Ciudadana", con personería jurídica, patrimonio independiente, adscrito al Ministerio de Gobierno; el cual tendrá por objeto financiar programas que hagan efectiva la participación ciudadana, mediante la difusión de sus procedimientos, la capacitación de la comunidad para el ejercicio de las instituciones y mecanismos reconocidos en esta Ley, así como el análisis y evaluación del comportamiento participativo y comunitario.
+
+PARÁGRAFO. El Gobierno realizará las operaciones presupuestales para este efecto.
+
+## art:105 — APROPIACIONES PRESUPUESTALES
+ubicacion: TITULO XII. DISPOSICIONES GENERALES.
+
+Con el propósito de garantizar los recursos necesarios para la realización de los procesos de participación ciudadana en la iniciativa popular, los referendos, las consultas populares, los plebiscitos y los cabildos abiertos, se incluirán las apropiaciones presupuestales correspondientes en la ley anual de presupuesto, de acuerdo con las disponibilidades fiscales existentes.
+
+## art:106 — REMISIÓN A NORMAS ELECTORALES
+ubicacion: TITULO XII. DISPOSICIONES GENERALES.
+
+A las elecciones previstas en esta Ley se aplicarán las disposiciones electorales que no sean incompatibles con ella.
+
+Las normas sobre contribución y publicidad de balance del Estatuto Básico de los partidos y movimientos políticos y de la Oposición se aplicarán en lo que fueren pertinentes.
+
+## art:107 — DECLARACIÓN DE RESULTADOS
+ubicacion: TITULO XII. DISPOSICIONES GENERALES.
+
+El Consejo Nacional Electoral o el Registrador del Estado Civil correspondiente, según el caso, declarará, oficialmente el resultado de la votación y lo comunicará a todas las autoridades que tengan competencia para tomar decisiones o adoptar medidas relacionadas con lo decidido.
+
+## art:108 — INFORMES DE LA REGISTRADURÍA
+ubicacion: TITULO XII. DISPOSICIONES GENERALES.
+
+La Registraduría Nacional del Estado Civil llevará un archivo de la utilización de las instituciones y mecanismos de participación ciudadana regulados en la presente Ley.
+
+## art:109 — VIGENCIA DE LA LEY
+ubicacion: TITULO XII. DISPOSICIONES GENERALES.
+
+Esta Ley rige a partir de su publicación.

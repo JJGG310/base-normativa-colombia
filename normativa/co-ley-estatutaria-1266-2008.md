@@ -7,7 +7,7 @@ ramas: [datos-personales, comercial, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1 — OBJETO

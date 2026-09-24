@@ -90,7 +90,7 @@ run ley_1996_2019 --minimo 40 --id co:ley:1996:2019 --tipo ley \
 
 run decreto_1260_1970 --minimo 80 --id co:decreto:1260:1970 --tipo decreto \
     --titulo "Decreto 1260 de 1970 - Estatuto del Registro del Estado Civil" \
-    --ramas "civil, familia, notarial" --salida normativa/co-decreto-1260-1970.md
+    --ramas "civil, familia, notarial-registral" --salida normativa/co-decreto-1260-1970.md
 
 run ley_1257_2008 --minimo 25 --id co:ley:1257:2008 --tipo ley \
     --titulo "Ley 1257 de 2008 - Violencia y discriminación contra las mujeres" \
