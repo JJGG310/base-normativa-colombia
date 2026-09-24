@@ -27,7 +27,9 @@ BASE = "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=%s"
 ANCLA = re.compile(r'<a\s+[^>]*name="([\d.]+)"[^>]*>', re.I)
 # Número de artículo de DUR tal como lo escribe el texto: con letra intercalada
 # (2.2.7B.1.1.1) o con un espacio perdido (2.2.1.2. 7.16).
-NUM_DUR = r"\d+(?-i:[A-Z])?(?:\.\s?\d+(?-i:[A-Z])?)*"
+# Tras el primer punto, el espacio solo vale si sigue otro decimal («2. 1.11.10»): en
+# «ARTÍCULO 11. 1. Los salarios…» es el artículo 11 con su numeral 1.
+NUM_DUR = r"\d+(?-i:[A-Z])?(?:\.(?:\s(?=\d+\.\d))?\d+(?-i:[A-Z])?(?:\.\s?\d+(?-i:[A-Z])?)*)?"
 
 ACCION = {"modificado": "modifica", "adicionado": "adiciona", "derogado": "deroga",
           "sustituido": "subroga", "subrogado": "subroga"}
@@ -46,7 +48,7 @@ def fecha_norma(doc):
     t = limpiar(re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I))
     # Entre el año y la fecha puede haber paréntesis de reformas: el DUR 1073 trae
     # «DECRETO 1073 DE 2015 (Adicionado por…) (Adicionado por…) (Mayo 26)».
-    m = re.search(r"\b(?:DECRETO|LEY)\s+[\d\.]+\s+(?:DE\s+)?(\d{4})\s*(?:\([^)]*\)\s*)*"
+    m = re.search(r"\b(?:DECRETO|LEY)\s+(?:N[ÚU]MERO\s+)?[\d\.]+\s+(?:DE\s+)?(\d{4})\s*(?:\([^)]*\)\s*)*"
                   r"\(\s*(%s)\s+(\d{1,2})\s*\)" % "|".join(MESES), t, re.I)
     return "%s-%02d-%02d" % (m.group(1), MESES[m.group(2).lower()], int(m.group(3))) if m else ""
 
@@ -70,7 +72,7 @@ def articulos(doc, enteros=False):
     # Un decreto que reforma un DUR transcribe sus artículos («quedará así: ARTÍCULO
     # 2.2.18.1.1…»): son mayoría, pero los propios son los enteros (--enteros).
     decimal = decimal and not enteros
-    salida += [a for a in partir("", "", limpiar(doc[:anclas[0].start()]))
+    salida += [a for a in partir("", "", limpiar(doc[:anclas[0].start()]), decimal)
                if a[0] and ("." in a[0]) == decimal]
     for k, m in enumerate(anclas):
         num = m.group(1).strip(".")
@@ -129,7 +131,7 @@ def articulos(doc, enteros=False):
 
 # El ordinal («ARTICULO 1º- …», «ARTICULO 1o. …») solo se consume si lo sigue un
 # signo: con re.I, una `o` suelta se comía la primera letra del epígrafe ("Otro").
-RE_ART_INLINE = re.compile(r"(?m)^[ \t]*ART[IÍ]CULO\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
+RE_ART_INLINE = re.compile(r"(?m)^[ \t]*ART[IÍ]CULO\.?\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
                            r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 
@@ -137,7 +139,7 @@ def orden(num):
     return [int(x) for x in re.findall(r"\d+", num)]
 
 
-def partir(num, epi, texto):
+def partir(num, epi, texto, decimal=None):
     """Varios artículos pueden colgar de una sola ancla: el Gestor no le pone `name`
     a todos. El encabezado en línea propia los delimita — sin esto se perdían 287
     artículos del DUR 1072, tragados dentro del anterior."""
@@ -147,7 +149,9 @@ def partir(num, epi, texto):
     # arts. 13, 18 y 19 del D.L. 528/64); una letra (54 A) avanza sobre el 54. En los
     # DUR no: la fuente trae erratas de numeración y el orden cortaría artículos
     # legítimos, y un artículo puede acabar en «…así:» antes del siguiente.
-    cortes, tope, ult, decimal = [], orden(num), num, "." in num
+    # Sin número (lo previo a la primera ancla) el estilo lo da quien llama.
+    cortes, tope, ult = [], orden(num), num
+    decimal = "." in num if decimal is None else decimal
     for m in RE_ART_INLINE.finditer(texto):
         n = re.sub(r"\s", "", m.group(1).strip(".")).lower()
         k = orden(n)

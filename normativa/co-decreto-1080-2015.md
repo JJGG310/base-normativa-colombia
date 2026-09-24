@@ -7,7 +7,7 @@ ramas: [cultura, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76833
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — 
@@ -42,7 +42,7 @@ Consejo Nacional de Cultura
 
 ## art:1.1.3.2 — 
 
-1.1.3.2 Comité Directivo
+Comité Directivo
 
 (Resolución 2275 de 2013 del ministerio de cultura)
 
@@ -72,7 +72,7 @@ Comité de Convivencia Laboral
 
 ## art:1.1.3.7 — 
 
-1.1.3.7 Comisión de Antigüedades Náufragas
+Comisión de Antigüedades Náufragas
 
 (Decreto 1698 de 2014, Artículo 8)
 
@@ -4693,9 +4693,7 @@ PATRIMONIO CULTURAL SUMERGIDO
 
 ALCANCE
 
-## art:2.7 — 1.1
-
-Alcance. La presente reglamentación no aplica a los bienes que en espacios terrestres se encuentren por debajo del nivel freático. Tampoco aplica a aquellos bienes que se encuentren en áreas o terrenos de bajamar.
+ARTÍCULO 2. 7 .1.1. Alcance. La presente reglamentación no aplica a los bienes que en espacios terrestres se encuentren por debajo del nivel freático. Tampoco aplica a aquellos bienes que se encuentren en áreas o terrenos de bajamar.
 
 Los bienes que hayan sido extraídos de aguas marinas, lacustres o fluviales antes de la expedición de la Ley 1675 de 2013, se regirán por las normas generales asociadas al Patrimonio Cultural de la Nación.
 
@@ -4982,6 +4980,10 @@ Cada una de las naves o artefactos navales vinculados al proyecto deberá contar
 Sin perjuicio de las garantías ordenadas por la ley o los reglamentos para la contratación pública, quien obtenga la autorización para la exploración deberá otorgar pólizas de seguros, garantía bancaria o patrimonio autónomo de acuerdo con lo previsto en el Decreto 1510 de 2013 o las normas que lo modifiquen, adicionen o sustituyan, que garanticen el cumplimiento de las obligaciones derivadas de la autorización o contrato.
 
 (Decreto 1698 de 2014, Artículo 22)
+
+2. 7 .1.3.10. Cesión de autorizaciones. En virtud de la especialidad de los contratos o autorización de exploración del patrimonio cultural sumergido, queda prohibida su cesión total o parcial a terceros, sin previa autorización escrita del Ministerio de Cultura.
+
+(Decreto 1698 de 2014, Artículo 23)
 
 ## art:2.7.1.3.11 — Informe
 
@@ -8713,7 +8715,7 @@ TRÁMITES Y REQUISITOS PARA LA REALIZACIÓN DE ESPECTÁCULOS PÚBLICOS DE LAS AR
 
 ## art:2.9.1.5.1 — 
 
-2.9.1.5.1 Requisitos para realización de espectáculos públicos de las artes escénicas en lugares diferentes a los escenarios culturales como parques, estadios y escenarios deportivos. Los productores de espectáculos públicos de las artes escénicas que realicen este tipo de eventos en espacios diferentes a los escenarios culturales de que trata la Ley 1493 de 2011 y este Decreto, deberán solicitar autorización o permiso para cada evento, función o temporada ante la Secretarla de Gobierno o la entidad que haga sus veces, mínimo quince (15) días hábiles previos a la realización del evento.
+Requisitos para realización de espectáculos públicos de las artes escénicas en lugares diferentes a los escenarios culturales como parques, estadios y escenarios deportivos. Los productores de espectáculos públicos de las artes escénicas que realicen este tipo de eventos en espacios diferentes a los escenarios culturales de que trata la Ley 1493 de 2011 y este Decreto, deberán solicitar autorización o permiso para cada evento, función o temporada ante la Secretarla de Gobierno o la entidad que haga sus veces, mínimo quince (15) días hábiles previos a la realización del evento.
 
 Para la obtención de esta autorización, deberán acreditar ante las entidades competentes los requisitos de seguridad humana referentes a contar con un Plan de Gestión del Riesgo o plan de emergencias y contingencias, y cumplir con: las condiciones sanitarias y ambientales previstas en la leyes vigentes; las normas referentes a la intensidad auditiva, horario y ubicación señalados por la entidad competente del respectivo municipio o distrito; los requisitos de que trata el artículo 17 de la Ley 1493 de 2011, modificado por el artículo 135 del Decreto Ley 2106 de 2019, así como acreditar las pólizas de cumplimiento necesarias para la seguridad de los asistentes, artistas y organizadores.
 
@@ -11663,7 +11665,7 @@ El Comité Técnico podrá generar espacios de participación de actores públic
 
 ## art:2.12.3.2.5 — 
 
-2.12.3.2.5.- Seguimiento y evaluación, el Ministerio de Cultura, de manera conjunta con el Consejo Nacional de Economía Naranja serán los encargados de adelantar el proceso de seguimiento del Plan de Acción de la política de acuerdo con la metodología de indicadores que se defina en el mismo.
+Seguimiento y evaluación, el Ministerio de Cultura, de manera conjunta con el Consejo Nacional de Economía Naranja serán los encargados de adelantar el proceso de seguimiento del Plan de Acción de la política de acuerdo con la metodología de indicadores que se defina en el mismo.
 
 El comité técnico señalado en el artículo 2.12 .3.2.2. del presente Decreto deberá presentar los reportes sobre el estado del cumplimiento del plan de acción que requieran el Ministerio de Cultura o el Consejo Nacional de Economía Naranja para la correspondiente evaluación de la Política Integral Naranja. De igual manera, le corresponde al comité presentar un informe anual en la última sesión del Consejo Nacional de Economía Naranja en el que se consolide el registro de las labores de implementación de la política; la efectividad y eficiencia de las acciones desplegadas; y el estado de logros obtenidos en la vigencia y las recomendaciones para la acción de implementación de la política.
 

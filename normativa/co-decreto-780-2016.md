@@ -7,7 +7,7 @@ ramas: [salud, seguridad-social, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77813
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — Ministerio de Salud y Protección Social
@@ -3311,9 +3311,7 @@ Cuando, a juicio de la entidad promotora de salud o entidad adaptada, haya duda 
 
 Transcurridos ocho (8) días hábiles sin que la entidad promotora de salud o entidad adaptada haya validado o sometido a evaluación médica al cotizante, estará obligada a reconocer y liquidar la incapacidad dentro de los quince (15) días hábiles siguientes a la presentación del certificado de incapacidad expedido por el medico u odontólogo no adscrito a su red, y a pagarla dentro de los cinco (5) días siguientes, siempre y cuando el afiliado cumpla con las condiciones del artículo 2.2.3.3.1 del presente Decreto
 
-## art:2.2 — .3.3.4 Certificados de incapacidad de origen común por eventos ocurridos con anterioridad o retroactivos
-
-No se podrán expedir certificados de incapacidad por eventos ocurridos con anterioridad, salvo en las siguientes situaciones:
+ARTÍCULO 2. 2..3.3.4 Certificados de incapacidad de origen común por eventos ocurridos con anterioridad o retroactivos. No se podrán expedir certificados de incapacidad por eventos ocurridos con anterioridad, salvo en las siguientes situaciones:
 
 Urgencia o internación del afiliado
 
@@ -5315,7 +5313,7 @@ PARÁGRAFO . El Ministerio de Salud y Protección Social certificará al Departa
 
 ## art:2.4.12 — 
 
-2.4.12 Distribución y asignación territorial de los recursos de acuerdo a la prestación de servicios de salud a la población pobre y vulnerable. El monto de recursos a que hace referencia el presente artículo se distribuirá de acuerdo a la población pobre y vulnerable definida en el numeral 7 del artículo 2.4.6 del presente decreto. Estos recursos se distribuirán aplicando la participación de la población pobre y vulnerable de cada distrito y departamento, frente al total nacional,
+Distribución y asignación territorial de los recursos de acuerdo a la prestación de servicios de salud a la población pobre y vulnerable. El monto de recursos a que hace referencia el presente artículo se distribuirá de acuerdo a la población pobre y vulnerable definida en el numeral 7 del artículo 2.4.6 del presente decreto. Estos recursos se distribuirán aplicando la participación de la población pobre y vulnerable de cada distrito y departamento, frente al total nacional,
 
 PARÁGRAFO . Los recursos para la prestación de servicios de salud a la población pobre y vulnerable serán girados directamente a los distritos certificados y departamentos, conforme a la asignación efectuada en el presente artículo.
 
@@ -19993,7 +19991,7 @@ El Ministerio de Salud y Protección Social tendrá las siguientes funciones en 
 
 ## art:2.8.8.1.1.8 — 
 
-2.8.8.1.1.8 Funciones del Instituto Nacional de Salud, INS y del Instituto Nacional de Vigilancia de Medicamentos y Alimentos, Invima. El Instituto Nacional de Salud y el Instituto Nacional de Vigilancia de Medicamentos y Alimentos, tendrán las siguientes funciones en relación con el Sistema de Vigilancia en Salud Pública:
+Funciones del Instituto Nacional de Salud, INS y del Instituto Nacional de Vigilancia de Medicamentos y Alimentos, Invima. El Instituto Nacional de Salud y el Instituto Nacional de Vigilancia de Medicamentos y Alimentos, tendrán las siguientes funciones en relación con el Sistema de Vigilancia en Salud Pública:
 
  a). Desarrollar las acciones que garanticen la operación del Sistema de Vigilancia en Salud Pública en las áreas de su competencia;
 
@@ -22169,7 +22167,7 @@ PARÁGRAFO 3. (Modificado por el art. 7, decreto 1138 de 2025). Además de los r
 
 ## art:2.8.11.2.2.12 — 
 
-2.8.11.2.2.12 Requisitos adicionales para la licencia de cultivo de plantas de cannabis no psicoactivo en la modalidad de fabricación de derivados. Además de los requisitos establecidos en los artículos 2.8.11.2.2.1. y 2.8.11.2.2.11., cuando se solicite la licencia de cultivo de plantas de cannabis no psicoactivo en la modalidad de fabricación de derivados, deberá presentarse la siguiente documentación:
+Requisitos adicionales para la licencia de cultivo de plantas de cannabis no psicoactivo en la modalidad de fabricación de derivados. Además de los requisitos establecidos en los artículos 2.8.11.2.2.1. y 2.8.11.2.2.11., cuando se solicite la licencia de cultivo de plantas de cannabis no psicoactivo en la modalidad de fabricación de derivados, deberá presentarse la siguiente documentación:
 
 1. Identificación del acto administrativo de la licencia de fabricación de derivados de cannabis o de la licencia de fabricación de derivados no psicoactivos de cannabis a nombre de la persona natural o jurídica destinataria de la cosecha, e indicación del número del acto administrativo de la constancia ejecutoria expedida por la autoridad competente o prueba de esta.
 
@@ -22183,7 +22181,7 @@ PARÁGRAFO 2. Los potenciales pequeños y medianos cultivadores, productores y c
 
 ## art:2.8.11.2.2.13 — 
 
-2.8.11.2.2.13 Requisitos adicionales para la licencia de cultivo de plantas de cannabis no psicoactivo en la modalidad de investigación. Además de los requisitos establecidos en los artículos 2.8.11.2.2.1. y 2.8.11.2.2.11., cuando se solicite la licencia de cultivo de plantas de cannabis no psicoactivo para investigación deberá presentarse la documentación que acredite el proyecto de investigación. En todo caso, el objeto social de la persona jurídica, consorcio, unión temporal o demás esquemas asociativos encargados de realizar el proyecto de investigación, deberá contener de forma expresa la investigación y/o fitomejoramiento.
+Requisitos adicionales para la licencia de cultivo de plantas de cannabis no psicoactivo en la modalidad de investigación. Además de los requisitos establecidos en los artículos 2.8.11.2.2.1. y 2.8.11.2.2.11., cuando se solicite la licencia de cultivo de plantas de cannabis no psicoactivo para investigación deberá presentarse la documentación que acredite el proyecto de investigación. En todo caso, el objeto social de la persona jurídica, consorcio, unión temporal o demás esquemas asociativos encargados de realizar el proyecto de investigación, deberá contener de forma expresa la investigación y/o fitomejoramiento.
 
 PARÁGRAFO . El proyecto de investigación deberá cumplir con la regulación que expidan de forma conjunta los ministerios de Salud y Protección Social, Justicia y del Derecho y Agricultura y Desarrollo Rural.
 

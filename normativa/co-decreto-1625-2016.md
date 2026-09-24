@@ -7,7 +7,7 @@ ramas: [tributario]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=83233
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1 — Obligaciones de dar, hacer y no hacer
@@ -2106,9 +2106,13 @@ Si la pérdida fue deducida de utilidades obtenidas por el contribuyente, su rec
 
 (Artículo 30, Decreto 353 de 1984)
 
-Artículo. 1.2.1.12.6. Componente inflacionario de los rendimientos financieros percibidos durante el año gravable 2024, por personas naturales y sucesiones ilíquidas, no obligadas a llevar libros de contabilidad. No constituye renta ni ganancia ocasional por el año gravable 2024, el cincuenta coma ochenta y ocho por ciento (50,88%) del valor de los rendimientos financieros percibidos por personas naturales y sucesiones ilíquidas, no obligadas a llevar libros de contabilidad, de conformidad con lo previsto en los artículos 38, 40-1 y 41 del Estatuto Tributario.
+## art:1.2.1.12.6 — 
 
-Artículo. 1.2.1.12.7. Componente inflacionario de los rendimientos financieros que distribuyan los fondos de inversión, mutuos de inversión y de valores. Para el año gravable 2024, las utilidades que los fondos mutuos de inversión, los fondos de inversión y los fondos de valores distribuyan o abonen en cuenta a sus afiliados personas naturales y sucesiones ilíquidas, no obligadas a llevar contabilidad, no constituyen renta ni ganancia ocasional en el cincuenta coma ochenta y ocho por ciento (50,88%) del valor de los rendimientos financieros recibidos por el fondo, correspondiente al componente inflacionario, de acuerdo con lo dispuesto en los artículos 39, 40-1 y 41 del Estatuto Tributario.”
+Componente inflacionario de los rendimientos financieros percibidos durante el año gravable 2024, por personas naturales y sucesiones ilíquidas, no obligadas a llevar libros de contabilidad. No constituye renta ni ganancia ocasional por el año gravable 2024, el cincuenta coma ochenta y ocho por ciento (50,88%) del valor de los rendimientos financieros percibidos por personas naturales y sucesiones ilíquidas, no obligadas a llevar libros de contabilidad, de conformidad con lo previsto en los artículos 38, 40-1 y 41 del Estatuto Tributario.
+
+## art:1.2.1.12.7 — 
+
+Componente inflacionario de los rendimientos financieros que distribuyan los fondos de inversión, mutuos de inversión y de valores. Para el año gravable 2024, las utilidades que los fondos mutuos de inversión, los fondos de inversión y los fondos de valores distribuyan o abonen en cuenta a sus afiliados personas naturales y sucesiones ilíquidas, no obligadas a llevar contabilidad, no constituyen renta ni ganancia ocasional en el cincuenta coma ochenta y ocho por ciento (50,88%) del valor de los rendimientos financieros recibidos por el fondo, correspondiente al componente inflacionario, de acuerdo con lo dispuesto en los artículos 39, 40-1 y 41 del Estatuto Tributario.”
 
  (Modifica Art 2 del decreto 771 de 2025)
 
@@ -5111,7 +5115,7 @@ Los Ministerios Ambiente y Desarrollo Sostenible y de Comercio, Industria y Turi
 
 ## art:1.2.1.22.19 — 
 
-1.2.1.22.19 Definiciones para la aplicación de las rentas exentas de que trata el numeral 5 del artículo 235-2 del Estatuto Tributario. Para efectos de la aplicación de las exenciones del impuesto sobre la renta previstas en el numeral 5 del artículo 235-2 del Estatuto Tributario, se tendrán en cuenta las siguientes definiciones:
+Definiciones para la aplicación de las rentas exentas de que trata el numeral 5 del artículo 235-2 del Estatuto Tributario. Para efectos de la aplicación de las exenciones del impuesto sobre la renta previstas en el numeral 5 del artículo 235-2 del Estatuto Tributario, se tendrán en cuenta las siguientes definiciones:
 
 1. Aprovechamiento: El aprovechamiento es el uso, por parte del hombre, de los recursos maderables y no maderables provenientes de las plantaciones forestales.
 
@@ -8386,7 +8390,7 @@ PARÁGRAFO . Los contribuyentes que no cumplan con lo dispuesto en el parágrafo
 
 ## art:1.2.1.28.2.7 — 
 
-1.2.1.28.2.7 Tarifa del impuesto sobre la renta del nueve por ciento (9%) cuando la prestación del servicio hotelero se realiza por un tercero operador. La tarifa del impuesto sobre la renta del nueve por ciento (9%) de que trata el parágrafo 5 del artículo 240 del Estatuto Tributario y la presente Sección podrá ser aplicada por los operadores de servicios hoteleros siempre y cuando el propietario del nuevo hotel construido, o del hotel ampliado y/o remodelado lo haya entregado para el desarrollo de la actividad de la operación hotelera y la renta provenga directamente de la prestación de servicios hoteleros.
+Tarifa del impuesto sobre la renta del nueve por ciento (9%) cuando la prestación del servicio hotelero se realiza por un tercero operador. La tarifa del impuesto sobre la renta del nueve por ciento (9%) de que trata el parágrafo 5 del artículo 240 del Estatuto Tributario y la presente Sección podrá ser aplicada por los operadores de servicios hoteleros siempre y cuando el propietario del nuevo hotel construido, o del hotel ampliado y/o remodelado lo haya entregado para el desarrollo de la actividad de la operación hotelera y la renta provenga directamente de la prestación de servicios hoteleros.
 
 ## art:1.2.1.28.2.8 — Contribuyentes que no pueden optar por la tarifa diferencial del nueve por ciento (9%) del impuesto sobre la renta
 

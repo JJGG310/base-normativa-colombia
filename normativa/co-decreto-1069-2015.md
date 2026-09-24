@@ -7,7 +7,7 @@ ramas: [administrativo, procesal]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=74174
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — 1.1
@@ -5440,7 +5440,7 @@ De conformidad con lo dispuesto en el artículo 29, numeral 3 del Decreto 2591 d
 
 ## art:2.2.3.1.1.6 — 
 
-2.2.3.1.1.6 De los efectos de las decisiones de revisión de la corte constitucional y de las decisiones sobre las impugnaciones de fallos de tutela. Cuando el juez que conozca de la impugnación o la Corte Constitucional al decidir una revisión, revoque el fallo de tutela que haya ordenado realizar una conducta, quedarán sin efecto dicha providencia y la actuación que haya realizado la autoridad administrativa en cumplimiento del fallo respectivo.
+De los efectos de las decisiones de revisión de la corte constitucional y de las decisiones sobre las impugnaciones de fallos de tutela. Cuando el juez que conozca de la impugnación o la Corte Constitucional al decidir una revisión, revoque el fallo de tutela que haya ordenado realizar una conducta, quedarán sin efecto dicha providencia y la actuación que haya realizado la autoridad administrativa en cumplimiento del fallo respectivo.
 
 (Decreto 306 de 1992 artículo 7)
 
@@ -5512,7 +5512,7 @@ En desarrollo de la labor de reparto, el funcionario encargado podrá remitir a 
 
 ## art:2.2.3.1.2.3 — 
 
-2.2.3.1.2.3 Acumulación de decisiones El juez que aboque el conocimiento de varias acciones de tutela con identidad de objeto, podrá decidir en una misma sentencia sobre todas ellas, siempre y cuando se encuentre dentro del término previsto para ello.
+Acumulación de decisiones El juez que aboque el conocimiento de varias acciones de tutela con identidad de objeto, podrá decidir en una misma sentencia sobre todas ellas, siempre y cuando se encuentre dentro del término previsto para ello.
 
 (Decreto 1382 de 2000 artículo 3)
 
@@ -11027,7 +11027,7 @@ En lo no previsto de manera específica por la Ley 975 de 2005 y por la Ley 1592
 
 ## art:2.2.5.1.1.7 — 
 
-2.2.5.1.1.7 Obligación general de las entidades públicas de informar sobre el cumplimiento de los requisitos de elegibilidad en el marco de sus competencias. Las entidades públicas están obligadas a informar a las autoridades competentes sobre el cumplimiento de los requisitos de elegibilidad en el marco de sus competencias. En caso de que dichas entidades tuvieren pruebas legales que desvirtúen lo afirmado bajo la gravedad del juramento por las personas postuladas sobre el cumplimiento de los mismos, deberán adjuntarlas para que sean valoradas por los fiscales delegados y las autoridades judiciales respectivas, sin perjuicio de que estas puedan solicitar los informes adicionales y la colaboración de las demás autoridades públicas para estos fines.
+Obligación general de las entidades públicas de informar sobre el cumplimiento de los requisitos de elegibilidad en el marco de sus competencias. Las entidades públicas están obligadas a informar a las autoridades competentes sobre el cumplimiento de los requisitos de elegibilidad en el marco de sus competencias. En caso de que dichas entidades tuvieren pruebas legales que desvirtúen lo afirmado bajo la gravedad del juramento por las personas postuladas sobre el cumplimiento de los mismos, deberán adjuntarlas para que sean valoradas por los fiscales delegados y las autoridades judiciales respectivas, sin perjuicio de que estas puedan solicitar los informes adicionales y la colaboración de las demás autoridades públicas para estos fines.
 
 (Decreto 3011 de 2013, artículo 7)
 
@@ -13323,9 +13323,13 @@ El funcionamiento de los comités territoriales se regirá por el reglamento y/o
 
 Las demás que sean necesarias para garantizar coordinación, articulación y la implementación de las medidas de atención, prevención, búsqueda, identificación, reencuentro y entrega digna de cuerpos, definidas en la Política Pública Integral.
 
-ARTICULO. 2.2.5.9.2.15. Articulación, Coordinación y Cooperación Territorial. En el marco del Sistema Nacional de Búsqueda, el Ministerio del Interior en coordinación con la Unidad de Búsqueda de Personas Dadas por Desaparecidas, brindarán asistencia para que las entidades territoriales incorporen en sus instrumentos de planeación, una línea dirigida a fortalecer la gestión y protección de los cementerios que tengan en sus terrenos cuerpos de personas no identificadas y/o identificadas no reclamadas, cualquiera sea su naturaleza jurídica.
+## art:2.2.5.9.2.15 — Articulación, Coordinación y Cooperación Territorial
 
-ARTICULO. 2.2.5.9.2.16. Acceso e intercambio de la información. Para efectos de acceso e intercambio de la información relacionada directa o indirectamente con la desaparición de personas en contexto y en razón del conflicto armado, incluyendo las desapariciones forzadas, todas las entidades del Sistema Nacional de Búsqueda, en el marco de sus competencias y facultades, deberán responder a los requerimientos que realice la Comisión lntersectorial con miras a garantizar la interoperabilidad de sus bases de datos y sistemas de información.
+En el marco del Sistema Nacional de Búsqueda, el Ministerio del Interior en coordinación con la Unidad de Búsqueda de Personas Dadas por Desaparecidas, brindarán asistencia para que las entidades territoriales incorporen en sus instrumentos de planeación, una línea dirigida a fortalecer la gestión y protección de los cementerios que tengan en sus terrenos cuerpos de personas no identificadas y/o identificadas no reclamadas, cualquiera sea su naturaleza jurídica.
+
+## art:2.2.5.9.2.16 — Acceso e intercambio de la información
+
+Para efectos de acceso e intercambio de la información relacionada directa o indirectamente con la desaparición de personas en contexto y en razón del conflicto armado, incluyendo las desapariciones forzadas, todas las entidades del Sistema Nacional de Búsqueda, en el marco de sus competencias y facultades, deberán responder a los requerimientos que realice la Comisión lntersectorial con miras a garantizar la interoperabilidad de sus bases de datos y sistemas de información.
 
 Sin perjuicio de lo anterior, la Comisión lntersectorial podrá requerir información detallada y estadística a las demás entidades que no conforman el Sistema pero que contribuyen en la gestión de la información requerida para la atención, prevención, búsqueda, identificación, reencuentro y entrega digna de cuerpos de las personas dadas por desaparecidas en contexto y en razón del conflicto armado, incluyendo las víctimas de desaparición forzada
 

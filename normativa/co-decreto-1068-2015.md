@@ -7,7 +7,7 @@ ramas: [tributario, financiero, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72893
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — Ministerio de Hacienda y Crédito Público

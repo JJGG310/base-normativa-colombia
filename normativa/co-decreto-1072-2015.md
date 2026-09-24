@@ -7,7 +7,7 @@ ramas: [laboral, seguridad-social, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=72173
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — El Ministerio del Trabajo
@@ -3144,7 +3144,9 @@ Las multas de que trata el artículo 2.2.3.2.4. del presente Decreto, que sean i
 
 SUSPENSIÓN Y TERMINACIÓN DEL PROCEDIMIENTO SANCIONATORIO LABORAL
 
-ARTÍCULO. 2.2.3.3.1 Ámbito de aplicación. Son objeto de .suspensión o terminación por mutuo acuerdo, las averiguaciones preliminares y los procedimientos administrativos sancionatorios por violación de normas laborales, salvo las relativas a trabajo infantil o trabajo forzoso, las que concluyan en un acuerdo de formalización laboral, reguladas por la Ley 1610 de 2013 y las que impliquen reincidencia en la comisión de la infracción.
+## art:2.2.3.3.1 — Ámbito de aplicación
+
+Son objeto de .suspensión o terminación por mutuo acuerdo, las averiguaciones preliminares y los procedimientos administrativos sancionatorios por violación de normas laborales, salvo las relativas a trabajo infantil o trabajo forzoso, las que concluyan en un acuerdo de formalización laboral, reguladas por la Ley 1610 de 2013 y las que impliquen reincidencia en la comisión de la infracción.
 
 La suspensión o terminación sólo podrá darse durante la etapa de averiguación preliminar, entre el inicio de la etapa de formulación de cargos y la presentación de descargos o entre el inicio del periodo probatorio y la presentación de alegatos.
 
@@ -3158,7 +3160,9 @@ Dicha suspensión o terminación estará condicionada a que los investigados rec
 
 PARÁGRAFO. Todas las actuaciones realizadas en el marco de la presente figura deberán ser notificadas a las partes del proceso administrativo sancionatorio.
 
-ARTÍCULO. 2.2.3.3.3. Plan de mejoramiento. Es el acuerdo presentado por el Ministerio del Trabajo al investigado o investigados, de manera separada, o conjunta, el cual contendrá todas las acciones que debe desplegar el investigado para resarcir la vulneración objeto de querella o investigación, encaminada a la simplificación del procedimiento administrativo sancionatorio como producto de la voluntad de las partes. Dicho plan deberá ser aprobado por un funcionario de nivel directivo para que surta la suspensión y posterior terminación de un procedimiento administrativo sancionatorio, este deberá contener como mínimo:
+## art:2.2.3.3.3 — Plan de mejoramiento
+
+Es el acuerdo presentado por el Ministerio del Trabajo al investigado o investigados, de manera separada, o conjunta, el cual contendrá todas las acciones que debe desplegar el investigado para resarcir la vulneración objeto de querella o investigación, encaminada a la simplificación del procedimiento administrativo sancionatorio como producto de la voluntad de las partes. Dicho plan deberá ser aprobado por un funcionario de nivel directivo para que surta la suspensión y posterior terminación de un procedimiento administrativo sancionatorio, este deberá contener como mínimo:
 
 La relación especifica de las conductas señaladas como violatorias de normas laborales o de seguridad social integral que serían objeto del plan de mejora.
 
@@ -12624,7 +12628,7 @@ Las condiciones habilitantes de los programas del Subsistema de la Formación pa
 
 ## art:2.2.6.9.4.7 — 
 
-2.2.6.9.4.7 Condiciones habilitantes para ofertar programas del Subsistema de la Formación para el Trabajo - SFT en los niveles 5, 6 y 7. Para ofertar programas del Subsistema de la Formación para el Trabajo - SFT, en los niveles 5, 6 y 7, las Instituciones oferentes, además de las condiciones señaladas en el artículo 2.2.6.9.4.6 del presente decreto, deberán cumplir con los siguientes requisitos adicionales
+Condiciones habilitantes para ofertar programas del Subsistema de la Formación para el Trabajo - SFT en los niveles 5, 6 y 7. Para ofertar programas del Subsistema de la Formación para el Trabajo - SFT, en los niveles 5, 6 y 7, las Instituciones oferentes, además de las condiciones señaladas en el artículo 2.2.6.9.4.6 del presente decreto, deberán cumplir con los siguientes requisitos adicionales
 
 1. Haber adelantado programas los últimos tres (3) años en los sectores productivos relacionados con la cualificación a ofertar.
 
@@ -12668,7 +12672,7 @@ Indicadores de calidad de los programas de formación del Subsistema de la Forma
 
 ## art:2.2.6.9.4.11 — 
 
-2.2.6.9.4.11 Índice Sintético de la Calidad de los Programas de Formación del Subsistema de Formación para el Trabajo: Es el valor numérico que se asignará a un programa o grupo de programas de Formación del Subsistema de Formación para el Trabajo - SFT; en una escala numérica predeterminada donde uno de los extremos, el mayor, es la nota máxima de calidad. Ese valor se obtiene al procesar los valores individuales y pesos de cada uno de los indicadores que lo conforman.
+Índice Sintético de la Calidad de los Programas de Formación del Subsistema de Formación para el Trabajo: Es el valor numérico que se asignará a un programa o grupo de programas de Formación del Subsistema de Formación para el Trabajo - SFT; en una escala numérica predeterminada donde uno de los extremos, el mayor, es la nota máxima de calidad. Ese valor se obtiene al procesar los valores individuales y pesos de cada uno de los indicadores que lo conforman.
 
 PARÁGRAFO 1. El Ministerio del Trabajo y el Ministerio de Educación Nacional reglamentarán los indicadores y el índice sintético que evalúan la calidad de los programas del Subsistema de Formación para el Trabajo - SFT.
 
@@ -14463,7 +14467,7 @@ Se deberán incluir en la Categoría B a los trabajadores dependientes, incluyen
 
 ## art:2.2.7.4.1.3 — 
 
-2.2.7.4.1.3 Aplicación de categorías tarifarías para trabajadores independientes del régimen de afiliación voluntaria para expansión de servicios sociales. Se deberán incluir en la Categoría B a los trabajadores independientes, incluyendo las personas a su cargo, que cancelen el 0.6%, conforme el artículo 19 de la Ley 789 de 2002. El trabajador independiente que aporte la diferencia hasta completar el 2% tendrá los mismos derechos que se señalan en el parágrafo 1 del artículo 19 de la Ley 789 de 2002.
+Aplicación de categorías tarifarías para trabajadores independientes del régimen de afiliación voluntaria para expansión de servicios sociales. Se deberán incluir en la Categoría B a los trabajadores independientes, incluyendo las personas a su cargo, que cancelen el 0.6%, conforme el artículo 19 de la Ley 789 de 2002. El trabajador independiente que aporte la diferencia hasta completar el 2% tendrá los mismos derechos que se señalan en el parágrafo 1 del artículo 19 de la Ley 789 de 2002.
 
 (Decreto 827 de 2003, Art. 7)
 

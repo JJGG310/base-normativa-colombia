@@ -7,7 +7,7 @@ ramas: [transporte, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77889
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — Ministerio de Transporte
@@ -7260,7 +7260,9 @@ Para los casos en los cuales no sea posible realizar la asignación presupuestal
 
 (Derogado por el Art. 15 del Decreto 1120 de 2019)
 
-ARTÍCULO. 2.2.1.7.7.16. Otros recursos para la financiación de la Subcuenta de Modernización de Transporte de Carga Pesada del Fondo para la Promoción de Ascenso Tecnológico - FOPAT.(Adicionado por el art 24, Decreto 1017 de 2025). Dentro de los seis (6) meses siguientes a la entrada en vigencia del presente decreto, la Dirección de Impuestos y Aduanas Nacionales - DIAN reglamentará el procedimiento para el recaudo y transferencia de los recursos establecidos en el artículo 21 de la Ley 2251 de 2022. La tarifa corresponderá al 0.1% calculada sobre el valor del flete incluido en el manifiesto de carga de cada operación de carga.
+## art:2.2.1.7.7.16 — 
+
+Otros recursos para la financiación de la Subcuenta de Modernización de Transporte de Carga Pesada del Fondo para la Promoción de Ascenso Tecnológico - FOPAT.(Adicionado por el art 24, Decreto 1017 de 2025). Dentro de los seis (6) meses siguientes a la entrada en vigencia del presente decreto, la Dirección de Impuestos y Aduanas Nacionales - DIAN reglamentará el procedimiento para el recaudo y transferencia de los recursos establecidos en el artículo 21 de la Ley 2251 de 2022. La tarifa corresponderá al 0.1% calculada sobre el valor del flete incluido en el manifiesto de carga de cada operación de carga.
 
 Durante este período, la DIAN definirá el contenido del formulario y/o instrumento que considere más adecuado para garantizar el recaudo.
 

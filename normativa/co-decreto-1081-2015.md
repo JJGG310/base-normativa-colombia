@@ -7,7 +7,7 @@ ramas: [administrativo, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=73593
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — Cabeza del sector
@@ -134,7 +134,7 @@ RÉGIMEN REGLAMENTARIO DEL SECTOR DE LA PRESIDENCIA DE LA REPÚBLICA
 
 ## art:2.1 — 
 
-2.1. Objeto del Libro 2: El Libro 2 del Decreto Reglamentario Único del Sector de la Presidencia de la República compila los Decretos Reglamentarios expedidos por el señor Presidente de la República en ejercicio del numeral 11 del artículo 189 de la Constitución Política que regulan, en lo pertinente, la actividad de las entidades que componen el sector administrativo.
+Objeto del Libro 2: El Libro 2 del Decreto Reglamentario Único del Sector de la Presidencia de la República compila los Decretos Reglamentarios expedidos por el señor Presidente de la República en ejercicio del numeral 11 del artículo 189 de la Constitución Política que regulan, en lo pertinente, la actividad de las entidades que componen el sector administrativo.
 
 PARTE 1.
 
@@ -1768,7 +1768,9 @@ PARÁGRAFO 1. Los demás criterios en materia de nuevos tramites creados o autor
 
 PARÁGRAFO 2. Cuando se trate de otros procedimientos administrativos (OPAS) no se requerirá el concepto previo favorable del Departamento Administrativo de la Función Pública.
 
-ARTÍCULO. 2.1.2.6.5. REMISIÓN DE PROYECTOS PARA LA FIRMA DEL PRESIDENTE DE LA REPÚBLICA. Los proyectos de decreto y de resolución para firma del presidente de la República deberán remitirse a la Secretaria Jurídica de la Presidencia de la República con la firma del (los) ministro(s) o director(es) de departamento administrativo que deben participar en su expedición, acompañados de la respectiva memoria justificativa y demás soportes documentales a que haya lugar.
+## art:2.1.2.6.5 — REMISIÓN DE PROYECTOS PARA LA FIRMA DEL PRESIDENTE DE LA REPÚBLICA
+
+Los proyectos de decreto y de resolución para firma del presidente de la República deberán remitirse a la Secretaria Jurídica de la Presidencia de la República con la firma del (los) ministro(s) o director(es) de departamento administrativo que deben participar en su expedición, acompañados de la respectiva memoria justificativa y demás soportes documentales a que haya lugar.
 
 ## art:2.1.2.6.6 — DEVOLUCIÓN DE PROYECTO
 
@@ -2288,7 +2290,7 @@ Definir y reglamentar la organización y el funcionamiento de las Comisiones Reg
 
 ## art:2.1.4.3.2 — 
 
-2.1.4.3.2 Composición de la Comisión Regional de Moralización: La Comisión Regional de Moralización estará conformada por los representantes departamentales de las siguientes entidades, quienes intervienen como miembros permanentes:
+Composición de la Comisión Regional de Moralización: La Comisión Regional de Moralización estará conformada por los representantes departamentales de las siguientes entidades, quienes intervienen como miembros permanentes:
 
 1. La Procuraduría General de la Nación
 
@@ -5952,7 +5954,7 @@ DISPOSICIONES REGLAMENTARIAS ALUSIVAS A LAS ENTIDADES ADSCRITAS AL DEPARTAMENTO 
 
 ## art:2.3.1 — 
 
-2.3.1 Objeto: La Parte 3 de Libro 2 del presente Decreto compila las disposiciones reglamentarias expedidas por el señor Presidente de la República en ejercicio del numeral 11 de artículo 189 de la Constitución Política, que regulan, en lo pertinente, la actividad de las entidades del sector descentralizado que se encuentran adscritas al Departamento Administrativo de la Presidencia de la República.
+Objeto: La Parte 3 de Libro 2 del presente Decreto compila las disposiciones reglamentarias expedidas por el señor Presidente de la República en ejercicio del numeral 11 de artículo 189 de la Constitución Política, que regulan, en lo pertinente, la actividad de las entidades del sector descentralizado que se encuentran adscritas al Departamento Administrativo de la Presidencia de la República.
 
 TÍTULO 1
 
@@ -7340,7 +7342,7 @@ PLAN NACIONAL DE CONTINGENCIA FRENTE A PÉRDIDAS DE CONTENCIÓN DE HIDROCARBUROS
 
 ## art:2.3.1.7.1.1 — 
 
-2.3.1.7.1.1 Adopción del Plan Nacional de Contingencia frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas. Adóptese el Plan Nacional de Contingencia frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas, en adelante Plan Nacional de Contingencia, como un documento técnico, operativo y administrativo que establece el marco de actuación de respuesta nacional para la atención de un evento o incidente por pérdida de contención de hidrocarburos u otras sustancias peligrosas, cuyo texto es parte integral del presente decreto y se incorpora como anexo.
+Adopción del Plan Nacional de Contingencia frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas. Adóptese el Plan Nacional de Contingencia frente a pérdidas de contención de hidrocarburos y otras sustancias peligrosas, en adelante Plan Nacional de Contingencia, como un documento técnico, operativo y administrativo que establece el marco de actuación de respuesta nacional para la atención de un evento o incidente por pérdida de contención de hidrocarburos u otras sustancias peligrosas, cuyo texto es parte integral del presente decreto y se incorpora como anexo.
 
 (Adicionado por el Art. 1 del Decreto 1868 de 2021)
 
@@ -9069,7 +9071,7 @@ DISPOSICIONES ESPECÍFICAS ALUSIVAS A LA AGENCIA NACIONAL INMOBILIARIA VIRGILIO 
 
 ## art:2.4.1 — 
 
-2.4.1 Objeto: La Parte 4 de Libro 2 del presente Decreto compila las disposiciones reglamentarias expedidas por el señor Presidente de la República en ejercicio del numeral 11 de artículo 189 de la Constitución Política que regulan, en lo pertinente, la actividad de la Agencia Nacional Inmobiliaria Virgilio Barco Vargas.
+Objeto: La Parte 4 de Libro 2 del presente Decreto compila las disposiciones reglamentarias expedidas por el señor Presidente de la República en ejercicio del numeral 11 de artículo 189 de la Constitución Política que regulan, en lo pertinente, la actividad de la Agencia Nacional Inmobiliaria Virgilio Barco Vargas.
 
 (Decreto 1275 de 2015, art 2)
 

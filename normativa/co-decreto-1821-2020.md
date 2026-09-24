@@ -2422,7 +2422,9 @@ Se acreditara como pago de Regalías por parte de la persona jurídica que desar
 
 PARÁGRAFO. La Agencia Nacional de Minería o la Agencia Nacional de Hidrocarburos, según corresponda, verificará el cumplimiento de los requisitos mencionados y procederá a realizar el trámite para reconocer el anticipo y acreditarlo al pago por concepto de Regalías para el bienio correspondiente.
 
-ARTÍCULO. 1.2.7.3.2. Entrega del certificado de acreditación del pago del anticipo. Realizada la entrega de la documentación a que se refiere el artículo anterior, por parte de la persona jurídica requerida para acreditar el anticipo del pago de las Regalías durante el bienio correspondiente, la Agencia Nacional de Minería o la Agencia Nacional de Hidrocarburos, según corresponda, contara con treinta (30) días para la emitir la acreditación como pago por concepto anticipo de Regalías.
+## art:1.2.7.3.2 — Entrega del certificado de acreditación del pago del anticipo
+
+Realizada la entrega de la documentación a que se refiere el artículo anterior, por parte de la persona jurídica requerida para acreditar el anticipo del pago de las Regalías durante el bienio correspondiente, la Agencia Nacional de Minería o la Agencia Nacional de Hidrocarburos, según corresponda, contara con treinta (30) días para la emitir la acreditación como pago por concepto anticipo de Regalías.
 
 La Agencia Nacional de Hidrocarburos o la Agencia Nacional de Minería, según corresponda, informara al Departamento Nacional de Planeación en la determinación mensual de las Asignaciones Directas, el monto por beneficiario ejecutado bajo esta modalidad, a efectos de adelantar la identificación y comunicación en la instrucción de abono a cuenta al Ministerio de Hacienda y Crédito Público.
 
@@ -3080,7 +3082,9 @@ Los planes de mejora que se encuentren en seguimiento a 31 de diciembre de 2020 
 
 (Adicionado por el Art. 1 del Decreto 804 de 2021)
 
-ARTÍCULO. 1.2.10.7.2. Recursos girados de Regalías y compensaciones causadas a 31 de diciembre de 2011. Se entenderán como recursos girados de Regalías y compensaciones causadas a 31 de diciembre de 2011, en los términos el artículo 191 de la Ley 2056 de 2020, aquellos que se encuentren disponibles en las cuentas autorizadas por el DNP para el manejo de estos recursos.
+## art:1.2.10.7.2 — Recursos girados de Regalías y compensaciones causadas a 31 de diciembre de 2011
+
+Se entenderán como recursos girados de Regalías y compensaciones causadas a 31 de diciembre de 2011, en los términos el artículo 191 de la Ley 2056 de 2020, aquellos que se encuentren disponibles en las cuentas autorizadas por el DNP para el manejo de estos recursos.
 
 (Adicionado por el Art. 1 del Decreto 804 de 2021)
 
@@ -3090,7 +3094,9 @@ Los recursos de Regalías y compensaciones causadas a 31 de diciembre de 2011, i
 
 (Adicionado por el Art. 1 del Decreto 804 de 2021)
 
-ARTÍCULO. 1.2.10.7.4. Ejecución de recursos girados por concepto de Regalías y compensaciones causados a 31 de diciembre de 2011, por entidades con medida de suspensión preventiva o correctiva de giros vigente a 31 de diciembre 2020. A partir de la culminación de las funciones de control y vigilancia sobre los recursos de Regalías y compensaciones causadas a favor de los beneficiarios, en las normas vigentes a 31 de diciembre de 2011, prevista en el artículo 191 de la Ley 2056 de 2020, se entenderá que aquellas entidades territoriales que a 31 de diciembre de 2020, se encuentren con medida de suspensión preventiva o correctiva con ocasión de Decisiones tomadas en ejercicio de estas funciones. y cuenten con recursos girados disponibles en la cuenta única autorizada por el DNP podrán hacer uso de los mismos en los términos establecidos en el artículo anterior.
+## art:1.2.10.7.4 — 
+
+Ejecución de recursos girados por concepto de Regalías y compensaciones causados a 31 de diciembre de 2011, por entidades con medida de suspensión preventiva o correctiva de giros vigente a 31 de diciembre 2020. A partir de la culminación de las funciones de control y vigilancia sobre los recursos de Regalías y compensaciones causadas a favor de los beneficiarios, en las normas vigentes a 31 de diciembre de 2011, prevista en el artículo 191 de la Ley 2056 de 2020, se entenderá que aquellas entidades territoriales que a 31 de diciembre de 2020, se encuentren con medida de suspensión preventiva o correctiva con ocasión de Decisiones tomadas en ejercicio de estas funciones. y cuenten con recursos girados disponibles en la cuenta única autorizada por el DNP podrán hacer uso de los mismos en los términos establecidos en el artículo anterior.
 
 (Adicionado por el Art. 1 del Decreto 804 de 2021)
 

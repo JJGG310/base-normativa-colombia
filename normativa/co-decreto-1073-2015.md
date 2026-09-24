@@ -7,7 +7,7 @@ ramas: [minero-energetico, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77887
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — 
@@ -1421,13 +1421,13 @@ El Ministerio de Minas y Energía desarrollará lo relacionado con los tipos, us
 
 ## art:2.2.1.1.2.2.1.8 — 
 
-2.2.1.1.2.2.1.8 Reporte de Información por parte de los agentes de la cadena de distribución de combustibles líquidos derivados del petróleo y sus mezclas con biocombustibles. El Ministerio de Minas y Energía, expedirá la regulación para solicitar a los agentes de la cadena señalados en el artículo 2.2.1.1.2.2.1.2., información y reportes relacionados con sus actividades operacionales, logísticas y comerciales, así como respecto de su infraestructura física y ubicación geográfica de sus instalaciones y sitios de operación.
+Reporte de Información por parte de los agentes de la cadena de distribución de combustibles líquidos derivados del petróleo y sus mezclas con biocombustibles. El Ministerio de Minas y Energía, expedirá la regulación para solicitar a los agentes de la cadena señalados en el artículo 2.2.1.1.2.2.1.2., información y reportes relacionados con sus actividades operacionales, logísticas y comerciales, así como respecto de su infraestructura física y ubicación geográfica de sus instalaciones y sitios de operación.
 
 (Adicionado por el Art. 1 del Decreto 1281 de 2020)
 
 ## art:2.2.1.1.2.2.1.9 — 
 
-2.2.1.1.2.2.1.9 Medidas respecto de los contratos para la cadena de distribución de combustibles líquidos derivados del petróleo, de los biocombustibles y sus mezclas. El Ministerio de Minas y Energía o la entidad que este delegue, expedirá la regulación para el registro y contenido mínimo de los contratos de la cadena de distribución de combustibles líquidos derivados del petróleo, de los biocombustibles y sus mezclas.
+Medidas respecto de los contratos para la cadena de distribución de combustibles líquidos derivados del petróleo, de los biocombustibles y sus mezclas. El Ministerio de Minas y Energía o la entidad que este delegue, expedirá la regulación para el registro y contenido mínimo de los contratos de la cadena de distribución de combustibles líquidos derivados del petróleo, de los biocombustibles y sus mezclas.
 
 PARÁGRAFO TRANSITORIO: El Ministerio de Minas y Energía fijará las condiciones y el lapso dentro del cual los contratos vigentes cumplirán las exigencias establecidas en el presente artículo.
 
@@ -7743,7 +7743,7 @@ PARÁGRAFO . En todo caso, el régimen transitorio especial de que trata esta Se
 
 ## art:2.2.3.2.2.1.2 — 
 
-2.2.3.2.2.1.2- Lineamientos de aplicación transitoria para la definición del régimen tarifario de la actividad de distribución de energía eléctrica. La metodología y fórmulas transitorias para la actividad de distribución de energía eléctrica, aplicables al mercado atendido por la Electrificadora del Caribe S.A. E.S.P a la fecha de expedición de la Ley 1955 de 2019, tendrán como base las establecidas en la Resolución CREG 015 de 2018, con las particularidades que se deriven de los siguientes lineamientos:
+Lineamientos de aplicación transitoria para la definición del régimen tarifario de la actividad de distribución de energía eléctrica. La metodología y fórmulas transitorias para la actividad de distribución de energía eléctrica, aplicables al mercado atendido por la Electrificadora del Caribe S.A. E.S.P a la fecha de expedición de la Ley 1955 de 2019, tendrán como base las establecidas en la Resolución CREG 015 de 2018, con las particularidades que se deriven de los siguientes lineamientos:
 
 1) Fecha de corte. Será el 31 de diciembre del año inmediatamente anterior al de presentación de la solicitud de aprobación del ingreso por parte de cada uno de los operadores de red bajo este régimen especial.
 
@@ -7785,7 +7785,7 @@ S.A. E.S.P. a la fecha de expedición de la Ley 1955 de 2019, puedan presentar a
 
 ## art:2.2.3.2.2.1.4 — 
 
-2.2.3.2.2.1.4 Programa de gestión con la Superintendencia de Servicios Públicos Domiciliarios para la prestación del servicio público domiciliario de energía en la región Caribe. De acuerdo con el numeral 11 del artículo 79 de la Ley 142 de 1994, la Superintendencia de Servicios Públicos Domiciliarios acordará un programa de gestión con Electrificadora del Caribe S.A. E.S.P. y/o con cualquier sociedad que se constituya en el marco de una solución empresarial que se adopte para garantizar la prestación del servicio público de energía en la región Caribe, con el fin de establecer la posibilidad de adelantar auditorias especiales, en particular, respecto del cumplimiento de las obligaciones de inversión, mejora de calidad del servicio y reducción de pérdidas de energía que le corresponden a él o los operadores.
+Programa de gestión con la Superintendencia de Servicios Públicos Domiciliarios para la prestación del servicio público domiciliario de energía en la región Caribe. De acuerdo con el numeral 11 del artículo 79 de la Ley 142 de 1994, la Superintendencia de Servicios Públicos Domiciliarios acordará un programa de gestión con Electrificadora del Caribe S.A. E.S.P. y/o con cualquier sociedad que se constituya en el marco de una solución empresarial que se adopte para garantizar la prestación del servicio público de energía en la región Caribe, con el fin de establecer la posibilidad de adelantar auditorias especiales, en particular, respecto del cumplimiento de las obligaciones de inversión, mejora de calidad del servicio y reducción de pérdidas de energía que le corresponden a él o los operadores.
 
 PARÁGRAFO . En desarrollo del programa de gestión del que trata este artículo, la Superintendencia de Servicios Públicos Domiciliarios, entre otras, podrá:
 
@@ -11315,7 +11315,7 @@ PARÁGRAFO . El tratamiento previsto en este artículo no será aplicable cuando
 
 ## art:2.2.3.8.2.5 — 
 
-2.2.3.8.2.5.- Efecto de las anulaciones, resoluciones y rescisiones de los contratos en nuevas inversiones en proyectos de FNCE o gestión eficiente de la energía. Cuando se anulen, resuelvan o rescindan los contratos celebrados para llevar a cabo las nuevas inversiones en proyectos para el desarrollo de FNCE o gestión eficiente de la energía que hayan dado lugar a la deducción especial, los contribuyentes deberán restituir el beneficio incorporándolo como renta líquida por recuperación de deducciones en los términos de los artículos 195 y 196 del Estatuto Tributario en el año gravable en que se anule, resuelva o rescinda el contrato correspondiente.
+Efecto de las anulaciones, resoluciones y rescisiones de los contratos en nuevas inversiones en proyectos de FNCE o gestión eficiente de la energía. Cuando se anulen, resuelvan o rescindan los contratos celebrados para llevar a cabo las nuevas inversiones en proyectos para el desarrollo de FNCE o gestión eficiente de la energía que hayan dado lugar a la deducción especial, los contribuyentes deberán restituir el beneficio incorporándolo como renta líquida por recuperación de deducciones en los términos de los artículos 195 y 196 del Estatuto Tributario en el año gravable en que se anule, resuelva o rescinda el contrato correspondiente.
 
 ## art:2.2.3.8.2.6 — - Enajenación de los activos integrantes de proyectos para el desarrollo de FNCE o gestión eficiente de la energía
 
@@ -12215,7 +12215,7 @@ POLÍTICAS Y DIRECTRICES RELACIONADAS CON LA ENERGÍA NUCLEAR
 
 ## art:2.2.4.1.1 — 
 
-2.2.4.1.1 El Ministerio de Minas y Energía, formulará y adoptará la política nacional en materia de energía nuclear y de materiales radiactivos, para lo cual dictará las normas y reglamentos para la gestión segura de materiales nucleares y radiactivos en el país.
+El Ministerio de Minas y Energía, formulará y adoptará la política nacional en materia de energía nuclear y de materiales radiactivos, para lo cual dictará las normas y reglamentos para la gestión segura de materiales nucleares y radiactivos en el país.
 
 PARÁGRAFO . En ejercicio de su función de autoridad competente, el Ministerio de Minas y Energía será el encargado de la aplicación del marco legislativo y reglamentario, así como de los tratados, acuerdos y convenios internacionales relacionados con el sector minero-energético y sobre seguridad nuclear, protección física, protección radiológica y salvaguardias.
 
@@ -14055,7 +14055,7 @@ S00-00-00.00W
 
 ## art:2.2.5.3.1.2.1.3 — 
 
-2.2.5.3.1.2.1.3 Dentro de los dos años siguientes a la promulgación dela presente sección las entidades adscritas o vinculadas al Ministerio de Minas y Energía realizarán los estudios geológico-mineros y la iniciación de los correspondientes proyectos estratégicos, según las directrices que para el efecto señale el Viceministerio de Hidrocarburos y Minas
+Dentro de los dos años siguientes a la promulgación dela presente sección las entidades adscritas o vinculadas al Ministerio de Minas y Energía realizarán los estudios geológico-mineros y la iniciación de los correspondientes proyectos estratégicos, según las directrices que para el efecto señale el Viceministerio de Hidrocarburos y Minas
 
 (Decreto 2200 de 2001, art 3)
 
@@ -18047,13 +18047,19 @@ DISPOSICIONES GENERALES
 
 El presente capítulo tiene por objeto establecer objetivos, criterios, mecanismos y herramientas para la identificación, priorización y delimitación de los Distritos Mineros Especiales para la Diversificación Productiva, así como para la elaboración, implementación, evaluación y seguimiento del Plan Estratégico de Gestión.
 
-ARTÍCULO. 2.2.5.12.1.2. Ámbito de Aplicación. El presente capítulo se aplica a las autoridades administrativas y entidades públicas del orden nacional y territorial, que conforme con sus competencias legales tienen acciones en los Distritos Mineros Especiales para la Diversificación Productiva y/o participan en la elaboración, aprobación, implementación, seguimiento y evaluación de su Plan Estratégico de Gestión.
+## art:2.2.5.12.1.2 — Ámbito de Aplicación
+
+El presente capítulo se aplica a las autoridades administrativas y entidades públicas del orden nacional y territorial, que conforme con sus competencias legales tienen acciones en los Distritos Mineros Especiales para la Diversificación Productiva y/o participan en la elaboración, aprobación, implementación, seguimiento y evaluación de su Plan Estratégico de Gestión.
 
 Así mismo, no modifica o suprime las competencias de las entidades territoriales ni de las autoridades mineras o ambientales, ni de ninguna otra entidad.
 
-ARTÍCULO. 2.2.5.12.1.3. Distritos Mineros Especiales para la Diversificación Productiva. Los Distritos Mineros Especiales para la Diversificación Productiva son un instrumento de planificación socioambiental, gestión y articulación institucional.
+## art:2.2.5.12.1.3 — Distritos Mineros Especiales para la Diversificación Productiva
 
-ARTÍCULO. 2.2.5.12.1.4. Principios. La identificación, priorización, diseño y delimitación de los Distritos Mineros Especiales para la Diversificación Productiva se orientará por los siguientes principios:
+Los Distritos Mineros Especiales para la Diversificación Productiva son un instrumento de planificación socioambiental, gestión y articulación institucional.
+
+## art:2.2.5.12.1.4 — Principios
+
+La identificación, priorización, diseño y delimitación de los Distritos Mineros Especiales para la Diversificación Productiva se orientará por los siguientes principios:
 
 Desarrollo armónico. Los Distritos Mineros Especiales para la Diversificación Productiva procurarán el desarrollo equitativo de los municipios que converjan en el área delimitada, de acuerdo con su potencial productivo. La delimitación de los distritos mineros especiales promoverá el concurso de territorios colindantes que generen sinergias en la búsqueda del desarrollo productivo y social.
 
@@ -18073,7 +18079,9 @@ Tránsito a economías productivas. Los Distritos Mineros Especiales para la Div
 
 El desarrollo del minero se articulará a economías basadas en el intercambio, la transformación y generación de conocimiento, la reindustrialización, el desarrollo agrícola y estrategias de conservación, recuperación y rehabilitación de ecosistemas degradados.
 
-ARTÍCULO. 2.2.5.12.1.5. Objetivos y Propósitos de los Distritos Mineros Especiales para la Diversificación Productiva. Son objetivos y propósitos de los Distritos Mineros Especiales para la Diversificación Productiva los siguientes:
+## art:2.2.5.12.1.5 — Objetivos y Propósitos de los Distritos Mineros Especiales para la Diversificación Productiva
+
+Son objetivos y propósitos de los Distritos Mineros Especiales para la Diversificación Productiva los siguientes:
 
 Planificar socio-ambientalmente la actividad minera para alcanzar el ordenamiento del territorio alrededor del agua y la sustentabilidad de las regiones donde se desarrollan operaciones y proyectos mineros, garantizando la protección de áreas protegidas, ecosistemas estratégicos o de alta importancia ambiental u otras áreas que resulten incompatibles con estas actividades.
 
@@ -18147,7 +18155,9 @@ PARÁGRAFO 2. En caso de que sean identificadas diferentes áreas con los criter
 
 PARÁGRAFO 3. Cada una de las entidades requeridas determinará si debe adelantar una caracterización productiva, ambiental y/o social a partir de la información con la que cuente, caso en el cual informará al Ministerio de Minas y Energía, o quien haga sus veces. En todo caso, si alguna entidad considera que debe realizar una caracterización, ello no limitará la expedición del acto de delimitación de los Distritos Mineros Especiales para la Diversificación Productiva y el resultado de la información será insumo para la elaboración del respectivo plan estratégico de gestión del distrito.
 
-ARTÍCULO. 2.2.5.12.2.3. Acto de Delimitación de los Distritos Mineros Especiales para la Diversificación Productiva. La delimitación del área de los Distritos Mineros Especiales para la Diversificación Productiva se adoptará mediante acto administrativo expedido por el Ministerio de Minas y Energía, o quien él delegue, en coordinación armónica con la autoridad minera, las autoridades ambientales y las demás carteras ministeriales concernidas.
+## art:2.2.5.12.2.3 — Acto de Delimitación de los Distritos Mineros Especiales para la Diversificación Productiva
+
+La delimitación del área de los Distritos Mineros Especiales para la Diversificación Productiva se adoptará mediante acto administrativo expedido por el Ministerio de Minas y Energía, o quien él delegue, en coordinación armónica con la autoridad minera, las autoridades ambientales y las demás carteras ministeriales concernidas.
 
 El acto administrativo contendrá como mínimo: i). la relación de los municipios que conforman el distrito y su georreferenciación; ii). el resultado de la verificación de las condiciones señaladas en el artículo 2.2.5.12.2.1 del presente decreto; iii). convocará a las entidades y actores relevantes que se han identificado como tales durante el diagnóstico previo realizado; iv). dispondrá la instalación de la Mesa de Trabajo Interinstitucional indicando la fecha de la primera sesión y la periodicidad de las siguientes sesiones; iv). solicitará a la Mesa de Trabajo Interinstitucional la formulación del Plan Estratégico de Gestión; v). establecerá las reglas generales que guiarán el desarrollo de la Mesa de Trabajo Interinstitucional; vi). y, podrá dar al Distrito Minero Especial para la Diversificación Productiva un nombre o nominación que lo describa de forma general.
 

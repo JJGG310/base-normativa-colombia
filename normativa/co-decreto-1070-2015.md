@@ -7,7 +7,7 @@ ramas: [defensa, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76837
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — El Ministerio de Defensa Nacional
@@ -13171,7 +13171,7 @@ Para la imposición de la medalla "Servicios Meritorios a la Jefatura Jurídica 
 
 ## art:2.3.1.3.6.59.1 — 
 
-2.3.1.3.6.59.1 Créase en única categoría la Medalla Militar "Bicentenario de la Campaña Libertadora", para premiar y estimular por una sola vez al personal de oficiales, suboficiales, soldados profesionales, servidores públicos del Ministerio de Defensa Nacional al servicio del Ejército Nacional que a fecha 07 de agosto de 2019 estén activos, así como a las Unidades Militares de la Fuerza; igualmente al personal de Oficiales Generales de la reserva que hayan ostentado el cargo de Comandante del Ejército Nacional y al personal de Oficiales y suboficiales de la Reserva postulados por los comandantes de unidades operativas mayores del Ejército Nacional, quienes con su honor, vocación de servicio y abnegada labor han contribuido de manera significativa a la preservación de la libertad, la democracia, la seguridad y la paz en todo el territorio colombiano.
+Créase en única categoría la Medalla Militar "Bicentenario de la Campaña Libertadora", para premiar y estimular por una sola vez al personal de oficiales, suboficiales, soldados profesionales, servidores públicos del Ministerio de Defensa Nacional al servicio del Ejército Nacional que a fecha 07 de agosto de 2019 estén activos, así como a las Unidades Militares de la Fuerza; igualmente al personal de Oficiales Generales de la reserva que hayan ostentado el cargo de Comandante del Ejército Nacional y al personal de Oficiales y suboficiales de la Reserva postulados por los comandantes de unidades operativas mayores del Ejército Nacional, quienes con su honor, vocación de servicio y abnegada labor han contribuido de manera significativa a la preservación de la libertad, la democracia, la seguridad y la paz en todo el territorio colombiano.
 
 ## art:2.3.1.3.6.59.2 — 9.2
 
@@ -24617,7 +24617,7 @@ A los Auxiliares de Policía Bachilleres, se les dotará de vestuario y demás e
 
 ## art:2.5.6.2.7.3 — 
 
-2.5.6.2.7.3 Servicios Médicos Los Auxiliares de Policía Bachilleres, tendrán derecho a que el Gobierno les suministre atención médica, quirúrgica, servicios hospitalarios y odontológicos, por intermedio de la Dirección de Sanidad de la Policía Nacional.
+Servicios Médicos Los Auxiliares de Policía Bachilleres, tendrán derecho a que el Gobierno les suministre atención médica, quirúrgica, servicios hospitalarios y odontológicos, por intermedio de la Dirección de Sanidad de la Policía Nacional.
 
 (Decreto 2853 de 1991 artículo 25)
 
@@ -25407,7 +25407,7 @@ Aumentar el valor del Presupuesto Per cápita para el Sector Defensa (PPCD), del
 
 ## art:2.5.10.2 — 
 
-2.5.10.2 Aumento de la diferencia entre el valor del Presupuesto Per Cápita y la Unidad de Pago por Capitación del Sistema de Seguridad Social en Salud. Aumentar la diferencia entre el valor del Presupuesto Per cápita para el Sector Defensa (PPCD) y la Unidad de Pago por Capitación del Sistema General de Seguridad Social en Salud de la Ley 100 de 1993 (UPC), del veinte por ciento (20%) al veinticinco por ciento (25%) para apoyar a la financiación del Plan de Servicios de Sanidad Policial de los afiliados cotizantes y sus beneficiarios del Subsistema de Salud de la Policía Nacional.
+Aumento de la diferencia entre el valor del Presupuesto Per Cápita y la Unidad de Pago por Capitación del Sistema de Seguridad Social en Salud. Aumentar la diferencia entre el valor del Presupuesto Per cápita para el Sector Defensa (PPCD) y la Unidad de Pago por Capitación del Sistema General de Seguridad Social en Salud de la Ley 100 de 1993 (UPC), del veinte por ciento (20%) al veinticinco por ciento (25%) para apoyar a la financiación del Plan de Servicios de Sanidad Policial de los afiliados cotizantes y sus beneficiarios del Subsistema de Salud de la Policía Nacional.
 
 ## art:2.5.10.3 — Aumento del Ingreso por Concepto de Accidentes de Trabajo y Enfermedad Profesional -ATEP
 
@@ -25425,11 +25425,17 @@ TÍTULO 12
 
 CONFORMACIÓN, FUNCIONAMIENTO, FUNCIONES Y DEMÁS ASPECTOS RELACIONADOS CON EL CONSEJO SUPERIOR DE EDUCACIÓN POLICIAL
 
-ARTICULO. 2.5.12.1. Objeto. Reglamentar la conformación, funcionamiento, funciones y demás aspectos relacionados con las facultades del Consejo Superior de Educación Policial.
+## art:2.5.12.1 — Objeto
 
-ARTÍCULO. 2.5.12.2. Consejo Superior de Educación Policial. Es el cuerpo colegiado de carácter consultivo, asesor y decisorio, que se constituye como el máximo órgano de Dirección y Gobierno de la Educación Policial.
+Reglamentar la conformación, funcionamiento, funciones y demás aspectos relacionados con las facultades del Consejo Superior de Educación Policial.
 
-ARTÍCULO. 2.5.12.3. Integración del Consejo Superior de Educación Policial. El Consejo Superior de Educación Policial estará integrado por:
+## art:2.5.12.2 — Consejo Superior de Educación Policial
+
+Es el cuerpo colegiado de carácter consultivo, asesor y decisorio, que se constituye como el máximo órgano de Dirección y Gobierno de la Educación Policial.
+
+## art:2.5.12.3 — Integración del Consejo Superior de Educación Policial
+
+El Consejo Superior de Educación Policial estará integrado por:
 
 Un Delegado del (la) Ministro (a) de Defensa Nacional.
 
@@ -27977,7 +27983,9 @@ PARÁGRAFO 2. Las competencias y contenidos relacionadas con este tipo de educac
 
 Se entiende por escuela de capacitación y entrenamiento en vigilancia y seguridad privada, la sociedad de responsabilidad limitada legalmente constituida, cuyo único objeto social es proveer enseñanza, capacitación, entrenamiento y actualización de conocimientos relacionados con vigilancia y seguridad privada.
 
-ARTÍCULO. 2.6.1.1.13.1.6. Departamentos de capacitación en vigilancia-y seguridad privada. Se entiende por Departamento de Capacitación en Vigilancia y Seguridad Privada, la dependencia que, al interior de un servicio de vigilancia y seguridad privada autorizado, se establece para capacitar a su personal operativo.
+## art:2.6.1.1.13.1.6 — Departamentos de capacitación en vigilancia-y seguridad privada
+
+Se entiende por Departamento de Capacitación en Vigilancia y Seguridad Privada, la dependencia que, al interior de un servicio de vigilancia y seguridad privada autorizado, se establece para capacitar a su personal operativo.
 
 PARÁGRAFO 1. El servicio de vigilancia y seguridad privada con licencia de funcionamiento vigente podrá solicitar autorización para establecer un Departamento de Capacitación y Entrenamiento en Vigilancia y Seguridad Privada en cualquier momento, es de precisar que la capacitación brindada en los departamentos de capacitación son exclusivamente para el personal operativo que se encuentra vinculado con las Empresas de vigilancia y seguridad privada con armas y sin armas, Cooperativas de vigilancia y seguridad privada con armas y sin armas, Empresas transportadoras de valores, departamentos de seguridad, servicios especiales y comunitarios que tengan autorizado el departamento de capacitación.
 

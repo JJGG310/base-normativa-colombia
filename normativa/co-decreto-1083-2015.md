@@ -4429,7 +4429,9 @@ El descuento se hará sin perjuicio de las actuaciones que se deriven del incump
 
 (Adicionado por el Decreto 051 de 2018, art. 2)
 
-ARTÍCULO. 2.2.5.5.57. Licencia parental compartida. Es aquella que se otorga al empleado para separarse del empleo, de conformidad con lo establecido en el parágrafo 4 del artículo 2, de la Ley 2114 de 2021, en virtud de la cual los padres podrán distribuir libremente entre sí las últimas seis (6) semanas de la licencia de la madre, siempre y cuando cumplan con las condiciones y requisitos dispuestos en el artículo 236 del Código Sustantivo del Trabajo, modificado por el artículo 2 de la Ley 2114 de 2021.
+## art:2.2.5.5.57 — Licencia parental compartida
+
+Es aquella que se otorga al empleado para separarse del empleo, de conformidad con lo establecido en el parágrafo 4 del artículo 2, de la Ley 2114 de 2021, en virtud de la cual los padres podrán distribuir libremente entre sí las últimas seis (6) semanas de la licencia de la madre, siempre y cuando cumplan con las condiciones y requisitos dispuestos en el artículo 236 del Código Sustantivo del Trabajo, modificado por el artículo 2 de la Ley 2114 de 2021.
 
 Esta licencia, en el caso de la madre, es independiente del permiso de lactancia.
 

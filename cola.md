@@ -468,6 +468,32 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
 - [x] `esquema.md` §5: vocabulario de ramas completado con las etiquetas en uso; `justicia`,
   `notarial` e `internacional` normalizadas a `procesal`/`notarial-registral`/`internacional-publico`.
 
+## P11 — Normas origen más citadas (tras P10) · **cargada** (2026-09-24)
+
+`cargar_p11.sh`. Todas con `faltan 0`.
+- [x] Senado: `co:ley:782:2002` (46) · `co:ley:1421:2010` (23) · `co:ley:1395:2010` (122) ·
+  `co:ley:1285:2009` (28) · `co:ley:200:1995` (178, `estado_general: derogada` — la propia fuente
+  anota su reemplazo por la Ley 734/2002) · `co:ley:2200:2022` (154) · `co:ley:1382:2010` (31) ·
+  `co:ley:1617:2013` (138).
+- [x] Gestor: decretos-ley `co:decreto:2351:1965` (42, reforma al CST) y `co:decreto:2820:1974`
+  (71, igualdad de derechos, reforma al CC); reformadores `--enteros`: `1142:2021` y `804:2021`
+  (DUR 1821) · `1381:2024` y `739:2021` (1077) · `1033:2021` (1066) · `1494:2021` (1068) · `149:2024` (1080).
+- [x] DIAN: `co:decreto:2229:2023` (plazos 2024, DUR 1625).
+- [x] Relatoría `--del-grafo --limite 40`: 36 fichas de sentencias ya citadas (entre ellas la
+  C-080/2018, revisión de la estatutaria de la JEP). Fallan C-006, C-194 y C-293 de 2026: la
+  relatoría aún no publica descriptores ni resolutiva.
+- [x] `ingesta_gestor`:
+  - «ARTÍCULO. 8.» (punto tras la palabra) se reconoce (también en `verificar.py`).
+  - «ARTÍCULO 11. 1. Los salarios…» ya no se lee como el DUR «11.1»: el espacio tras el primer
+    punto solo vale si sigue otro decimal («2. 1.11.10»).
+  - Regresión de P9 corregida: `partir()` descartaba los artículos decimales previos a la primera
+    ancla (libro 1 de los DUR). Recuperados 1068 (8), 1080 (1.1.1.1), 1082 (1.1.1.1).
+  - `fecha_norma` acepta «DECRETO NÚMERO 0149 DE 2024».
+  - Re-ingesta de 13 DUR: +21 artículos reales, 0 perdidos. Límite conocido: dos encabezados con
+    errata en la fuente («ARTÍCULO 2. 2..3.3.4» en el 780, «ARTÍCULO 2. 7 .1.1.» en el 1080) antes
+    salían con ID basura (`2.2`, `2.7`); ahora su texto queda dentro del artículo anterior.
+- [x] Corregida la `fuente:` de los 11 documentos del Gestor de P10 (URL anidada `norma.php?i=https://…`).
+
 ## Bloqueados
 
 - [x] (resuelto en P10) 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).
