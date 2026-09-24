@@ -1,0 +1,39 @@
+---
+id: co:acto-legislativo:1:2002
+tipo: acto-legislativo
+titulo: Acto Legislativo 1 de 2002 - Por medio de la cual se reforma el artículo 96 de la Constitución Política
+fecha: 2002-01-31
+ramas: [constitucional]
+estado_general: vigente
+afectaciones: pendiente
+fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2002.html
+verificado: 2026-09-24
+---
+
+## art:1 — 
+
+El artículo 96 de la Constitución Política quedará así:
+
+"Artículo 96. Son nacionales colombianos.
+
+1. Por nacimiento:
+
+a) Los naturales de Colombia, que con una de dos condiciones: que el padre o la madre hayan sido naturales o nacionales colombianos o que, siendo hijos de extranjeros, alguno de sus padres estuviere domiciliado en la República en el momento del nacimiento y;
+
+b) Los hijos de padre o madre colombianos que hubieren nacido en tierra extranjera y luego se domiciliaren en territorio colombiano o registraren en una oficina consular de la República.
+
+2. Por adopción:
+
+a) Los extranjeros que soliciten y obtengan carta de naturalizaci6n, de acuerdo con la ley, la cual establecerá los casos en los cuales se pierde la nacionalidad colombiana por adopción;
+
+b) Los Latinoamericanos y del Caribe por nacimiento domiciliados en Colombia, que con autorización del Gobierno y de acuerdo con la ley y el principio de reciprocidad, pidan ser inscritos como colombianos ante la municipalidad donde se establecieren, y;
+
+c) Los miembros de los pueblos indígenas que comparten terr itorios fronterizos, con aplicación del principio de reciprocidad según tratados públicos.
+
+Ningún colombiano por nacimiento podrá ser privado de su nacionalidad. La calidad de nacional colombiano no se pierde por el hecho de adquirir otra nacionalidad. Los nacionales por adopci6n no estarán obligados a renunciar a su nacionalidad de origen o adopción.
+
+Quienes hayan renunciado a la nacionalidad colombiana podrán recobrarla con arreglo a la ley.
+
+## art:2 — 
+
+Este acto legislativo rige a partir de su publicación y deroga todas las normas que le sean contrarias.

@@ -1,0 +1,35 @@
+---
+id: co:acto-legislativo:1:2020
+tipo: acto-legislativo
+titulo: Acto Legislativo 1 de 2020 - Por medio del cual se modifica el artículo 34 de la Constitución Política, suprimiendo la prohibición de la Pena de Prisión Perpetua y estableciendo la prisión perpetua revisable
+fecha: 2020-07-22
+ramas: [constitucional]
+estado_general: vigente
+afectaciones: pendiente
+fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2020.html
+verificado: 2026-09-24
+---
+
+## art:1 — 
+
+<Acto Legislativo INEXEQUIBLE> Modifíquese el artículo 34 de la Constitución Política, el cual quedará así: 
+
+Artículo 34. Se prohíben penas de destierro y confiscación. 
+
+No obstante, por sentencia judicial, se declarará extinguido el dominio sobre los bienes adquiridos mediante enriquecimiento ilícito, en perjuicio del Tesoro Público o con grave deterioro de la moral social. 
+
+De manera excepcional cuando un niño, niña o adolescente sea víctima de las conductas de homicidio en modalidad dolosa, acceso carnal que implique violencia o sea puesto en incapacidad de resistir o sea incapaz de resistir, se podrá imponer como sanción hasta la pena de prisión perpetua. 
+
+Toda pena de prisión perpetua tendrá control automático ante el superior jerárquico. 
+
+En todo caso la pena deberá ser revisada en un plazo no inferior a veinticinco (25) años, para evaluar la resocialización del condenado. 
+
+PARÁGRAFO TRANSITORIO. El Gobierno nacional contará con un (1) año contado a partir de la fecha de promulgación del presente acto legislativo, para radicar ante el Congreso de la República el proyecto de ley que reglamente la prisión perpetua. 
+
+Se deberá formular en el mismo término, una política pública integral que desarrolle la protección de niños, niñas y adolescentes; fundamentada principalmente en las alertas tempranas, educación, prevención, acompañamiento psicológico y la garantía de una efectiva judicialización y condena cuando sus derechos resulten vulnerados. 
+
+Anualmente se presentará un informe al Congreso de la República sobre el avance y cumplimiento de esta política pública. Así mismo, se conformará una Comisión de Seguimiento, orientada a proporcionar apoyo al proceso de supervisión que adelantará el Legislativo.
+
+## art:2 — 
+
+<Acto Legislativo INEXEQUIBLE> El presente acto legislativo rige a partir de la fecha de su promulgación.

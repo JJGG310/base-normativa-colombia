@@ -131,7 +131,8 @@ def articulos(doc, enteros=False):
 
 # El ordinal («ARTICULO 1º- …», «ARTICULO 1o. …») solo se consume si lo sigue un
 # signo: con re.I, una `o` suelta se comía la primera letra del epígrafe ("Otro").
-RE_ART_INLINE = re.compile(r"(?m)^[ \t]*ART[IÍ]CULO\.?\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
+# «artículo 991 ibídem» en minúscula al inicio de una línea partida es una remisión, no un encabezado.
+RE_ART_INLINE = re.compile(r"(?m)^[ \t]*(?-i:ART[IÍí]CULO|Art[íi]culo)\.?\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
                            r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 

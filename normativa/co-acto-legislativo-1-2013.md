@@ -1,0 +1,33 @@
+---
+id: co:acto-legislativo:1:2013
+tipo: acto-legislativo
+titulo: Acto Legislativo 1 de 2013 - Por el cual se modifica el artículo 176 de la Constitución Política, para fortalecer la representación en
+fecha: 2013-07-15
+ramas: [constitucional]
+estado_general: vigente
+afectaciones: pendiente
+fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_2013.html
+verificado: 2026-09-24
+---
+
+## art:1 — 
+
+El artículo 176 de la Constitución quedará así:
+
+Artículo 176. La Cámara de Representantes se elegirá en circunscripciones territoriales y circunscripciones especiales.
+
+Habrá dos representantes por cada circunscripción territorial y uno más por cada 365.000 habitantes o fracción mayor de 182.500 que tengan en exceso sobre los primeros 365.000.
+
+Para la elección de Representantes a la Cámara, cada departamento y el Distrito Capital de Bogotá conformarán una circunscripción territorial.
+
+Las circunscripciones especiales asegurarán la participación en la Cámara de Representantes de los grupos étnicos y los colombianos residentes en el exterior. Mediante estas circunscripciones se elegirán cinco (5) representantes, distribuidos así: dos (2) por la circunscripción de las comunidades afrodescendientes, uno (1) por la circunscripción de las comunidades indígenas, y dos (2) por la circunscripción internacional. En esta última, solo se contabilizarán los votos depositados fuera del territorio nacional por ciudadanos residentes en el exterior.
+
+PARÁGRAFO 1o. A partir de 2014, la base para la asignación de las curules adicionales se ajustará en la misma proporción del crecimiento de la población nacional, de acuerdo con lo que determine el censo. Le corresponderá a la organización electoral ajustar la cifra para la asignación de curules.
+
+PARÁGRAFO 2o. Si como resultado de la aplicación de la fórmula contenida en el presente artículo, una circunscripción territorial pierde una o más curules, mantendrá las mismas que le correspondían a 20 de julio de 2002.
+
+PARÁGRAFO TRANSITORIO. El Congreso de la República reglamentará la circunscripción internacional a más tardar el 16 de diciembre de 2013; de lo contrario, lo hará el Gobierno Nacional dentro de los treinta (30) días siguientes a esa fecha. En dicha reglamentación se incluirán, entre otros temas, la inscripción de candidatos, y la inscripción de ciudadanos habilitados para votar en el exterior, los mecanismos para promover la participación y realización del escrutinio de votos a través de los Consulados y Embajadas, y la financiación estatal para visitas al exterior por parte de los Representantes elegidos.
+
+## art:2 — 
+
+El presente acto legislativo rige a partir de la fecha de su publicación y modifica, adiciona el parágrafo 6o del artículo 176 de la Constitución Política.

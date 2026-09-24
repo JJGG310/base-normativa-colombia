@@ -494,6 +494,38 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
     salían con ID basura (`2.2`, `2.7`); ahora su texto queda dentro del artículo anterior.
 - [x] Corregida la `fuente:` de los 11 documentos del Gestor de P10 (URL anidada `norma.php?i=https://…`).
 
+## P12-P14 — Actos legislativos, leyes y decretos origen con ≥20 aristas · **cargada** (2026-09-24)
+
+Criterio de parada adoptado: cargar todo origen faltante con ≥20 aristas, todos los actos
+legislativos citados y todas las sentencias citadas que la relatoría sirva. Por debajo de 20
+aristas la cola es larga (≈3.800 normas, casi todas con 1-4 citas).
+- [x] P12 `cargar_p12.sh`: 60 de los 61 actos legislativos citados (senado; título = epígrafe de
+  la fuente, generado por script; el AL 1/2004 no tiene epígrafe: título del encabezado de su
+  único artículo). Todos con `faltan 0`.
+- [!] `co:acto-legislativo:1:1999` (2 aristas): la página de senado no trae el articulado (solo
+  epígrafe y la nota aclaratoria del DO 43.662); el normograma de la Cancillería, igual.
+- [x] P13 `cargar_p13.sh`: 33 leyes de senado (estatutarias 1757/2015, 130/1994, 1909/2018;
+  orgánicas 152/1994, 819/2003, 1454/2011, 2116/2021; 190/1995, 2056/2020, 2155/2021, 446/1998,
+  712/2001, 454/1998, 42/1993, 1765/2015…) + decretos-ley 902/2017 y 1122/1999 + Gestor: Ley
+  153/1887 (`i=15805`) y Ley 6/1990 (`i=9028`). Ley 689/2001 con `--fecha 2001-08-28` (encabezado).
+- [!] `co:ley:57:1887` (30 aristas): senado 404; el Gestor (`i=39535`) responde «No disponible».
+- [!] `co:ley:11:1984` (28 aristas): senado 404; no aparece en el Gestor.
+- [x] P14 `cargar_p14.sh`: 26 reformadores de DUR del Gestor (`--enteros`), 7 decretos
+  tributarios del normograma DIAN y 2 de **otros normogramas con la plataforma de senado**:
+  MinTIC (`normograma.mintic.gov.co/mintic/compilacion/docs/`, Decreto 2640/2022) y Keralty
+  (`normograma.com/keralty/compilacion/docs/`, Decreto 1136/2025). Python sí negocia su TLS.
+- [!] `co:decreto:2358:2019` art. 16: la fuente numera 15, 17, 16, 17 (errata); el texto del
+  16 queda dentro del art. 17 anterior. `faltan 1` aceptado por errata de la fuente.
+- [x] `ingesta_gestor`: un «artículo 991 ibídem» en minúscula al inicio de una línea partida se
+  tomaba como encabezado y, como el corte solo avanza, se tragaba los 36 artículos siguientes del
+  Decreto 431/2017 (10 → 46). El encabezado ahora exige «ARTÍCULO/ARTíCULO/Artículo» (también en
+  `verificar.py`). Sin pérdidas en los demás documentos del Gestor.
+- [x] Relatoría `--del-grafo --limite 450`: 318 fichas más. 28 sin descriptores ni resolutiva en
+  la relatoría (casi todas 2025-2026, aún sin procesar): C-067, C-194, C-293, C-006, C-033,
+  C-081, C-048, C-062, C-192, C-197, C-212, C-220 de 2026; C-196, C-504, C-136, C-183, C-206,
+  C-224 de 2025; C-280/2024; C-099/2012, C-194/2012, C-682/2012; C-114/2009; C-120/2019,
+  C-308/2019; C-1058/2000; C-122/2007, C-140/2007.
+
 ## Bloqueados
 
 - [x] (resuelto en P10) 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).
