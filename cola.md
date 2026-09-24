@@ -403,6 +403,34 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
   Gestor escribe «2247», errata: cotejado contra el texto de la 2447 en senado),
   C-700/2013 y C-257/2015 → art. 2 (fecha aproximada). C-075/2007 ya estaba.
 
+## P8 — Ramas faltantes y reformadoras más citadas · **cargada** (2026-09-24, 4 agentes en paralelo)
+
+- [x] Discapacidad: `co:ley:361:1997` (73) · `co:ley-estatutaria:1618:2013` (32) · `co:ley:1346:2009` (50)
+- [x] Internacional privado: `co:ley:518:1999` (101, CISG; sus `.js` de vigencia dan 404 → `afectaciones: pendiente`)
+- [x] Fuerza pública: `co:ley:1407:2010` CPM (632) · `co:ley:1862:2017` disciplinario militar (252)
+- [x] Territorial: `co:ley:617:2000` (97) · `co:ley:715:2001` (114) · `co:ley-organica:152:1994` (52) · `co:ley:1530:2012` (160)
+- [x] Cambiario/contable/marítimo: `co:ley:9:1991` (35, Gestor `i=80013`) · `co:decreto:2420:2015`
+  (33, Gestor `i=76745`; el grueso son anexos) · `co:decreto:2324:1984` decreto-ley DIMAR (195, Gestor `i=78442`)
+- [x] Disciplinario: `co:ley:734:2002` (227) · `co:ley:2094:2021` (75). En la 734, senado lista los arts. 41-43
+  pero no los publica: salen del Gestor (`i=4589`) con marca de fuente, + arista `manual:` C-124/2003 → art. 43.
+  **Reingestar desde senado los borra del `.md`.**
+- [x] Sueltas: `co:ley:1715:2014` (51) · `co:ley:1978:2019` (51) · `co:ley:2300:2023` (10) ·
+  `co:ley-estatutaria:1621:2013` (46) · `co:ley:1762:2015` (56)
+- [x] Reformadoras: `co:ley:1151:2007` (160) · `co:ley:812:2003` (137) · `co:ley:1111:2006` (78) ·
+  `co:ley:488:1998` (155) · `co:ley:633:2000` (134) · `co:ley:863:2003` (69) · `co:ley:795:2003` (114) ·
+  `co:ley:49:1990` (83, Gestor `i=6545`) · `co:ley-estatutaria:2430:2024` (93, reforma a la Ley 270)
+- [ ] `co:ley-estatutaria:2430:2024`: 109 notas «Jurisprudencia Vigencia» de la revisión previa
+  C-134/2023 que `aristas()` no reconoce («Mediante Sentencia C-134-23 de 3 de mayo de 2023…»).
+- [!] `co:ley:50:1990` (reforma laboral) — senado 404. Gestor (`i=281`): anclas incompletas (6-9
+  sin ancla) y la ley transcribe los artículos del CST que reforma («Artículo 78…») en línea propia;
+  con numeración entera `ingesta_gestor` los toma como propios. `faltan 41`. Probar la captura de
+  SUIN en la Wayback o un corte que ignore artículos dentro de comillas «quedará así:».
+- [!] `co:decreto:648:2017` — Gestor `i=80915`: son 2 artículos, el 1 sustituye entero el Título 5
+  del DUR 1083 (ya cargado, que trae ese texto). El parser saca 98 de ~128 numerales + 17 espurios.
+  Baja prioridad: el contenido vive en `co:decreto:1083:2015`.
+- Ramas nuevas en uso, no listadas en `esquema.md` §5: `cambiario`, `maritimo`, `penal-militar`
+  (la lista del §5 ya estaba incompleta: `territorial`, `tic`, `educacion`, `defensa`…).
+
 ## Bloqueados
 
 - [!] 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).
