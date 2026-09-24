@@ -421,15 +421,31 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
   `co:ley:49:1990` (83, Gestor `i=6545`) · `co:ley-estatutaria:2430:2024` (93, reforma a la Ley 270)
 - [ ] `co:ley-estatutaria:2430:2024`: 109 notas «Jurisprudencia Vigencia» de la revisión previa
   C-134/2023 que `aristas()` no reconoce («Mediante Sentencia C-134-23 de 3 de mayo de 2023…»).
-- [!] `co:ley:50:1990` (reforma laboral) — senado 404. Gestor (`i=281`): anclas incompletas (6-9
-  sin ancla) y la ley transcribe los artículos del CST que reforma («Artículo 78…») en línea propia;
-  con numeración entera `ingesta_gestor` los toma como propios. `faltan 41`. Probar la captura de
-  SUIN en la Wayback o un corte que ignore artículos dentro de comillas «quedará así:».
-- [!] `co:decreto:648:2017` — Gestor `i=80915`: son 2 artículos, el 1 sustituye entero el Título 5
-  del DUR 1083 (ya cargado, que trae ese texto). El parser saca 98 de ~128 numerales + 17 espurios.
-  Baja prioridad: el contenido vive en `co:decreto:1083:2015`.
+- [x] `co:ley:50:1990` y `co:decreto:648:2017` — resueltos en P9.
 - Ramas nuevas en uso, no listadas en `esquema.md` §5: `cambiario`, `maritimo`, `penal-militar`
   (la lista del §5 ya estaba incompleta: `territorial`, `tic`, `educacion`, `defensa`…).
+
+## P9 — Normas origen más citadas (build.py -v) · **cargada** (2026-09-24)
+
+`cargar_p9.sh`. Todas con `faltan 0`.
+- [x] Sentencia `co:cc:c-264:2026` (reforma pensional, Ley 2381/2024; 91 aristas ya en el grafo).
+- [x] Senado: `co:ley:510:1999` (123) · `co:ley:1142:2007` (56) · `co:ley:962:2005` (89) ·
+  `co:ley:104:1993` (150) · `co:ley:2421:2024` (78; las notas de su `_pr001` no se publican:
+  solo 3 cajas) · `co:decreto:2106:2019` decreto-ley (158).
+- [x] Normograma DIAN: `co:decreto:360:2021` (148) · `co:decreto:659:2024` (68) ·
+  `co:decreto:1643:1991` decreto-ley (110).
+- [x] `co:ley:50:1990` (117, 60 aristas) — **normograma de la Cancillería**
+  (`cancilleria.gov.co/normograma/compilacion/docs/`), misma plataforma que senado. Python no
+  negocia su TLS: se bajó con `curl` al caché de `ingesta_senado` (`fuentes/cache/`) y se ingirió de ahí.
+- [x] Gestor, decretos que reforman un DUR, con el nuevo `ingesta_gestor --enteros` (los
+  decimales transcritos, «quedará así: ARTÍCULO 2.2.18.1.1…», son texto del artículo que los
+  contiene; `verificar.py` lo detecta solo si el archivo no tiene decimales): 1743/2015 (70) ·
+  1330/2019 (2) · 2029/2015 (6) · 1851/2015 (2) · 65/2020 (50) · 1835/2021 (22) · 770/2021 (6) ·
+  648/2017 (19; la nota anterior de «2 artículos» era otro error del parser) · 1042/2022 (22, sin `--enteros`).
+- Arreglos al parser del Gestor: (1) «DECRETA:» ya no hace saltar el art. 1 (la regla de «…así:»
+  solo aplica con un artículo previo); (2) encabezados con espacio inicial (« ARTÍCULO 2°.») se
+  reconocen en `ingesta_gestor` y en el índice de `verificar.py` — destapó 2 artículos que le
+  faltaban al DUR 1083 (2.2.18.3.10, 2.2.18.5.4), ya reingerido: 930, aristas idénticas.
 
 ## Bloqueados
 

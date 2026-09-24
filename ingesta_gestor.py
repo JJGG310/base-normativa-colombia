@@ -51,7 +51,7 @@ def fecha_norma(doc):
     return "%s-%02d-%02d" % (m.group(1), MESES[m.group(2).lower()], int(m.group(3))) if m else ""
 
 
-def articulos(doc):
+def articulos(doc, enteros=False):
     """Corta por las anclas `name="2.2.1.1.1"`, que es la numeración real del DUR."""
     # El CSS del pie de página quedaba pegado al último artículo de cada decreto.
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I)
@@ -67,6 +67,9 @@ def articulos(doc):
     # DUR, entero en las viejas — para no confundir un artículo con la remisión del
     # preámbulo ("artículo 189 de la Constitución Política").
     decimal = sum("." in a.group(1) for a in anclas) > len(anclas) / 2   # la primera puede ser «1»
+    # Un decreto que reforma un DUR transcribe sus artículos («quedará así: ARTÍCULO
+    # 2.2.18.1.1…»): son mayoría, pero los propios son los enteros (--enteros).
+    decimal = decimal and not enteros
     salida += [a for a in partir("", "", limpiar(doc[:anclas[0].start()]))
                if a[0] and ("." in a[0]) == decimal]
     for k, m in enumerate(anclas):
@@ -94,7 +97,7 @@ def articulos(doc):
         # no, es la continuación del anterior y se le devuelve, no se parte en dos.
         # En un DUR, un ancla entera es de una tabla o del artículo del decreto
         # reformador que la fuente transcribe («ARTÍCULO 2. Vigencia»): tampoco.
-        if ((decimal and "." not in num)
+        if (decimal != ("." in num)
                 or not es_art and not re.match(r"(?:ART[IÍ]CULO\s+)?%s\b" % re.escape(num), cuerpo, re.I)):
             if salida:
                 salida[-1] = salida[-1][:2] + (salida[-1][2] + "\n\n" + cuerpo,)
@@ -126,7 +129,7 @@ def articulos(doc):
 
 # El ordinal («ARTICULO 1º- …», «ARTICULO 1o. …») solo se consume si lo sigue un
 # signo: con re.I, una `o` suelta se comía la primera letra del epígrafe ("Otro").
-RE_ART_INLINE = re.compile(r"(?m)^ART[IÍ]CULO\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
+RE_ART_INLINE = re.compile(r"(?m)^[ \t]*ART[IÍ]CULO\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
                            r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 
@@ -148,10 +151,10 @@ def partir(num, epi, texto):
     for m in RE_ART_INLINE.finditer(texto):
         n = re.sub(r"\s", "", m.group(1).strip(".")).lower()
         k = orden(n)
-        if n == ult or (decimal and "." not in n) or (not decimal and (
+        if n == ult or decimal != ("." in n) or (not decimal and (
                 k < tope or (k == tope and n[-1].isdigit())
                 or (texto[:m.start()].rstrip(" \n\"“«").endswith(":")
-                    and not (tope and k == [tope[0] + 1])))):
+                    and tope and k != [tope[0] + 1]))):   # sin tope: «DECRETA:» antes del 1
             continue
         cortes.append(m)
         tope, ult = k, n
@@ -254,6 +257,7 @@ def main():
     # La Ley 54 de 1990 (i=30896) marca algunos artículos con `<a id="1">` en vez de
     # `name=`. No se acepta `id=` siempre: los DUR traen cientos sin `name` y cambia su corte.
     p.add_argument("--anclas-id", action="store_true")
+    p.add_argument("--enteros", action="store_true", help="decreto que reforma un DUR: los artículos decimales son texto transcrito")
     a = p.parse_args()
 
     url = BASE % a.i
@@ -263,7 +267,7 @@ def main():
     fecha = a.fecha or fecha_norma(doc)
     if not fecha:
         sys.exit("no se pudo leer la fecha en la fuente: pasarla con --fecha")
-    arts = articulos(doc)
+    arts = articulos(doc, a.enteros)
     if a.minimo and len(arts) < a.minimo:
         sys.exit("ABORTA: %d artículos, se esperaban al menos %d" % (len(arts), a.minimo))
     if not arts:

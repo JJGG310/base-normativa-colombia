@@ -42,17 +42,21 @@ def indice_fuente(url):
     return nums or encabezados
 
 
-def indice_gestor(url):
+def indice_gestor(url, enteros=False):
     """El Gestor no trae selector: el índice son los encabezados en línea propia."""
     from ingesta_senado import limpiar
     from ingesta_gestor import NUM_DUR
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url, enc="utf-8"),
                  flags=re.S | re.I)
     nums = {re.sub(r"\s", "", m.group(1)).upper()
-            for m in re.finditer(r"^ART[IÍ]CULO\s+(%s)" % NUM_DUR, limpiar(doc), re.I | re.M)}
+            for m in re.finditer(r"^[ \t]*ART[IÍ]CULO\s+(%s)" % NUM_DUR, limpiar(doc), re.I | re.M)}
     # En un DUR, un «ARTÍCULO 2.» entero es el del decreto que lo reformó, que la
     # fuente transcribe: no es artículo del DUR (ingesta_gestor.partir tampoco lo toma).
-    if sum("." in n for n in nums) > len(nums) / 2:
+    # Al revés en un decreto que reforma un DUR (ingesta_gestor --enteros): los
+    # decimales son los artículos del DUR que transcribe.
+    if enteros:
+        nums = {n for n in nums if "." not in n}
+    elif sum("." in n for n in nums) > len(nums) / 2:
         nums = {n for n in nums if "." in n}
     return nums
 
@@ -68,7 +72,7 @@ def revisar(ruta):
     if "secretariasenado" in fuente.group(1) or "normograma.dian" in fuente.group(1):
         fuente_nums = indice_fuente(fuente.group(1))
     elif "funcionpublica" in fuente.group(1):
-        fuente_nums = indice_gestor(fuente.group(1))
+        fuente_nums = indice_gestor(fuente.group(1), propios and not any("." in n for n in propios))
     else:
         return None
     faltan = sorted(fuente_nums - propios, key=lambda s: (len(s), s))

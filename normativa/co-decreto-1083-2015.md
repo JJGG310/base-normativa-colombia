@@ -7,7 +7,7 @@ ramas: [administrativo, laboral]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=62866
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1.1.1.1 — Departamento Administrativo de la Función Pública
@@ -54,7 +54,7 @@ El presente decreto compila en un sólo cuerpo normativo los decretos reglamenta
 
 ## art:2.1.1.2 — 
 
-2.1.1.2 Ámbito de Aplicación: Las disposiciones contenidas en el presente decreto son aplicables a las entidades de la Rama Ejecutiva del poder público, de acuerdo con la determinación específica que se haga en cada Título de la Parte 2.
+Ámbito de Aplicación: Las disposiciones contenidas en el presente decreto son aplicables a las entidades de la Rama Ejecutiva del poder público, de acuerdo con la determinación específica que se haga en cada Título de la Parte 2.
 
 PARTE 2
 
@@ -546,7 +546,7 @@ De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, l
 
 ## art:2.2.2.2.2 — 
 
-2.2.2.2.2 Nivel Asesor.Agrupa los empleos cuyas funciones consisten en asistir, aconsejar y asesorar directamente a los empleados públicos de la alta dirección de la Rama Ejecutiva del orden nacional.
+Nivel Asesor.Agrupa los empleos cuyas funciones consisten en asistir, aconsejar y asesorar directamente a los empleados públicos de la alta dirección de la Rama Ejecutiva del orden nacional.
 
 De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, las siguientes funciones:
 
@@ -566,7 +566,7 @@ De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, l
 
 ## art:2.2.2.2.3 — 
 
-2.2.2.2.3 Nivel Profesional.Agrupa los empleos cuya naturaleza demanda la ejecución y aplicación de los conocimientos propios de cualquier disciplina académica o profesión, diferente a la formación técnica profesional y tecnológica, reconocida por la ley y que, según su complejidad y competencias exigidas, les pueda corresponder funciones de coordinación, supervisión, control y desarrollo de actividades en áreas internas encargadas de ejecutar los planes, programas y proyectos institucionales
+Nivel Profesional.Agrupa los empleos cuya naturaleza demanda la ejecución y aplicación de los conocimientos propios de cualquier disciplina académica o profesión, diferente a la formación técnica profesional y tecnológica, reconocida por la ley y que, según su complejidad y competencias exigidas, les pueda corresponder funciones de coordinación, supervisión, control y desarrollo de actividades en áreas internas encargadas de ejecutar los planes, programas y proyectos institucionales
 
 De acuerdo con su naturaleza, los empleos de este nivel tendrán, entre otras, las siguientes funciones:
 
@@ -758,7 +758,7 @@ Los requisitos de estudios y de experiencia que se fijan en el presente decreto 
 
 ## art:2.2.2.4.2 — 
 
-2.2.2.4.2 Requisitos del nivel directivo.Serán requisitos para los empleos del nivel directivo, los siguientes:
+Requisitos del nivel directivo.Serán requisitos para los empleos del nivel directivo, los siguientes:
 
 Grados
 
@@ -966,7 +966,7 @@ PARÁGRAFO . En este nivel no podrá ser compensado el Título Profesional.
 
 ## art:2.2.2.4.4 — 
 
-2.2.2.4.4 Requisitos del nivel profesional.Serán requisitos para los empleos del nivel profesional, los siguientes:
+Requisitos del nivel profesional.Serán requisitos para los empleos del nivel profesional, los siguientes:
 
 Grados
 
@@ -1158,7 +1158,7 @@ Cuando se trate de un empleo clasificado en los grados 01 a 08, cuyas funciones 
 
 ## art:2.2.2.4.6 — 
 
-2.2.2.4.6 Requisitos del nivel asistencial.Serán requisitos para los empleos del nivel asistencial, los siguientes:
+Requisitos del nivel asistencial.Serán requisitos para los empleos del nivel asistencial, los siguientes:
 
 Grados
 
@@ -1296,7 +1296,7 @@ PARÁGRAFO 4. Las personas que se vinculen deberán cumplir con los demás requi
 
 ## art:2.2.2.4.7 — 
 
-2.2.2.4.7 Requisitos especiales Cuando las funciones de un empleo correspondan al ámbito de la música o de las artes, los requisitos de estudios exigibles podrán ser compensados por la comprobación de experiencia y producción artísticas, así:
+Requisitos especiales Cuando las funciones de un empleo correspondan al ámbito de la música o de las artes, los requisitos de estudios exigibles podrán ser compensados por la comprobación de experiencia y producción artísticas, así:
 
 Código
 
@@ -1840,7 +1840,7 @@ Corresponde al jefe de personal o quien haga sus veces, efectuar la verificació
 
 ## art:2.2.2.7.2 — 
 
-2.2.2.7.2 Equivalencias para los empleos pertenecientes al personal civil del Ministerio de Defensa Nacional, de las Fuerzas Militares y la Policía Nacional. Establécense, a partir de la vigencia del presente decreto, las siguientes equivalencias para los empleos pertenecientes al personal civil del Ministerio de Defensa Nacional, de las Fuerzas Militares y de la Policía Nacional, únicamente para lo relacionado con los requisitos de estudio y experiencia de que trata el Decreto Ley 770 de 2005 y sus normas reglamentarias, así:
+Equivalencias para los empleos pertenecientes al personal civil del Ministerio de Defensa Nacional, de las Fuerzas Militares y la Policía Nacional. Establécense, a partir de la vigencia del presente decreto, las siguientes equivalencias para los empleos pertenecientes al personal civil del Ministerio de Defensa Nacional, de las Fuerzas Militares y de la Policía Nacional, únicamente para lo relacionado con los requisitos de estudio y experiencia de que trata el Decreto Ley 770 de 2005 y sus normas reglamentarias, así:
 
 DENOMINACIONES EMPLEOS CIVILES MINISTERIO DE DEFENSA, FUERZAS MILITARES Y POLICIA NACIONAL
 
@@ -3917,7 +3917,7 @@ La duración de la licencia por enfermedad y riesgos laborales y de la licencia 
 
 ## art:2.2.5.5.13 — 
 
-2.2.5.5.13 Prestaciones económicas derivadas de las licencias por enfermedad y riesgos laborales y de la licencia de maternidad o paternidad. Durante la licencia por enfermedad general o profesional, maternidad o paternidad el empleado tiene derecho a las prestaciones económicas señaladas en la normativa que las regula, las cuales estarán a cargo de la entidad de seguridad social competente.
+Prestaciones económicas derivadas de las licencias por enfermedad y riesgos laborales y de la licencia de maternidad o paternidad. Durante la licencia por enfermedad general o profesional, maternidad o paternidad el empleado tiene derecho a las prestaciones económicas señaladas en la normativa que las regula, las cuales estarán a cargo de la entidad de seguridad social competente.
 
 Cuando la licencia por enfermedad general sea igual o inferior a dos (2) días se remunerará con el 100% del salario que perciba el servidor. A partir del tercer día la licencia por enfermedad genera vacancia temporal en el empleo y se remunerará de conformidad con las normas de Seguridad Social en Salud.
 
@@ -5610,7 +5610,7 @@ PARÁGRAFO . La declaratoria de insubsistencia del nombramiento por calificació
 
 ## art:2.2.8.1.11 — 
 
-2.2.8.1.11 Evaluación en comisión de servicios.Quienes estén cumpliendo comisión de servicios en otra entidad serán evaluados y calificados por la entidad en la cual se encuentran en comisión, con base en el sistema que rija para la entidad en donde se encuentran vinculados en forma permanente. Esta evaluación será remitida a la entidad de origen.
+Evaluación en comisión de servicios.Quienes estén cumpliendo comisión de servicios en otra entidad serán evaluados y calificados por la entidad en la cual se encuentran en comisión, con base en el sistema que rija para la entidad en donde se encuentran vinculados en forma permanente. Esta evaluación será remitida a la entidad de origen.
 
 (Decreto 1227 de 2005, art. 60)
 
@@ -6878,7 +6878,7 @@ En caso de no ser adoptada, las entidades deberán desarrollar su propia metodol
 
 ## art:2.2.13.1.13 — 
 
-2.2.13.1.13 Aplicación a los empleados públicos de las entidades descentralizadas adscritas o vinculadas al Ministerio de Defensa Nacional, al personal civil del Ministerio Defensa Nacional, de las Fuerzas Militares y al personal no uniformado de la Policía Nacional. De acuerdo con lo establecido en el artículo 3 de la Ley 909 de 2004, las disposiciones contenidas en este Título serán aplicables en su integridad a los empleados públicos de las entidades descentralizadas adscritas o vinculadas al Ministerio de Defensa Nacional, al personal civil del Ministerio Defensa Nacional, de las Fuerzas Militares y al personal no uniformado de la Policía Nacional. Solo para los efectos previstos en este decreto, el Comando General de las Fuerzas Militares, los Comandos de Fuerza y la Policía Nacional se considerarán como una entidad.
+Aplicación a los empleados públicos de las entidades descentralizadas adscritas o vinculadas al Ministerio de Defensa Nacional, al personal civil del Ministerio Defensa Nacional, de las Fuerzas Militares y al personal no uniformado de la Policía Nacional. De acuerdo con lo establecido en el artículo 3 de la Ley 909 de 2004, las disposiciones contenidas en este Título serán aplicables en su integridad a los empleados públicos de las entidades descentralizadas adscritas o vinculadas al Ministerio de Defensa Nacional, al personal civil del Ministerio Defensa Nacional, de las Fuerzas Militares y al personal no uniformado de la Policía Nacional. Solo para los efectos previstos en este decreto, el Comando General de las Fuerzas Militares, los Comandos de Fuerza y la Policía Nacional se considerarán como una entidad.
 
 (Decreto 1227 de 2005, art. 111)
 
@@ -7244,7 +7244,7 @@ Los objetivos del Sistema de Información y Gestión del Empleo Público (SIGEP)
 
 ## art:2.2.17.4 — 
 
-2.2.17.4 Diseño, implementación, dirección y administración del Sistema de Información y Gestión del Empleo Público (SIGEP).El diseño, implementación, dirección y administración del SIGEP son responsabilidad del Departamento Administrativo de la Función Pública, para lo cual cumplirá con las siguientes funciones:
+Diseño, implementación, dirección y administración del Sistema de Información y Gestión del Empleo Público (SIGEP).El diseño, implementación, dirección y administración del SIGEP son responsabilidad del Departamento Administrativo de la Función Pública, para lo cual cumplirá con las siguientes funciones:
 
 1. Desarrollar e implementar la infraestructura tecnológica que sea necesaria para el funcionamiento y mantenimiento del Sistema, SIGEP.
 
@@ -7284,7 +7284,7 @@ El SIGEP está organizado en los siguientes subsistemas:
 
 ## art:2.2.17.7 — 
 
-2.2.17.7 Responsabilidades de los representantes legales de las instituciones públicas que se integren al SIGEP y de los jefes de control interno. Las entidades y organismos a quienes se aplica el presente título son responsables de la operación, registro, actualización y gestión de la información de cada institución y del recurso humano a su servicio.
+Responsabilidades de los representantes legales de las instituciones públicas que se integren al SIGEP y de los jefes de control interno. Las entidades y organismos a quienes se aplica el presente título son responsables de la operación, registro, actualización y gestión de la información de cada institución y del recurso humano a su servicio.
 
 Es responsabilidad de los representantes legales de las entidades y organismos del Estado velar porque la información que se incorpore en el SIGEP se opere, registre, actualice y gestione de manera oportuna y que esta sea veraz y confiable.
 
@@ -7730,7 +7730,9 @@ Los empleados deberán reunir los siguientes requisitos para participar de los i
  
  Artículos Derogados
 
- ARTÍCULO 2.2.18.3.10. Causales de no admisión al concurso. Sin perjuicio de lo previsto en otras disposiciones legales, serán causales de no admisión al concurso las siguientes:
+## art:2.2.18.3.10 — Causales de no admisión al concurso
+
+Sin perjuicio de lo previsto en otras disposiciones legales, serán causales de no admisión al concurso las siguientes:
 
 No entregar los documentos soportes en la fecha prevista en la convocatoria.
 Haber sido sancionado disciplinariamente en el año inmediatamente anterior a la fecha de la inscripción.
@@ -7944,7 +7946,7 @@ PARÁGRAFO . La Escuela de Impuestos y Aduanas en un término no superior a un (
 
 ## art:2.2.18.4.3 — 
 
-2.2.18.4.3 Responsabilidad de la Escuela de Impuestos y Aduanas en el proceso de Acreditación y Certificación de Competencias Laborales. De conformidad con el numeral 12.4 del artículo 12 del Decreto Ley 071 de 2020 la Escuela de Impuestos y Aduanas Nacionales, será la dependencia encargada de:
+Responsabilidad de la Escuela de Impuestos y Aduanas en el proceso de Acreditación y Certificación de Competencias Laborales. De conformidad con el numeral 12.4 del artículo 12 del Decreto Ley 071 de 2020 la Escuela de Impuestos y Aduanas Nacionales, será la dependencia encargada de:
 
 1. Realizar el proceso de evaluación, acreditación y certificación de las competencias laborales de los funcionarios de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN, de acuerdo con lo contenido en los Lineamientos Técnicos de competencias y garantizando la igualdad e imparcialidad.
 
@@ -8022,7 +8024,9 @@ El perfil de los empleos se tendrá en cuenta, entre otros aspectos, para:
  
  Artículos Derogados
 
- ARTÍCULO 2.2.18.5.4. Adopción de instrumentos. Para efecto de evaluación de cada uno de los componentes de que trata el artículo 43 del Decreto-ley 765 de 2005, el Director General de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, DIAN establecerá el procedimiento y adoptará los instrumentos de evaluación del desempeño, una vez sean aprobados por la Comisión del Sistema Específico de Carrera.
+## art:2.2.18.5.4 — Adopción de instrumentos
+
+Para efecto de evaluación de cada uno de los componentes de que trata el artículo 43 del Decreto-ley 765 de 2005, el Director General de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, DIAN establecerá el procedimiento y adoptará los instrumentos de evaluación del desempeño, una vez sean aprobados por la Comisión del Sistema Específico de Carrera.
 
 Parágrafo. En cumplimiento del inciso 3 del artículo 47 del Decreto-ley 765 de 2005, el instrumento de evaluación que se adopte para calificar a los empleados con personal a cargo o que ejercen jefatura o coordinación de otros empleados, deberá incluir un componente para valorar la eficiente y adecuada calificación de los subalternos.
 
@@ -8221,7 +8225,7 @@ Los servidores públicos de la Unidad Administrativa Especial Dirección de Impu
 
 ## art:2.2.18.7.2 — 
 
-2.2.18.7.2 Término para la toma de posesión por reubicación de los servidores vinculados a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN. El servidor público que sea reubicado en otra dependencia dentro del mismo municipio deberá tomar posesión para asumir sus funciones a más tardar dentro de los diez (10) días siguientes a la fecha de comunicación, tiempo durante el cual estará en la obligación de continuar prestando el servicio.
+Término para la toma de posesión por reubicación de los servidores vinculados a la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales - DIAN. El servidor público que sea reubicado en otra dependencia dentro del mismo municipio deberá tomar posesión para asumir sus funciones a más tardar dentro de los diez (10) días siguientes a la fecha de comunicación, tiempo durante el cual estará en la obligación de continuar prestando el servicio.
 
 Cuando la nueva ubicación conlleve cambio de municipio dicho término podrá ser prorrogado por el Director General hasta por treinta (30) días calendario y el funcionario tendrá derecho a los gastos generados por la nueva ubicación.
 
@@ -8530,7 +8534,7 @@ La calificación del período de prueba y las evaluaciones parciales del mismo s
 
 ## art:2.2.19.3.5 — 
 
-2.2.19.3.5 Los empleados que deban evaluar y calificar el desempeño laboral están sometidos al régimen de impedimentos establecido en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Los impedimentos o recusaciones que se presenten en el proceso de evaluación del desempeño serán tramitados de conformidad con lo establecido en dicho Código.
+Los empleados que deban evaluar y calificar el desempeño laboral están sometidos al régimen de impedimentos establecido en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Los impedimentos o recusaciones que se presenten en el proceso de evaluación del desempeño serán tramitados de conformidad con lo establecido en dicho Código.
 
 (Decreto 2929 de 2005, art. 18)
 
@@ -9680,7 +9684,7 @@ d). La Oficina de Control Interno o quien haga sus veces debe evaluar el sistema
 
 ## art:2.2.21.3.8 — 
 
-2.2.21.3.8 (Derogado Decreto 648 de 2017, art 10)
+(Derogado Decreto 648 de 2017, art 10)
 
 ## art:2.2.21.3.9 — Integración del Consejo Asesor del Gobierno Nacional en materia de Control Interno
 
@@ -9718,9 +9722,7 @@ PARÁGRAFO 2. A las reuniones del Consejo se podrá invitar personas de reconoci
 
 ## art:2.2.21.3.10 — 
 
-2.2.21.3.10
-
- Vigencia
+Vigencia
  
  Derogado
 
@@ -9818,13 +9820,13 @@ El nombramiento de estos servidores deberá efectuarse teniendo en cuenta el pri
 
 ## art:2.2.21.4.2 — 
 
-2.2.21.4.2 Delegación para proveer temporalmente las vacantes definitivas del empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces. Delegase en los Ministros y Directores de Departamento Administrativo la facultad de proveer temporalmente, mediante la figura del encargo, las vacantes definitivas que se presenten en el empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces en sus respectivos Ministerios o Departamentos Administrativos o en las entidades adscritas o vinculadas a su Sector Administrativo.
+Delegación para proveer temporalmente las vacantes definitivas del empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces. Delegase en los Ministros y Directores de Departamento Administrativo la facultad de proveer temporalmente, mediante la figura del encargo, las vacantes definitivas que se presenten en el empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces en sus respectivos Ministerios o Departamentos Administrativos o en las entidades adscritas o vinculadas a su Sector Administrativo.
 
 (Decreto 3670 de 2011, art. 1)
 
 ## art:2.2.21.4.3 — 
 
-2.2.21.4.3 Delegación para declarar y proveer las vacantes temporales del empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces. Delegase en los Ministros y Directores de Departamento Administrativo, las funciones de declarar y proveer las vacantes temporales, cualquiera que sea la causa que las produzca, que se presenten en el cargo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces en sus respectivos Ministerios o Departamentos Administrativos o en las entidades adscritas o vinculadas a su Sector Administrativo.
+Delegación para declarar y proveer las vacantes temporales del empleo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces. Delegase en los Ministros y Directores de Departamento Administrativo, las funciones de declarar y proveer las vacantes temporales, cualquiera que sea la causa que las produzca, que se presenten en el cargo de Jefe de la Unidad u Oficina de Control Interno o de quien haga sus veces en sus respectivos Ministerios o Departamentos Administrativos o en las entidades adscritas o vinculadas a su Sector Administrativo.
 
 (Decreto 3670 de 2011, art. 2)
 
@@ -9838,7 +9840,7 @@ Las pruebas serán diseñadas y aplicadas por el Departamento Administrativo de 
 
 ## art:2.2.21.4.5 — 
 
-2.2.21.4.5 Evaluación del desempeño de los jefes de control interno o quien haga sus veces.El desempeño del jefe de control interno o quien haga sus veces en las entidades de la Rama Ejecutiva del orden Nacional será evaluado anualmente, a través del instrumento que permita medir la contribución al cargo diseñado por el Departamento Administrativo de la Función Pública.
+Evaluación del desempeño de los jefes de control interno o quien haga sus veces.El desempeño del jefe de control interno o quien haga sus veces en las entidades de la Rama Ejecutiva del orden Nacional será evaluado anualmente, a través del instrumento que permita medir la contribución al cargo diseñado por el Departamento Administrativo de la Función Pública.
 
 (Decreto 2374 de 2014, art. 2)
 
@@ -9956,7 +9958,7 @@ Como parte integral del fortalecimiento de los sistemas de control interno en la
 
 ## art:2.2.21.5.5 — 
 
-2.2.21.5.5 Políticas de control interno diseñadas por el Departamento Administrativo de la Función Pública.Las guías, circulares, instructivos y demás documentos técnicos elaborados por el Departamento Administrativo de la Función Pública, constituirán directrices generales a través de las cuales se diseñan las políticas en materia de control interno, las cuales deberán ser implementadas al interior de cada organismo y entidad del Estado.
+Políticas de control interno diseñadas por el Departamento Administrativo de la Función Pública.Las guías, circulares, instructivos y demás documentos técnicos elaborados por el Departamento Administrativo de la Función Pública, constituirán directrices generales a través de las cuales se diseñan las políticas en materia de control interno, las cuales deberán ser implementadas al interior de cada organismo y entidad del Estado.
 
 El Departamento Administrativo de la Función Pública elaborará prioritariamente guías e instructivos sobre elaboración de manuales de procedimientos, y sobre diseño de indicadores para evaluar la gestión institucional, los cuales se constituirán en herramientas básicas de eficiencia y transparencia de las organizaciones.
 
@@ -10556,7 +10558,7 @@ PARÁGRAFO 3. La Oficina de control Interno o quien haga sus veces será invitad
 
 ## art:2.2.22.3.9 — 
 
-2.2.22.3.9 Implementación del Modelo Integrado de Planeación y Gestión en entidades autónomas, con regímenes especiales y en otras ramas del poder público. Las entidades y organismos del Estado sujetos a régimen especial en los términos del artículo 40 de la Ley 489 de 1998, las Ramas Legislativa y Judicial, la Organización Electoral, los organismos de control y los institutos científicos, que decidan adoptar el Modelo, determinarán las instancias que consideren necesarias para su implementación y evaluación.
+Implementación del Modelo Integrado de Planeación y Gestión en entidades autónomas, con regímenes especiales y en otras ramas del poder público. Las entidades y organismos del Estado sujetos a régimen especial en los términos del artículo 40 de la Ley 489 de 1998, las Ramas Legislativa y Judicial, la Organización Electoral, los organismos de control y los institutos científicos, que decidan adoptar el Modelo, determinarán las instancias que consideren necesarias para su implementación y evaluación.
 
 ## art:2.2.22.3.10 — Medición de la Gestión y Desempeño Institucional
 
@@ -10678,7 +10680,7 @@ e) Acreditar los costos de su implementación para los obligados a cumplirlo y l
 
 ## art:2.2.24.3 — 
 
-2.2.24.3 (Derogado Decreto 1499 de 2017, Art 5)
+(Derogado Decreto 1499 de 2017, Art 5)
 
 ## art:2.2.24.4 — Funciones del GRAT
 
@@ -10948,7 +10950,7 @@ El proceso de selección público abierto para la integración de las ternas no 
 
 ## art:2.2.28.4 — 
 
-2.2.28.4 La selección de la persona para ser nombrada en el empleo de Director o Gerente Regional o Seccional o el que haga sus veces, por parte del Gobernador, deberá efectuarse dentro de los ocho (8) días calendario siguientes a la fecha de recibo de la terna.
+La selección de la persona para ser nombrada en el empleo de Director o Gerente Regional o Seccional o el que haga sus veces, por parte del Gobernador, deberá efectuarse dentro de los ocho (8) días calendario siguientes a la fecha de recibo de la terna.
 
 En las regionales o seccionales cuya área de influencia comprenda dos o más departamentos, el plazo será de quince (15) días hábiles siguientes a la fecha de recibo de la respectiva terna, la cual será enviada al Gobernador del departamento sede de la regional o seccional.
 
@@ -10966,7 +10968,7 @@ En el caso de vacancia temporal del empleo, éste será provisto por el Represen
 
 ## art:2.2.28.6 — 
 
-2.2.28.6 La Vicepresidencia de la República podrá adelantar evaluaciones, sondeos y estadísticas sobre el desarrollo de los procesos de selección públicos abiertos establecidos en el presente Título, con el propósito de garantizar su eficiencia y transparencia.
+La Vicepresidencia de la República podrá adelantar evaluaciones, sondeos y estadísticas sobre el desarrollo de los procesos de selección públicos abiertos establecidos en el presente Título, con el propósito de garantizar su eficiencia y transparencia.
 
 Así mismo, en desarrollo de su función de lucha contra la corrupción, podrá recibir las quejas relacionadas con el incumplimiento de las disposiciones señaladas en este decreto y de las irregularidades que se presenten en el proceso de selección, para ponerlas en conocimiento de las autoridades competentes.
 
@@ -10984,7 +10986,7 @@ Para efectos de lo establecido en el numeral 2 del ARTÍCULO 8 de la Ley 909 de 
 
 ## art:2.2.29.2 — 
 
-2.2.29.2 Convocatoria al concurso público y abierto para la selección de los Comisionados de la Comisión Nacional del Servicio Civil. El Gobierno Nacional a través del Departamento Administrativo de la Función Pública, convocará al concurso público y abierto para la selección de los Comisionados de la Comisión Nacional del Servicio Civil, en los términos previstos en el artículo 9 de la Ley 909 de 2004.
+Convocatoria al concurso público y abierto para la selección de los Comisionados de la Comisión Nacional del Servicio Civil. El Gobierno Nacional a través del Departamento Administrativo de la Función Pública, convocará al concurso público y abierto para la selección de los Comisionados de la Comisión Nacional del Servicio Civil, en los términos previstos en el artículo 9 de la Ley 909 de 2004.
 
 La convocatoria deberá divulgarse por una sola vez en un medio de amplia circulación nacional y a través de las páginas web del Departamento Administrativo de la Función Pública, la Comisión Nacional del Servicio Civil y la entidad encargada de adelantar el proceso de selección, Universidad Nacional de Colombia o la Escuela Superior de Administración Pública.
 
