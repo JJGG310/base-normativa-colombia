@@ -6,7 +6,7 @@ fecha: 2025-01-28
 ramas: [administrativo, procesal]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=257816
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=257816
 verificado: 2026-09-24
 ---
 

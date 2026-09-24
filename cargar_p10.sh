@@ -5,7 +5,7 @@ B=http://www.secretariasenado.gov.co/senado/basedoc
 
 run() { echo "== $1"; python3 ingesta_senado.py "$1" "${@:2}" 2>&1 \
     | grep -E "artículos ->|aristas ->|ABORTA|fecha|Error"; sleep 5; }
-gestor() { echo "== $1"; python3 ingesta_gestor.py "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=$1" "${@:2}" 2>&1 \
+gestor() { echo "== $1"; python3 ingesta_gestor.py "$1" "${@:2}" 2>&1 \
     | grep -E "artículos ->|aristas ->|ABORTA|fecha|Error"; }
 
 run $B/ley_0241_1995.html --minimo 10 --id co:ley:241:1995 --tipo ley \

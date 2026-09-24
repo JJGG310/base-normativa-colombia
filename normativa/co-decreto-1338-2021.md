@@ -6,7 +6,7 @@ fecha: 2021-10-25
 ramas: [tributario, comercial]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172769
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172769
 verificado: 2026-09-24
 ---
 

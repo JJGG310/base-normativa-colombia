@@ -6,7 +6,7 @@ fecha: 2021-12-24
 ramas: [comercial, administrativo]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175266
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175266
 verificado: 2026-09-24
 ---
 

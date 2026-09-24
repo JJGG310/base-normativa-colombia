@@ -6,7 +6,7 @@ fecha: 2021-12-06
 ramas: [laboral, educacion]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=173949
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=173949
 verificado: 2026-09-24
 ---
 

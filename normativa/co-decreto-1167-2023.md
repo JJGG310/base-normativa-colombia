@@ -6,7 +6,7 @@ fecha: 2023-07-11
 ramas: [insolvencia, comercial]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=213970
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=213970
 verificado: 2026-09-24
 ---
 

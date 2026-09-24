@@ -6,7 +6,7 @@ fecha: 2024-08-23
 ramas: [maritimo, defensa]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=249376
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=249376
 verificado: 2026-09-24
 ---
 

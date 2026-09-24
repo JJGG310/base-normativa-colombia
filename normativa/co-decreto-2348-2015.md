@@ -6,7 +6,7 @@ fecha: 2015-12-03
 ramas: [internacional-publico, administrativo]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=66599
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=66599
 verificado: 2026-09-24
 ---
 

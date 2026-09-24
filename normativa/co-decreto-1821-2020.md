@@ -6,7 +6,7 @@ fecha: 2020-12-31
 ramas: [territorial, minero-energetico, administrativo]
 estado_general: vigente
 afectaciones: cargadas
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=154466
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=154466
 verificado: 2026-09-24
 ---
 

@@ -6,7 +6,7 @@ fecha: 2021-12-20
 ramas: [urbanistico, administrativo]
 estado_general: vigente
 afectaciones: pendiente
-fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175086
+fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175086
 verificado: 2026-09-24
 ---
 
