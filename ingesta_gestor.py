@@ -75,6 +75,8 @@ def articulos(doc):
         # La fuente pone el ancla DESPUÉS de la palabra: «ARTÍCULO<a name=…> 1.1.2.1»,
         # así que cada span termina con el «ARTÍCULO» del siguiente.
         cuerpo = re.sub(r"\s*ART[IÍ]CULO\s*$", "", limpiar(doc[m.end():fin]))
+        # Las leyes cierran con «Dada en Bogotá…» y las firmas: fuera del último artículo.
+        cuerpo = re.split(r"(?m)^\s*Dada en ", cuerpo)[0].strip()
         if not cuerpo:
             continue
         # Si el ancla es la de un encabezado («ARTÍCULO<a name…> 1.1.2.4.», o el ancla
@@ -105,6 +107,8 @@ def articulos(doc):
         # Justicia»): el encabezado ES el contenido, no se deja vacío.
         if enc and cuerpo[enc.end():].strip():
             epi, texto = enc.group(1).strip(), cuerpo[enc.end():].strip()
+        elif not enc:   # sin epígrafe, el número repetido («1. A partir…») no es texto
+            texto = re.sub(r"^(?:ART[IÍ]CULO\s+)?%s\s*[.oº°-]*\s+" % re.escape(num), "", cuerpo, flags=re.I)
         salida.append((num, " ".join(epi.split()), texto))
 
     # La numeración se repite en la fuente (el 1078 trae dos anclas 2.2.9.1.4.2 con
@@ -247,10 +251,15 @@ def main():
     p.add_argument("--corto", default="")
     p.add_argument("--tipo", default="decreto")
     p.add_argument("--minimo", type=int, default=0)
+    # La Ley 54 de 1990 (i=30896) marca algunos artículos con `<a id="1">` en vez de
+    # `name=`. No se acepta `id=` siempre: los DUR traen cientos sin `name` y cambia su corte.
+    p.add_argument("--anclas-id", action="store_true")
     a = p.parse_args()
 
     url = BASE % a.i
     doc = bajar(url, enc="utf-8")          # el meta miente: dice ISO-8859-1, es UTF-8
+    if a.anclas_id:
+        doc = re.sub(r'<a\s+id="([\d.]+)"', r'<a name="\1"', doc, flags=re.I)
     fecha = a.fecha or fecha_norma(doc)
     if not fecha:
         sys.exit("no se pudo leer la fecha en la fuente: pasarla con --fecha")

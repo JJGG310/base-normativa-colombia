@@ -202,7 +202,9 @@ def procesar(url):
     titulo = capitulo = ""
     vistos = set()
     for u, doc in paginas(url):
-        desc = descripciones(bajar(u.replace("/basedoc/", "/basedoc/js/").replace(".html", ".js"),
+        # Las notas viven en `js/` junto a la página: senado `basedoc/js/x.js`,
+        # normograma DIAN `docs/js/x.js` (misma plataforma, extensión .htm).
+        desc = descripciones(bajar(re.sub(r"/([^/]+)\.html?$", r"/js/\1.js", u),
                                   obligatorio=False))
         doc = doc.split("<!--Fin documento-->")[0]
         # Las anclas sin clase solo cuentan si son artículos: las hay de índice
@@ -514,8 +516,8 @@ def aristas(cajas, id_norma, fuente):
 
 def guardar_relaciones(raiz, id_norma, filas):
     """Idempotente: borra las aristas que apuntan a artículos de esta norma y
-    reescribe. Las aristas a la norma entera (destino == id_norma) son manuales y
-    se conservan. Con candado: varias ingestas pueden correr a la vez."""
+    reescribe. Las aristas a la norma entera (destino == id_norma) y las que tienen
+    nota «manual: …» (sacadas a mano de otra fuente) se conservan. Con candado: varias ingestas pueden correr a la vez."""
     import fcntl
     ruta = os.path.join(raiz, "relaciones.csv")
     with open(os.path.join(raiz, ".relaciones.lock"), "w") as candado:
@@ -524,7 +526,8 @@ def guardar_relaciones(raiz, id_norma, filas):
         if os.path.exists(ruta):
             with open(ruta, encoding="utf-8") as fh:
                 previas = [f for f in csv.reader(fh)
-                           if f and f[0] != "origen" and not f[2].startswith(id_norma + ":")]
+                           if f and f[0] != "origen"
+                       and (not f[2].startswith(id_norma + ":") or f[4].startswith("manual:"))]
         with open(ruta, "w", encoding="utf-8", newline="") as fh:
             w = csv.writer(fh)
             w.writerow(["origen", "tipo", "destino", "fecha", "nota", "fuente"])

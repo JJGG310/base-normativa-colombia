@@ -96,12 +96,12 @@ faltantes son artículos que la fuente misma no publica. Recargable con `./carga
 - [x] `co:ley:1480:2011` — Estatuto del Consumidor: 84 arts
 - [x] `co:ley:1952:2019` — Código General Disciplinario: 266 arts
 - [x] `co:ley:769:2002` — Código Nacional de Tránsito: 171 arts
-- [!] `co:decreto:1165:2019` — Regulación Aduanera: no está en senado ni en el índice de DUR (`i=62255`); no es un DUR sino un decreto compilatorio. Falta ubicar su `i=` en el Gestor.
+- [x] `co:decreto:1165:2019` — Regulación Aduanera: cargado del normograma DIAN (ver P3).
 
 ### P2: cargada (14 de 15)
 
 `./cargar_p2.sh` para las 13 de senado, más `ingesta_gestor.py` para el DUR 1067.
-Solo falta el Decreto 1165/2019 (aduanero).
+El Decreto 1165/2019 salió del normograma DIAN (ver P3).
 
 **Gestor Normativo de Función Pública** (`funcionpublica.gov.co/eva/gestornormativo/norma.php?i=N`):
 accesible, a diferencia de SUIN. El índice de Decretos Únicos Reglamentarios está en
@@ -149,7 +149,12 @@ la `subregla` redactada solo para las marcadas `hito`, que sí justifican leerla
   artículo 263-A"). `ingesta_senado.py` ahora extrae `RE_RENUMERA` de `arts` después
   de `procesar()`. Solo 3 casos en toda la Constitución (AL 2/2015, electoral):
   262→261, 263→262, 263-A→263. Tipo agregado a `esquema.md`.
-- [!] SUIN-Juriscol: **ya no es bloqueo de bot.** El sitio migró entero a un SPA
+- [!] SUIN-Juriscol (2026-09-24): el SPA nuevo es un CMS genérico de MinJusticia
+  (`utu.minjusticia.gov.co`, `api-cms.minjusticia.gov.co`), sin API de documentos: los
+  `viewDocument.asp` devuelven el cascarón para cualquier UA. **Respaldo:** la Wayback
+  Machine guarda capturas (`archive.org/wayback/available?url=www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1607782`
+  → 2025-09-08); sirve para cotejar, no como fuente viva.
+- [!] (nota anterior) SUIN-Juriscol: **ya no es bloqueo de bot.** El sitio migró entero a un SPA
   Angular ("GovcoFrontendBase") — `curl` con user-agent de navegador ahora responde
   200, pero solo devuelve el cascarón vacío; el contenido lo trae un bundle JS
   cargado por chunks (`main.<hash>.js`, 11 KB, sin URL de API visible — es un loader,
@@ -239,8 +244,10 @@ vez ubicado se anota aquí. El Gestor sirve para normas viejas sin ancla (`<a na
 - [x] `co:decreto:1165:2019` — Regulación Aduanera: **775 artículos**, del normograma
   de la DIAN (`normograma.dian.gov.co/dian/compilacion/docs/decreto_1165_2019.htm`).
   Lo publica el mismo proveedor que senado, así que `ingesta_senado.py` lo cargó sin
-  un solo cambio. Faltan sus afectaciones: las notas de vigencia de esa fuente no
-  viven en `js/`.
+  un solo cambio. 2026-09-24: afectaciones **cargadas** (247 aristas: 179 modifica,
+  64 adiciona, 4 deroga). Las notas sí viven en `js/`, pero en `docs/js/x.js` y no en
+  `basedoc/js/`; `ingesta_senado.py` ahora arma la ruta junto a la página. Las 938 notas
+  no reconocidas son todas Concordancias (sin efecto en vigencia).
 - [x] `can:decision:486:2000` — propiedad industrial: 280 arts + 3 transitorias, vía
   `ingesta_can.py` (nuevo). Fuente: PDF oficial de FAO Lex
   (`faolex.fao.org/docs/pdf/anc83522.pdf`) — WIPO Lex también lo tiene pero su sitio
@@ -385,16 +392,16 @@ Todas con `verificar.py` en `faltan 0` (2026-09-23), salvo la 294/1996.
   `co:ley:1066:2006` (21) · `co:decreto-ley:403:2020` (166)
 - [x] Nacionalidad, insolvencia, vivienda, contratación: `co:ley:43:1993` (39) ·
   `co:ley:2445:2025` (45) · `co:ley:546:1999` (58) · `co:ley:1882:2018` (21)
-- [!] `co:ley:294:1996` — 30 de 31: **el art. 6 no está en la fuente.** Senado lo lista en
-  el `<select>` (`#6`) pero la página no trae ni el ancla ni el texto (del 5 salta al 7).
-  No es el parser. Falta sacarlo de otra fuente oficial (Gestor) y anotarlo.
-- [!] `co:ley:54:1990` — uniones maritales. Senado 404 (`ley_0054_1990.html`); en el
-  Gestor (`i=30896`) `ingesta_gestor.py` saca 0 artículos porque la página usa
-  `<a id="1">` en vez de `<a name="1">` (mezclado: arts. 1 y 3 con `id=`, el resto con
-  `name=`). Admitir `id=` en `ANCLA` saca los 9, pero cambia el corte de 23 DUR ya
-  cargados (tienen cientos de `<a id="N">` sin `name`), y además el art. 1 sale con un
-  «1.» sobrante y el art. 9 con las firmas pegadas (el Gestor no corta en firmas). El
-  arreglo tiene que ser acotado a esta página, no global.
+- [x] `co:ley:294:1996` — 31 de 31. Senado lista el art. 6 pero no publica su texto; se
+  tomó del Gestor (`i=5387`) con una marca de fuente al inicio del artículo, y la arista
+  Ley 575/2000 art. 3 con nota `manual:`. **Reingestar desde senado borra ese art. 6
+  del `.md`** (la arista sí sobrevive: `guardar_relaciones` conserva las `manual:`).
+- [x] `co:ley:54:1990` — 9 arts del Gestor (`i=30896`) con `ingesta_gestor.py --anclas-id`
+  (acepta `<a id=N>` solo en esta página, los DUR no cambian). El Gestor ahora corta las
+  firmas en «Dada en» y quita el número repetido de un artículo sin epígrafe. Aristas:
+  4 de Ley 979/2005 (automáticas) + 3 `manual:` — Ley 2447/2025 art. 10 → art. 1 (el
+  Gestor escribe «2247», errata: cotejado contra el texto de la 2447 en senado),
+  C-700/2013 y C-257/2015 → art. 2 (fecha aproximada). C-075/2007 ya estaba.
 
 ## Bloqueados
 
