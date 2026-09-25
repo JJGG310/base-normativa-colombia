@@ -626,3 +626,43 @@ la C-067/2026, aún sin publicar en la relatoría).
 - [x] Relatoría 2025-2026: las no publicadas devuelven el cascarón SPA de 8,6 KB (C-067/26, C-196/25);
   31 fichas pendientes hasta que la Corte las publique.
 - [!] Consejo de Estado: `DescargarProvidenciaPublica` sigue en 403 (reintentado 2026-09-25).
+
+## Vías de acceso nuevas, validadas (2026-09-25)
+
+Probadas en vivo, sin navegador. Falta implementar los extractores.
+
+- **Corte Constitucional, índice Elastic en JSON** (sin autenticación), sacado del JS del sitio nuevo:
+  `https://www.corteconstitucional.gov.co/relatoria/buscador_new/?accion=search&tipo=json&searchOption=prov_sentencia&buscar_por=C-196/26&fini=1992-01-01&ffin=2026-12-31&maxprov=5`
+  trae `rutahtml`, `prov_f_sentencia` y `prov_f_public`. `?accion=ver_modal_ultimas_providencias&cantidad=50&tipo=json`
+  lista las recién publicadas. Sirve para tres cosas:
+  1. Saber cuándo sale una sentencia: C-081/26 y C-183/25 ya estaban publicadas y fallaron.
+  2. Invalidar caché: hay 84 páginas en `fuentes/cache` que son el cascarón SPA de 8,6 KB. Una
+     sentencia aún no publicada queda cacheada vacía y nunca se reintenta.
+  3. Corregir citas con el año mal, por la fecha exacta: C-099/12 → C-099/13, C-120/19 → C-120/20,
+     C-122/07 → C-122/08, C-194/12 → C-194/13. Sin resolver: C-114/09, C-1058/00, C-682/12.
+  El JS se baja con urllib; curl no sigue bien el 301 a minúsculas.
+- **Consejo de Estado, texto completo**: `jurisprudencia.ramajudicial.gov.co/WebRelatoria` (CENDOJ,
+  JSF/PrimeFaces). Flujo: búsqueda temática por AJAX (corp CE), luego la tabla paginada
+  (`jurisTable_rows=100`, NR en `data-rk`), luego el PDF público
+  `WebRelatoria/FileReferenceServlet?corp=ce&ext=&file=<NR>`. Probado con NR 2414347: 23 páginas,
+  texto extraíble con PyMuPDF y la parte resolutiva completa. El «Reporte» (selección `@all`) da en un
+  solo HTML UTF-16 la relatoría de todos los resultados (tema, problema jurídico y respuesta, sustento
+  normativo, decisión). No busca por radicado: con «RESPONSABILIDAD MEDICA», 16 de las 1.404 fichas
+  SAMAI coinciden. Es una fuente de ingesta nueva, no un parche de SAMAI. Cubre también CSJ y CC.
+- **Normogramas de otras entidades en la plataforma de senado/DIAN** (Avance Jurídico). `ingesta_senado`
+  los lee tal cual:
+  - CREG `gestornormativo.creg.gov.co/gestor/entorno/docs/`: Ley 57/1887 (338 arts., 42 aristas), Decreto 1655/1991.
+  - Cancillería `www.cancilleria.gov.co/sites/default/files/Normograma/docs/`: Leyes 11/1984 y 39/1985.
+    Python falla por TLS (TLSV1_ALERT_PROTOCOL_VERSION); curl baja. Hace falta un fallback en `bajar`.
+  - Colpensiones `normativa.colpensiones.gov.co/colpens/docs/`: Leyes 28/1932 y 45/1936, Decreto 617/1954.
+  - También: JEP `jurinfo.jep.gov.co/normograma/compilacion/docs/`, SENA `normograma.sena.edu.co/compilacion/docs/`.
+    El ICBF no responde desde aquí.
+- **SUIN-Juriscol vía archive.org**: el sitio actual es un CMS de MinJusticia sin los documentos (`utu.minjusticia.gov.co/pages/search`
+  da 0 resultados). La CDX de Wayback tiene al menos 50.000 `viewDocument.asp` archivados, con texto y
+  estado de vigencia («Derogado… Artículo 52 DECRETO 230 de 2008» para el Decreto 982/1996). La
+  vigencia es la de la fecha de la captura: `verificado` debe ser la fecha del snapshot.
+- **SISJUR, Alcaldía de Bogotá** (`alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=`): Decreto 939/2017,
+  que no está en ninguna otra fuente accesible. Tiene otro formato y necesita parser propio.
+- **Buscador del Gestor**: responde «No disponible». Los IDs salen de buscador web y se verifican contra el encabezado.
+- [ ] Decisión de Juan: admitir en esquema.md §8 normogramas de otras entidades, CENDOJ/Rama Judicial,
+  capturas de SUIN en archive.org y SISJUR.
