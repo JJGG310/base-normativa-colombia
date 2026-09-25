@@ -7,7 +7,7 @@ ramas: [territorial, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_1421_1993.html
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1 — SANTAFE DE BOGOTA, DISTRITO CAPITAL

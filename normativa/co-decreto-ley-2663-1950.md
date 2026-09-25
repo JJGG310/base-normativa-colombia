@@ -8,7 +8,7 @@ ramas: [laboral, seguridad-social]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1 — OBJETO

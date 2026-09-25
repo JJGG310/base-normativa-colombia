@@ -18,6 +18,9 @@ for ruta in sorted(glob.glob("normativa/*.md")):
     fm = dict(re.findall(r"^(\w+): (.*)$", txt.split("\n---\n", 1)[0], re.M))
     if "secretariasenado" not in fm.get("fuente", ""):
         continue
+    if "<Texto tomado del" in txt:  # artículos completados a mano desde otra fuente: re-ingestar los borra
+        print("== omitida (completada a mano):", ruta, flush=True)
+        continue
     n = len(re.findall(r"^## art:", txt, re.M))
     cmd = ["python3", "ingesta_senado.py", fm["fuente"], "--id", fm["id"], "--tipo", fm["tipo"],
            "--titulo", fm["titulo"], "--fecha", fm["fecha"], "--ramas", fm["ramas"].strip("[]"),

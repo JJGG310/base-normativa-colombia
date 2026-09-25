@@ -8,7 +8,7 @@ ramas: [comercial]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1 — <APLICABILIDAD DE LA LEY COMERCIAL>

@@ -8,7 +8,7 @@ ramas: [tributario]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1 — ORIGEN DE LA OBLIGACIÓN SUSTANCIAL

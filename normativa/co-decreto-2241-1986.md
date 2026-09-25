@@ -7,7 +7,7 @@ ramas: [electoral, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_2241_1986.html
-verificado: 2026-09-23
+verificado: 2026-09-24
 ---
 
 ## art:1 — 

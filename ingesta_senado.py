@@ -425,7 +425,11 @@ def juicio(trozo, destino, fuente, sin_parsear, etiqueta):
     # mayúsculas; sensible a mayúsculas para no confundirlo con «Corte Constitucional».
     alto = re.sub(r"\bCONSTITUCIONAL(ES)?\b", "EXEQUIBLE",
                   re.sub(r"\bINCONSTITUCIONAL(ES)?\b", "INEXEQUIBLE", trozo)).upper()
-    if "INEXEQUIBLE" in alto:
+    # «INCONSTITUCIONAL por omisión legislativa … en cuanto omite…» (C-792/14): el texto sigue,
+    # lo que falta es lo que la Corte ordenó añadir; es un condicionamiento, no una supresión.
+    if "INEXEQUIBLE" in alto and re.search(r"(INCONSTITUCIONAL|INEXEQUIBLE)\w* por (la )?omisi[óo]n legislativa", trozo, re.I):
+        tipo = "declara_exequible_condicionado"
+    elif "INEXEQUIBLE" in alto:
         tipo = ("declara_inexequible_parcial"
                 if re.search(r"\b(las? expresi|los apartes?|el aparte|parcialmente|salvo|excepto)", trozo, re.I)
                 else "declara_inexequible")
@@ -438,7 +442,7 @@ def juicio(trozo, destino, fuente, sin_parsear, etiqueta):
         return None
     f, _ = fecha_de(trozo, id_sentencia(s).rsplit(":", 1)[1])
     # La condición puede venir tras un preámbulo largo (revisión previa): la nota arranca cerca de ella.
-    c = re.search(r"en el entendido|bajo el entendido|CONDICIONA", trozo, re.I)
+    c = re.search(r"en el entendido|bajo el entendido|CONDICIONA|omisi[óo]n legislativa", trozo, re.I)
     nota = " ".join(trozo[max(0, c.start() - 150) if c else 0:].split())[:300] if tipo in (
         "declara_exequible_condicionado", "declara_inexequible_parcial") else ""
     return (id_sentencia(s), tipo, destino, f, nota, fuente)
@@ -699,6 +703,14 @@ def check():
                          ("- Artículo declarado EXEQUIBLE por la Corte Constitucional mediante "
                          "Sentencia C-651-97.",) * 2)], "co:ley:84:1873", "x")
     assert filas[0][3] == "1997-12-31", filas
+    t = ("- Inciso declarado INCONSTITUCIONAL por omisión legislativa, en cuanto omite impugnar; y "
+         "EXEQUIBLE el contenido positivo, por la Corte Constitucional mediante Sentencia C-792-14 de 29 de octubre de 2014.")
+    filas, _ = aristas([("20", "Jurisprudencia Vigencia", (t, t))], "co:ley:906:2004", "x")
+    assert filas[0][1] == "declara_exequible_condicionado", filas
+    t = ("NOTAS DE VIGENCIA: - Mediante la Sentencia C-187-06 de 2006, la Corte Constitucional efectuó la revisión "
+         "previa del Proyecto de Ley Estatutaria. La Corte declaró EXEQUIBLE este artículo 'bajo el entendido de que X'.")
+    filas, _ = aristas([("1", "Notas de Vigencia", (t, t))], "co:ley:1095:2006", "x")
+    assert filas[0][:2] == ("co:cc:c-187:2006", "declara_exequible_condicionado") and "entendido" in filas[0][4], filas
     print("check OK")
 
 
