@@ -93,8 +93,10 @@ def exportar(ramas=(), salida=None):
                 "advertencia": adv,
                 "texto": f["texto"],
                 "afectado_por": [dict(r) for r in con.execute(
-                    "SELECT tipo, origen, fecha, nota FROM relaciones WHERE destino = ? ORDER BY fecha",
-                    (f["id"],))],
+                    # También las de la norma entera (derogada, compilada…): sin ellas el registro
+                    # sale MUERTO o advertido sin decir por qué.
+                    "SELECT tipo, origen, fecha, nota FROM relaciones WHERE destino IN (?, ?) ORDER BY fecha",
+                    (f["id"], f["id"].split(":art:")[0]))],
                 "interpretado_por": [r[0] for r in con.execute(
                     "SELECT origen FROM relaciones WHERE destino = ? AND tipo IN ('interpreta','declara_exequible_condicionado','declara_inexequible_parcial')",
                     (f["id"],))],
