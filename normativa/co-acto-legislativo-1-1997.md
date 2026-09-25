@@ -5,7 +5,7 @@ titulo: Acto Legislativo 1 de 1997 - Por medio del cual se modifica el artículo
 fecha: 1997-12-17
 ramas: [constitucional]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_01_1997.html
 verificado: 2026-09-24
 ---

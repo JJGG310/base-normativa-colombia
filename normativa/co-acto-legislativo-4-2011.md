@@ -5,7 +5,7 @@ titulo: Acto Legislativo 4 de 2011 - Por medio del cual se incorpora un artícul
 fecha: 2011-07-07
 ramas: [constitucional]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_04_2011.html
 verificado: 2026-09-24
 ---

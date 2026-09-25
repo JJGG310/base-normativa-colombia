@@ -5,7 +5,7 @@ titulo: Acto Legislativo 2 de 2004 - Por el cual se reforman algunos artículos 
 fecha: 2004-12-28
 ramas: [constitucional]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2004.html
 verificado: 2026-09-24
 ---

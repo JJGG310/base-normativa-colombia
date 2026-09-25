@@ -261,6 +261,11 @@ def construir(db_path=DB, raiz=RAIZ):
         avisos.append("%d aristas apuntan a artículos INEXISTENTES de normas cargadas "
                       "— la extracción perdió texto" % perdidos)
 
+    # El frontmatter dice que la norma murió pero ninguna arista la mata: falta la arista.
+    for (d,) in con.execute("""SELECT DISTINCT v.doc_id FROM vigencia v JOIN documentos d ON d.id = v.doc_id
+            WHERE d.estado_general IN ('derogada', 'inexequible') AND v.estado <> 'MUERTO'"""):
+        avisos.append("estado_general muerta pero con artículos vivos (falta la arista): " + d)
+
     malas = con.execute("""SELECT COUNT(*) FROM relaciones WHERE fecha <> '' AND fecha NOT GLOB '[0-9][0-9][0-9][0-9]'
         AND fecha NOT GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'""").fetchone()[0]
     if malas:

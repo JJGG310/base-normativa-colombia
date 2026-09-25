@@ -5,7 +5,7 @@ titulo: Acto Legislativo 2 de 2021 - Por medio del cual se crean 16 Circunscripc
 fecha: 2021-08-25
 ramas: [constitucional]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2021.html
 verificado: 2026-09-24
 ---

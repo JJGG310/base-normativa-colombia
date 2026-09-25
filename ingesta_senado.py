@@ -412,6 +412,38 @@ def id_sentencia(m):
     return "co:cc:%s-%s:%d" % (serie, num, 1900 + aa if aa >= 90 else 2000 + aa)
 
 
+def juicio(trozo, destino, fuente, sin_parsear, etiqueta):
+    """Una nota de sentencia -> fila de relaciones.csv, o None."""
+    s = RE_SENTENCIA.search(trozo)
+    if not s:
+        return None
+    # Ninguna de estas afecta la vigencia: una remite a otro fallo, la
+    # otra es una no-decisión por demanda mal formulada.
+    if re.search(r"estarse a lo resuelto|INHIBIDA", trozo, re.I):
+        return None
+    # Revisión previa de estatutarias: la fuente dice (IN)CONSTITUCIONAL, en
+    # mayúsculas; sensible a mayúsculas para no confundirlo con «Corte Constitucional».
+    alto = re.sub(r"\bCONSTITUCIONAL(ES)?\b", "EXEQUIBLE",
+                  re.sub(r"\bINCONSTITUCIONAL(ES)?\b", "INEXEQUIBLE", trozo)).upper()
+    if "INEXEQUIBLE" in alto:
+        tipo = ("declara_inexequible_parcial"
+                if re.search(r"\b(las? expresi|los apartes?|el aparte|parcialmente|salvo|excepto)", trozo, re.I)
+                else "declara_inexequible")
+    elif "EXEQUIBLE" in alto:
+        tipo = ("declara_exequible_condicionado"
+                if re.search(r"en el entendido|CONDICIONA|bajo el entendido", trozo, re.I)
+                else "declara_exequible")
+    else:
+        sin_parsear.append((destino, etiqueta, trozo[:110]))
+        return None
+    f, _ = fecha_de(trozo, id_sentencia(s).rsplit(":", 1)[1])
+    # La condición puede venir tras un preámbulo largo (revisión previa): la nota arranca cerca de ella.
+    c = re.search(r"en el entendido|bajo el entendido|CONDICIONA", trozo, re.I)
+    nota = " ".join(trozo[max(0, c.start() - 150) if c else 0:].split())[:300] if tipo in (
+        "declara_exequible_condicionado", "declara_inexequible_parcial") else ""
+    return (id_sentencia(s), tipo, destino, f, nota, fuente)
+
+
 def aristas(cajas, id_norma, fuente):
     """Cajas -> filas de relaciones.csv. Conservador: lo dudoso se descarta y se cuenta."""
     filas, sin_parsear = [], []
@@ -454,6 +486,13 @@ def aristas(cajas, id_norma, fuente):
                 # una reforma, es la resurrección del texto; no produce arista.
                 if re.search(r"\breviv", trozo, re.I):
                     continue
+                # Algunas estatutarias traen la revisión previa aquí y no en «Jurisprudencia
+                # Vigencia» («Mediante la Sentencia C-187-06 … efectuó la revisión previa»).
+                if re.search(r"revisi[óo]n previa", trozo, re.I):
+                    fila = juicio(trozo, destino, fuente, sin_parsear, etiqueta)
+                    if fila:
+                        filas.append(fila)
+                    continue
                 acc = RE_ACCION.search(trozo)
                 org = RE_ORIGEN.search(trozo[acc.end():]) if acc else None
                 if not (acc and org):
@@ -480,33 +519,9 @@ def aristas(cajas, id_norma, fuente):
 
         elif etiqueta == "Jurisprudencia Vigencia":
             for trozo in re.split(r"(?=- (?:La Corte|Art[íi]culo|Aparte|Expresi))", texto):
-                s = RE_SENTENCIA.search(trozo)
-                if not s:
-                    continue
-                # Ninguna de estas afecta la vigencia: una remite a otro fallo, la
-                # otra es una no-decisión por demanda mal formulada.
-                if re.search(r"estarse a lo resuelto|INHIBIDA", trozo, re.I):
-                    continue
-                # Revisión previa de estatutarias: la fuente dice (IN)CONSTITUCIONAL, en
-                # mayúsculas; sensible a mayúsculas para no confundirlo con «Corte Constitucional».
-                alto = re.sub(r"\bCONSTITUCIONAL(ES)?\b", "EXEQUIBLE",
-                              re.sub(r"\bINCONSTITUCIONAL(ES)?\b", "INEXEQUIBLE", trozo)).upper()
-                if "INEXEQUIBLE" in alto:
-                    tipo = ("declara_inexequible_parcial"
-                            if re.search(r"\b(las? expresi|los apartes?|el aparte|parcialmente|salvo|excepto)", trozo, re.I)
-                            else "declara_inexequible")
-                elif "EXEQUIBLE" in alto:
-                    tipo = ("declara_exequible_condicionado"
-                            if re.search(r"en el entendido|CONDICIONA|bajo el entendido", trozo, re.I)
-                            else "declara_exequible")
-                else:
-                    sin_parsear.append((destino, etiqueta, trozo[:110]))
-                    continue
-                f, _ = fecha_de(trozo, id_sentencia(s).rsplit(":", 1)[1])
-                nota = " ".join(trozo.split())[:300] if tipo in (
-                    "declara_exequible_condicionado", "declara_inexequible_parcial") else ""
-                filas.append((id_sentencia(s), tipo, destino, f, nota, fuente))
-
+                fila = juicio(trozo, destino, fuente, sin_parsear, etiqueta)
+                if fila:
+                    filas.append(fila)
         elif etiqueta in ("Jurisprudencia Concordante", "Jurisprudencia Unificación"):
             for s in RE_SENTENCIA.finditer(texto):
                 filas.append((id_sentencia(s), "interpreta", destino, "", "", fuente))
@@ -581,7 +596,7 @@ def main():
     if a.corto:
         fm.append("titulo_corto: " + a.corto)
     fm += ["fecha: " + fecha, "ramas: [%s]" % a.ramas, "estado_general: " + a.estado,
-           "afectaciones: " + ("cargadas" if filas else "pendiente"),
+           "afectaciones: " + ("cargadas" if filas or cajas else "pendiente"),
            "fuente: " + a.url, "verificado: " + date.today().isoformat(), "---", ""]
     for num, epi, ubicacion, txt in arts:
         fm.append("## art:%s — %s" % (num, epi))

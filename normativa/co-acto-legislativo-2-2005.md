@@ -5,7 +5,7 @@ titulo: Acto Legislativo 2 de 2005 - Por el cual se modifica el artículo 176 de
 fecha: 2005-07-25
 ramas: [constitucional]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2005.html
 verificado: 2026-09-24
 ---

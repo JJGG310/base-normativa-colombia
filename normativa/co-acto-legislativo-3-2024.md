@@ -5,7 +5,7 @@ titulo: Acto Legislativo 3 de 2024 - Por el cual se fortalece la autonomía de l
 fecha: 2024-12-27
 ramas: [constitucional]
 estado_general: vigente
-afectaciones: pendiente
+afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_03_2024.html
 verificado: 2026-09-24
 ---
