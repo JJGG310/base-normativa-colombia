@@ -7,7 +7,7 @@ ramas: [salud,seguridad-social,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=173346
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modifíquese el artículo 2.6.4.2.1.2

@@ -7,7 +7,7 @@ ramas: [cultura, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76833
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — 
@@ -4365,7 +4365,9 @@ El patrimonio arqueológico se rige por lo previsto en los artículos 63 y 72 de
 
 La política estatal en lo referente al patrimonio arqueológico tendrá como objetivo principal garantizar la identidad cultural y territorial de la nación colombiana tanto en el presente como en el futuro. Con este fin se adelantarán procesos de gestión relacionados con la protección, conservación, investigación, divulgación y recuperación de este patrimonio.
 
-ARTÍCULO .2.6.1.4. Integración del patrimonio arqueológico. Hacen parte del patrimonio arqueológico, todos aquellos bienes muebles e inmuebles de carácter arqueológico y sus contextos arqueológicos.
+## art:2.6.1.4 — Integración del patrimonio arqueológico
+
+Hacen parte del patrimonio arqueológico, todos aquellos bienes muebles e inmuebles de carácter arqueológico y sus contextos arqueológicos.
 
 Para efectos del presente Decreto se entiende por:
 

@@ -8,7 +8,7 @@ ramas: [laboral, procesal, seguridad-social]
 estado_general: derogada
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1 — 

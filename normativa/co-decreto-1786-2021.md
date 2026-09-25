@@ -7,7 +7,7 @@ ramas: [laboral,seguridad-social,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175126
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación del Capítulo 6 del Título 7, Parte 2, Libro 2 del Decreto 1072 de 2015

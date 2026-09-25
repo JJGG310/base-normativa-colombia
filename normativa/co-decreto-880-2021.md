@@ -7,7 +7,7 @@ ramas: [cultura, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=168248
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Adición del Título III a la Parte II del Libro II del Decreto 1080 de 2015

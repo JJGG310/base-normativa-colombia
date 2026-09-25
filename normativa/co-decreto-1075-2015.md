@@ -7,7 +7,7 @@ ramas: [educacion, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77913
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — Ministerio de Educación Nacional
@@ -2241,7 +2241,7 @@ Criterios para distribuir la participación para educación
 
 ## art:2.3.1.6.1.1 — 
 
-2.3.1.6.1.1 Distribución de los recursos del Sistema General de Participaciones para Educación del Componente de Calidad - matrícula oficial que trata el artículo 16 de la Ley 715 de 2001. Para la vigencia 2011 y siguientes, la distribución de los recursos de la participación de Educación - Calidad matrícula oficial, de los distritos, municipios y de las áreas no municipalizadas de los departamentos del Amazonas, Guainía y Vaupés, se hará conforme a los siguientes parámetros que desarrollan el artículo 16 de la Ley 715 de 2001:
+Distribución de los recursos del Sistema General de Participaciones para Educación del Componente de Calidad - matrícula oficial que trata el artículo 16 de la Ley 715 de 2001. Para la vigencia 2011 y siguientes, la distribución de los recursos de la participación de Educación - Calidad matrícula oficial, de los distritos, municipios y de las áreas no municipalizadas de los departamentos del Amazonas, Guainía y Vaupés, se hará conforme a los siguientes parámetros que desarrollan el artículo 16 de la Ley 715 de 2001:
 
 1. Matrícula oficial atendida. Entendida como el número de estudiantes matriculados en establecimientos educativos estatales, excluyendo ciclos de adultos, que son financiados con los recursos del Sistema General de Participaciones.
 
@@ -7775,7 +7775,7 @@ PARÁGRAFO 2. Dentro de los tres meses siguientes a la entrada en vigencia de la
 
 ## art:2.3.3.5.8.2.2 — 
 
-2.3.3.5.8.2.2 De la prestación del servicio educativo para los adolescentes o jóvenes que se encuentren en el Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas no privativas de la libertad. Las instituciones educativas que tengan adolescentes o jóvenes matriculados, que formen parte del sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas o sanciones no privativas de la libertad, deberán asegurar la permanencia y continuidad del estudiante en su plantel, y garantizar la prestación del servicio educativo en los términos descritos en la presente Sección, y con observancia de los lineamientos educativos que disponga el Ministerio de Educación Nacional para esta población.
+De la prestación del servicio educativo para los adolescentes o jóvenes que se encuentren en el Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas no privativas de la libertad. Las instituciones educativas que tengan adolescentes o jóvenes matriculados, que formen parte del sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas o sanciones no privativas de la libertad, deberán asegurar la permanencia y continuidad del estudiante en su plantel, y garantizar la prestación del servicio educativo en los términos descritos en la presente Sección, y con observancia de los lineamientos educativos que disponga el Ministerio de Educación Nacional para esta población.
 
 En caso de que el adolescente o joven que forme parte del Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medida o sanción no privativa de la libertad, se encuentre fuera del sistema educativo, la entidad territorial certificada en educación respectiva deberá asignarle un cupo en una institución educativa oficial de su jurisdicción, atendiendo las particularidades propias del estudiante, e iniciará junto con el establecimiento educativo las acciones respectivas para asegurar la permanencia y continuidad del estudiante en su plantel y garantizar la prestación del servicio educativo, lo anterior. Lo anterior, con observancia de los lineamientos educativos que disponga el Ministerio Educación Nacional para esta población.
 
@@ -7783,7 +7783,7 @@ En caso de que el adolescente o joven que forme parte del Sistema de Responsabil
 
 ## art:2.3.3.5.8.2.3 — 
 
-2.3.3.5.8.2.3 De la prestación del servicio educativo para los adolescentes o jóvenes que se encuentran en el Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas privativas de la libertad. La entidad territorial certificada en educación con jurisdicción en el lugar en que se encuentre interno el adolescente o joven realizará las gestiones y acciones necesarias dispuestas en esta Sección, de acuerdo con los lineamientos educativos que expida el Ministerio de Nacional, para garantizar la prestación del servicio, así como la permanencia y continuidad educativa de los adolescentes o jóvenes que pertenezcan al Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas y sanciones privativas de la libertad. La entidad territorial certificada en educación definirá la institución educativa oficial cuyo Proyecto Educativo Institucional (PEI) y experiencia estén acordes con la prestación del servicio educativo a dicha población.
+De la prestación del servicio educativo para los adolescentes o jóvenes que se encuentran en el Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas privativas de la libertad. La entidad territorial certificada en educación con jurisdicción en el lugar en que se encuentre interno el adolescente o joven realizará las gestiones y acciones necesarias dispuestas en esta Sección, de acuerdo con los lineamientos educativos que expida el Ministerio de Nacional, para garantizar la prestación del servicio, así como la permanencia y continuidad educativa de los adolescentes o jóvenes que pertenezcan al Sistema de Responsabilidad Penal para Adolescentes (SRPA) con medidas y sanciones privativas de la libertad. La entidad territorial certificada en educación definirá la institución educativa oficial cuyo Proyecto Educativo Institucional (PEI) y experiencia estén acordes con la prestación del servicio educativo a dicha población.
 
 La institución educativa seleccionada por la entidad territorial certificada en educación atenderá a los adolescentes y jóvenes internos en los Centros de Atención Especializada y los Centros de Internamiento Preventivo, para lo cual deberá adoptar y desarrollar estrategias pedagógicas y/o modelos educativos pertinentes, de acuerdo con los lineamientos educativos establecidos por el Ministerio de Educación Nacional para la prestación del servicio educativo en el Sistema de Responsabilidad Penal para Adolescentes (SRPA), los cuales deberán garantizar el desarrollo de las competencias básicas y ciudadanas de la población beneficiaria de esta Sección.
 

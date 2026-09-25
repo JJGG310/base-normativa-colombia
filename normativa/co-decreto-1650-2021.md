@@ -7,7 +7,7 @@ ramas: [laboral, educacion]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=173949
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Adición de un Capitulo al Decreto 1072 de 2015, Decreto Único Reglamentario del Sector Trabajo

@@ -48,12 +48,12 @@ def indice_fuente(url):
 def indice_gestor(url, enteros=False):
     """El Gestor no trae selector: el índice son los encabezados en línea propia."""
     from ingesta_senado import limpiar
-    from ingesta_gestor import NUM_DUR
+    from ingesta_gestor import NUM_DUR, SUFIJO
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url, enc="utf-8"),
                  flags=re.S | re.I)
     d = re.search(r"(?<![a-záéíóú])DECRETA\b", doc)   # como ingesta_gestor.articulos
     doc = doc[d.end():] if d else doc
-    ms = list(re.finditer(r"^[ \t]*((?-i:ART[IÍí]CULO|Art[íi]culo))\.?\s+(%s)(.*)" % NUM_DUR, limpiar(doc), re.I | re.M))
+    ms = list(re.finditer(r"^[ \t]*((?-i:ART[IÍí]CULO|Art[íi]culo))(?:[ \t]*\.[ \t]*|\s+)(%s%s)(.*)" % (NUM_DUR, SUFIJO), limpiar(doc), re.I | re.M))
     hs, previo = [], None
     for m in ms:
         n = re.sub(r"\s", "", m.group(2)).upper()

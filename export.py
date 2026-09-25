@@ -27,6 +27,7 @@ ADVERTENCIA = {
     "TACHADO": "El texto contiene apartes [TACHADO: …]: la fuente los publica tachados porque ya no rigen (inexequibles, nulos o derogados). Se conservan para que la cita sea completa; no aplicarlos.",
     "PARTE_MARCADA": "El texto incluye una parte marcada que ya no rige: la fuente la señala como derogada o inexequible («<Inciso INEXEQUIBLE>», «Texto subrayado, derogado por…», o una derogación parcial en `afectado_por`). El artículo sigue vigente, pero esa parte no se aplica.",
     "SIN_TEXTO_PROPIO": "SIN TEXTO PROPIO. La fuente no publica contenido para este artículo, solo la nota entre «<>» (sustituido o subrogado por otra norma, incorporado en un estatuto, desplazado por norma comunitaria…). No citarlo como regla: la disposición aplicable es la que la nota señala.",
+    "COMPILADA": "COMPILADA EN UN DUR. Esta norma reglamentaria fue compilada en %s, cuya derogatoria integral (art. 3.1.1) deroga las disposiciones reglamentarias sobre las mismas materias, salvo las excepciones que enumera. Citar y aplicar el artículo equivalente del DUR, no este.",
     "SIN_TEXTO": "SOLO METADATOS, SIN TEXTO VERIFICADO. No se obtuvo el texto de la providencia; este registro no dice qué se decidió ni con qué razones. No citarlo como fundamento sin leerlo en la fuente.",
     "VIGENCIA_NO_VERIFICADA": "VERIFICAR ANTES DE USAR. De esta norma todavía no se cargó el rastro de reformas y derogatorias, así que no consta que el artículo siga vigente ni que este sea su texto actual. La ausencia de afectaciones registradas no es prueba de vigencia.",
 }
@@ -45,6 +46,9 @@ def exportar(ramas=(), salida=None):
     con = sqlite3.connect(os.path.join(RAIZ, "index.db"))
     con.row_factory = sqlite3.Row
     vig = {r["articulo"]: r for r in con.execute("SELECT * FROM vigencia")}
+    # Decreto reglamentario compilado en un DUR (arista `compila` a la norma entera).
+    compilada = dict(con.execute("SELECT destino, origen FROM relaciones WHERE tipo = 'compila' "
+                                 "AND destino IN (SELECT id FROM documentos)").fetchall())
     salida = salida or os.path.join(RAIZ, "contexto.jsonl")
     n = 0
     with open(salida, "w", encoding="utf-8") as fh:
@@ -71,6 +75,9 @@ def exportar(ramas=(), salida=None):
                 adv = " ".join(filter(None, (adv, ADVERTENCIA["PARTE_MARCADA"])))
             if estado != "MUERTO" and f["clave"].startswith("art:") and len(re.sub(r"<[^<>]*>", "", f["texto"]).strip(" .\n")) < 3:
                 adv = " ".join(filter(None, (ADVERTENCIA["SIN_TEXTO_PROPIO"], adv)))
+            dur = compilada.get(f["id"].split(":art:")[0])
+            if dur and estado != "MUERTO":
+                adv = " ".join(filter(None, (ADVERTENCIA["COMPILADA"] % dur, adv)))
             if f["clase"] == "jurisprudencia" and "No se pudo bajar el texto" in f["texto"]:
                 adv = ADVERTENCIA["SIN_TEXTO"]  # fichas del Consejo de Estado sin texto (SAMAI 403)
             reg = {
@@ -141,7 +148,8 @@ def check():
     open(tmp + "/relaciones.csv", "w", encoding="utf-8").write(
         "origen,tipo,destino,fecha,nota,fuente\n"
         "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n"
-        "co:cc:c-3:2010,declara_inexequible,co:ley:1:2000:art:3,2010-01-01,,x\n")
+        "co:cc:c-3:2010,declara_inexequible,co:ley:1:2000:art:3,2010-01-01,,x\n"
+        "co:decreto:9:2015:art:3.1.1,compila,co:ley:1:2000,2015-01-01,,x\n")
     build.construir(tmp + "/index.db", tmp)
     global RAIZ
     RAIZ = tmp
@@ -158,6 +166,7 @@ def check():
     assert "parte" in regs[2]["advertencia"], "inexequible parcial debe salir advertido"
     assert "TACHADO" in regs[3]["advertencia"], "texto tachado debe salir advertido"
     assert "parte marcada" in regs[3]["advertencia"], "marca <Aparte … INEXEQUIBLE> debe salir advertida"
+    assert "co:decreto:9:2015:art:3.1.1" in regs[2]["advertencia"], "norma compilada en un DUR"
     assert "SIN TEXTO PROPIO" in regs[4]["advertencia"], "artículo que solo trae la nota de la fuente"
     assert "SOLO METADATOS" in ficha["advertencia"] and ficha["corporacion"] == "consejo-estado", ficha
     shutil.rmtree(tmp)

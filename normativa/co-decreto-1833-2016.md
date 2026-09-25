@@ -7,7 +7,7 @@ ramas: [seguridad-social, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=85319
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — El Ministerio del Trabajo

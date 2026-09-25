@@ -7,7 +7,7 @@ ramas: [administrativo, financiero]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=200584
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación de los literales a) y b) del artículo 2.1.15.1.2

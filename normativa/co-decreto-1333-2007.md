@@ -4,10 +4,10 @@ tipo: decreto
 titulo: Decreto 1333 de 2007 - Por el cual se modifica el Decreto 4299 de 2005 y se establecen otras disposiciones
 fecha: 2007-04-19
 ramas: [minero-energetico,administrativo]
-estado_general: vigente
+estado_general: compilada
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=60437
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — 

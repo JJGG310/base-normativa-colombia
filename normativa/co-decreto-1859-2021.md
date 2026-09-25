@@ -7,7 +7,7 @@ ramas: [seguridad-social,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175288
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Adición del Capítulo 46 al Título 10 de la Parte 2 del Libro 2 del Decreto 1833 de 2016

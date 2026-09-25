@@ -7,7 +7,7 @@ ramas: [tributario]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=106854
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Sustitución de los artículos 1.3.1.10.4., 1.3.1.10.5., 1.3.1.10.6., 1.3.1.10.7., 1.3.1.10.8., 1.3.1.10.9

@@ -193,6 +193,10 @@ def num_ancla(nombre, encabezado):
     un `name` ajeno (el art. 264 del C.C. lleva `name="6"`), y por el nombre el
     artículo chocaba con el 6 y se descartaba como repetido."""
     m = re.match(r"\s*ART[IÍ]CULO\s+(\d+[A-Za-zÑñ\-]*?)[o°º]?\s*\.", encabezado, re.I)
+    # `name="1A"` / `name="1B"` con «ARTÍCULO 1o.»: el anexo y la ley aprobatoria del tratado
+    # (Ley 11/1992) repiten la numeración del tratado; el sufijo del ancla los distingue.
+    if m and re.fullmatch(re.escape(m.group(1)) + r"[A-NP-Za-np-z]", nombre):
+        return clave(nombre)
     return clave(m.group(1) if m else nombre)
 
 
@@ -211,10 +215,11 @@ def procesar(url):
         # ("LIBRO I", "TITULO I.") incrustadas a mitad de un artículo. Las `1f`…`6f`
         # del C.Co. son la Ley 1 de 1980 que el editor transcribe: otra norma.
         # Un `bookmarkaj` vacío con nombre de índice («TÍTULO I» a mitad del art. 2 de la Ley
-        # 1429/2010, 56 en el PND 2294/2023) no abre nada: contarlo cortaba el artículo ahí.
+        # 1429/2010, 56 en el PND 2294/2023) no abre nada: contarlo cortaba el artículo ahí. Ni
+        # uno vacío `name="1-A"` bajo el título del art. 9 (Ley 1418/2010); «60A» vacío sí abre.
         anclas = [m for m in ANCLA.finditer(doc)
                   if not re.fullmatch(r"\d+f", m.group(1)) and (
-                      ("bookmarkaj" in m.group(0) and (limpiar(m.group(2)).strip() or re.match(r"\d", m.group(1))))
+                      ("bookmarkaj" in m.group(0) and (limpiar(m.group(2)).strip() or re.fullmatch(r"\d+[A-Za-z]*", m.group(1))))
                       or re.match(r"\s*ART", limpiar(m.group(2)), re.I))]
         for k, m in enumerate(anclas):
             nombre = m.group(1).strip()
@@ -249,6 +254,10 @@ def procesar(url):
                 # con encabezado «ARTÍCULO 5o.». Por el encabezado chocaban con el
                 # artículo 5 permanente y se descartaban.
                 num = "transitorio-" + re.match(r"\d+", nombre).group(0)
+                # «1-A» fuera de un título de transitorias: la ley aprobatoria antes del texto
+                # del tratado (Ley 1418/2010), no una disposición transitoria.
+                if "_" not in nombre and not re.search(r"TRANSITORI", limpiar(doc[:m.start()]), re.I):
+                    num = clave(nombre)
             # Un ancla con nombre ajeno («Nivel001», «TITULO PRE») y encabezado de
             # artículo es un artículo (ET 19-5 y 580-1, C.Co. 508, Ley 142 art. 82).
             elif re.match(r"^\d", nombre) or re.match(r"\s*ART[IÍ]CULO\s+\d", encabezado, re.I):
@@ -727,6 +736,7 @@ def check():
          "previa del Proyecto de Ley Estatutaria. La Corte declaró EXEQUIBLE este artículo 'bajo el entendido de que X'.")
     filas, _ = aristas([("1", "Notas de Vigencia", (t, t))], "co:ley:1095:2006", "x")
     assert filas[0][:2] == ("co:cc:c-187:2006", "declara_exequible_condicionado") and "entendido" in filas[0][4], filas
+    assert (num_ancla("1B", "ARTÍCULO 1o. Apruébase"), num_ancla("6", "ARTÍCULO 264.")) == ("1b", "264")
     print("check OK")
 
 

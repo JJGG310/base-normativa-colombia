@@ -7,7 +7,7 @@ ramas: [comercial, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175266
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Sustitución de las Secciones 1, 2 y 3 del Capítulo 1 del Título 4 de la Parte 2 del Libro 2 del Decreto 1074 de 2015

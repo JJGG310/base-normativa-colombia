@@ -7,7 +7,7 @@ ramas: [educacion, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=98270
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Sustituye el Capítulo 2, Título 3, Parte 5 del Libro 2 del Decreto 1075 de 2015

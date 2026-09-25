@@ -7,7 +7,7 @@ ramas: [agrario, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76838
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — Ministerio de Agricultura y Desarrollo Rural
@@ -5328,7 +5328,9 @@ Las contribuciones parafiscales agropecuarias y pesqueras existentes, quedan suj
 
 (Decreto 2025 de 1996, art. 13)
 
-ARTÍCULO.2.10.2.6. BALANCE SOCIAL Y AMBIENTAL.(Agregado por el Art. Decreto 1222 de 2025) Los órganos directivos de los fondos de fomento agropecuario y pesquero que administren recursos parafiscales publicarán informes semestrales en los que se ponga en conocimiento público los avances e impactos de cada fondo, entre otros, en materia de programas económicos, sociales, ambientales y de infraestructura para beneficio del subsector respectivo, apoyo a la regulación de la oferta y la demanda para proteger a los productores contra oscilaciones anormales de los precios y procurarles un ingreso remunerativo de conformidad con los objetivos establecidos en el artículo 31 de la Ley 101 de 1993, y demás fines legales y constitucionales, incluyendo metas y proyectos anuales, así como las acciones relacionadas con el mejoramiento del ingreso y calidad de vida de los pequeños y medianos productores, y la promoción del desarrollo rural económicamente eficiente con distribución equitativa de cargas y beneficios, reducción de asimetrías para pequeños y medianos productores, especialmente de zonas subrepresentadas del subsector correspondiente, y el acceso progresivo de estas acciones, así como de las mujeres rurales, jóvenes rurales, y población víctima que sea sujeto pasivo de la parafiscalidad.
+## art:2.10.2.6 — BALANCE SOCIAL Y AMBIENTAL.(Agregado por el Art
+
+Decreto 1222 de 2025) Los órganos directivos de los fondos de fomento agropecuario y pesquero que administren recursos parafiscales publicarán informes semestrales en los que se ponga en conocimiento público los avances e impactos de cada fondo, entre otros, en materia de programas económicos, sociales, ambientales y de infraestructura para beneficio del subsector respectivo, apoyo a la regulación de la oferta y la demanda para proteger a los productores contra oscilaciones anormales de los precios y procurarles un ingreso remunerativo de conformidad con los objetivos establecidos en el artículo 31 de la Ley 101 de 1993, y demás fines legales y constitucionales, incluyendo metas y proyectos anuales, así como las acciones relacionadas con el mejoramiento del ingreso y calidad de vida de los pequeños y medianos productores, y la promoción del desarrollo rural económicamente eficiente con distribución equitativa de cargas y beneficios, reducción de asimetrías para pequeños y medianos productores, especialmente de zonas subrepresentadas del subsector correspondiente, y el acceso progresivo de estas acciones, así como de las mujeres rurales, jóvenes rurales, y población víctima que sea sujeto pasivo de la parafiscalidad.
 
 El informe también dará cuenta de los mecanismos dispuestos y su utilización e impacto para que los sujetos pasivos de la parafiscalidad obtengan acceso a información, oportuna, comprensible y culturalmente apropiada, en igualdad de condiciones para los grupos más vulnerables, así como oportunidades de participación abierta, inclusiva desde etapas iniciales en procesos de toma de decisiones que puedan afectarlos directamente.
 
@@ -11538,7 +11540,7 @@ Cuando a pesar de haberse seguido extraordinariamente las prescripciones dadas p
 
 ## art:2.13.8.1.18 — 
 
-2.13.8.1.18 El ICA llevará un registro de los plaguicidas (insecticidas, fungicidas, herbicidas, defoliantes, etc.) que se introduzcan al país. El registro contendrá el nombre de los productos e indicación del país de origen, nombre de las casas fabricantes y su dirección, nombre de los importadores y su dirección y cantidades que se importan. Mensualmente deberá enviarse una relación de este registro a la Dirección Técnica de Sanidad Vegetal.
+El ICA llevará un registro de los plaguicidas (insecticidas, fungicidas, herbicidas, defoliantes, etc.) que se introduzcan al país. El registro contendrá el nombre de los productos e indicación del país de origen, nombre de las casas fabricantes y su dirección, nombre de los importadores y su dirección y cantidades que se importan. Mensualmente deberá enviarse una relación de este registro a la Dirección Técnica de Sanidad Vegetal.
 
 (Decreto 557 de 1957, art. 6)
 
@@ -15934,7 +15936,7 @@ Sí de la información obtenida y de las diligencias previas practicadas se esta
 
 ## art:2.14.19.2.4 — 
 
-Artículo 2.14.19.2.4. Publicidad de la resolución inicial. Salvo regla especial con rango de ley, el acto administrativo que inicie un procedimiento agrario se notificará y comunicará, así: 
+Publicidad de la resolución inicial. Salvo regla especial con rango de ley, el acto administrativo que inicie un procedimiento agrario se notificará y comunicará, así: 
 
 Mediante inscripción. Para fines de publicidad, inmediatamente se profiera el acto administrativo que disponga iniciar el procedimiento administrativo para resolver asuntos relacionados con la extinción del derecho de dominio, clarificación de la propiedad, deslinde de tierras de la Nación, reversión de baldíos adjudicados o recuperación de baldíos indebidamente ocupados esta se inscribirá en la ORIP correspondiente. 
 

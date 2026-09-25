@@ -100,7 +100,7 @@ def articulos(doc, enteros=False):
         # «2.2.1.2. 7.16» y «2.2.7B.1.1.1»). Sin «ARTÍCULO» es un numeral de lista.
         es_art = (re.match(r"ART[IÍ]CULO\s", cuerpo)
                   or re.search(r"ART[IÍ]CULO\s*$", limpiar(doc[max(0, m.start() - 200):m.start()])))
-        propio = re.match(r"(?:ART[IÍ]CULO\s+)?(%s)" % NUM_DUR, cuerpo)
+        propio = re.match(r"(?:ART[IÍ]CULO\s+)?(%s%s)" % (NUM_DUR, SUFIJO), cuerpo)
         if es_art and propio:
             num = re.sub(r"\s", "", propio.group(1)).lower()
         # La fuente también le pone ancla a los numerales de una lista dentro del
@@ -116,7 +116,7 @@ def articulos(doc, enteros=False):
             continue
         # "ARTÍCULO 2.2.1.1.1. Concurrencias de las Misiones. <texto>" — algunos DUR
         # publican el mismo encabezado sin la palabra ARTÍCULO.
-        enc = re.match(r"(?:ART[IÍ]CULO\s+)?(?:%s)\s*\.?\s*(.{3,120}?)\.(?:\s+|$)" % NUM_DUR, cuerpo)
+        enc = re.match(r"(?:ART[IÍ]CULO\s+)?(?:%s%s)\s*\.?\s*(.{3,120}?)\.(?:\s+|$)" % (NUM_DUR, SUFIJO), cuerpo)
         epi, texto = ("", cuerpo)
         # Los del libro 1 de los DUR son solo un epígrafe («Fondo de Protección de
         # Justicia»): el encabezado ES el contenido, no se deja vacío.
@@ -142,7 +142,10 @@ def articulos(doc, enteros=False):
 # El ordinal («ARTICULO 1º- …», «ARTICULO 1o. …») solo se consume si lo sigue un
 # signo: con re.I, una `o` suelta se comía la primera letra del epígrafe ("Otro").
 # «artículo 991 ibídem» en minúscula al inicio de una línea partida es una remisión, no un encabezado.
-RE_ART_INLINE = re.compile(r"(?m)^[ \t]*(?-i:ART[IÍí]CULO|Art[íi]culo)\.?\s+(" + NUM_DUR + r"(?:\s?(?-i:[A-Z])(?=[\s.\-]))?)"
+# «ARTÍCULO . 1. Adición.» (Decreto 762/2018, DUR 1073 art. 2.5.6.4.3): punto suelto antes del número.
+# «2.4.1.2.36 A.» (DUR 1066): la letra separada es parte del número.
+SUFIJO = r"(?:\s?(?-i:[A-Z])(?:\.\d+)*(?=[\s.\-]))?"   # y «2.2.1.1.1 A.2.17.» (DUR 1073)
+RE_ART_INLINE = re.compile(r"(?m)^[ \t]*(?-i:ART[IÍí]CULO|Art[íi]culo)(?:[ \t]*\.[ \t]*|\s+)(" + NUM_DUR + SUFIJO + r")"
                            r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 
@@ -261,6 +264,7 @@ def check():
     r = partir("", "", "ARTICULO 152. Conflictos. D.L. 528/64\nARTICULO 13. Corresponde a...\n"
                        "ARTICULO 54 A. Valor probatorio. Texto.")
     assert [x[0] for x in r] == ["152"], r
+    assert [x[0] for x in partir("", "", "ARTÍCULO . 1. Adición. Texto.\nARTÍCULO .2. Vigencia. Rige.\nARTÍCULO 3. Otro. X.")] == ["1", "2", "3"]
     r = partir("", "", "ARTICULO 54. Pruebas. Texto.\nARTICULO 54 A. Valor probatorio. Texto.")
     assert [x[0] for x in r] == ["54", "54a"], r
 
@@ -294,6 +298,7 @@ def main():
     p.add_argument("--corto", default="")
     p.add_argument("--tipo", default="decreto")
     p.add_argument("--minimo", type=int, default=0)
+    p.add_argument("--estado", default="vigente")
     # La Ley 54 de 1990 (i=30896) marca algunos artículos con `<a id="1">` en vez de
     # `name=`. No se acepta `id=` siempre: los DUR traen cientos sin `name` y cambia su corte.
     p.add_argument("--anclas-id", action="store_true")
@@ -317,7 +322,7 @@ def main():
     fm = ["---", "id: " + a.id, "tipo: " + a.tipo, "titulo: " + a.titulo]
     if a.corto:
         fm.append("titulo_corto: " + a.corto)
-    fm += ["fecha: " + fecha, "ramas: [%s]" % a.ramas, "estado_general: vigente",
+    fm += ["fecha: " + fecha, "ramas: [%s]" % a.ramas, "estado_general: " + a.estado,
            "afectaciones: " + ("cargadas" if filas else "pendiente"),
            "fuente: " + url, "verificado: " + date.today().isoformat(), "---", ""]
     for num, epi, txt in arts:

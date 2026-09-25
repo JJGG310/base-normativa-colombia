@@ -7,7 +7,7 @@ ramas: [contratacion-estatal,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=244816
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación del artículo 2.2.1.1.1.3.1

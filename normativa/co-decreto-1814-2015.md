@@ -7,7 +7,7 @@ ramas: [migratorio,internacional-publico,administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=62991
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — 

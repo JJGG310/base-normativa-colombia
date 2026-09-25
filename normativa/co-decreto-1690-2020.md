@@ -7,7 +7,7 @@ ramas: [seguridad-social,administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=153546
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Adición de la Parte 6 al Libro 2 del Decreto 1084 de 2015

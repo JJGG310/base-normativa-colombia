@@ -7,7 +7,7 @@ ramas: [administrativo, laboral]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=62866
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — Departamento Administrativo de la Función Pública

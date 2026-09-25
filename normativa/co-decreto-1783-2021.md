@@ -7,7 +7,7 @@ ramas: [urbanistico, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=175086
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Adiciónense y modifíquense las siguientes definiciones al artículo 2.2.1.1

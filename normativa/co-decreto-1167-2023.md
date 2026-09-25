@@ -7,7 +7,7 @@ ramas: [insolvencia, comercial]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=213970
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación del artículo 2.2.2.11.1.3

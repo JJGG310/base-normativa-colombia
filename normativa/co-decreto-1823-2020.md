@@ -7,7 +7,7 @@ ramas: [laboral,seguridad-social,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=154447
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificar el Título 6 la sección 2 del Decreto Único Reglamentario del Sector Trabajo

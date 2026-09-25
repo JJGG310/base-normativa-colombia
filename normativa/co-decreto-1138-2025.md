@@ -7,7 +7,7 @@ ramas: [salud,seguridad-social,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=268436
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modifíquese el numeral 38 del artículo 2.8.11.1.3

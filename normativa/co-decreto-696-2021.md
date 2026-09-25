@@ -7,7 +7,7 @@ ramas: [social,victimas,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=164895
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación del artículo 1 del Decreto 1690 de 2020

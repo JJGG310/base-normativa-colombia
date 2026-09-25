@@ -7,7 +7,7 @@ ramas: [transporte, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=80076
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — 

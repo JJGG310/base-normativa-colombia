@@ -7,12 +7,12 @@ ramas: [ambiental, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=78153
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — 
 
-1.1.1.1 Ambiente Desarrollo Sostenible
+Ambiente Desarrollo Sostenible
 
 ## art:1.1.1.1.1 — Objetivo
 
@@ -70,7 +70,7 @@ Parques Nacionales Naturales de Colombia, ejercerá las siguientes funciones:
 
 ## art:1.1.2.2 — 
 
-1.1.2.2 Autoridad Nacional Licencias Ambientales ANLA
+Autoridad Nacional Licencias Ambientales ANLA
 
 ## art:1.1.2.2.1 — Objeto
 
@@ -176,7 +176,7 @@ El Instituto de Investigaciones Ambientales del Pacífico "John von Neumann" ten
 
 ## art:1.2.2.4 — 
 
-1.2.2.4 Amazónico Investigaciones Científicas, Sinchí
+Amazónico Investigaciones Científicas, Sinchí
 
 ## art:1.2.2.4.1 — Objeto
 
@@ -230,7 +230,7 @@ ORGANISMOS AUTÓNOMOS
 
 ## art:1.2.5.1 — 
 
-1.2.5.1 Corporaciones Autónomas Regionales Desarrollo Sostenible
+Corporaciones Autónomas Regionales Desarrollo Sostenible
 
 ## art:1.2.5.1.1 — Naturaleza jurídica
 
@@ -1030,7 +1030,7 @@ REQUISITOS Y CLASES DE MANEJO SOSTENIBLE
 
 ## art:2.2.1.1.10.3.1 — 
 
-2.2.1.1.10.3.1 Requisitos para adquirir el derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables. Toda persona natural o jurídica, pública o privada, que pretenda adquirir el derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables a través de permiso, asociación y autorización deberá diligenciar el Formato Único Nacional y allegar el estudio técnico, cuando se requiera, ante la autoridad ambiental competente, que lo otorgará o negará mediante acto administrativo.
+Requisitos para adquirir el derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables. Toda persona natural o jurídica, pública o privada, que pretenda adquirir el derecho al manejo sostenible de la flora silvestre y de los productos forestales no maderables a través de permiso, asociación y autorización deberá diligenciar el Formato Único Nacional y allegar el estudio técnico, cuando se requiera, ante la autoridad ambiental competente, que lo otorgará o negará mediante acto administrativo.
 
 PARÁGRAFO 1. Si la autoridad ambiental cuenta con el protocolo de manejo sostenible de la flora silvestre y de los productos forestales no maderables aprobado para la especie de interés, no se requerirá de la presentación del estudio técnico.
 
@@ -3902,7 +3902,7 @@ Para poder liberar, vender, canjear u obsequiar animales adquiridos o nacidos en
 
 ## art:2.2.1.2.21.13 — 
 
-2.2.1.2.21.13 Registro de animales de circo .Todo circo que posea o exhiba animales de la fauna silvestre está obligado a registrarse ante la entidad administradora del recurso relacionando los animales con sus características, procedencia, documentación que acredite su obtención legal, incluidos los individuos de especies exóticas no existentes en el país.
+Registro de animales de circo .Todo circo que posea o exhiba animales de la fauna silvestre está obligado a registrarse ante la entidad administradora del recurso relacionando los animales con sus características, procedencia, documentación que acredite su obtención legal, incluidos los individuos de especies exóticas no existentes en el país.
 
 Para la movilización deberán contar con un salvoconducto que expedirá la entidad administradora del recurso en cuyo territorio se traslade.
 
@@ -3910,7 +3910,7 @@ Para la movilización deberán contar con un salvoconducto que expedirá la enti
 
 ## art:2.2.1.2.21.14 — 
 
-2.2.1.2.21.14 Circos Internacionales Cuando se trata de circos internacionales para el ingreso de los animales en el país se deberán cumplir todas las normas que rigen la materia y además de la certificación sanitaria que exija el Instituto Colombiano Agropecuario requerirán una autorización especial de la entidad administradora del recurso que tenga jurisdicción en el puerto de ingreso.
+Circos Internacionales Cuando se trata de circos internacionales para el ingreso de los animales en el país se deberán cumplir todas las normas que rigen la materia y además de la certificación sanitaria que exija el Instituto Colombiano Agropecuario requerirán una autorización especial de la entidad administradora del recurso que tenga jurisdicción en el puerto de ingreso.
 
 Para obtener esta autorización deberán presentar el inventario detallado de los anímales indicando su número, especie, subespecie, sexo, edad y demás características que contribuyan a individualizarlos y sólo con respecto de estos se expedirá el salvoconducto de movilización.
 
@@ -3920,13 +3920,13 @@ Sólo se autorizará la salida del país de los mismos individuos cuyo ingreso s
 
 ## art:2.2.1.2.21.15 — 
 
-2.2.1.2.21.15 Fuga de animales Cuando se produzca la fuga de uno o más animales del circo, el propietario, administrador o el personal dependiente del circo deberán denunciar el hecho inmediatamente ante la entidad administradora del recurso, indicando las características del animal y colaborar en las actividades necesarias para su captura.
+Fuga de animales Cuando se produzca la fuga de uno o más animales del circo, el propietario, administrador o el personal dependiente del circo deberán denunciar el hecho inmediatamente ante la entidad administradora del recurso, indicando las características del animal y colaborar en las actividades necesarias para su captura.
 
 (Decreto 1608 de 1978 Art. 194).
 
 ## art:2.2.1.2.21.16 — 
 
-2.2.1.2.21.16 Prohibición Se prohíbe todo espectáculo que implique la lucha en que participen animales de la fauna silvestre o en el cual se produzcan heridas, mutilaciones o muerte de estos.
+Prohibición Se prohíbe todo espectáculo que implique la lucha en que participen animales de la fauna silvestre o en el cual se produzcan heridas, mutilaciones o muerte de estos.
 
 (Decreto 1608 de 1978 Art.195).
 
@@ -8043,7 +8043,7 @@ El manejo y gestión del humedal designado en el artículo precedente debido a s
 
 ## art:2.2.1.4.9.3 — 
 
-2.2.1.4.9.3.- PLAN DE MANEJO AMBIENTAL La Corporación Autónoma Regional de los Valles del Sinú y del San Jorge - CVS, estará a cargo de la expedición y cumplimiento del Plan de Manejo Ambiental del Complejo Cenagoso de Ayapel, el cual deberá estar acorde a la normativa señalada en el artículo segundo del presente acto administrativo.
+PLAN DE MANEJO AMBIENTAL La Corporación Autónoma Regional de los Valles del Sinú y del San Jorge - CVS, estará a cargo de la expedición y cumplimiento del Plan de Manejo Ambiental del Complejo Cenagoso de Ayapel, el cual deberá estar acorde a la normativa señalada en el artículo segundo del presente acto administrativo.
 
 (Decreto 356 de 2018, art. 1)
 
@@ -11087,7 +11087,7 @@ Corresponde a Parques Nacionales Naturales de Colombia organizar sistemas de con
 
 ## art:2.2.2.1.16.2 — 
 
-2.2.2.1.16.2 Sanciones aplicables: El régimen sancionatorio aplicable corresponderá al previsto en la Ley 1333 de 2009 o la norma que haga sus veces
+Sanciones aplicables: El régimen sancionatorio aplicable corresponderá al previsto en la Ley 1333 de 2009 o la norma que haga sus veces
 
 (Decreto 622 de 1977, Art. 35)
 
@@ -24884,7 +24884,9 @@ De igual forma, informarán de la prohibición a visitantes, funcionarios, contr
 
 En aquellas áreas con vocación turística, la autoridad responsable deberá instalar vallas o anuncios visibles en los sitios de ingreso y brindar información a través de los canales oficiales, advirtiendo sobre esta prohibición y la adecuada gestión de los residuos sólidos.
 
-ARTÍCULO.2.2.7C.5. Incorporación en los Planes de Gestión Integral de Residuos Sólidos -PGIRS. Corresponderá a los municipios y distritos, a través de los PGIRS, la incorporación de mecanismos para la promoción de la formalización y regularización de los recicladores de oficio y de las organizaciones de recicladores de oficio como actores de la cadena de valor del plástico, mediante el programa de Inclusión de Recicladores, y la incorporación de acciones dirigidas a la gestión de residuos plásticos en el Programa de Aprovechamiento, de acuerdo con lo dispuesto en el parágrafo del artículo 16 de la Ley 2232 de 2022.
+## art:2.2.7c.5 — Incorporación en los Planes de Gestión Integral de Residuos Sólidos -PGIRS
+
+Corresponderá a los municipios y distritos, a través de los PGIRS, la incorporación de mecanismos para la promoción de la formalización y regularización de los recicladores de oficio y de las organizaciones de recicladores de oficio como actores de la cadena de valor del plástico, mediante el programa de Inclusión de Recicladores, y la incorporación de acciones dirigidas a la gestión de residuos plásticos en el Programa de Aprovechamiento, de acuerdo con lo dispuesto en el parágrafo del artículo 16 de la Ley 2232 de 2022.
 
 Para efectos de lo anterior, los Ministerios de Ambiente y Desarrollo Sostenible y de Vivienda, Ciudad y Territorio definirán la necesidad de introducir los ajustes que en este sentido correspondan a la formulación, implementación, seguimiento y actualización de estos planes.
 
@@ -32236,7 +32238,7 @@ PARÁGRAFO 2. El reporte de verificación deberá estar acompañado de los certi
 
 ## art:2.2.11.1.4 — 
 
-2.2.11.1.4 Los organismos acreditados por la Junta Ejecutiva del Mecanismo de Desarrollo Limpio (MOL) como entidad operacional designada (DOE, por sus siglas en inglés), podrán realizar hasta el 31 de diciembre de 2020 procesos de validación y verificación bajo los requisitos de la norma ISO 14065, del Capítulo 7 y de la Sección 1 del Capítulo 8 del Título 1 de la Parte 2 del Libro 2 del Decreto Único 1074 de 2015, o las normas que los modifiquen o sustituyan.
+Los organismos acreditados por la Junta Ejecutiva del Mecanismo de Desarrollo Limpio (MOL) como entidad operacional designada (DOE, por sus siglas en inglés), podrán realizar hasta el 31 de diciembre de 2020 procesos de validación y verificación bajo los requisitos de la norma ISO 14065, del Capítulo 7 y de la Sección 1 del Capítulo 8 del Título 1 de la Parte 2 del Libro 2 del Decreto Único 1074 de 2015, o las normas que los modifiquen o sustituyan.
 
 Cumplido este plazo, sólo se aceptarán las verificaciones realizadas por organismos acreditados según lo establecido en el artículo 2.2.11.1.2 del presente Decreto
 

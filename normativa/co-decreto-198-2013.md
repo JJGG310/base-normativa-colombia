@@ -4,10 +4,10 @@ tipo: decreto
 titulo: Decreto 198 de 2013 - Por el cual se suprimen, trasladan y reforman trámites en materia de tránsito y de transporte
 fecha: 2013-02-12
 ramas: [transporte,administrativo]
-estado_general: vigente
+estado_general: compilada
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=51786
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Objeto

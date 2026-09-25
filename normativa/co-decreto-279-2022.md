@@ -7,7 +7,7 @@ ramas: [agrario, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=179787
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modifíquese el Artículo 1.1.3.1

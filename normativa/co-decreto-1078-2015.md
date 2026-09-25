@@ -7,7 +7,7 @@ ramas: [tic, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77888
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — Ministerio de Tecnologías de la Información y las Comunicaciones
@@ -2738,7 +2738,9 @@ PARÁGRAFO . Los cayos colombianos y territorios insulares tendrán los prefijos
 
 (Decreto 963 de 2009, art. 20)
 
-ARTÍCULO . 2.2.5.4.7. Autorización para la operación de estaciones repetidoras para las asociaciones de radioaficionados. El Ministerio de Tecnologías de la Información y las Comunicaciones, respecto de las asociaciones de radioaficionados reconocidas por éste, podrá autorizar el funcionamiento de estaciones repetidoras para su operación en las bandas de frecuencias atribuidas al servicio de radioaficionados.
+## art:2.2.5.4.7 — Autorización para la operación de estaciones repetidoras para las asociaciones de radioaficionados
+
+El Ministerio de Tecnologías de la Información y las Comunicaciones, respecto de las asociaciones de radioaficionados reconocidas por éste, podrá autorizar el funcionamiento de estaciones repetidoras para su operación en las bandas de frecuencias atribuidas al servicio de radioaficionados.
 
 Para efectos de conceder la autorización para la operación de estaciones repetidoras, el interesado deberá adjuntar los siguientes documentos:
 

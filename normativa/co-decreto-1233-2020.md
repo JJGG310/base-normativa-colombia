@@ -7,7 +7,7 @@ ramas: [tributario,financiero,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=141984
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modifíquense los incisos 1, 3, 4, 5, el parágrafo 1 y adiciónese el parágrafo 2 al artículo 2.10.1.7.1.1

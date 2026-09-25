@@ -7,7 +7,7 @@ ramas: [educacion, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=66429
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Subrogación del Capítulo 3, perteneciente al Título 1 de la Parte 3 del Libro 2 del Decreto 1075 de 2015

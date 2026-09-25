@@ -4,10 +4,10 @@ tipo: decreto
 titulo: Decreto 1377 de 2013 - Reglamento de protección de datos personales
 fecha: 2013-06-27
 ramas: [datos-personales, administrativo]
-estado_general: vigente
+estado_general: compilada
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1 — Objeto

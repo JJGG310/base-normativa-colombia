@@ -7,7 +7,7 @@ ramas: [urbanistico, servicios-publicos, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77216
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — MINISTERIO DE VIVIENDA
@@ -3818,7 +3818,7 @@ A los hogares que se encuentren conformados por uno o más ex integrantes de las
 
 ## art:2.1.1.4.1.5.1 — 
 
-2.1.1.4.1.5.1 del presente Decreto, previa certificación de esta condición por parte de la Agencia para la Reincorporación y la Normalización (ARN).
+del presente Decreto, previa certificación de esta condición por parte de la Agencia para la Reincorporación y la Normalización (ARN).
 
 Este subsidio únicamente podrá asignarse de manera complementada al establecido en el artículo 2.1.1.4.1.2.1 del presente Decreto.
 
@@ -10848,7 +10848,7 @@ El proyecto de revisión general del Plan de Ordenamiento Territorial - POT por 
 
 ## art:2.2.2.1.2.3.2 — 
 
-2.2.2.1.2.3.2 Documentos para la revisión por vencimiento de las vigencias de corto y mediano plazo y la modificación excepcional de norma urbanística. El proyecto de revisión del Plan de Ordenamiento Territorial - POT por vencimiento de las vigencias de corto y mediano plazo, así cómo la modificación excepcional de norma urbanística se adelantará respetando la estructura del Documento Técnico de Soporte y deberá acompañarse únicamente por los siguientes documentos:
+Documentos para la revisión por vencimiento de las vigencias de corto y mediano plazo y la modificación excepcional de norma urbanística. El proyecto de revisión del Plan de Ordenamiento Territorial - POT por vencimiento de las vigencias de corto y mediano plazo, así cómo la modificación excepcional de norma urbanística se adelantará respetando la estructura del Documento Técnico de Soporte y deberá acompañarse únicamente por los siguientes documentos:
 
 El documento de seguimiento y evaluación.
 
@@ -10862,7 +10862,7 @@ PARÁGRAFO . En las revisiones que se realicen de manera excepcional justificada
 
 ## art:2.2.2.1.2.3.3 — 
 
-2.2.2.1.2.3.3 Revisión de los Planes de Ordenamiento Territorial POT Los Concejos municipales o distritales, por iniciativa del alcalde podrán revisar y ajustar los contenidos de largo, mediano o corto plazo de los planes de ordenamiento territorial, siempre y cuando haya vencido el término de vigencia de cada uno de ellos, según lo establecido en dichos planes.
+Revisión de los Planes de Ordenamiento Territorial POT Los Concejos municipales o distritales, por iniciativa del alcalde podrán revisar y ajustar los contenidos de largo, mediano o corto plazo de los planes de ordenamiento territorial, siempre y cuando haya vencido el término de vigencia de cada uno de ellos, según lo establecido en dichos planes.
 
 Tales revisiones se harán por los motivos y condiciones contemplados en los mismos planes de Ordenamiento Territorial para su revisión, según lo dispuesto en el artículo 28 de la Ley 388 de 1997, modificado por el artículo 120 del Decreto 2106 de 2019, y deberán sustentarse en parámetros e indicadores de seguimiento relacionados con cambios significativos en las previsiones sobre población urbana; la dinámica de ajustes en usos o intensidad de los usos del suelo; la necesidad o conveniencia de ejecutar proyectos de impacto en materia de transporte masivo, infraestructuras, expansión de servicios públicos o proyectos de renovación urbana; la ejecución de macroproyectos de infraestructura regional o metropolitana que generen impactos sobre el ordenamiento del territorio municipal o distrital, así cómo en los resultados de seguimiento y evaluación de los objetivos y metas del respectivo Plan.
 
@@ -10896,7 +10896,7 @@ PARÁGRAFO . No se someterá a consideración del concejo municipal o distrital 
 
 ## art:2.2.2.1.2.3.6 — 
 
-2.2.2.1.2.3.6 Divulgación de los documentos del plan de ordenamiento territorial adoptado, a través de la página web institucional del municipio o distrito. Una vez adoptado el Plan de Ordenamiento Territorial o su revisión o modificación mediante Acuerdo o Decreto, y dentro de los 10 días hábiles siguientes, el municipio o distrito deberá divulgar todos los documentos y cartografía que lo integran a través de la página web institucional, en todo caso esta información deberá encontrarse disponible en medio físico para la consulta ciudadana.
+Divulgación de los documentos del plan de ordenamiento territorial adoptado, a través de la página web institucional del municipio o distrito. Una vez adoptado el Plan de Ordenamiento Territorial o su revisión o modificación mediante Acuerdo o Decreto, y dentro de los 10 días hábiles siguientes, el municipio o distrito deberá divulgar todos los documentos y cartografía que lo integran a través de la página web institucional, en todo caso esta información deberá encontrarse disponible en medio físico para la consulta ciudadana.
 
 SUBSECCIÓN 4
 
@@ -11617,7 +11617,7 @@ DE LOS PORCENTAJES DE SUELO PARA VIP EN TRATAMIENTO URBANÍSTICO DE DESARROLLO
 
 ## art:2.2.2.1.5.1.1 — 
 
-2.2.2.1.5.1.1 Porcentajes mínimos de suelo para el desarrollo de Programas de Vivienda de Interés Social Prioritaria (VIP) en tratamiento de desarrollo. De conformidad con lo previsto en el artículo 46 de la Ley 1537 de 2012, en el componente urbano de los planes de ordenamiento territorial de los municipios o distritos con población urbana superior a 100.000 habitantes y de los municipios localizados en el área de influencia de aquellos con población urbana superior a 500.000 habitantes conforme los criterios previstos en el parágrafo 1 del artículo 91 de la Ley 388 de 1997, se deberán definir los porcentajes mínimos de suelo para el desarrollo de programas de vivienda de interés social prioritaria (VIP).
+Porcentajes mínimos de suelo para el desarrollo de Programas de Vivienda de Interés Social Prioritaria (VIP) en tratamiento de desarrollo. De conformidad con lo previsto en el artículo 46 de la Ley 1537 de 2012, en el componente urbano de los planes de ordenamiento territorial de los municipios o distritos con población urbana superior a 100.000 habitantes y de los municipios localizados en el área de influencia de aquellos con población urbana superior a 500.000 habitantes conforme los criterios previstos en el parágrafo 1 del artículo 91 de la Ley 388 de 1997, se deberán definir los porcentajes mínimos de suelo para el desarrollo de programas de vivienda de interés social prioritaria (VIP).
 
 Dichos porcentajes se exigirán únicamente en las actuaciones de urbanización de predios regulados por el tratamiento de desarrollo que se encuentren ubicados en suelo urbano o de expansión urbana en zonas o áreas de actividad cuyos usos sean distintos a los industriales, dotacionales o institucionales y que se urbanicen aplicando la figura del plan parcial o directamente mediante la aprobación de la correspondiente licencia de urbanización.
 
@@ -11649,7 +11649,7 @@ PARÁGRAFO . Con el cumplimiento de los porcentajes de suelo previstos en el art
 
 ## art:2.2.2.1.5.1.3 — 
 
-2.2.2.1.5.1.3 Condiciones para la exigibilidad de los porcentajes de suelo que deben destinarse al desarrollo de Programas de Vivienda de Interés Social Prioritaria (VIP). El porcentaje mínimo de suelo que se destinará al desarrollo de programas de vivienda de interés social prioritaria (VIP), solamente será exigible a aquellos predios que en el Plan de Ordenamiento Territorial se les haya asignado el tratamiento urbanístico de desarrollo, salvo que de conformidad con el artículo 46 de la Ley 1537 de 2012 se trate de suelos que se destinen a usos industriales, dotacionales o institucionales, según el régimen de usos que se concrete en la respectiva licencia de urbanización.
+Condiciones para la exigibilidad de los porcentajes de suelo que deben destinarse al desarrollo de Programas de Vivienda de Interés Social Prioritaria (VIP). El porcentaje mínimo de suelo que se destinará al desarrollo de programas de vivienda de interés social prioritaria (VIP), solamente será exigible a aquellos predios que en el Plan de Ordenamiento Territorial se les haya asignado el tratamiento urbanístico de desarrollo, salvo que de conformidad con el artículo 46 de la Ley 1537 de 2012 se trate de suelos que se destinen a usos industriales, dotacionales o institucionales, según el régimen de usos que se concrete en la respectiva licencia de urbanización.
 
 (Decreto 075 de 2013, artículo 6)
 
@@ -11659,7 +11659,7 @@ DE LOS PORCENTAJES DE SUELO PARA VIS EN TRATAMIENTO URBANÍSTICO DE RENOVACIÓN 
 
 ## art:2.2.2.1.5.2.1 — 
 
-2.2.2.1.5.2.1 Porcentajes mínimos de suelo para el desarrollo de Programas de Vivienda de Interés Social (VIS) en tratamiento de renovación urbana, modalidad de redesarrollo. De conformidad con lo previsto en el artículo 92 de la Ley 388 de 1997, en el componente urbano de los planes de ordenamiento territorial de los municipios o distritos, se deberán definir los porcentajes mínimos de suelo para el desarrollo de programas de vivienda de interés social que se exigirán únicamente a los predios regulados por el tratamiento de renovación urbana en la modalidad de redesarrollo ubicados en suelos urbanos que deban urbanizarse nuevamente mediante planes parciales.
+Porcentajes mínimos de suelo para el desarrollo de Programas de Vivienda de Interés Social (VIS) en tratamiento de renovación urbana, modalidad de redesarrollo. De conformidad con lo previsto en el artículo 92 de la Ley 388 de 1997, en el componente urbano de los planes de ordenamiento territorial de los municipios o distritos, se deberán definir los porcentajes mínimos de suelo para el desarrollo de programas de vivienda de interés social que se exigirán únicamente a los predios regulados por el tratamiento de renovación urbana en la modalidad de redesarrollo ubicados en suelos urbanos que deban urbanizarse nuevamente mediante planes parciales.
 
 (Decreto 075 de 2013, artículo 7)
 
@@ -11775,7 +11775,7 @@ PARÁGRAFO 4. La obligación de que trata este artículo también podrá cumplir
 
 ## art:2.2.2.1.5.3.4 — 
 
-2.2.2.1.5.3.4 Cumplimiento de la obligación mediante la compensación en proyectos que adelanten las entidades públicas que desarrollen programas y proyectos VIS o VIP, a través de los bancos inmobiliarios, patrimonios autónomos o fondos que creen los municipios y distritos para el efecto. La obligación de destinar suelo para VIP también se podrá hacer efectiva en los programas o proyectos que adelanten las entidades públicas municipales o distritales, mediante la compra de derechos fiduciarios.
+Cumplimiento de la obligación mediante la compensación en proyectos que adelanten las entidades públicas que desarrollen programas y proyectos VIS o VIP, a través de los bancos inmobiliarios, patrimonios autónomos o fondos que creen los municipios y distritos para el efecto. La obligación de destinar suelo para VIP también se podrá hacer efectiva en los programas o proyectos que adelanten las entidades públicas municipales o distritales, mediante la compra de derechos fiduciarios.
 
 En estos casos, la estimación del área a destinar a VIS o VIP se calculará aplicando la misma fórmula descrita en el artículo anterior, pero el valor de la compra de los derechos fiduciarios se hará sobre el valor comercial del predio o predios donde se desarrollará el proyecto.
 
@@ -11813,7 +11813,7 @@ En caso que no esté definido el portafolio de los proyectos VIS o VIP, la compr
 
 ## art:2.2.2.1.5.3.6 — 
 
-2.2.2.1.5.3.6 Con el fin de asegurar que los porcentajes de suelo sobre área útil sean destinados a este tipo de vivienda, cuando el suelo destinado para el desarrollo de proyectos VIS o VIP se encuentre en el mismo proyecto, deberá quedar expresamente señalado y determinado en la Escritura Pública de constitución de la urbanización, la cuál deberá inscribirse en el folio de matrícula inmobiliaria de cada uno de los inmuebles. Si el suelo destinado para el desarrollo de proyectos VIS o VIP se localiza en otra zona de la ciudad, esta situación deberá inscribirse en el folio de matrícula inmobiliaria de cada uno de los inmuebles.
+Con el fin de asegurar que los porcentajes de suelo sobre área útil sean destinados a este tipo de vivienda, cuando el suelo destinado para el desarrollo de proyectos VIS o VIP se encuentre en el mismo proyecto, deberá quedar expresamente señalado y determinado en la Escritura Pública de constitución de la urbanización, la cuál deberá inscribirse en el folio de matrícula inmobiliaria de cada uno de los inmuebles. Si el suelo destinado para el desarrollo de proyectos VIS o VIP se localiza en otra zona de la ciudad, esta situación deberá inscribirse en el folio de matrícula inmobiliaria de cada uno de los inmuebles.
 
 (Decreto 075 de 2013, artículo 14)
 
@@ -11881,7 +11881,7 @@ ORDENAMIENTO DEL SUELO RURAL
 
 ## art:2.2.2.2.1.1 — 
 
-2.2.2.2.1.1 Con el fin de garantizar el desarrollo sostenible del suelo rural, en los procesos de formulación, revisión y/o modificación de los planes de ordenamiento territorial, los municipios y distritos deberán dar cumplimiento a las determinantes que se desarrollan en el presente Capítulo, las cuáles constituyen normas de superior jerarquía en los términos del artículo 10 de la Ley 388 de 1997.
+Con el fin de garantizar el desarrollo sostenible del suelo rural, en los procesos de formulación, revisión y/o modificación de los planes de ordenamiento territorial, los municipios y distritos deberán dar cumplimiento a las determinantes que se desarrollan en el presente Capítulo, las cuáles constituyen normas de superior jerarquía en los términos del artículo 10 de la Ley 388 de 1997.
 
 (Decreto 3600 de 2007, artículo 2)
 
@@ -12414,7 +12414,7 @@ La medición del déficit cuantitativo se hará con base en un índice mínimo d
 
 ## art:2.2.3.2.6 — 
 
-2.2.3.2.6 Déficit cualitativo de espacio público El déficit cualitativo está definido por las condiciones inadecuadas para el uso, goce y disfrute de los elementos del espacio público que satisfacen necesidades, colectivas por parte de los residentes y visitantes del territorio, con especial énfasis en las situaciones de inaccesibilidad debido a condiciones de deterioro, inseguridad o imposibilidad física de acceso, cuando éste se requiere, y al desequilibrio generado por las condiciones de localización de los elementos con relación a la ubicación de la población que los disfruta.
+Déficit cualitativo de espacio público El déficit cualitativo está definido por las condiciones inadecuadas para el uso, goce y disfrute de los elementos del espacio público que satisfacen necesidades, colectivas por parte de los residentes y visitantes del territorio, con especial énfasis en las situaciones de inaccesibilidad debido a condiciones de deterioro, inseguridad o imposibilidad física de acceso, cuando éste se requiere, y al desequilibrio generado por las condiciones de localización de los elementos con relación a la ubicación de la población que los disfruta.
 
 (Decreto 1504 de 1998, artículo 13)
 
@@ -12426,7 +12426,7 @@ Se considera cómo índice mínimo de espacio público efectivo, para ser obteni
 
 ## art:2.2.3.2.8 — 
 
-2.2.3.2.8 Base para definir las áreas de intervención para la generación preservación, conservación, mejoramiento y mantenimiento de los elementos del espacio público. En la formulación del Plan de Ordenamiento Territorial la estimación del déficit cualitativo y cuantitativo será la base para definir las áreas de intervención con políticas, programas y proyectos para la generación preservación, conservación, mejoramiento y mantenimiento de los elementos del espacio público.
+Base para definir las áreas de intervención para la generación preservación, conservación, mejoramiento y mantenimiento de los elementos del espacio público. En la formulación del Plan de Ordenamiento Territorial la estimación del déficit cualitativo y cuantitativo será la base para definir las áreas de intervención con políticas, programas y proyectos para la generación preservación, conservación, mejoramiento y mantenimiento de los elementos del espacio público.
 
 (Decreto 1504 de 1998, artículo 15)
 
@@ -13540,7 +13540,7 @@ PARÁGRAFO . La estructuración financiera de cada macroproyecto deberá contemp
 
 ## art:2.2.4.2.1.3.2 — 
 
-2.2.4.2.1.3.2 Estudios para la formulación de macroproyectos de interés social nacional sugeridos por entidades territoriales, áreas metropolitanas o particulares. Las entidades territoriales, áreas metropolitanas o particulares podrán presentar los estudios ambientales, técnicos y financieros correspondientes y los demás requisitos y documentos con base en los cuáles el Ministerio podrá adelantar la formulación del Macroproyecto de acuerdo con lo establecido en el artículo anterior.
+Estudios para la formulación de macroproyectos de interés social nacional sugeridos por entidades territoriales, áreas metropolitanas o particulares. Las entidades territoriales, áreas metropolitanas o particulares podrán presentar los estudios ambientales, técnicos y financieros correspondientes y los demás requisitos y documentos con base en los cuáles el Ministerio podrá adelantar la formulación del Macroproyecto de acuerdo con lo establecido en el artículo anterior.
 
 Estudio ambiental deberá contemplar la descripción, caracterización y análisis ambiental del área en la cuál se pretende desarrollar el Macroproyecto, incluyendo la identificación y delimitación de las áreas que componen la estructura ecológica principal y aquellos otros elementos que por sus valores ambientales, naturales o paisajísticos deban ser conservados, así cómo la identificación y evaluación de los efectos ambientales indicando las medidas para su manejo, conservación y protección. Igualmente incluirá la identificación de los recursos naturales renovables que requieran ser aprovechados para la ejecución del Macroproyecto y la solicitud de sustracción de las áreas de reserva forestal de carácter nacional, cuando la adopción y ejecución del Macroproyecto presentado implique su intervención.
 
@@ -15938,7 +15938,7 @@ PARÁGRAFO. De conformidad con lo previsto en el artículo 106 de la Ley 388 de 
 
 ## art:2.2.6.1.1.9 — 
 
-2.2.6.1.1.9 Autorización de actuaciones urbanísticas en predios con declaratoria de bienes de interés cultural y bienes dentro de su área o zona de influencia. Sin perjuicio de la presentación del respectivo anteproyecto o autorización de intervención, cuando se haya adoptado el Plan Especial de Manejo y Protección de Bienes de Interés Cultural por la autoridad competente, las solicitudes de licencias urbanísticas sobre bienes de interés cultural y sobre los inmuebles localizados al interior de su zona de influencia, se resolverán con sujeción a las normas urbanísticas y de edificación que se adopten en el mismo. En caso de no haberse adoptado el Plan Especial de Manejo y Protección al momento de la solicitud, las licencias se podrán expedir con base en el anteproyecto o autorización de intervención del bien de interés cultural aprobado por parte de la autoridad que efectuó la respectiva declaratoria, en el cuál se señalará los usos específicos autorizados.
+Autorización de actuaciones urbanísticas en predios con declaratoria de bienes de interés cultural y bienes dentro de su área o zona de influencia. Sin perjuicio de la presentación del respectivo anteproyecto o autorización de intervención, cuando se haya adoptado el Plan Especial de Manejo y Protección de Bienes de Interés Cultural por la autoridad competente, las solicitudes de licencias urbanísticas sobre bienes de interés cultural y sobre los inmuebles localizados al interior de su zona de influencia, se resolverán con sujeción a las normas urbanísticas y de edificación que se adopten en el mismo. En caso de no haberse adoptado el Plan Especial de Manejo y Protección al momento de la solicitud, las licencias se podrán expedir con base en el anteproyecto o autorización de intervención del bien de interés cultural aprobado por parte de la autoridad que efectuó la respectiva declaratoria, en el cuál se señalará los usos específicos autorizados.
 
 PARÁGRAFO : (Derogado por el Art. 37 del Decreto 1783 de 2021)
 
@@ -16112,7 +16112,7 @@ PARÁGRAFO . Si durante el término que transcurre entre la solicitud de una lic
 
 ## art:2.2.6.1.2.1.3 — 
 
-2.2.6.1.2.1.3 Sistema de categorización para el trámite de estudio y expedición de licencias de construcción en función de su complejidad. Con el propósito de optimizar y agilizar el trámite de expedición de licencias de construcción y sus modalidades, los curadores urbanos o la autoridad municipal o distrital encargada del estudio, trámite y expedición de las licencias, implementarán el sistema de categorización para el trámite de estudio y expedición de licencias de construcción y sus modalidades en función de la complejidad del proyecto objeto de solicitud, el cuál se fundamenta exclusivamente en las siguientes variables:
+Sistema de categorización para el trámite de estudio y expedición de licencias de construcción en función de su complejidad. Con el propósito de optimizar y agilizar el trámite de expedición de licencias de construcción y sus modalidades, los curadores urbanos o la autoridad municipal o distrital encargada del estudio, trámite y expedición de las licencias, implementarán el sistema de categorización para el trámite de estudio y expedición de licencias de construcción y sus modalidades en función de la complejidad del proyecto objeto de solicitud, el cuál se fundamenta exclusivamente en las siguientes variables:
 
 1. Área de construcción o área construida del proyecto, entendida cómo la parte a edificar y/o edificada a intervenir y que corresponde a la suma de las superficies de los pisos, excluyendo azoteas y áreas sin cubrir o techar.
 
@@ -16948,7 +16948,7 @@ PARÁGRAFO 3. Lo dispuesto en el presente artículo no es exigible en las obras 
 
 ## art:2.2.6.1.4.2 — 
 
-2.2.6.1.4.2 Expedición de licencias de urbanización y construcción con posterioridad a la declaración de situación de desastre o calamidad pública. En el evento de declaración de situación de desastre o calamidad pública, se aplicará el régimen especial para la expedición de licencias de urbanización y construcción contenidos en el Capítulo sobre "Licencias urbanísticas con posterioridad a la declaratoria de situación de desastre o calamidad pública" del presente decreto.
+Expedición de licencias de urbanización y construcción con posterioridad a la declaración de situación de desastre o calamidad pública. En el evento de declaración de situación de desastre o calamidad pública, se aplicará el régimen especial para la expedición de licencias de urbanización y construcción contenidos en el Capítulo sobre "Licencias urbanísticas con posterioridad a la declaratoria de situación de desastre o calamidad pública" del presente decreto.
 
 (Decreto 1469 de 2010, artículo 54)
 
@@ -17776,7 +17776,7 @@ Los municipios o distritos que decidan designar curadores adicionales a los ya e
 
 ## art:2.2.6.6.2.3 — 
 
-2.2.6.6.2.3 Los curadores urbanos serán designados para el desempeño de esta función pública por el alcalde municipal o distrital, previo concurso de méritos adelantado por el Departamento Administrativo de la Función Pública, para períodos individuales de cinco (5) años, en los términos previstos en la Ley 1796 de 2016, o la norma que la adicione, modifique o sustituya
+Los curadores urbanos serán designados para el desempeño de esta función pública por el alcalde municipal o distrital, previo concurso de méritos adelantado por el Departamento Administrativo de la Función Pública, para períodos individuales de cinco (5) años, en los términos previstos en la Ley 1796 de 2016, o la norma que la adicione, modifique o sustituya
 
 (Decreto 1469 de 2010, artículo 80, Modificado Decreto 1203 de 2017, artículo 18)
 
@@ -18072,7 +18072,7 @@ PRESTACIÓN DEL SERVICIO
 
 ## art:2.2.6.6.6.1 — 
 
-2.2.6.6.6.1 Reparto de las solicitudes de licencia o de actos de reconocimiento de proyectos de las entidades estatales y de vivienda de interés social individual. Las solicitudes de licencias o de actos de reconocimiento que presenten las entidades estatales o los particulares para proyectos de vivienda de interés social individual, deberán someterse a reparto entre los distintos curadores urbanos del municipio o distrito, en estricto orden de radicación de la solicitud ante el curador urbano responsable del reparto en los términos previstos en este artículo.
+Reparto de las solicitudes de licencia o de actos de reconocimiento de proyectos de las entidades estatales y de vivienda de interés social individual. Las solicitudes de licencias o de actos de reconocimiento que presenten las entidades estatales o los particulares para proyectos de vivienda de interés social individual, deberán someterse a reparto entre los distintos curadores urbanos del municipio o distrito, en estricto orden de radicación de la solicitud ante el curador urbano responsable del reparto en los términos previstos en este artículo.
 
 La entidad interesada o el particular solamente presentarán el Formulario Único Nacional de Solicitud de Licencia diligenciado ante el curador urbano encargado del reparto, quién de manera inmediata hará el mismo, indicando el curador urbano ante quién debe radicar la solicitud. Al curador al que se asigne el proyecto le corresponde revisar que el mismo cumpla con las condiciones de legal y debida forma previstas en este decreto.
 
@@ -20564,7 +20564,7 @@ Elaboración y contenido de los estudios técnicos
 
 ## art:2.3.1.7.2.2.1 — 
 
-2.3.1.7.2.2.1 Realización de los estudios para determinar la necesidad de fusionar empresas prestadoras de los servicios públicos de acueducto y/o alcantarillado. Una vez efectuado el análisis preliminar de que trata el artículo anterior, y habiendo concluido la necesidad de hacer los estudios que soporten la solicitud a la Unidad Administrativa Especial - Comisión de Regulación de Agua Potable y Saneamiento Básico -CRA, el Ministerio de Vivienda, Ciudad y Territorio los podrá elaborar, con el objeto de dar cumplimiento a las previsiones contenidas en el artículo 299 de la Ley 1955 de 2019.
+Realización de los estudios para determinar la necesidad de fusionar empresas prestadoras de los servicios públicos de acueducto y/o alcantarillado. Una vez efectuado el análisis preliminar de que trata el artículo anterior, y habiendo concluido la necesidad de hacer los estudios que soporten la solicitud a la Unidad Administrativa Especial - Comisión de Regulación de Agua Potable y Saneamiento Básico -CRA, el Ministerio de Vivienda, Ciudad y Territorio los podrá elaborar, con el objeto de dar cumplimiento a las previsiones contenidas en el artículo 299 de la Ley 1955 de 2019.
 
 Para determinar el cumplimiento de los objetivos mencionados en el ordenamiento legal, el resultado de dichos estudios deberá evidenciar la necesidad de la medida y que ésta es la mejor alternativa para el área de prestación de que se trate, en función de la obtención de economías de escala, alcance o densidad, y la consecuente mejora en materia de cobertura, disminución de costos o mejora de la calidad en la prestación de los servicios públicos de acueducto y/o alcantarillado.
 

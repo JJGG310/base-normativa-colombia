@@ -7,7 +7,7 @@ ramas: [minero-energetico, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77887
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — 
@@ -500,9 +500,9 @@ PARÁGRAFO 5. La Secretaria Técnica del Comité Evaluador estará a cargo del M
 
 (Adicionado por el Art. 1 del Decreto 328 de 2020)
 
-## art:2.2.1.1.1 — A.2.17
+## art:2.2.1.1.1a.2.17 — Funciones del Comité Evaluador
 
-Funciones del Comité Evaluador. El Comité Evaluador tendrá las siguientes funciones:
+El Comité Evaluador tendrá las siguientes funciones:
 
  a. Analizar la información que le provean el Instituto de Hidrología, Meteorología y Estudios Ambientales, el Servicio Geológico Colombiano, el Instituto Alexander Van Humboldt, el Ministerio de Salud y Protección Social, la Agencia Nacional de Hidrocarburos, la Autoridad Nacional de Licencias Ambientales y la Comisión Intersectorial de Acompañamiento Técnico y Científico respecto al desarrollo de cada uno de los Proyectos Piloto de Investigación Integral - PPll.
 
@@ -601,6 +601,20 @@ PARÁGRAFO 2. El Subcomité Intersectorial Técnico y Científico - Social y de 
 PARÁGRAFO 3. El Ministerio del Interior, en coordinación con el Ministerio de Minas y Energía, desarrollará y regulará los lineamientos en materia de diálogo social y relacionamiento territorial, y regulará los demás aspectos sociales que se consideren necesarios para el desarrollo de los Proyectos Piloto de Investigación Integral - PPll, en aplicación de la Ley 1757 de 2015 y demás normas que la modifiquen, complementen o deroguen.
 
 (Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+## art:2.2.1.1.1a.3.6 — Participación económica de las comunidades en los pozos de los Proyectos Piloto de Investigación Integral - PPll
+
+Durante la ejecución de los Proyectos Piloto de Investigación Integral - PPll, los Contratistas de los Proyectos Piloto de Investigación Integral - PPll destinarán una suma complementaria de inversión social, por cada pozo perforado al que se le aplique la técnica de Fracturamiento Hidráulico Multietapa con Perforación Horizontal - FH-PH, para proyectos en favor de las comunidades, acorde a las condiciones que establezca la Agencia Nacional de Hidrocarburos.
+
+PARÁGRAFO . Esta obligación, así como la forma en la que se ejecutarán los recursos, deberán estar consignadas en el mecanismo contractual que se suscriba entre la Agencia Nacional de Hidrocarburos y los Contratistas de los Proyectos Piloto de Investigación Integral - PPll.
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020)
+
+SUBSECCIÓN 4
+
+(Adicionado por el Art. 1 del Decreto 328 de 2020) 
+
+ACOMPAÑAMIENTO INSTITUCIONAL
 
 ## art:2.2.1.1.1a.4.1 — Objeto y conformación de la Comisión Intersectorial de Acompañamiento Técnico y Científico
 
@@ -6827,7 +6841,9 @@ PARÁGRAFO. La presente sección le será aplicable a las actividades descritas 
 
 Trazabilidad del mineral: Entiéndase por trazabilidad del mineral el registro en línea de las transacciones de comercialización de m inerales que permita determinar la procedencia lícita, hacer seguimiento y controlar la comercialización de minerales en el territorio nacional, dicho registro se realizará a través de la plataforma tecnológica dispuesta por la autoridad minera para tal fin.
 
-ARTÍCULO .2.5.6.4.3. Procedencia. Para efectos de determinar la procedencia lícita de los minerales comercializados, la autoridad minera tendrá en cuenta lo siguiente:
+## art:2.5.6.4.3 — Procedencia
+
+Para efectos de determinar la procedencia lícita de los minerales comercializados, la autoridad minera tendrá en cuenta lo siguiente:
 
 a. Beneficiarios de mecanismos de formalización minera y titulares mineros en etapa de explotación:
 

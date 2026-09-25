@@ -8,7 +8,7 @@ ramas: [financiero, comercial, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1348
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1 — Estructura General
@@ -797,7 +797,7 @@ INTERMEDIARIOS DE REASEGUROS
 
 ## art:44 — 
 
-44. Aspectos Generales
+Aspectos Generales
 
 1. Tipo societario y objeto social exclusivo. Las sociedades corredoras de reaseguros deberán constituirse bajo la forma de sociedades comerciales y podrán revestir cualquiera de los tipos societarios previstos en el Código de Comercio; tendrán como objeto social exclusivo el ofrecimiento del contrato de reaseguro y la promoción para su celebración o renovación a título de intermediario entre las entidades aseguradoras y las reaseguradoras.
 
@@ -1089,7 +1089,7 @@ PARÁGRAFO TRANSITORIO. Lo dispuesto en este capítulo en materia de fusiones en
 
 ## art:56 — 
 
-56. Aviso a la Superintendencia Bancaria
+Aviso a la Superintendencia Bancaria
 
 1. Oportunidad del aviso. Los representantes legales de las entidades interesadas deberán dar aviso de fusión a la Superintendencia Bancaria. Este aviso se efectuará, si ya se ha aprobado el compromiso por las respectivas asambleas, dentro de los diez (10) días siguientes a su aprobación; sin embargo, podrá efectuarse anticipadamente, expresando la intención de fusión, con no menos de tres (3) meses de antelación a la reunión de los órganos correspondientes. Cuando las entidades filiales de matrices en proceso de fusión tengan la atención de fusionarse entre sí, podrán dar aviso de fusión a la Superintendencia Bancaria conjuntamente con el aviso que presenten sus matrices. Con base en dicho aviso se acumularán los trámites de fusión de las filiales con los de las matrices.
 
@@ -1357,7 +1357,7 @@ NORMAS RELATIVAS A LOS CAPÍTULOS ANTERIORES
 
 ## art:71 — 
 
-71. Aspectos Generales
+Aspectos Generales
 
 1. Montos mínimos de capital. Para solicitar la organización de entidades sometidas al control y vigilancia de la Superintendencia Bancaria, con excepción de los intermediarios de seguros, deberán acreditarse los montos mínimos de capital a que alude el numeral 1 del artículo 80 del presente Estatuto, los cuales se ajustarán como allí se prevé.
 
@@ -2658,7 +2658,7 @@ La junta directiva de cualquier establecimiento bancario puede en sus reglamento
 
 ## art:129 — 
 
-129. Aspectos Relativos a los Bancos Hipotecarios
+Aspectos Relativos a los Bancos Hipotecarios
 
 1. Operaciones autorizadas para bancos hipotecarios. Los bancos hipotecarios quedan autorizados para efectuar las siguientes operaciones y no otras:
 
@@ -2802,7 +2802,7 @@ h. Manifestación acerca de que, además, las condiciones del título se rigen p
 
 ## art:134 — 
 
-134. Unidad de Poder Adquisitivo Constante - UPAC -
+Unidad de Poder Adquisitivo Constante - UPAC -
 
 1. Aplicación. El fomento del ahorro para la construcción se orientará sobre la base del principio del valor constante de ahorros y préstamos, determinado contractualmente. Para efectos de conservar el valor constante de los ahorros y de los préstamos a que se refiere el presente capítulo, unos y otros se reajustarán periódicamente de acuerdo con las fluctuaciones del poder adquisitivo de la moneda en el mercado interno, y los intereses pactados se liquidarán sobre el valor principal reajustado.
 
@@ -2872,7 +2872,7 @@ El porcentaje máximo de operaciones de arrendamiento financiero que se autorice
 
 ## art:142 — 
 
-142. Disposiciones Especiales Relativas a la Operación y Funcionamiento de las Compañías de Financiamiento Comercial Especializadas en Arrendamiento Financiero o Leasing. Derogado por el art. 123, Ley 510 de 1999.
+Disposiciones Especiales Relativas a la Operación y Funcionamiento de las Compañías de Financiamiento Comercial Especializadas en Arrendamiento Financiero o Leasing. Derogado por el art. 123, Ley 510 de 1999.
 
 1. Ajuste del Capital. Las sociedades de arrendamiento financiero o leasing que opten por la conversión regulada en el artículo 26 del presente Estatuto dispondrán de un plazo de tres años para acreditar el cumplimiento del capital mínimo requerido para la constitución de compañías de financiamiento comercial de acuerdo con la ley en el año de 1992; el valor faltante para alcanzar dicho capital mínimo deberá suscribirse y pagarse así: no menos del 40% antes del 30 de abril de 1994; no menos del 30% antes del 30 de abril de 1995 y el saldo a más tardar el 30 de abril de 1996.
 
@@ -8576,7 +8576,7 @@ i). Las demás funciones que se les asigne.
 
 ## art:330 — 
 
-330.- Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005, (Según artículo 5, Decreto Nacional 3552 de 2005) así: Dirección Jurídica y Subdirecciones.
+Derogado por el parágrafo 5, artículo 75, Ley 964 de 2005, (Según artículo 5, Decreto Nacional 3552 de 2005) así: Dirección Jurídica y Subdirecciones.
 
 1. Funciones de la Dirección Jurídica. La Dirección Jurídica tendrá a su cargo las siguientes funciones:
 

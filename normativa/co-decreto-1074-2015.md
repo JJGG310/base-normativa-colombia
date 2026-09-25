@@ -7,7 +7,7 @@ ramas: [comercial, societario, consumo, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76608
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — Ministerio de Comercio, Industria y Turismo
@@ -4168,7 +4168,9 @@ Los incentivos o reconocimientos que se relacionan a continuación podrán ser o
 
 4. Los demás incentivos que se definan en el reglamento de uso de marca de certificación, así cómo aquellos que se definan en el diseño de instrumentos y programas adicionales, acogiendo los lineamientos del reglamento de uso de marca referenciado previamente.
 
-ARTÍCULO.2.2.1.9.5.9. Reconocimiento Mutuo. El Ministerio de Comercio, Industria y Turismo, en coordinación con otras entidades, podrá, mediante cualquier instrumento, adelantar procesos de reconocimiento mutuo u otorgar la equivalencia con sellos, marcas o estándares de otros esquemas que cuenten con reconocimiento en los niveles nacional o internacional.
+## art:2.2.1.9.5.9 — Reconocimiento Mutuo
+
+El Ministerio de Comercio, Industria y Turismo, en coordinación con otras entidades, podrá, mediante cualquier instrumento, adelantar procesos de reconocimiento mutuo u otorgar la equivalencia con sellos, marcas o estándares de otros esquemas que cuenten con reconocimiento en los niveles nacional o internacional.
 
 ## art:2.2.1.9.6.10 — Manual Gráfico de la Marca de Certificación
 
@@ -6014,7 +6016,7 @@ Para efectos del presente decreto, deberán tenerse en cuenta las siguientes def
 
 ## art:2.2.1.19.1.4 — 
 
-2.2.1.19.1.4 Comité técnico para el desarrollo de mecanismos exploratorios de regulación para modelos de negocio innovadores en industrias reguladas. Creese un comité técnico dentro Sistema Nacional de Competitividad e Innovación, cuyo propósito sea promover la adopción, por parte de las entidades de regulación, de mecanismos exploratorios de regulación, para contribuir de esta forma a la política de mejora regulatoria del país y consolidar un ambiente propicio para el emprendimiento, la innovación y los negocios en general.
+Comité técnico para el desarrollo de mecanismos exploratorios de regulación para modelos de negocio innovadores en industrias reguladas. Creese un comité técnico dentro Sistema Nacional de Competitividad e Innovación, cuyo propósito sea promover la adopción, por parte de las entidades de regulación, de mecanismos exploratorios de regulación, para contribuir de esta forma a la política de mejora regulatoria del país y consolidar un ambiente propicio para el emprendimiento, la innovación y los negocios en general.
 
 PARÁGRAFO. La conformación y presidencia de este Comité Técnico será definida por el Comité Ejecutivo del Sistema Nacional de Competitividad e Innovación. La secretaria del Comité la ejercerá iNNpulsa Colombia.
 

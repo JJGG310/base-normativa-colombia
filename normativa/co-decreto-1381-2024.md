@@ -7,7 +7,7 @@ ramas: [servicios-publicos, ambiental]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=256236
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modifíquense los numerales 6, 16, 36, 41, 85 y 87 del artículo 2.3.2.1.1

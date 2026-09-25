@@ -7,7 +7,7 @@ ramas: [transporte, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77889
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — Ministerio de Transporte

@@ -7,7 +7,7 @@ ramas: [laboral,seguridad-social,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=191426
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación de un artículo y eliminación de un parágrafo del Decreto 1072 de 2015

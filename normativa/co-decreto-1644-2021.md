@@ -7,7 +7,7 @@ ramas: [comercial,societario,consumo,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=173955
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Adición del Capítulo 8 al Título 3 de la Parte 2 del Libro 2 del Decreto 1074

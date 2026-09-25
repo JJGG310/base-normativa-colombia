@@ -4,10 +4,10 @@ tipo: decreto
 titulo: Decreto 1474 de 1997 - por el cual se derogan, modifican y/o adicionan algunos artículos del Decreto reglamentario 1748 de 1995 y se dictan otras disposiciones
 fecha: 1997-05-30
 ramas: [seguridad-social,administrativo]
-estado_general: vigente
+estado_general: compilada
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=31645
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Vinculaciones laborales válidas

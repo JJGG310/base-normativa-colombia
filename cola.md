@@ -584,3 +584,40 @@ la C-067/2026, aún sin publicar en la relatoría).
   41-43 (completados del Gestor; Ley 1952/2019 art. 265). ingesta_senado ahora avisa.
 - [ ] Ley 153/1887 arts. 206, 244, 271, 291: el texto quedó en el epígrafe (encabezados de
   sección «3. HURTOS Y ESTAFAS.» al final del artículo anterior). No se pierde texto.
+
+## Auditoría 2 y P18 (2026-09-25)
+
+- [x] Aristas anacrónicas (1.004): nadie reforma lo que aún no existe. En los DUR, «(Decreto 2877
+  de 2001, art. 6; adicionado por el Decreto 1567 de 2002)» es la procedencia del texto compilado,
+  no una reforma del DUR; senado anota bajo la ley nueva fallos sobre la predecesora («cuyo
+  contenido guarda similitud…»): `build.py` los descarta (norma) o los vuelve `concordancia`
+  (Corte Constitucional, salvo estatutarias: revisión previa). 22 artículos de DUR revividos.
+- [x] Gestor: «Texto subrayado, derogado por…», «Numeral 3 derogado por…» y los numerales
+  titulados del EOSF («6. Delegaciones… Derogado por el art. 123, Ley 510 de 1999») son
+  derogación parcial (`modifica` + nota), no del artículo: 28 artículos vivos que salían MUERTO.
+  El entregable los advierte («parte marcada»).
+- [x] Marcas: «(ELIMINADO)», «<Artículo eliminado por…>», «INEXEQUBLE» (errata de la fuente)
+  matan; «INEXEQUIBLE con excepción de…» no (ET 657-1, Ley 488/1998 art. 77).
+- [x] Advertencia SIN_TEXTO_PROPIO: 133 artículos vivos cuyo texto es solo la nota de la fuente
+  («<Artículo sustituido por los artículos 1o. a 23 del Decreto 919 de 1989>», «<Se aplica la
+  Decisión 486…>»).
+- [x] estado_general: los extractores escriben «vigente» siempre; 25 normas muertas enteras
+  corregidas y build avisa si vuelve a pasar. ingesta_gestor acepta `--estado`.
+- [x] Gestor: encabezados «ARTÍCULO . 1.» / «ARTÍCULO .2.5.6.4.3.» se perdían sin que verificar
+  lo notara (Decreto 762/2018 art. 1, DUR 1073 art. 2.5.6.4.3, DUR 1078 art. 2.2.5.4.7).
+  `reingestar_gestor.sh` (nuevo, desde el frontmatter) y re-ingesta completa del Gestor.
+- [x] Senado: ancla vacía `name="1-A"` bajo el título cortaba artículos (Ley 1418/2010 arts. 9, 10,
+  41); `name="1A"`/`"1B"` con «ARTÍCULO 1o.» (anexo y ley aprobatoria del Protocolo I, Ley
+  11/1992) se descartaban como repetidos; subtítulos `503T` de la Ley 9/1979 salían como artículos.
+- [x] Senado: cajas de vigencia leídas sin ninguna arista quedan «pendiente» (DIAN, Decreto
+  1643/1991: la nota de cada artículo es la fusión DIN→DIAN, no una afectación).
+- [x] P18 (`./cargar_p18.sh`): 69 leyes origen con 10-19 aristas. Muertes anotadas solo en el
+  encabezado → `manual:` Ley 1288/2009 (C-913/10), Ley 443/1998 art. 38 (Ley 909/2004), Ley
+  522/1999 (Ley 1407/2010, con ultractividad), Ley 11/1992 (C-088/93; el Protocolo I sigue).
+- [x] Decretos reglamentarios compilados en un DUR y cargados aparte (1333/2007 → DUR 1073,
+  1377/2013 → 1074, 198/2013 → 1079, 1474/1997 → 1833/2016): arista `compila` y advertencia
+  COMPILADA (citar el DUR). La fuente no anota derogación por artículo, no se inventa.
+- [ ] Ley 270/1996 art. 209b: su cuerpo trae además el «ARTÍCULO NUEVO.» sin número que adicionó
+  el art. 25 de la Ley 1285/2009 (control de legalidad); la fuente no le da ancla ni número. Sale
+  dentro de un registro MUERTO (omisión conservadora).
+- [!] Consejo de Estado: `DescargarProvidenciaPublica` sigue en 403 (reintentado 2026-09-25).

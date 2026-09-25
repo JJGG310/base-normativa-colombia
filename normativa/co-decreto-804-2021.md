@@ -7,7 +7,7 @@ ramas: [territorial, administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=166993
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Adición del Título 10 a la Parte 2 del Libro 1 del Decreto 1821 de 2020

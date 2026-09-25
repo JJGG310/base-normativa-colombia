@@ -7,7 +7,7 @@ ramas: [tributario]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=144983
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación del inciso 2 del artículo 1.2.1.12.8

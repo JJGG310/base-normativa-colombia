@@ -7,7 +7,7 @@ ramas: [constitucional,procesal,administrativo]
 estado_general: inexequible
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14621
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modifica el Artículo 7 de la Ley 270 de 1996

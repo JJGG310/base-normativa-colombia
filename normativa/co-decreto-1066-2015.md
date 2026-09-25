@@ -7,7 +7,7 @@ ramas: [administrativo, policivo, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76835
-verificado: 2026-09-23
+verificado: 2026-09-25
 ---
 
 ## art:1.1.1.1 — Cabeza del sector
@@ -26,7 +26,7 @@ Fondos Especiales
 
 ## art:1.1.2.2 — 
 
-1.1.2.2 Fondo de Protección de Justicia
+Fondo de Protección de Justicia
 
 ## art:1.1.2.3 — 
 
@@ -8767,7 +8767,9 @@ Son atribuciones del Grupo de valoración preliminar:
 
 (Decreto 4912 de 2011, Art. 35; Decreto 1225 de 2012, Art. 6)
 
-ARTÍCULO. 2.4.1.2.36. Conformación del Comité de Evaluación de Riesgo y Recomendación de Medidas - CERREM -. Son miembros del CERREM quienes tendrán voz y voto:
+## art:2.4.1.2.36 — Conformación del Comité de Evaluación de Riesgo y Recomendación de Medidas - CERREM -
+
+Son miembros del CERREM quienes tendrán voz y voto:
 
 1. El Ministro del Interior o su delegado, quien lo presidirá.
 
@@ -8785,9 +8787,9 @@ PARÁGRAFO. Las sesiones del CERREM podrán llevarse a cabo de manera virtual a 
 
 (Decreto 4912 de 2011, Art. 36)
 
-## art:2.4.1.2.36 — 6 A
+## art:2.4.1.2.36a — Creación del Comité de Evaluación de Riesgo y Recomendación de Medidas - CERREM de Servidores y Sexoservidores Públicos-
 
-Creación del Comité de Evaluación de Riesgo y Recomendación de Medidas - CERREM de Servidores y Sexoservidores Públicos-. Crease el CERREM de Servidores y Sexoservidores Públicos, el cual estará conformado así:
+Crease el CERREM de Servidores y Sexoservidores Públicos, el cual estará conformado así:
 
 1. El Ministro del Interior o su delegado, quien lo presidirá.
 
@@ -9633,7 +9635,7 @@ Programa de protección especializada de seguridad y protección
 
 ## art:2.4.1.4.1 — 
 
-2.4.1.4.1 Objeto: Crear el Programa de Protección Especializada de Seguridad y Protección, en virtud del cual la Unidad Nacional de Protección, el Ministerio del Interior y demás entidades, dentro del ámbito de sus competencias, incluirán como población objeto de protección, a las y los integrantes, del nuevo movimiento o partido político que surja del tránsito de las FARC-EP a la actividad política legal, sus actividades y sedes, a las y los antiguos integrantes de las FARC-EP que se reincorporen a la vida civil, así como a las familias de todos los anteriores de acuerdo con el nivel de riesgo.
+Objeto: Crear el Programa de Protección Especializada de Seguridad y Protección, en virtud del cual la Unidad Nacional de Protección, el Ministerio del Interior y demás entidades, dentro del ámbito de sus competencias, incluirán como población objeto de protección, a las y los integrantes, del nuevo movimiento o partido político que surja del tránsito de las FARC-EP a la actividad política legal, sus actividades y sedes, a las y los antiguos integrantes de las FARC-EP que se reincorporen a la vida civil, así como a las familias de todos los anteriores de acuerdo con el nivel de riesgo.
 
 Serán población objeto de protección los menores de edad que salgan de los campamentos de las FARC-EP. El programa de protección coordinara las medidas con las entidades competentes.
 

@@ -7,7 +7,7 @@ ramas: [educacion,administrativo]
 estado_general: vigente
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=84673
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — Modificación de los artículos 2.3.3.6.1.3, 2.3.3.6.1.4, 2.3.3.6.1.5, 2.3.3.6.1.6 del Decreto 1075 de 2015
