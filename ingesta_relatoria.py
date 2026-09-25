@@ -41,6 +41,26 @@ def url_de(sid):
     return BASE % (anio, serie, num, anio[2:])
 
 
+def indice(sid):
+    """Hits del índice Elastic de la relatoría para el ID: [(rutahtml, fecha_sentencia)].
+
+    Vacío = la Corte no la tiene publicada (2025-2026 aún sin texto) o la cita está errada
+    (C-311/92 no existe). Sin esta consulta, la URL construida devolvía el cascarón SPA de
+    8,6 KB con HTTP 200 y quedaba cacheado como si fuera la sentencia."""
+    import json, urllib.parse
+    m = RE_ID.match(sid)
+    q = "%s-%s/%s" % (m.group(1).upper(), m.group(2).zfill(3), m.group(3)[2:])
+    u = ("https://www.corteconstitucional.gov.co/relatoria/buscador_new/?accion=search&tipo=json"
+         "&searchOption=prov_sentencia&buscar_por=%s&fini=1992-01-01&ffin=2030-12-31&maxprov=5"
+         % urllib.parse.quote(q))
+    with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=90) as r:
+        hits = json.load(r)["data"]["hits"]["hits"]
+    # El buscador es difuso («C-99/13» también trae C-990/13): se exige el mismo número y año.
+    return [(h["_source"]["rutahtml"], h["_source"].get("prov_f_sentencia") or "") for h in hits
+            if h["_source"].get("rutahtml") and re.sub(r"\W", "", h["_source"].get("prov_sentencia", "")).lower()
+            == re.sub(r"\W", "", q).lower()]
+
+
 def bajar(url):
     """Con caché y reintentos, por lo mismo que en ingesta_senado: una descarga que
     falla en silencio produce una ficha vacía que parece una ficha."""
@@ -54,6 +74,10 @@ def bajar(url):
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=90) as r:
                 doc = r.read().decode("iso-8859-1", "replace")   # la relatoría no es UTF-8
+            if "eval(function(p,a,c,k" in doc[:400]:   # desafío anti-bot de 2,4 KB: reintentar
+                raise RuntimeError("desafío anti-bot")
+            if "data-beasties-container" in doc[:300]:   # cascarón SPA: no es la sentencia
+                raise RuntimeError("%s: la Corte devuelve el cascarón SPA (no publicada)" % url)
             if len(doc) > 2000:
                 with open(ruta, "w", encoding="utf-8") as fh:
                     fh.write(doc)
@@ -113,7 +137,8 @@ def resuelve(txt):
     decisión (pasó con C-284/15).
     """
     # Las providencias viejas espacian las letras: "R E S U E L V E".
-    marcas = [m for m in re.finditer(r"\bR\s?E\s?S\s?U\s?E\s?L\s?V\s?E\b", txt)]
+    # Las tutelas de 1992 cierran con «…en nombre del pueblo y por mandato de la Constitución, FALLA:».
+    marcas = [m for m in re.finditer(r"\bR\s?E\s?S\s?U\s?E\s?L\s?V\s?E\b|\bFALLA\s*:", txt)]
     if not marcas:
         marcas = [m for m in re.finditer(r"(?i)\bresuelve\b\s*:?\s*(?=PRIMERO|[ÚU]NICO)", txt)]
     if not marcas:
@@ -334,7 +359,10 @@ def ramas_de(sid, con):
 
 
 def ficha(sid, con=None):
-    url = url_de(sid)
+    hits = indice(sid)
+    if not hits:
+        raise RuntimeError("no está en el índice de la Corte (no publicada o cita errada)")
+    url = "https://www.corteconstitucional.gov.co/relatoria/" + hits[0][0]
     txt = plano(bajar(url))
     desc, res = descriptores(txt), resuelve(txt)
     if not desc and not res:

@@ -207,7 +207,15 @@ def construir(db_path=DB, raiz=RAIZ):
             llaves[(p[1].split("-")[0], p[2], p[3])].append(i)
     avisos += ["norma duplicada: " + " = ".join(sorted(v)) for v in llaves.values() if len(v) > 1]
 
+    # Citas con el año errado en la propia fuente (senado anota «C-099-12» para la C-099/13):
+    # se corrigen solo si la fecha de la nota coincide exacto con la sentencia real en el
+    # índice de la Corte. Van aparte para que una re-ingesta no las deshaga.
+    corr_path = os.path.join(raiz, "correcciones.csv")
+    corrige = {f["citado"]: f["real"] for f in csv.DictReader(open(corr_path, encoding="utf-8"))} \
+        if os.path.exists(corr_path) else {}
+
     def destino(d):
+        d = corrige.get(d, d)
         p = d.split(":")
         if len(p) >= 4 and ":".join(p[:4]) not in docs and p[1] in ALIAS:
             for t in ALIAS[p[1]]:
