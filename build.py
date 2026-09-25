@@ -45,7 +45,7 @@ RE_FECHA = re.compile(r"(\d{1,2})o?\.? de (enero|febrero|marzo|abril|mayo|junio|
 MESES = "enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre".split()
 # «…tener en cuenta los efectos de la transitoriedad…» (Ley 1530/2012, arts. 106-126 y 128): la
 # derogatoria los exceptúa para los procedimientos en curso; no se dan por muertos.
-RE_PARCIAL = re.compile(r"en lo |en cuanto|parcial|salvo|excepto|transitoriedad", re.I)
+RE_PARCIAL = re.compile(r"en lo |en cuanto|parcial|salvo|excepto|excepci[óo]n|transitoriedad", re.I)
 RE_EMBEBIDO = re.compile(r"A?RT[ÍI]CULO \d")  # artículo siguiente pegado por el parser
 # Tipos que comparten numeración: un destino con uno se resuelve al doc cargado con el otro.
 ALIAS = {"ley": ("ley-estatutaria", "ley-organica"), "ley-estatutaria": ("ley", "ley-organica"),

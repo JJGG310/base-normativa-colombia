@@ -603,7 +603,10 @@ def main():
     if a.corto:
         fm.append("titulo_corto: " + a.corto)
     fm += ["fecha: " + fecha, "ramas: [%s]" % a.ramas, "estado_general: " + a.estado,
-           "afectaciones: " + ("cargadas" if filas or cajas else "pendiente"),
+           # Cajas de vigencia leídas pero ninguna arista (DIAN, Decreto 1643/1991: «Se fusiona la
+           # DIN…» en cada artículo): el rastro no se entendió, no es que no haya cambios.
+           "afectaciones: " + ("cargadas" if filas or cajas and not any(
+               "igencia" in c[1] for c in cajas) else "pendiente"),
            "fuente: " + a.url, "verificado: " + date.today().isoformat(), "---", ""]
     for num, epi, ubicacion, txt in arts:
         fm.append("## art:%s — %s" % (num, epi))
