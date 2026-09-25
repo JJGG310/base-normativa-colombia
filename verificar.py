@@ -48,8 +48,13 @@ def indice_gestor(url, enteros=False):
     from ingesta_gestor import NUM_DUR
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url, enc="utf-8"),
                  flags=re.S | re.I)
-    nums = {re.sub(r"\s", "", m.group(1)).upper()
-            for m in re.finditer(r"^[ \t]*(?-i:ART[IÍí]CULO|Art[íi]culo)\.?\s+(%s)" % NUM_DUR, limpiar(doc), re.I | re.M)}
+    hs = [(m.group(1), re.sub(r"\s", "", m.group(2)).upper())
+          for m in re.finditer(r"^[ \t]*((?-i:ART[IÍí]CULO|Art[íi]culo))\.?\s+(%s)" % NUM_DUR, limpiar(doc), re.I | re.M)]
+    # Ley con encabezados mayormente en mayúscula («ARTICULO 4º»): los «Artículo 88.» en minúscula son
+    # los del código que transcribe al reformarlo (Ley 62/1988 → Código Electoral).
+    if sum(c.isupper() for c, n in hs if "." not in n) > sum(not c.isupper() for c, n in hs if "." not in n):
+        hs = [(c, n) for c, n in hs if c.isupper() or "." in n]
+    nums = {n for _, n in hs}
     # En un DUR, un «ARTÍCULO 2.» entero es el del decreto que lo reformó, que la
     # fuente transcribe: no es artículo del DUR (ingesta_gestor.partir tampoco lo toma).
     # Al revés en un decreto que reforma un DUR (ingesta_gestor --enteros): los

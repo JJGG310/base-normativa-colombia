@@ -553,3 +553,25 @@ la C-067/2026, aún sin publicar en la relatoría).
 ## Bloqueados
 
 - [x] (resuelto en P10) 2026-09-23 `co:ley:21:1991` (Convenio 169 OIT) — ver P6. Fallaron `secretariasenado.gov.co/senado/basedoc/ley_0021_1991.html` (404) y el parser del Gestor (`norma.php?i=37032`).
+
+## Auditoría de coherencia y P16 (2026-09-24)
+
+- [x] 30 artículos cuyo texto entero es «DECLARADO INEXEQUIBLE» (estatutarias 270/1996,
+  134/1994, 130/1994, 137/1994) y ~100 marcas del Gestor sin `<>` («(Derogado Decreto 648 de
+  2017, art 10)», «Suprimido por…») salían vivos: `build.RE_INICIO`.
+- [x] Leyes orgánicas 1454/2011 y 152/1994 cargadas dos veces (ley / ley-organica): se quitó la
+  copia; ALIAS resuelve ley ↔ ley-organica; build avisa «norma duplicada».
+- [x] Fechas «solo el año» (31-dic): toman la fecha del origen cargado; si caen en el futuro
+  quedan como AAAA (surtidas). C-062/2026 no se aplicaba hasta diciembre.
+- [x] Ley 200/1995: estado_general derogada sin arista → `manual:` Ley 734/2002 art. 224
+  deroga_tacitamente (nota de vigencia de senado); build avisa si vuelve a pasar.
+- [x] Senado: `bookmarkaj` vacío con nombre de índice cortaba el artículo (Ley 1429 art. 2,
+  PND 2294 ×56); revisión previa en «Notas de Vigencia» (Ley 1095/2006, C-187/06); «INCONSTITUCIONAL
+  por omisión legislativa» = condicionamiento (C-792/14). Re-ingesta completa de senado.
+- [x] export: advertencia «parte marcada» para artículos vivos con «<Inciso INEXEQUIBLE>».
+- [x] P16 (`./cargar_p16.sh`): 19 leyes de senado + Leyes 29/1982 y 62/1988 (Gestor) con 10-19
+  aristas; sentencias del grafo (`ingesta_relatoria.py --del-grafo`).
+- [!] Sin fuente: `co:ley:28:1932`, `co:ley:45:1936`, `co:ley:39:1985` (ni senado ni Gestor).
+- [ ] 94 decretos origen con 10-19 aristas (reformadores de DUR): Gestor, por ID.
+- [ ] Ley 153/1887 arts. 206, 244, 271, 291: el texto quedó en el epígrafe (encabezados de
+  sección «3. HURTOS Y ESTAFAS.» al final del artículo anterior). No se pierde texto.
