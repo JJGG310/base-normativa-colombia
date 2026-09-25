@@ -579,5 +579,8 @@ la C-067/2026, aún sin publicar en la relatoría).
   artículos: Decretos 1457/2020, 2371/2019, 829/2020, 1736/2012); tras «quedarán así:» los saltos
   grandes son transcritos (Decreto 198/2013, 126/2010); avisa si el encabezado mata la norma.
 - [!] Sin ID en el Gestor: Decretos 939/2017, 617/1954, 982/1996, 1655/1991.
+- [x] Notas de muerte de la norma entera en el encabezado de senado que los artículos no
+  repetían: A.L. 2/2003 (C-816/04), Ley 241/1995 (Ley 418/1997 art. 131), Ley 734/2002 arts.
+  41-43 (completados del Gestor; Ley 1952/2019 art. 265). ingesta_senado ahora avisa.
 - [ ] Ley 153/1887 arts. 206, 244, 271, 291: el texto quedó en el epígrafe (encabezados de
   sección «3. HURTOS Y ESTAFAS.» al final del artículo anterior). No se pierde texto.

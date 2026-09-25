@@ -615,6 +615,16 @@ def main():
 
     print("%d artículos -> %s" % (len(arts), a.salida))
     print("%d cajas leídas, %d aristas -> relaciones.csv" % (len(cajas), len(filas)))
+    # «<NOTA: Esta Ley fue derogada expresamente por…>» antes del artículo 1: la norma entera
+    # murió y a veces los artículos no lo repiten (Ley 241/1995, A.L. 2/2003). Se avisa; la
+    # arista a nivel de norma se pone a mano (manual:), con la cita de la nota.
+    doc = bajar(a.url).split("<!--Fin documento-->")[0]
+    uno = re.search(r'<a (?:class="bookmarkaj" )?name="1"', doc)
+    cab = re.search(r"(NOTA[^>]{0,30}|<)[^<>]{0,40}(derogad[oa]|INEXEQUIBLE)[^<>]{0,200}",
+                    html.unescape(limpiar(doc[:uno.start()] if uno else "")), re.I)
+    if cab:
+        print("Error: nota de vigencia de la norma entera:", " ".join(cab.group(0).split())[:200],
+              "— si los artículos no la repiten, agregar la arista a nivel de norma (manual:)")
     if huerfanas:
         print("%d artículos sin ancla propia en la fuente: rescatados del cuerpo del "
               "anterior, pero SIN sus notas de vigencia (no son atribuibles): %s"
