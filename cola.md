@@ -572,6 +572,12 @@ la C-067/2026, aún sin publicar en la relatoría).
 - [x] P16 (`./cargar_p16.sh`): 19 leyes de senado + Leyes 29/1982 y 62/1988 (Gestor) con 10-19
   aristas; sentencias del grafo (`ingesta_relatoria.py --del-grafo`).
 - [!] Sin fuente: `co:ley:28:1932`, `co:ley:45:1936`, `co:ley:39:1985` (ni senado ni Gestor).
-- [ ] 94 decretos origen con 10-19 aristas (reformadores de DUR): Gestor, por ID.
+- [x] P17 (`./cargar_p17.sh`): 90 decretos origen con 10-19 aristas, del Gestor (IDs verificados
+  contra el encabezado de cada página). Decretos 126/2010 y 2637/2004 (INEXEQUIBLES) y 4222/2006
+  (derogado por el Decreto 113/2022) muertos enteros según el encabezado: aristas `manual:`.
+- [x] ingesta_gestor: el articulado empieza tras «DECRETA» (considerandos que transcriben
+  artículos: Decretos 1457/2020, 2371/2019, 829/2020, 1736/2012); tras «quedarán así:» los saltos
+  grandes son transcritos (Decreto 198/2013, 126/2010); avisa si el encabezado mata la norma.
+- [!] Sin ID en el Gestor: Decretos 939/2017, 617/1954, 982/1996, 1655/1991.
 - [ ] Ley 153/1887 arts. 206, 244, 271, 291: el texto quedó en el epígrafe (encabezados de
   sección «3. HURTOS Y ESTAFAS.» al final del artículo anterior). No se pierde texto.

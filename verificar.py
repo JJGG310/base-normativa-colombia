@@ -48,8 +48,20 @@ def indice_gestor(url, enteros=False):
     from ingesta_gestor import NUM_DUR
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url, enc="utf-8"),
                  flags=re.S | re.I)
-    hs = [(m.group(1), re.sub(r"\s", "", m.group(2)).upper())
-          for m in re.finditer(r"^[ \t]*((?-i:ART[IÍí]CULO|Art[íi]culo))\.?\s+(%s)" % NUM_DUR, limpiar(doc), re.I | re.M)]
+    d = re.search(r"(?<![a-záéíóú])DECRETA\b", doc)   # como ingesta_gestor.articulos
+    doc = doc[d.end():] if d else doc
+    ms = list(re.finditer(r"^[ \t]*((?-i:ART[IÍí]CULO|Art[íi]culo))\.?\s+(%s)(.*)" % NUM_DUR, limpiar(doc), re.I | re.M))
+    hs, previo = [], None
+    for m in ms:
+        n = re.sub(r"\s", "", m.group(2)).upper()
+        # «Artículo 1°. El artículo 8° de la Ley 65 de 1993 quedará así:» — lo que sigue hasta el
+        # siguiente propio es transcrito (Decreto 2636/2004). Solo en numeración entera.
+        if previo and "." not in n and re.search(r":\s*$", previo[1]) and \
+                re.match(r"\d+", n) and int(re.match(r"\d+", n).group()) != previo[0] + 1:
+            continue
+        hs.append((m.group(1), n))
+        if "." not in n and re.match(r"\d+", n):
+            previo = (int(re.match(r"\d+", n).group()), m.group(3))
     # Ley con encabezados mayormente en mayúscula («ARTICULO 4º»): los «Artículo 88.» en minúscula son
     # los del código que transcribe al reformarlo (Ley 62/1988 → Código Electoral).
     if sum(c.isupper() for c, n in hs if "." not in n) > sum(not c.isupper() for c, n in hs if "." not in n):

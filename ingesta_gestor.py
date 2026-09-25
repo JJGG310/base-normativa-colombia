@@ -17,7 +17,7 @@ Dos trampas de esta fuente:
   - Los artículos usan numeración decimal (2.2.1.1.1), no enteros, así que el corte
     y el orden no se pueden reutilizar tal cual de ingesta_senado.
 """
-import argparse, os, re, sys
+import argparse, html, os, re, sys
 from datetime import date
 
 from ingesta_senado import bajar, limpiar, fecha_de, guardar_relaciones, MESES, TIPO_NORMA
@@ -58,6 +58,10 @@ def articulos(doc, enteros=False):
     # El CSS del pie de página quedaba pegado al último artículo de cada decreto.
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I)
     doc = re.split(r"<a[^>]*javascript:history\.back", doc)[0]   # «Volver Atrás» y el pie del sitio
+    # Los considerandos transcriben artículos de otras normas («Artículo 28. Grupo empresarial»
+    # de la Ley 222 en el Decreto 1457/2020): el articulado propio empieza tras «DECRETA».
+    d = re.search(r"(?<![a-záéíóú])DECRETA\b", doc)
+    doc = doc[d.end():] if d else doc
     anclas = list(ANCLA.finditer(doc))
     salida, vistos = [], set()
     # Las normas anteriores a los DUR no traen anclas: solo el encabezado en el texto.
@@ -136,6 +140,9 @@ RE_ART_INLINE = re.compile(r"(?m)^[ \t]*(?-i:ART[IÍí]CULO|Art[íi]culo)\.?\s+(
                            r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 
+RE_TRANSCRIBE = re.compile(r"quedar[áa]n? así|en los siguientes términos|el siguiente texto", re.I)
+
+
 def orden(num):
     return [int(x) for x in re.findall(r"\d+", num)]
 
@@ -153,16 +160,22 @@ def partir(num, epi, texto, decimal=None):
     # Sin número (lo previo a la primera ancla) el estilo lo da quien llama.
     cortes, tope, ult = [], orden(num), num
     decimal = "." in num if decimal is None else decimal
+    ini = 0
     for m in RE_ART_INLINE.finditer(texto):
         n = re.sub(r"\s", "", m.group(1).strip(".")).lower()
         k = orden(n)
+        # El artículo en curso transcribe otros («…los cuales quedarán así:», y entre medio
+        # títulos de capítulo): lo que salte lejos del siguiente propio es transcrito, no solo
+        # el primero (Decreto 198/2013 transcribe los arts. 23-29 del Decreto 171/2001).
+        # Solo saltos grandes: la numeración propia también tiene huecos legítimos (D.L. 2158/1948).
+        citando = texto[:m.start()].rstrip(" \n\"“«").endswith(":") or (
+            tope and k[0] > tope[0] + 5 and RE_TRANSCRIBE.search(texto, ini, m.start()))
         if n == ult or decimal != ("." in n) or (not decimal and (
                 k < tope or (k == tope and n[-1].isdigit())
-                or (texto[:m.start()].rstrip(" \n\"“«").endswith(":")
-                    and tope and k != [tope[0] + 1]))):   # sin tope: «DECRETA:» antes del 1
+                or (citando and tope and k != [tope[0] + 1]))):   # sin tope: «DECRETA:» antes del 1
             continue
         cortes.append(m)
-        tope, ult = k, n
+        tope, ult, ini = k, n, m.end()
     if not cortes:
         return [(num, epi, texto)]
     salida = [(num, epi, texto[:cortes[0].start()].strip())]
@@ -247,6 +260,11 @@ def check():
             "co:decreto:1067:2015:art:2.2.1.1.1") == filas[0][:3], filas[0]
     assert ("co:decreto:484:2026", "deroga",
             "co:decreto:1067:2015:art:2.2.1.1.2") == filas[1][:3], filas[1]
+    t = ("Artículo 3°. Modifícase el capítulo II del Decreto 171 de 2001, los cuales quedarán así:\n"
+         "CAPÍTULO II\nArtículo 23. Permiso. Uno.\nArtículo 24. Otorgamiento. Dos.\n"
+         "Artículo 4°. Modifícase el artículo 43. Tres.\nArtículo 5°. Vigencia. Cuatro.\n")
+    assert [a[0] for a in partir("2", "", "Dos.\n" + t, False)] == ["2", "3", "4", "5"], \
+        "los artículos transcritos tras «quedarán así:» no son propios"
     print("check OK")
 
 
@@ -296,6 +314,13 @@ def main():
     print("%d aristas -> relaciones.csv" % len(filas))
     if sin_parsear:
         print("%d notas no reconocidas (NO se inventaron aristas)" % len(sin_parsear))
+    # «DECRETO 126 DE 2010 (Enero 21) Declarado INEXEQUIBLE…»: la norma entera murió y los
+    # artículos no lo dicen. No se adivina la arista: se avisa para ponerla a mano (manual:).
+    cab = re.search(r"(?:LEY|DECRETO)[^<]{0,40}?\d+\s+DE\s+\d{4}(.{0,400}?)[\"“]?\s*[Pp]or (?:el|la|medio)\b",
+                    " ".join(html.unescape(re.sub(r"<[^>]+>", " ", doc)).split()))
+    if cab and re.search(r"derogad|inexequible", cab.group(1), re.I):
+        print("Error: el encabezado marca la norma entera:", cab.group(1).strip()[:200],
+              "— agregar la arista a nivel de norma (manual:) en relaciones.csv")
 
 
 if __name__ == "__main__":
