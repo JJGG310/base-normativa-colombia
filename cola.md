@@ -620,4 +620,9 @@ la C-067/2026, aún sin publicar en la relatoría).
 - [ ] Ley 270/1996 art. 209b: su cuerpo trae además el «ARTÍCULO NUEVO.» sin número que adicionó
   el art. 25 de la Ley 1285/2009 (control de legalidad); la fuente no le da ancla ni número. Sale
   dentro de un registro MUERTO (omisión conservadora).
+- [x] P19 (`./cargar_p19.sh`): Decretos 777/1992 (i=1454) y 1207/2021 (i=172113); el buscador del
+  Gestor responde «No disponible», los IDs salieron de buscador web y se verificaron contra el
+  encabezado. Decreto 92/2017 (i=78935), cuyo art. 11 deroga el 777/1992 desde el 1-jun-2017.
+- [x] Relatoría 2025-2026: las no publicadas devuelven el cascarón SPA de 8,6 KB (C-067/26, C-196/25);
+  31 fichas pendientes hasta que la Corte las publique.
 - [!] Consejo de Estado: `DescargarProvidenciaPublica` sigue en 403 (reintentado 2026-09-25).
