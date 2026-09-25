@@ -256,6 +256,9 @@ def procesar(url):
                 # CIUDADES AMABLES», name="2.6-IIIII") con ancla de artículo.
                 if re.match(r"\s*\d+(\.\d+)+\s+[^\d\s.]", encabezado):
                     continue
+                # `name="503T">DE LAS ALARMAS.`: subtítulo del Título VIII de la Ley 9/1979.
+                if re.fullmatch(r"\d+T+", nombre, re.I) and not re.search(r"ART|[a-záéíóú]", encabezado):
+                    continue
                 num = num_ancla(nombre, encabezado) if re.match(r"^\d", nombre) else clave(re.match(
                     r"\s*ART[IÍ]CULO\s+(\d+(?:-\d+)?[A-Za-z]?)(?<![oO])", encabezado, re.I).group(1))
             elif "TRANSITORIO" in nombre.upper():

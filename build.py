@@ -26,13 +26,14 @@ PARCIAL = "INEXEQUIBLE EN PARTE — alcance no registrado; verificar en la sente
 # partir del 1o. de enero de 2020, C-481-19>», «<Decreto INEXEQUIBLE>» (la norma cayó entera); el
 # título que lo contiene («<Título II. derogado por el artículo 126 de la Ley 1116 de 2006…>») o la
 # marca a secas («<Derogado por el artículo 353 del Decreto 2737 de 1989>», «<Derogado tácitamente…>»).
-RE_MARCA = re.compile(r"<(?:Art[íi]culo (?:declarado )?(?:derogad[oa]|suprimid[oa]|INEXEQUIBLE)"
+RE_MARCA = re.compile(r"<(?:Art[íi]culo (?:declarado )?(?:derogad[oa]|suprimid[oa]|eliminad[oa]|INEXEQUI?BLE)"
                       r"|(?:Ley|Decreto|Acto Legislativo)(?: [^<>]{1,40}?)? (?:declarad[oa] )?(?:derogad[oa]|INEXEQUIBLE)"
                       r"|(?:T[íi]tulo|Cap[íi]tulo|Libro|Parte|Secci[óo]n)\b[^<>]{0,40}? (?:derogad[oa]|INEXEQUIBLE)"
                       r"|Derogad[oa]\b)[^>]{0,300}>?", re.I)
 # Sin «<>»: el texto entero es la marca («DECLARADO INEXEQUIBLE» en las estatutarias de senado,
-# «Derogado» / «(Derogado Decreto 648 de 2017, art 10)» / «Suprimido por el art. 57…» en el Gestor).
-RE_INICIO = re.compile(r"\s*\(?(?:Art[íi]culo\s+)?(?:declarad[oa]\s+)?(?:INEXEQUIBLE|derogad[oa]|suprimid[oa])"
+# «Derogado» / «(Derogado Decreto 648 de 2017, art 10)» / «Suprimido por el art. 57…» en el Gestor,
+# «(ELIMINADO)» en senado). La fuente también escribe «INEXEQUBLE» (Ley 1150/2007 art. 30).
+RE_INICIO = re.compile(r"\s*\(?(?:Art[íi]culo\s+)?(?:declarad[oa]\s+)?(?:INEXEQUI?BLE|derogad[oa]|suprimid[oa]|eliminad[oa])"
                        r"(?=\s*(?:$|[.,)\n]|por\b|mediante\b|decreto\b|ley\b))[^\n]{0,200}", re.I)
 # El mismo marcador puede venir en el epígrafe (Senado: «Artículo derogado por…»;
 # Gestor: «Comité de seguimiento.(Derogado por el art»).
@@ -220,7 +221,7 @@ def construir(db_path=DB, raiz=RAIZ):
     # (surtida): sin esto una sentencia de este año no surte efecto hasta diciembre.
     hoy = datetime.date.today().isoformat()
     fechas = dict(con.execute("SELECT id, fecha FROM documentos WHERE fecha <> ''"))
-    vistas = set()
+    vistas, anacronicas = set(), 0
 
     csv_path = os.path.join(raiz, "relaciones.csv")
     if os.path.exists(csv_path):
@@ -237,6 +238,19 @@ def construir(db_path=DB, raiz=RAIZ):
                         v[3] = f
                     elif v[3] > hoy:  # la fuente ya la registra: ocurrió, en algún día de ese año
                         v[3] = v[3][:4]
+                # Nadie reforma lo que aún no existe. En un DUR, «(Decreto 2877 de 2001, art. 6;
+                # adicionado por el Decreto 1567 de 2002)» es la procedencia del texto compilado,
+                # y senado anota bajo la ley nueva fallos sobre la predecesora (C-317/96 sobre la
+                # Ley 200 en la 734). Revisión previa: solo estatutarias, u objeciones (< 1 año).
+                fd, po = fechas.get(v[2].split(":art:")[0], ""), v[0].split(":")
+                if fd and v[1] not in ("concordancia", "interpreta") and len(po) > 3 and not v[4].startswith("manual:") and (
+                        po[1] not in ("cc", "ce", "csj") and (f or po[3][:4]) < (fd if f else fd[:4])
+                        or po[1] == "cc" and "estatutaria" not in v[2] and v[3][:4].isdigit()
+                        and v[3] < str(int(fd[:4]) - 1) + fd[4:]):
+                    anacronicas += 1
+                    if po[1] != "cc":
+                        continue
+                    v[1], v[4] = "concordancia", "fallo sobre la norma predecesora de texto análogo: " + v[4]
                 if tuple(v[:5]) in vistas:
                     continue
                 vistas.add(tuple(v[:5]))
@@ -265,6 +279,9 @@ def construir(db_path=DB, raiz=RAIZ):
     for (d,) in con.execute("""SELECT DISTINCT v.doc_id FROM vigencia v JOIN documentos d ON d.id = v.doc_id
             WHERE d.estado_general IN ('derogada', 'inexequible') AND v.estado <> 'MUERTO'"""):
         avisos.append("estado_general muerta pero con artículos vivos (falta la arista): " + d)
+    for (d,) in con.execute("""SELECT v.doc_id FROM vigencia v JOIN documentos d ON d.id = v.doc_id
+            WHERE d.estado_general = 'vigente' GROUP BY v.doc_id HAVING count(*) > 2 AND sum(v.estado <> 'MUERTO') = 0"""):
+        avisos.append("estado_general vigente pero todos sus artículos muertos: " + d)
 
     malas = con.execute("""SELECT COUNT(*) FROM relaciones WHERE fecha <> '' AND fecha NOT GLOB '[0-9][0-9][0-9][0-9]'
         AND fecha NOT GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'""").fetchone()[0]
@@ -283,7 +300,8 @@ def construir(db_path=DB, raiz=RAIZ):
 
     n = lambda t: con.execute("SELECT COUNT(*) FROM " + t).fetchone()[0]
     print("documentos=%d articulos/fichas=%d relaciones=%d origenes_sin_cargar=%d aristas / %d normas"
-          % (n("documentos"), n("fragmentos"), n("relaciones"), len(sin_origen), len(faltan)))
+          " anacronicas_descartadas=%d"
+          % (n("documentos"), n("fragmentos"), n("relaciones"), len(sin_origen), len(faltan), anacronicas))
     if "-v" in sys.argv:
         for k, c in sorted(faltan.items(), key=lambda x: -x[1])[:20]:
             print("  falta %-40s %d aristas" % (k, c))
@@ -325,10 +343,11 @@ def check():
                  "\n## art:25 — Veinticinco\n<Título modificado por el artículo 51 del Decreto 19 de 2012> T.\n"
                  "\n## art:26 — DECLARADO INEXEQUIBLE\nDECLARADO INEXEQUIBLE\n"
                  "\n## art:27 — Veintisiete\n(Derogado Decreto 648 de 2017, art 10)\n"
-                 "\n## art:28 — Veintiocho\nDerogado el inciso 2 del artículo 5 de la Ley 1 de 1990 se aplicará el 3.\n")
+                 "\n## art:28 — Veintiocho\nDerogado el inciso 2 del artículo 5 de la Ley 1 de 1990 se aplicará el 3.\n"
+                 "\n## art:29 — (ELIMINADO)\n(ELIMINADO)\n\n## art:30 — Treinta\n<Artículo INEXEQUBLE>\n")
     with open(tmp + "/normativa/y.md", "w", encoding="utf-8") as fh:
-        fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nramas: [civil]\n"
-                 "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n")
+        fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nfecha: 2005-06-01\nramas: [civil]\n"
+                 "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n\n## art:2 — Dos\nTexto.\n")
     for num, anio in ((7, 2007), (9, 2009)):  # normas enteras derogadas (hoy y en 2099)
         with open(tmp + "/normativa/n%d.md" % num, "w", encoding="utf-8") as fh:
             fh.write("---\nid: co:ley:%d:%d\ntipo: ley\ntitulo: T\nramas: [civil]\nfuente: http://x\n"
@@ -353,7 +372,9 @@ def check():
                  "co:cc:c-481:2019,declara_inexequible,co:ley:1:2000:art:16,2019-10-03,,x\n"
                  "co:ley:2010:2019,modifica,co:ley:1:2000:art:16,2019-12-31,,x\n"
                  "co:cc:c-481:2019,declara_inexequible,co:ley:1:2000:art:17,2019-10-03,,x\n"
-                 "co:ley:1943:2018,modifica,co:ley:1:2000:art:17,2018-12-28,,x\n")
+                 "co:ley:1943:2018,modifica,co:ley:1:2000:art:17,2018-12-28,,x\n"
+                 "co:decreto:1:1990,deroga,co:ley:5:2005:art:2,1990-12-31,,x\n"
+                 "co:cc:c-5:2001,declara_exequible_condicionado,co:ley:5:2005:art:2,2001-01-01,,x\n")
     construir(tmp + "/i.db", tmp)
     con = sqlite3.connect(tmp + "/i.db")
     est = dict(con.execute("SELECT articulo, estado FROM vigencia"))
@@ -369,6 +390,7 @@ def check():
     assert est["co:ley:1:2000:art:7"] == "MUERTO", "marcador + fecha de 2 dígitos no es futura"
     assert est["co:ley:1:2000:art:8"] == "MUERTO", "marcador de derogatoria en el texto"
     assert est["co:ley:1:2000:art:9"] == "VIGENTE", "derogatoria parcial no mata"
+    assert est["co:ley:5:2005:art:2"] == "VIGENTE_REFORMADO", "nadie deroga ni juzga lo que aún no existe"
     assert est["co:ley:1:2000:art:10"] == "VIGENTE", "el marcador de un artículo pegado no cuenta"
     assert est["co:ley:1:2000:art:11"] == "MUERTO", "alias ley-estatutaria -> ley"
     assert est["co:ley:1:2000:art:12"] == "MUERTO", "marcador en el epígrafe (Senado)"
@@ -385,6 +407,7 @@ def check():
     assert est["co:ley:1:2000:art:26"] == "MUERTO", "«DECLARADO INEXEQUIBLE» como texto entero"
     assert est["co:ley:1:2000:art:27"] == "MUERTO", "«(Derogado Decreto …)» del Gestor sin <>"
     assert est["co:ley:1:2000:art:28"] != "MUERTO", "«Derogado el inciso…» es contenido, no marca"
+    assert est["co:ley:1:2000:art:29"] == est["co:ley:1:2000:art:30"] == "MUERTO", "(ELIMINADO) e «INEXEQUBLE» son marcas"
     assert est["co:ley:1:2000:art:15"] == "MUERTO", "marcador «(Derogado por» en el epígrafe (Gestor)"
     assert est["co:ley:1:2000:art:16"] == "VIGENTE_REFORMADO", "reforma posterior a la sentencia: sin aviso en parte"
     assert est["co:ley:1:2000:art:17"] == "VIGENTE_CONDICIONADO", "reforma anterior a la sentencia: aviso sigue"

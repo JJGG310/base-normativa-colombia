@@ -20,7 +20,7 @@ def indice_fuente(url):
 
     El normograma de la DIAN no trae selector: ahí el índice son los encabezados."""
     from ingesta_senado import limpiar
-    nums, encabezados = set(), set()
+    nums, encabezados, subtitulos = set(), set(), set()
     for _, doc in paginas(url):
         for ancla, etiqueta in OPCION.findall(doc):
             if re.fullmatch(r"\d+[A-Za-z]?", etiqueta):
@@ -36,10 +36,13 @@ def indice_fuente(url):
             if h and not re.match(r"\d|transitorio", m.group(1), re.I):
                 nums.add(h.group(1).upper())
         nums = {n for n in nums if not re.fullmatch(r"\d+F", n)}   # Ley 1/1980 dentro del C.Co.
+        # «503T» = subtítulo «DE LAS ALARMAS.» (Ley 9/1979): el selector lo lista, no es artículo.
+        subtitulos |= {m.group(1).upper() for m in ANCLA.finditer(doc) if re.fullmatch(r"\d+T+", m.group(1), re.I)
+                 and not re.search(r"ART|[a-záéíóú]", limpiar(m.group(2)))}
         # "ARTÍCULO 1o." es el artículo 1: la `o` es el ordinal, no un sufijo.
         encabezados |= {re.sub(r"(?<=\d)[OºO°]$", "", m.group(1).upper()) for m in
                         re.finditer(r"(?im)^ART[IÍ]CULO\s+(\d+[A-Za-z]?)", limpiar(doc))}
-    return nums or encabezados
+    return (nums - subtitulos) or encabezados
 
 
 def indice_gestor(url, enteros=False):

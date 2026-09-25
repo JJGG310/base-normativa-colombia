@@ -5,7 +5,7 @@ titulo: Decreto 2158 de 1948 - Código Procesal del Trabajo y de la Seguridad So
 titulo_corto: CPTSS
 fecha: 1948-06-24
 ramas: [laboral, procesal, seguridad-social]
-estado_general: vigente
+estado_general: derogada
 afectaciones: cargadas
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259
 verificado: 2026-09-23

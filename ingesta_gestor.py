@@ -39,6 +39,12 @@ RE_AFECTA = re.compile(
     r"(%s)\s+por\s+(?:el\s+)?(?:art[íi]?c?u?l?o?s?\.?\s*([\d\.]+)\s*,?\s*d?e?l?\s*)?"
     r"(Decreto|Ley|Resoluci[óo]n)\s+([\d\.]+)\s+de\s+(\d{4})" % "|".join(ACCION), re.I)
 
+RE_PARTE = re.compile(r"(?:inciso|numeral|literal|par[áa]grafo|aparte|expresi[óo]n|ordinal|subrayad|tachad"
+                      r"|frase|palabra|parcialmente)[^.;()\n]*$", re.I)
+
+# EOSF: «6. Delegaciones para ordenar gastos. Derogado por el art. 123, Ley 510 de 1999».
+RE_NUMERAL = re.compile(r"(?:^|\n|\.\s)\s*\d+[a-z]?\.\s+[^.\n]{2,120}\.\s*$")
+
 
 def fecha_norma(doc):
     """El Gestor no publica la línea del Diario Oficial, pero sí la fecha junto al
@@ -202,7 +208,14 @@ def aristas(arts, id_norma, fuente):
             if art_org:
                 origen += ":art:" + art_org.strip(".")
             f, nota = fecha_de(texto[m.start():m.start() + 220], anio)
-            filas.append((origen, ACCION[accion.lower()], destino, f, nota, fuente))
+            tipo_a = ACCION[accion.lower()]
+            # «Texto subrayado, derogado por…», «Numeral 3 derogado por…»: cae una parte, no
+            # el artículo (EOSF art. 75). Mismo criterio que senado: modifica + nota.
+            if tipo_a == "deroga" and (RE_PARTE.search(texto, max(0, m.start() - 120), m.start())
+                                       or RE_NUMERAL.search(texto[max(0, m.start() - 200):m.start()])):
+                tipo_a, nota = "modifica", "; ".join(x for x in (nota, "derogación parcial: " + " ".join(
+                    texto[max(0, m.start() - 60):m.end()].split())) if x)
+            filas.append((origen, tipo_a, destino, f, nota, fuente))
         if re.search(r"\b(?:Modificad|Adicionad|Derogad)", texto) and not RE_AFECTA.search(texto):
             sin_parsear.append((destino, texto[:100]))
     vistos, unicas = set(), []
@@ -239,6 +252,10 @@ def check():
     f, _ = aristas([("1", "", "Modificado por el art. 1, Ley 712 de 2001. Aplicación.")],
                    "co:decreto:2158:1948", "x")
     assert f[0][:3] == ("co:ley:712:2001:art:1", "modifica", "co:decreto:2158:1948:art:1"), f
+    f, _ = aristas([("75", "", "1. Regla. No podrán pertenecer. Texto subrayado, derogado por el art. 123, "
+                          "Ley 510 de 1999. Otro. (Derogado por el art. 2, Ley 9 de 2000)\n6. Delegaciones. Derogado por "
+                          "el art. 123, Ley 511 de 1999. El Ministerio")], "co:decreto:663:1993", "x")
+    assert [x[1] for x in f] == ["modifica", "deroga", "modifica"] and "parcial" in f[0][4], f
 
     # Transcripción de artículos de otra norma dentro de uno propio (CPTSS art. 152).
     r = partir("", "", "ARTICULO 152. Conflictos. D.L. 528/64\nARTICULO 13. Corresponde a...\n"

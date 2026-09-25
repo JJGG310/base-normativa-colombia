@@ -4,7 +4,7 @@ tipo: acto-legislativo
 titulo: Acto Legislativo 2 de 2003 - Por medio del cual se modifican los artículos 15 , 24 , 28 y 250 de la Constitución Política de Colombia para enfrentar el terrorismo
 fecha: 2003-12-19
 ramas: [constitucional]
-estado_general: vigente
+estado_general: inexequible
 afectaciones: pendiente
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2003.html
 verificado: 2026-09-24

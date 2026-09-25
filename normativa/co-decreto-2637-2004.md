@@ -4,7 +4,7 @@ tipo: decreto
 titulo: Decreto 2637 de 2004 - Por el cual se desarrolla el Acto Legislativo número 03 de 2002
 fecha: 2004-08-19
 ramas: [constitucional,procesal,administrativo]
-estado_general: vigente
+estado_general: inexequible
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14621
 verificado: 2026-09-24

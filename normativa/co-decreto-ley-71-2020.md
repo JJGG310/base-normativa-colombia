@@ -4,7 +4,7 @@ tipo: decreto-ley
 titulo: Decreto Ley 71 de 2020 - Por el cual se establece y regula el Sistema Específico de Carrera de los empleados públicos de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, y se expiden normas relacionadas con la administración y gestión del talento humano de la DIAN
 fecha: 2020-01-24
 ramas: [administrativo, laboral]
-estado_general: vigente
+estado_general: derogada
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_0071_2020.html
 verificado: 2026-09-24

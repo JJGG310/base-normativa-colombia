@@ -4,7 +4,7 @@ tipo: decreto
 titulo: Decreto 4222 de 2006 - Por el cual se modifica parcialmente la estructura del Ministerio de Defensa Nacional
 fecha: 2006-11-23
 ramas: [defensa,administrativo]
-estado_general: vigente
+estado_general: derogada
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=66480
 verificado: 2026-09-24

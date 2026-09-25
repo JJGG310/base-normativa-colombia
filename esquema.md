@@ -103,7 +103,7 @@ deberá reunir los siguientes requisitos:
 | `titulo_corto` | no | Como se cita en la práctica: `CGP`, `CPACA`, `CST` |
 | `fecha` | sí | `AAAA-MM-DD` de expedición |
 | `ramas` | sí | Lista, ver §5 |
-| `estado_general` | sí | `vigente`, `derogada`, `subrogada`, `compilada` — solo de la norma como un todo; la vigencia por artículo se calcula |
+| `estado_general` | sí | `vigente`, `derogada`, `inexequible`, `subrogada`, `compilada` — solo de la norma como un todo; la vigencia por artículo se calcula |
 | `fuente` | sí | URL exacta de donde se obtuvo el texto |
 | `verificado` | sí | `AAAA-MM-DD` en que se cotejó contra la fuente |
 | `afectaciones` | sí | `pendiente` o `cargadas`. Mientras esté `pendiente`, **todos** sus artículos se exportan como `VIGENCIA_NO_VERIFICADA` |

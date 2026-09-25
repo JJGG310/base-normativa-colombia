@@ -25,7 +25,8 @@ ADVERTENCIA = {
     "VIGENTE": None,
     "INEXEQUIBLE_PARCIAL": "NO APLICAR SIN VERIFICAR. Una sentencia declaró inexequible parte de este artículo y la base no registra qué apartes cayeron: el texto aquí puede incluir partes ya retiradas del ordenamiento. Consultar la sentencia (ver `condicionamiento`) antes de aplicar.",
     "TACHADO": "El texto contiene apartes [TACHADO: …]: la fuente los publica tachados porque ya no rigen (inexequibles, nulos o derogados). Se conservan para que la cita sea completa; no aplicarlos.",
-    "PARTE_MARCADA": "El texto trae marcas de la fuente del tipo «<Inciso INEXEQUIBLE>» o «<Inciso derogado por…>»: la parte marcada ya no rige aunque el artículo siga vigente; no aplicarla.",
+    "PARTE_MARCADA": "El texto incluye una parte marcada que ya no rige: la fuente la señala como derogada o inexequible («<Inciso INEXEQUIBLE>», «Texto subrayado, derogado por…», o una derogación parcial en `afectado_por`). El artículo sigue vigente, pero esa parte no se aplica.",
+    "SIN_TEXTO_PROPIO": "SIN TEXTO PROPIO. La fuente no publica contenido para este artículo, solo la nota entre «<>» (sustituido o subrogado por otra norma, incorporado en un estatuto, desplazado por norma comunitaria…). No citarlo como regla: la disposición aplicable es la que la nota señala.",
     "SIN_TEXTO": "SOLO METADATOS, SIN TEXTO VERIFICADO. No se obtuvo el texto de la providencia; este registro no dice qué se decidió ni con qué razones. No citarlo como fundamento sin leerlo en la fuente.",
     "VIGENCIA_NO_VERIFICADA": "VERIFICAR ANTES DE USAR. De esta norma todavía no se cargó el rastro de reformas y derogatorias, así que no consta que el artículo siga vigente ni que este sea su texto actual. La ausencia de afectaciones registradas no es prueba de vigencia.",
 }
@@ -65,8 +66,11 @@ def exportar(ramas=(), salida=None):
                 and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado)
             if estado != "MUERTO" and "[TACHADO:" in f["texto"]:
                 adv = " ".join(filter(None, (adv, ADVERTENCIA["TACHADO"])))
-            if estado != "MUERTO" and RE_PARTE.search(f["texto"]):
+            if estado != "MUERTO" and (RE_PARTE.search(f["texto"]) or con.execute(  # Gestor: «Texto subrayado, derogado por…»
+                    "SELECT 1 FROM relaciones WHERE destino = ? AND nota LIKE '%derogación parcial%'", (f["id"],)).fetchone()):
                 adv = " ".join(filter(None, (adv, ADVERTENCIA["PARTE_MARCADA"])))
+            if estado != "MUERTO" and f["clave"].startswith("art:") and len(re.sub(r"<[^<>]*>", "", f["texto"]).strip(" .\n")) < 3:
+                adv = " ".join(filter(None, (ADVERTENCIA["SIN_TEXTO_PROPIO"], adv)))
             if f["clase"] == "jurisprudencia" and "No se pudo bajar el texto" in f["texto"]:
                 adv = ADVERTENCIA["SIN_TEXTO"]  # fichas del Consejo de Estado sin texto (SAMAI 403)
             reg = {
@@ -129,7 +133,8 @@ def check():
         "---\nid: co:ley:1:2000\ntipo: ley\ntitulo: Ley Uno\nramas: [civil]\n"
         "fuente: http://x\nverificado: 2026-01-01\nafectaciones: cargadas\n---\n\n## art:1 — Uno\nTexto.\n"
         "\n## art:2 — Dos\n<Artículo INEXEQUIBLE>\n\n## art:3 — Tres\nTexto tres.\n"
-        "\n## art:4 — Cuatro\nVive. <Aparte tachado INEXEQUIBLE> [TACHADO: cayó]\n")
+        "\n## art:4 — Cuatro\nVive. <Aparte tachado INEXEQUIBLE> [TACHADO: cayó]\n"
+        "\n## art:5 — Cinco\n<Artículo sustituido por los artículos 1o. a 23 del Decreto 919 de 1989>.\n")
     open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8").write(
         "---\nid: co:ce:1:2022\ntipo: sentencia\ncorporacion: consejo-estado\nponente: P\nramas: [administrativo]\n"
         "fuente: http://x\nverificado: 2026-01-01\n---\n\n## ficha\nActor: X\n**No se pudo bajar el texto íntegro**.\n")
@@ -153,6 +158,7 @@ def check():
     assert "parte" in regs[2]["advertencia"], "inexequible parcial debe salir advertido"
     assert "TACHADO" in regs[3]["advertencia"], "texto tachado debe salir advertido"
     assert "parte marcada" in regs[3]["advertencia"], "marca <Aparte … INEXEQUIBLE> debe salir advertida"
+    assert "SIN TEXTO PROPIO" in regs[4]["advertencia"], "artículo que solo trae la nota de la fuente"
     assert "SOLO METADATOS" in ficha["advertencia"] and ficha["corporacion"] == "consejo-estado", ficha
     shutil.rmtree(tmp)
     RAIZ = os.path.dirname(os.path.abspath(__file__))

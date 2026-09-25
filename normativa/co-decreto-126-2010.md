@@ -4,7 +4,7 @@ tipo: decreto
 titulo: Decreto 126 de 2010 - Por el cual se dictan disposiciones en materia de Inspección, Vigilancia y Control, de lucha contra la corrupción en el Sistema General de Seguridad Social en Salud, se adoptan medidas disciplinarias, penales y se dictan otras disposiciones
 fecha: 2010-01-21
 ramas: [penal]
-estado_general: vigente
+estado_general: inexequible
 afectaciones: pendiente
 fuente: https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38664
 verificado: 2026-09-24

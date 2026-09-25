@@ -4,7 +4,7 @@ tipo: acto-legislativo
 titulo: Acto Legislativo 2 de 2012 - Por el cual se reforman los artículos 116 , 152 y 221 de la Constitución Política de Colombia
 fecha: 2012-12-28
 ramas: [constitucional]
-estado_general: vigente
+estado_general: inexequible
 afectaciones: pendiente
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2012.html
 verificado: 2026-09-24

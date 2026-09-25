@@ -4,7 +4,7 @@ tipo: decreto-ley
 titulo: Decreto 266 de 2000 - Por el cual se dictan normas para suprimir y reformar las regulaciones, trámites y procedimientos (declarado INEXEQUIBLE)
 fecha: 2000-02-22
 ramas: [administrativo]
-estado_general: vigente
+estado_general: inexequible
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_0266_2000.html
 verificado: 2026-09-24

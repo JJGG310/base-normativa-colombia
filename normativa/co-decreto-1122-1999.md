@@ -4,7 +4,7 @@ tipo: decreto-ley
 titulo: Decreto 1122 de 1999 - Por el cual se dictan normas para suprimir trámites, facilitar la actividad de los ciudadanos, contribuir a la eficiencia y eficacia de la Administración Pública y fortalecer el principio de la buena fe
 fecha: 1999-06-29
 ramas: [administrativo]
-estado_general: vigente
+estado_general: inexequible
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_1122_1999.html
 verificado: 2026-09-24
