@@ -230,7 +230,7 @@ def procesar(url):
         # uno vacío `name="1-A"` bajo el título del art. 9 (Ley 1418/2010); «60A» vacío sí abre.
         anclas = [m for m in ANCLA.finditer(doc)
                   if not re.fullmatch(r"\d+f", m.group(1)) and (
-                      ("bookmarkaj" in m.group(0) and (limpiar(m.group(2)).strip() or re.fullmatch(r"\d+[A-Za-z]*", m.group(1))))
+                      ("bookmarkaj" in m.group(0) and (limpiar(m.group(2)).strip() or re.fullmatch(r"\d+[A-Za-z]*|NUEVO", m.group(1))))
                       or re.match(r"\s*ART", limpiar(m.group(2)), re.I))]
         # «…quedará así:» seguido de «CAPITULO III.» y «ARTICULO 437.» es la transcripción de
         # otra norma (Ley 39/1985 reescribiendo el CST), no un capítulo propio: contarlo cortaba
@@ -287,6 +287,10 @@ def procesar(url):
                     continue
                 num = num_ancla(nombre, encabezado) if re.match(r"^\d", nombre) else clave(re.match(
                     r"\s*ART[IÍ]CULO\s+(\d+(?:-\d+)?[A-Za-z]?)(?<![oO])", encabezado, re.I).group(1))
+            elif nombre == "NUEVO":
+                # «ARTÍCULO NUEVO.» sin número (Ley 270/1996, adicionado por la Ley 1285/2009 art.
+                # 25): la fuente no le da número y no se le inventa uno.
+                num = "nuevo"
             elif "TRANSITORIO" in nombre.upper():
                 # Los transitorios de los Actos Legislativos (JEP, curules de paz)
                 # son derecho vigente; el nombre del ancla dice cuál AL los agregó.

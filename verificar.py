@@ -92,6 +92,14 @@ def revisar(ruta):
     if re.search(r"secretariasenado|normograma\.dian|creg\.gov|cancilleria\.gov|colpensiones\.gov"
                  r"|jurinfo\.jep|normograma\.sena", fuente.group(1)):
         fuente_nums = indice_fuente(fuente.group(1))
+    elif "suin-juriscol" in fuente.group(1):
+        # SUIN encierra cada artículo en un `<div id="toggle_N">` (y nada más): se cuentan esos
+        # bloques, sin pasar por el parser; faltan/sobran se reportan como números.
+        doc = bajar(fuente.group(1))
+        n = len(set(re.findall(r'<div id="toggle_(\d+)">', doc)))
+        print("%-46s %4d arts · bloques %4d · faltan %d" % (os.path.basename(ruta), len(propios), n,
+                                                          max(0, n - len(propios))))
+        return max(0, n - len(propios))
     elif "funcionpublica" in fuente.group(1):
         fuente_nums = indice_gestor(fuente.group(1), propios and not any("." in n for n in propios))
     else:

@@ -132,6 +132,11 @@ def articulos(doc, enteros=False):
     partes = []
     for art in salida:
         for a in partir(*art):
+            # «ARTÍCULO 206. Queda así adicionado… del Código Penal.» seguido de «3. HURTOS Y
+            # ESTAFAS.» (Ley 153/1887): el «epígrafe» es el texto entero y el cuerpo es el
+            # encabezado de la sección siguiente, que no es texto del artículo.
+            if a[1] and all(RE_SECCION.match(l.strip()) for l in a[2].split("\n") if l.strip()):
+                a = (a[0], "", a[1] + ".")
             if a[0] in vistos or not a[2]:
                 continue
             vistos.add(a[0])
@@ -149,6 +154,7 @@ RE_ART_INLINE = re.compile(r"(?m)^[ \t]*(?-i:ART[IÍí]CULO|Art[íi]culo)(?:[ \t
                            r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 
+RE_SECCION = re.compile(r"^(?:[IVXLC]+|\d+)\.\s+[^a-záéíóúñ]{3,80}$")
 RE_TRANSCRIBE = re.compile(r"quedar[áa]n? así|en los siguientes términos|el siguiente texto", re.I)
 
 

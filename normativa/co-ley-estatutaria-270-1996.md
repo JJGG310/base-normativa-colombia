@@ -2691,9 +2691,12 @@ ARTÍCULO NUEVO <209A>. <Artículo derogado por el artículo 626 de la Ley 1564 
 ## art:209b — 
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
 
-ARTÍCULO NUEVO <209B>. <Artículo derogado por el artículo 626 de la Ley 1564 de 2012> 
+ARTÍCULO NUEVO <209B>. <Artículo derogado por el artículo 626 de la Ley 1564 de 2012>
 
-ARTÍCULO NUEVO. <Artículo adicionado por el artículo 25 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Agotada cada etapa del proceso, el Juez ejercerá el control de legalidad para sanear los vicios que acarrean nulidades dentro del proceso, los cuales, salvo que se trate de hechos nuevos, no se podrán alegar en las etapas siguientes en aras de evitar dilaciones injustificadas.
+## art:nuevo — ARTÍCULO NUEVO
+ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
+
+<Artículo adicionado por el artículo 25 de la Ley 1285 de 2009. El nuevo texto es el siguiente:> Agotada cada etapa del proceso, el Juez ejercerá el control de legalidad para sanear los vicios que acarrean nulidades dentro del proceso, los cuales, salvo que se trate de hechos nuevos, no se podrán alegar en las etapas siguientes en aras de evitar dilaciones injustificadas.
 
 ## art:210 — VIGENCIA
 ubicacion: TÍTULO VII. DEL EJERCICIO DE LA FUNCIÓN JURISDICCIONAL POR PARTE DEL CONGRESO DE LA REPÚBLICA
