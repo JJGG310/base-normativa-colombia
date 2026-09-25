@@ -87,9 +87,10 @@ def revisar(ruta):
     if not fuente:
         return None
     propios = {n.upper() for n in re.findall(r"^## art:(\S+)", texto, re.M)}
-    # El normograma de la DIAN lo publica el mismo proveedor que senado: mismo
-    # selector de artículos, mismo formato.
-    if "secretariasenado" in fuente.group(1) or "normograma.dian" in fuente.group(1):
+    # Los normogramas de DIAN, CREG, Cancillería, Colpensiones, JEP y SENA los publica el
+    # mismo proveedor que senado (Avance Jurídico): mismo selector, mismo formato.
+    if re.search(r"secretariasenado|normograma\.dian|creg\.gov|cancilleria\.gov|colpensiones\.gov"
+                 r"|jurinfo\.jep|normograma\.sena", fuente.group(1)):
         fuente_nums = indice_fuente(fuente.group(1))
     elif "funcionpublica" in fuente.group(1):
         fuente_nums = indice_gestor(fuente.group(1), propios and not any("." in n for n in propios))

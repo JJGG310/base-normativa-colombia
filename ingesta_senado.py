@@ -114,6 +114,17 @@ def bajar(url, obligatorio=True, enc="iso-8859-1"):
                 break
         except Exception as e:
             ultimo = e
+            # Cancillería solo habla TLS viejo que el ssl de Python rechaza
+            # (TLSV1_ALERT_PROTOCOL_VERSION); curl sí negocia.
+            if "TLS" in str(e) or "SSL" in str(e):
+                import subprocess
+                r = subprocess.run(["curl", "-sL", "-A", UA["User-Agent"], "--max-time", "90", url],
+                                   capture_output=True)
+                doc = r.stdout.decode(enc, "replace")
+                if len(doc) > 500:
+                    with open(ruta, "w", encoding="utf-8") as fh:
+                        fh.write(doc)
+                    return doc
         # La fuente corta la red (ENETUNREACH) tras muchas descargas seguidas y tarda
         # en soltar: esperar 2s no alcanzaba y tumbaba el resto de la tanda.
         time.sleep(20 * (intento + 1))
@@ -221,6 +232,12 @@ def procesar(url):
                   if not re.fullmatch(r"\d+f", m.group(1)) and (
                       ("bookmarkaj" in m.group(0) and (limpiar(m.group(2)).strip() or re.fullmatch(r"\d+[A-Za-z]*", m.group(1))))
                       or re.match(r"\s*ART", limpiar(m.group(2)), re.I))]
+        # «…quedará así:» seguido de «CAPITULO III.» y «ARTICULO 437.» es la transcripción de
+        # otra norma (Ley 39/1985 reescribiendo el CST), no un capítulo propio: contarlo cortaba
+        # el artículo reformatorio y creaba un «art. 437» de la ley.
+        anclas = [m for k, m in enumerate(anclas) if not (
+            k and re.match(r"\s*(T[IÍ]TULO|CAP[IÍ]TULO|LIBRO)", limpiar(m.group(2)), re.I)
+            and re.search(r"quedar[áa]n?\s+as[íi]\b[^.]{0,120}:$", limpiar(doc[anclas[k - 1].end():m.start()]).rstrip(" \n\"“«"), re.I))]
         for k, m in enumerate(anclas):
             nombre = m.group(1).strip()
             encabezado = limpiar(m.group(2))
@@ -614,8 +631,12 @@ def main():
     fm += ["fecha: " + fecha, "ramas: [%s]" % a.ramas, "estado_general: " + a.estado,
            # Cajas de vigencia leídas pero ninguna arista (DIAN, Decreto 1643/1991: «Se fusiona la
            # DIN…» en cada artículo): el rastro no se entendió, no es que no haya cambios.
-           "afectaciones: " + ("cargadas" if filas or cajas and not any(
-               "igencia" in c[1] for c in cajas) else "pendiente"),
+           # Los normogramas de otras entidades avisan «<NOTA: Esta norma no incluye análisis de
+           # vigencia [completo]>»: sin aristas no es sin cambios.
+           "afectaciones: " + ("cargadas" if (filas or cajas and not any(
+               "igencia" in c[1] for c in cajas)) and not re.search(
+               r"no incluye an.lisis de vigencia", html.unescape(bajar(a.url)[:60000]), re.I)
+               else "pendiente"),
            "fuente: " + a.url, "verificado: " + date.today().isoformat(), "---", ""]
     for num, epi, ubicacion, txt in arts:
         fm.append("## art:%s — %s" % (num, epi))

@@ -315,6 +315,13 @@ En orden de preferencia. Se prefiere siempre la de arriba disponible.
 | 5 | **Corte Suprema** (cortesuprema.gov.co) | Casación civil, penal, laboral |
 | 6 | **Consejo de Estado** (consejodeestado.gov.co) | Nulidad, contencioso |
 | 7 | **Diario Oficial / Imprenta Nacional** | Texto original cuando hay duda |
+| 8 | **CENDOJ — Rama Judicial** (jurisprudencia.ramajudicial.gov.co/WebRelatoria) | Texto íntegro (PDF público) del Consejo de Estado, la CSJ y la CC |
+| 9 | **Normogramas oficiales de otras entidades** en la plataforma Avance Jurídico (CREG, Cancillería, Colpensiones, JEP, SENA) | Normas que senado y el Gestor no tienen. Mismo formato que senado |
+| 10 | **SUIN-Juriscol vía archive.org** (capturas de `viewDocument.asp`) | Normas sin otra fuente. `verificado` = fecha de la captura, no la de hoy |
+| 11 | **SISJUR — Alcaldía de Bogotá** (alcaldiabogota.gov.co/sisjur) | Normas nacionales que solo están ahí |
+
+Las fuentes 8-11 se admitieron el 2026-09-25. Solo se usan cuando las de arriba no
+tienen la norma; `fuente` en el frontmatter lleva la URL exacta.
 
 Fuentes **no** admitidas como origen de texto: blogs, resúmenes de firmas, wikis,
 y el conocimiento previo del modelo. Sirven para *encontrar* qué buscar, nunca para
