@@ -65,9 +65,6 @@ run http://www.secretariasenado.gov.co/senado/basedoc/ley_1185_2008.html --minim
 run http://www.secretariasenado.gov.co/senado/basedoc/ley_1236_2008.html --minimo 1 --id co:ley:1236:2008 --tipo ley \
     --titulo "Ley 1236 de 2008 - Por medio de la cual se modifican algunos artículos del Código Penal relativos a delitos de abuso sexual" \
     --ramas "penal" --salida normativa/co-ley-1236-2008.md
-run http://www.secretariasenado.gov.co/senado/basedoc/ley_1454_2011.html --minimo 1 --id co:ley:1454:2011 --tipo ley \
-    --titulo "Ley 1454 de 2011 - Por la cual se dictan normas orgánicas sobre ordenamiento territorial y se modifican otras disposiciones" \
-    --ramas "territorial, administrativo" --salida normativa/co-ley-1454-2011.md
 run http://www.secretariasenado.gov.co/senado/basedoc/ley_0300_1996.html --minimo 1 --id co:ley:300:1996 --tipo ley \
     --titulo "Ley 300 de 1996 - Por la cual se expide la Ley General de Turismo y se dictan otras disposiciones" \
     --ramas "comercial, administrativo" --salida normativa/co-ley-300-1996.md
@@ -80,9 +77,6 @@ run http://www.secretariasenado.gov.co/senado/basedoc/ley_1106_2006.html --minim
 run http://www.secretariasenado.gov.co/senado/basedoc/ley_1393_2010.html --minimo 1 --id co:ley:1393:2010 --tipo ley \
     --titulo "Ley 1393 de 2010 - Por la cual se definen rentas de destinación específica para la salud, se adoptan medidas para promover actividades generadoras de recursos para la salud, para evitar la evasión y la elusión de aportes a la salud, se redireccionan recursos al interior del sistema de salud y se dictan otras disposiciones" \
     --ramas "salud, tributario" --salida normativa/co-ley-1393-2010.md
-run http://www.secretariasenado.gov.co/senado/basedoc/ley_0152_1994.html --minimo 1 --id co:ley:152:1994 --tipo ley \
-    --titulo "Ley 152 de 1994 - Por la cual se establece la Ley Orgánica del Plan de Desarrollo" \
-    --ramas "administrativo, territorial" --salida normativa/co-ley-152-1994.md
 run http://www.secretariasenado.gov.co/senado/basedoc/ley_1765_2015.html --minimo 1 --id co:ley:1765:2015 --tipo ley \
     --titulo "Ley 1765 de 2015 - Por la cual se reestructura la Justicia Penal Militar y Policial, se establecen requisitos para el desempeño de sus cargos, se implementa su Fiscalía General Penal Militar y Policial y se organiza su cuerpo técnico de investigación" \
     --ramas "penal-militar, penal" --salida normativa/co-ley-1765-2015.md

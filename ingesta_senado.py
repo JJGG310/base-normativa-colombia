@@ -210,8 +210,11 @@ def procesar(url):
         # Las anclas sin clase solo cuentan si son artículos: las hay de índice
         # ("LIBRO I", "TITULO I.") incrustadas a mitad de un artículo. Las `1f`…`6f`
         # del C.Co. son la Ley 1 de 1980 que el editor transcribe: otra norma.
+        # Un `bookmarkaj` vacío con nombre de índice («TÍTULO I» a mitad del art. 2 de la Ley
+        # 1429/2010, 56 en el PND 2294/2023) no abre nada: contarlo cortaba el artículo ahí.
         anclas = [m for m in ANCLA.finditer(doc)
-                  if not re.fullmatch(r"\d+f", m.group(1)) and ("bookmarkaj" in m.group(0)
+                  if not re.fullmatch(r"\d+f", m.group(1)) and (
+                      ("bookmarkaj" in m.group(0) and (limpiar(m.group(2)).strip() or re.match(r"\d", m.group(1))))
                       or re.match(r"\s*ART", limpiar(m.group(2)), re.I))]
         for k, m in enumerate(anclas):
             nombre = m.group(1).strip()

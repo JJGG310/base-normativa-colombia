@@ -10,10 +10,12 @@ condicionado, la advertencia viaja dentro del registro. Es la única defensa con
 que una IA cite un artículo derogado — el chunk no siempre llega acompañado de su
 norma, pero siempre llega acompañado de su advertencia.
 """
-import json, sqlite3, sys, os
+import json, re, sqlite3, sys, os
 import build
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
+
+RE_PARTE = re.compile(r"<[^<>]{0,150}(?:INEXEQUIBLE|[Dd]erogad[oa])[^<>]{0,300}>")
 
 ADVERTENCIA = {
     "MUERTO": "NO APLICAR. Este artículo fue derogado o declarado inexequible. Se conserva solo por valor histórico y para resolver casos regidos por la ley anterior.",
@@ -23,6 +25,7 @@ ADVERTENCIA = {
     "VIGENTE": None,
     "INEXEQUIBLE_PARCIAL": "NO APLICAR SIN VERIFICAR. Una sentencia declaró inexequible parte de este artículo y la base no registra qué apartes cayeron: el texto aquí puede incluir partes ya retiradas del ordenamiento. Consultar la sentencia (ver `condicionamiento`) antes de aplicar.",
     "TACHADO": "El texto contiene apartes [TACHADO: …]: la fuente los publica tachados porque ya no rigen (inexequibles, nulos o derogados). Se conservan para que la cita sea completa; no aplicarlos.",
+    "PARTE_MARCADA": "El texto trae marcas de la fuente del tipo «<Inciso INEXEQUIBLE>» o «<Inciso derogado por…>»: la parte marcada ya no rige aunque el artículo siga vigente; no aplicarla.",
     "SIN_TEXTO": "SOLO METADATOS, SIN TEXTO VERIFICADO. No se obtuvo el texto de la providencia; este registro no dice qué se decidió ni con qué razones. No citarlo como fundamento sin leerlo en la fuente.",
     "VIGENCIA_NO_VERIFICADA": "VERIFICAR ANTES DE USAR. De esta norma todavía no se cargó el rastro de reformas y derogatorias, así que no consta que el artículo siga vigente ni que este sea su texto actual. La ausencia de afectaciones registradas no es prueba de vigencia.",
 }
@@ -62,6 +65,8 @@ def exportar(ramas=(), salida=None):
                 and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado)
             if estado != "MUERTO" and "[TACHADO:" in f["texto"]:
                 adv = " ".join(filter(None, (adv, ADVERTENCIA["TACHADO"])))
+            if estado != "MUERTO" and RE_PARTE.search(f["texto"]):
+                adv = " ".join(filter(None, (adv, ADVERTENCIA["PARTE_MARCADA"])))
             if f["clase"] == "jurisprudencia" and "No se pudo bajar el texto" in f["texto"]:
                 adv = ADVERTENCIA["SIN_TEXTO"]  # fichas del Consejo de Estado sin texto (SAMAI 403)
             reg = {
@@ -147,6 +152,7 @@ def check():
     assert regs[1]["estado"] == "MUERTO", "marcador <Artículo INEXEQUIBLE> en el texto"
     assert "parte" in regs[2]["advertencia"], "inexequible parcial debe salir advertido"
     assert "TACHADO" in regs[3]["advertencia"], "texto tachado debe salir advertido"
+    assert "parte marcada" in regs[3]["advertencia"], "marca <Aparte … INEXEQUIBLE> debe salir advertida"
     assert "SOLO METADATOS" in ficha["advertencia"] and ficha["corporacion"] == "consejo-estado", ficha
     shutil.rmtree(tmp)
     RAIZ = os.path.dirname(os.path.abspath(__file__))

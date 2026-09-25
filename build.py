@@ -5,7 +5,7 @@
     python3 build.py -v       # + top 20 normas origen de aristas que faltan por cargar
     python3 build.py --check  # autotest
 """
-import csv, datetime, os, re, sqlite3, sys, glob
+import collections, csv, datetime, os, re, sqlite3, sys, glob
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(RAIZ, "index.db")
@@ -30,6 +30,10 @@ RE_MARCA = re.compile(r"<(?:Art[íi]culo (?:declarado )?(?:derogad[oa]|suprimid[
                       r"|(?:Ley|Decreto|Acto Legislativo)(?: [^<>]{1,40}?)? (?:declarad[oa] )?(?:derogad[oa]|INEXEQUIBLE)"
                       r"|(?:T[íi]tulo|Cap[íi]tulo|Libro|Parte|Secci[óo]n)\b[^<>]{0,40}? (?:derogad[oa]|INEXEQUIBLE)"
                       r"|Derogad[oa]\b)[^>]{0,300}>?", re.I)
+# Sin «<>»: el texto entero es la marca («DECLARADO INEXEQUIBLE» en las estatutarias de senado,
+# «Derogado» / «(Derogado Decreto 648 de 2017, art 10)» / «Suprimido por el art. 57…» en el Gestor).
+RE_INICIO = re.compile(r"\s*\(?(?:Art[íi]culo\s+)?(?:declarad[oa]\s+)?(?:INEXEQUIBLE|derogad[oa]|suprimid[oa])"
+                       r"(?=\s*(?:$|[.,)\n]|por\b|mediante\b|decreto\b|ley\b))[^\n]{0,200}", re.I)
 # El mismo marcador puede venir en el epígrafe (Senado: «Artículo derogado por…»;
 # Gestor: «Comité de seguimiento.(Derogado por el art»).
 RE_EPIGRAFE = re.compile(r"^<?Art[íi]culo (?:declarado )?(?:derogad[oa]|INEXEQUIBLE)|\(Derogad[oa] por", re.I)
@@ -43,8 +47,9 @@ MESES = "enero febrero marzo abril mayo junio julio agosto septiembre octubre no
 RE_PARCIAL = re.compile(r"en lo |en cuanto|parcial|salvo|excepto|transitoriedad", re.I)
 RE_EMBEBIDO = re.compile(r"A?RT[ÍI]CULO \d")  # artículo siguiente pegado por el parser
 # Tipos que comparten numeración: un destino con uno se resuelve al doc cargado con el otro.
-ALIAS = {"ley": "ley-estatutaria", "ley-estatutaria": "ley",
-         "decreto": "decreto-ley", "decreto-ley": "decreto"}
+ALIAS = {"ley": ("ley-estatutaria", "ley-organica"), "ley-estatutaria": ("ley", "ley-organica"),
+         "ley-organica": ("ley", "ley-estatutaria"),
+         "decreto": ("decreto-ley",), "decreto-ley": ("decreto",)}
 # Fecha de efecto: vacía o mal formada cuenta como ya surtida (no como futura).
 EF = "(r.fecha <= date('now') OR r.fecha NOT GLOB '[0-9][0-9][0-9][0-9]-*')"
 TOTAL = "(lower(COALESCE(r.nota,'')) LIKE '%total%' OR COALESCE(f.marca,'') LIKE '%inexequible%')"
@@ -57,7 +62,9 @@ def marca(texto, epigrafe=""):
     else:
         e = RE_EMBEBIDO.search(texto, 1)
         m = RE_MARCA.search(texto[:e.start()] if e else texto)
-        m = m.group(0)[:200] if m and m.start() < 100 and not RE_PARCIAL.search(m.group(0)) else None
+        if not (m and m.start() < 100):
+            m = RE_INICIO.match(texto)
+        m = m.group(0)[:200] if m and (m.start() < 100) and not RE_PARCIAL.search(m.group(0)) else None
     hoy = datetime.date.today().isoformat()
     if m and any("%s-%02d-%02d" % (a, MESES.index(me.lower()) + 1, int(d)) > hoy
                  for d, me, a in RE_FECHA.findall(m)):
@@ -191,14 +198,29 @@ def construir(db_path=DB, raiz=RAIZ):
                 con.execute("INSERT INTO busqueda VALUES (?,?,?)", (fid, titulo, texto))
 
     docs = {r[0] for r in con.execute("SELECT id FROM documentos")}
+    # La misma norma cargada con dos tipos (ley / ley-orgánica / ley-estatutaria): el grafo se parte.
+    llaves = collections.defaultdict(list)
+    for i in docs:
+        p = i.split(":")
+        if len(p) == 4 and p[1] != "cc":
+            llaves[(p[1].split("-")[0], p[2], p[3])].append(i)
+    avisos += ["norma duplicada: " + " = ".join(sorted(v)) for v in llaves.values() if len(v) > 1]
 
     def destino(d):
         p = d.split(":")
         if len(p) >= 4 and ":".join(p[:4]) not in docs and p[1] in ALIAS:
-            alt = [p[0], ALIAS[p[1]]] + p[2:]
-            if ":".join(alt[:4]) in docs:
-                return ":".join(alt)
+            for t in ALIAS[p[1]]:
+                alt = [p[0], t] + p[2:]
+                if ":".join(alt[:4]) in docs:
+                    return ":".join(alt)
         return d
+
+    # «Solo da el año» se guarda como 31-dic (las sentencias, sin nota que lo diga). Si el
+    # origen está cargado, su fecha es la real; si no y cae en el futuro, queda solo el año
+    # (surtida): sin esto una sentencia de este año no surte efecto hasta diciembre.
+    hoy = datetime.date.today().isoformat()
+    fechas = dict(con.execute("SELECT id, fecha FROM documentos WHERE fecha <> ''"))
+    vistas = set()
 
     csv_path = os.path.join(raiz, "relaciones.csv")
     if os.path.exists(csv_path):
@@ -209,6 +231,15 @@ def construir(db_path=DB, raiz=RAIZ):
                 v = [fila.get(c, "").strip() for c in
                      ("origen", "tipo", "destino", "fecha", "nota", "fuente")]
                 v[0], v[2] = destino(v[0]), destino(v[2])
+                f = fechas.get(v[0].split(":art:")[0], "")
+                if v[3].endswith("-12-31") and "diciembre" not in v[4]:
+                    if f[:4] == v[3][:4]:
+                        v[3] = f
+                    elif v[3] > hoy:  # la fuente ya la registra: ocurrió, en algún día de ese año
+                        v[3] = v[3][:4]
+                if tuple(v[:5]) in vistas:
+                    continue
+                vistas.add(tuple(v[:5]))
                 con.execute("INSERT INTO relaciones VALUES (?,?,?,?,?,?)", v)
     con.commit()
 
@@ -230,7 +261,7 @@ def construir(db_path=DB, raiz=RAIZ):
         avisos.append("%d aristas apuntan a artículos INEXISTENTES de normas cargadas "
                       "— la extracción perdió texto" % perdidos)
 
-    malas = con.execute("""SELECT COUNT(*) FROM relaciones WHERE fecha <> ''
+    malas = con.execute("""SELECT COUNT(*) FROM relaciones WHERE fecha <> '' AND fecha NOT GLOB '[0-9][0-9][0-9][0-9]'
         AND fecha NOT GLOB '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'""").fetchone()[0]
     if malas:
         avisos.append("%d relaciones con fecha mal formada (no AAAA-MM-DD) — se tratan "
@@ -286,7 +317,10 @@ def check():
                  "artículo tener en cuenta los efectos de la transitoriedad> T.\n"
                  "\n## art:23 — Veintitrés\n<Título II. derogado por el artículo 126 de la Ley 1116 de 2006, a partir del 28 de junio de 2007> T.\n"
                  "\n## art:24 — Veinticuatro\n<Derogado por el artículo 353 del Decreto 2737 de 1989, Código del Menor.> T.\n"
-                 "\n## art:25 — Veinticinco\n<Título modificado por el artículo 51 del Decreto 19 de 2012> T.\n")
+                 "\n## art:25 — Veinticinco\n<Título modificado por el artículo 51 del Decreto 19 de 2012> T.\n"
+                 "\n## art:26 — DECLARADO INEXEQUIBLE\nDECLARADO INEXEQUIBLE\n"
+                 "\n## art:27 — Veintisiete\n(Derogado Decreto 648 de 2017, art 10)\n"
+                 "\n## art:28 — Veintiocho\nDerogado el inciso 2 del artículo 5 de la Ley 1 de 1990 se aplicará el 3.\n")
     with open(tmp + "/normativa/y.md", "w", encoding="utf-8") as fh:
         fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nramas: [civil]\n"
                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n")
@@ -343,6 +377,9 @@ def check():
     assert est["co:ley:1:2000:art:23"] == "MUERTO", "«<Título II. derogado por…>»"
     assert est["co:ley:1:2000:art:24"] == "MUERTO", "«<Derogado por…>» a secas"
     assert est["co:ley:1:2000:art:25"] != "MUERTO", "«<Título modificado…>» no mata"
+    assert est["co:ley:1:2000:art:26"] == "MUERTO", "«DECLARADO INEXEQUIBLE» como texto entero"
+    assert est["co:ley:1:2000:art:27"] == "MUERTO", "«(Derogado Decreto …)» del Gestor sin <>"
+    assert est["co:ley:1:2000:art:28"] != "MUERTO", "«Derogado el inciso…» es contenido, no marca"
     assert est["co:ley:1:2000:art:15"] == "MUERTO", "marcador «(Derogado por» en el epígrafe (Gestor)"
     assert est["co:ley:1:2000:art:16"] == "VIGENTE_REFORMADO", "reforma posterior a la sentencia: sin aviso en parte"
     assert est["co:ley:1:2000:art:17"] == "VIGENTE_CONDICIONADO", "reforma anterior a la sentencia: aviso sigue"
