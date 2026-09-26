@@ -137,8 +137,9 @@ def resuelve(txt):
     decisión (pasó con C-284/15).
     """
     # Las providencias viejas espacian las letras: "R E S U E L V E".
-    # Las tutelas de 1992 cierran con «…en nombre del pueblo y por mandato de la Constitución, FALLA:».
-    marcas = [m for m in re.finditer(r"\bR\s?E\s?S\s?U\s?E\s?L\s?V\s?E\b|\bFALLA\s*:", txt)]
+    # Las tutelas de 1992 cierran con «…en nombre del pueblo y por mandato de la Constitución, FALLA:»;
+    # el Consejo de Estado, con «FALLA PRIMERO: …» sin dos puntos.
+    marcas = [m for m in re.finditer(r"\bR\s?E\s?S\s?U\s?E\s?L\s?V\s?E\b|\bF\s?A\s?L\s?L\s?A\s*:|\bF\s?A\s?L\s?L\s?A\s+(?=PRIMERO|[ÚU]NICO)|\bDECIDE\s*:", txt)]
     if not marcas:
         marcas = [m for m in re.finditer(r"(?i)\bresuelve\b\s*:?\s*(?=PRIMERO|[ÚU]NICO)", txt)]
     if not marcas:

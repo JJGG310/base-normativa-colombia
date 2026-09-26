@@ -78,7 +78,7 @@ def exportar(ramas=(), salida=None):
             dur = compilada.get(f["id"].split(":art:")[0])
             if dur and estado != "MUERTO":
                 adv = " ".join(filter(None, (ADVERTENCIA["COMPILADA"] % dur, adv)))
-            if f["clase"] == "jurisprudencia" and "No se pudo bajar el texto" in f["texto"]:
+            if f["clase"] == "jurisprudencia" and ("No se pudo bajar el texto" in f["texto"] or "No se pudo extraer la parte resolutiva" in f["texto"]):
                 adv = ADVERTENCIA["SIN_TEXTO"]  # fichas del Consejo de Estado sin texto (SAMAI 403)
             reg = {
                 "id": f["id"],
