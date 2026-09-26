@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1751:2015
 tipo: ley-estatutaria
-titulo: Ley 1751 de 2015 - Estatutaria de salud
+titulo: Ley 1751 de 2015
 fecha: 2015-02-16
-ramas: [salud, constitucional]
+ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1751_2015.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO

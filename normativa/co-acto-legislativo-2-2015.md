@@ -3,11 +3,11 @@ id: co:acto-legislativo:2:2015
 tipo: acto-legislativo
 titulo: Acto Legislativo 2 de 2015 - Por medio del cual se adopta una reforma de equilibrio de poderes y reajuste institucional y se dictan otras disposiciones
 fecha: 2015-07-01
-ramas: [constitucional]
+ramas: [constitucional, procesal]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2015.html
-verificado: 2026-09-24
+verificado: 2026-09-25
 ---
 
 ## art:1 — 

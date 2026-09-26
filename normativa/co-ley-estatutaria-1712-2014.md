@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1712:2014
 tipo: ley-estatutaria
-titulo: Ley 1712 de 2014 - Transparencia y acceso a la información pública
+titulo: Ley 1712 de 2014 - Por medio de la cual se crea la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional y se dictan otras disposiciones
 fecha: 2014-03-06
-ramas: [administrativo, constitucional]
+ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1712_2014.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO

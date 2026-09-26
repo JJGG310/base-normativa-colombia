@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1621:2013
 tipo: ley-estatutaria
-titulo: Ley 1621 de 2013 - Fortalece el marco jurídico de la inteligencia y contrainteligencia
+titulo: Ley 1621 de 2013 - , el cual quedará así: “La información que recaude la UIAF en cumplimiento de sus funciones y la que se produzca como resultado de su análisis estará sujeta a reserva, salvo que medie solicitud de las fiscalías con expresas funciones legales para investigar lavado de activos o sus delitos fuente, financiación del terrorismo y/o legitimadas para ejercitar la acción de extinción de dominio quienes deberán mantener la reserva aquí prevista.”
 fecha: 2013-04-17
-ramas: [constitucional, defensa]
+ramas: [constitucional, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1621_2013.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO Y ALCANCE

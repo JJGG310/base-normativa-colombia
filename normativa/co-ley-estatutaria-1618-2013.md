@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1618:2013
 tipo: ley-estatutaria
-titulo: Ley Estatutaria 1618 de 2013 - Garantiza el pleno ejercicio de los derechos de las personas con discapacidad
+titulo: Ley 1618 de 2013
 fecha: 2013-02-27
-ramas: [constitucional, laboral, seguridad-social]
+ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1618_2013.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO

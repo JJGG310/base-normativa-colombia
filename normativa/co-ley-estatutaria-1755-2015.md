@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1755:2015
 tipo: ley-estatutaria
-titulo: Ley 1755 de 2015 - Derecho fundamental de petición
+titulo: Ley 1755 de 2015 - Por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo
 fecha: 2015-06-30
-ramas: [administrativo, constitucional]
+ramas: [administrativo, contencioso-administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1755_2015.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — 

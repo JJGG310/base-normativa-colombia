@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1957:2019
 tipo: ley-estatutaria
-titulo: Ley 1957 de 2019 - Estatutaria de la Administración de Justicia en la JEP
+titulo: Ley 1957 de 2019 - y las normas que la desarrollen. En el marco de sus competencias, la JEP tendrá en cuenta la realidad histórica de la diversidad étnico-cultural
 fecha: 2019-06-06
-ramas: [transicional, penal, constitucional]
+ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1957_2019.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — GARANTÍA DE LOS DERECHOS DE LAS VÍCTIMAS

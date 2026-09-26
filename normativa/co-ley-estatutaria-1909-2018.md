@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1909:2018
 tipo: ley-estatutaria
-titulo: Ley 1909 de 2018 - Por medio de la cual se adoptan el Estatuto de la Oposición Política y algunos derechos a las organizaciones políticas independientes
+titulo: Ley 1909 de 2018 - y ser sancionadas de oficio por la Autoridad Electoral, las organizaciones políticas deberán optar por:
 fecha: 2018-07-09
-ramas: [electoral, constitucional]
+ramas: [constitucional, electoral]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1909_2018.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO

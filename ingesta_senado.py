@@ -414,7 +414,9 @@ def fecha_norma(url):
     # Sin quitar el CSS, el encabezado de la norma cae más allá del corte en las
     # páginas largas y la fecha se daba por inexistente.
     doc = re.sub(r"<style.*?</style>|<script.*?</script>", "", bajar(url), flags=re.S | re.I)
-    t = limpiar(doc)
+    # «Última actualización: … (Diario Oficial No. 53.619 - 8 de septiembre de 2026)» es la del
+    # sitio, no la de la norma: con el encabezado sin «DE AAAA» reconocible, se la tomaba por fecha.
+    t = re.sub(r"(?i)[ÚU]ltima actualizaci[óo]n:[^\n]*", "", limpiar(doc))
     # El índice de artículos empuja el encabezado lejos del inicio en las normas
     # largas: se ancla en el título de la norma y se mira solo lo que sigue.
     # El `<LEY>` de "DECRETO <LEY> 2241 DE 1986" sobrevive a limpiar: viene escapado
@@ -423,10 +425,14 @@ def fecha_norma(url):
     t = t[h.start():h.start() + 1500] if h else t[:15000]
     # La fuente escribe la fecha de cuatro maneras: "de 6 de agosto de 1998",
     # "No. 44.097 de 24 de julio del 2000", "de 26 de agosto 2019", "de 1o. de agosto".
-    m = re.search(r"Diario\s+Oficial\s+No\.?\s*[\d\.]+\s*,?\s*del?\s*(\d{1,2})o?\.?\s*del?\s*(%s)\s*"
-                  r"(?:del?\s*)?(\d{4})" % "|".join(MESES), t, re.I)
+    # …y más: sin «No.», «Diario No.» sin «Oficial», «No. No.», y el mes antes del día
+    # («de diciembre 30 de 2004», «agosto 2 de 2001»).
+    mes = "|".join(MESES)
+    m = re.search(r"Diario(?:\s+Oficial)?\.?\s*,?\s*(?:No\.?\s*)*[\d\.]+\s*,?\s*(?:del?\s*)?"
+                  r"(?:(\d{1,2})o?\.?\s*(?:del?\s*)?(%s)|(%s)\s+(\d{1,2})o?\.?)\s*,?\s*(?:del?\s*)?(\d{4})" % (mes, mes), t, re.I)
     if m:
-        return "%s-%02d-%02d" % (m.group(3), MESES[m.group(2).lower()], int(m.group(1)))
+        dia, nombre = (m.group(1), m.group(2)) if m.group(1) else (m.group(4), m.group(3))
+        return "%s-%02d-%02d" % (m.group(5), MESES[nombre.lower()], int(dia))
     return ""
 
 
@@ -609,6 +615,15 @@ def main():
     if not fecha:
         sys.exit("no se pudo leer la fecha en la fuente: pasarla con --fecha")
     arts, cajas, huerfanas = procesar(a.url)
+    if not arts:
+        # Leyes aprobatorias de tratados (Ley 412/1997): las anclas son los artículos I, II… del
+        # tratado; los de la ley («ARTÍCULO 1o. Apruébase…») van sin ancla tras el último DECRETA.
+        texto = "\n".join(limpiar(d.split("<!--Fin documento-->")[0]) for _, d in paginas(a.url))
+        i = texto.rfind("DECRETA")
+        if i >= 0:
+            cuerpo = html.unescape(RE_FIRMAS.split(texto[i:])[0]).split("\n", 1)[-1]
+            arts = [x for x in partir_inline("0", "", "", cuerpo) if x[0] != "0"]
+            huerfanas = [x[0] for x in arts]
     if not arts:
         sys.exit("no se extrajo ningún artículo — revisar el formato de la fuente")
     # Última defensa contra el truncamiento silencioso: un corpus legal incompleto

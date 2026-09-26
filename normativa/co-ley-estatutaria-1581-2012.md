@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1581:2012
 tipo: ley-estatutaria
-titulo: Ley 1581 de 2012 - Protección de Datos Personales
+titulo: Ley 1581 de 2012 - f) A las bases de datos y archivos regulados por la Ley 79 de 1993
 fecha: 2012-10-18
-ramas: [datos-personales, constitucional]
+ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO

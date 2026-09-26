@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1757:2015
 tipo: ley-estatutaria
-titulo: Ley 1757 de 2015 - Por la cual se dictan disposiciones en materia de promoción y protección del derecho a la participación democrática
+titulo: Ley 1757 de 2015
 fecha: 2015-07-06
-ramas: [constitucional, electoral]
+ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1757_2015.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO

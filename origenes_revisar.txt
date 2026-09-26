@@ -1,2 +1,81 @@
 co:ley:100:1892	25 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1892.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:71:1916	17 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0071_1916.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1572:2012	15 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:75:1968	13 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:130:1913	10 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0130_1913.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:375:1997	9 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 79 de la Ley 1622 de 2013 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:412:1997	8 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:188:1959	8 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0188_1959.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:92:1938	7 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0092_1938.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:408:1997	7 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:994:2005	6 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:586:2000	6 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:171:1961	6 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0171_1961.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1516:2012	6 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:969:2005	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:557:2000	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:50:1936	5 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0050_1936.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:404:1997	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:228:1995	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por las Leyes 599 y 600 de 2000 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1254:2008	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1072:2006	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:95:1890	4 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0095_1890.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:945:2005	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:944:2005	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:437:1998	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:381:1997	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1569:2012	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:144:1994	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 24 de la Ley 1881 de 2018 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1268:2008	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1166:2007	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1140:2007	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1074:2006	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:104:1922	4 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0104_1922.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1000:2005	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:84:1915	3 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1915.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:836:2003	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 252 de la Ley 1862 de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:834:2003	3 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:746:2002	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 242 de la Ley 1801 de 2016. Rige a partir del 29 de enero de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:67:1930	3 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0067_1930.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1460:2011	3 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:829:2003	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:48:1968	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0048_1968.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:27:1974	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0027_1974.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:2453:2025	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:211:1995	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 5 de la Ley 1325 de 2009 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1:1976	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0001_1976.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1989:2019	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 109 de la Ley 2166 de 2021 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1970:2019	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:17:1992	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:165:1941	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0165_1941.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:148:1994	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1348:2009	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:118:1931	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0118_1931.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:940:2005	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:918:2004	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:8:1922	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0008_1922.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:89:1936	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0089_1936.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:84:1989	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1989.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:78:1931	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0078_1931.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:75:1986	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1986.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:73:1988	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0073_1988.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:682:2001	1 aristas	verificar: co-ley-682-2001.md 6 arts · índice 7 · faltan 1: 6 faltantes en total: 1
+co:ley:633:2001	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0633_2001.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:57:1990	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0057_1990.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:54:1989	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1989.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:51:1983	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0051_1983.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:45:1930	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1930.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:40:1907	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0040_1907.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:38:1945	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0038_1945.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:37:1935	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0037_1935.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:36:1931	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0036_1931.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:25:1892	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0025_1892.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:24:1986	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0024_1986.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:2423:2024	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:2284:2023	1 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:2031:2020	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1474:2021	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2021.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1345:2009	1 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:10:1990	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0010_1990.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:108:1994	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:105:1913	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0105_1913.html tras 4 intentos: HTTP Error 404: Not Found

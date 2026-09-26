@@ -1,13 +1,13 @@
 ---
 id: co:ley-estatutaria:1266:2008
 tipo: ley-estatutaria
-titulo: Ley 1266 de 2008 - Habeas data financiero
+titulo: Ley 1266 de 2008 - . El nuevo texto es el siguiente:> Comunicación previa al titular. La comunicación previa al titular de la información se regirá por lo dispuesto en la presente ley y en las normas que la reglamenten. Podrá efectuarse según lo dispuesto en la Ley 527 de 1999 en materia de comercio electrónico
 fecha: 2008-12-31
-ramas: [datos-personales, comercial, constitucional]
+ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_1266_2008.html
-verificado: 2026-09-24
+verificado: 2026-09-26
 ---
 
 ## art:1 — OBJETO

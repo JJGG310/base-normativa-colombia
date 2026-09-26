@@ -1,0 +1,295 @@
+co:ley:100:1892	25 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1892.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:75:1968	13 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:100:1892	25 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1892.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:75:1968	13 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:747:2002	9 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:375:1997	9 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:214:1995	9 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:926:2004	8 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:620:2000	8 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:508:1999	8 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:412:1997	8 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:378:1997	8 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:188:1959	8 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0188_1959.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1653:2013	8 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-169-14 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1520:2012	8 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-011-13 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1058:2006	8 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley 522 de 1999 derogada por la Ley 1407 de 2010, la cual regirá para los delitos cometidos con posterioridad al 1o de enero de 2010 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:98:1993	7 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:92:1938	7 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0092_1938.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:430:1998	7 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por la Ley 1252 de 2008 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:408:1997	7 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:210:1995	7 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:199:1995	7 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por el Decreto 200 de 2003 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1518:2012	7 aristas	Error: nota de vigencia de la norma entera: <Ley INEXEQUIBLE, Sentencia C-1051-12 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:994:2005	6 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:968:2005	6 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:793:2002	6 aristas	Error: nota de vigencia de la norma entera: <Ley, salvo el artículo 18, derogada a partir del 20 de julio de 2014, por el artículo 218 de la Ley 1708 de 2014 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:586:2000	6 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:333:1996	6 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por la Ley 793 de 2002 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:322:1996	6 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 53 de la Ley 1575 de 2012 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:171:1961	6 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0171_1961.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1516:2012	6 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1507:2012	6 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 51 de la Ley 1978 de 2019 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1283:2009	6 aristas	verificar: co-ley-1283-2009.md 4 arts · índice 5 · faltan 1: 5 faltantes en total: 1
+co:ley:1021:2006	6 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE mediante la Sentencia C-030-08 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:992:2005	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:980:2005	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 2 de la Ley 1334 de 2009 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:969:2005	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:925:2004	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:922:2004	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:607:2000	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 47 de la Ley 1876 de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:557:2000	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:514:1999	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:50:1936	5 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0050_1936.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:48:1993	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 81 de Ley 1861 de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:404:1997	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:384:1997	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:331:1996	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:303:1996	5 aristas	verificar: co-ley-303-1996.md 3 arts · índice 6 · faltan 3: 1, 2, 3 faltantes en total: 3
+co:ley:293:1996	5 aristas	verificar: co-ley-293-1996.md 4 arts · índice 7 · faltan 3: 1, 2, 3 faltantes en total: 3
+co:ley:240:1995	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:228:1995	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:140:1994	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:13:1992	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declara INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1254:2008	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1214:2008	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:118:1994	5 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1160:2007	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1072:2006	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:96:1993	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:95:1890	4 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0095_1890.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:945:2005	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:944:2005	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:943:2005	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:934:2004	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:930:2004	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:920:2004	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:914:2004	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:90:1993	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:900:2004	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:898:2004	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:794:2003	4 aristas	Error: nota de vigencia de la norma entera: <NOTAS DE VIGENCIA: Ley derogada por el artículo 626 de la Ley 1564 de 2012. Rige en forma gradual a partir del 1o. de enero del 2014, en los términos dispuestos en el numeral 6o. del artículo 627 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:688:2001	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:684:2001	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE en su totalidad — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:630:2000	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:58:1993	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:582:2000	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 12 por la Ley 1946 de 2019 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:540:1999	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:520:1999	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:51:1993	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:517:1999	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:513:1999	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:512:1999	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:437:1998	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:381:1997	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:347:1997	4 aristas	Error: nota de vigencia de la norma entera: <NOTA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:287:1996	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:231:1995	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:216:1995	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1955:2019	4 aristas	Error: nota de vigencia de la norma entera: <Los artículo no derogados expresamente por los planes de desarrollo posteriores o por otras leyes, continuarán vigentes hasta que sean derogados o modificados por norma posterior — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1951:2019	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 22 de la Ley 2162 de 2021 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1948:2019	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada, a partir del 31 de diciembre de 2023, por el artículo 10 del Decreto Ley 1960 de 2023 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:184:1995	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:178:1994	4 aristas	verificar: co-ley-178-1994.md 33 arts · índice 53 · faltan 20: 8, 9, 13, 28, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 faltantes en total: 20
+co:ley:1753:2015	4 aristas	Error: nota de vigencia de la norma entera: <Los artículo no derogados expresamente por los planes de desarrollo posteriores o por otras leyes, continuarán vigentes hasta que sean derogados o modificados por norma posterior — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1572:2012	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1569:2012	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:155:1994	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1532:2012	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada, a partir del 31 de diciembre de 2023, por el artículo 10 del Decreto Ley 1960 de 2023 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1495:2011	4 aristas	verificar: co-ley-1495-2011.md 7 arts · índice 8 · faltan 1: 8 faltantes en total: 1
+co:ley:144:1994	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1410:2010	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE, Sentencia C-399-11 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1380:2010	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-685-11 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1375:2010	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-685-11 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1330:2009	4 aristas	Error: nota de vigencia de la norma entera: <Ley derogada a partir del 20 de julio de 2014, por el artículo 218 de la Ley 1708 de 2014, *los mecanismos de justicia premial regulados en la Ley 1330 de 2009, continuarán vigentes y podrán regir en — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1327:2009	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE, Sentencia C-397-10 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1295:2009	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 28 de la Ley 1804 de 2016 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1268:2008	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:123:1994	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 285 de la Ley 223 de 1995 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1166:2007	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1140:2007	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1107:2006	4 aristas	Error: nota de vigencia de la norma entera: <NOTAS DE VIGENCIA: Ley derogada por el artículo 309 de la Ley 1437 de 2011. Rige a partir del dos (2) de julio del año 2012 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1074:2006	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:104:1922	4 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0104_1922.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1019:2006	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1015:2006	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada a partir del 29 de marzo de 2022 por el artículo 85 de la Ley 2196 de 2022 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1000:2005	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:963:2005	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 166 por la Ley 1607 de 2012 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:954:2005	3 aristas	Error: nota de vigencia de la norma entera: <NOTAS DE VIGENCIA: Ley derogada por el artículo 309 de la Ley 1437 de 2011. Rige a partir del dos (2) de julio del año 2012 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:941:2005	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:935:2004	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:932:2004	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:931:2004	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:927:2004	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:921:2004	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:919:2004	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:912:2004	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:899:2004	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:853:2003	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 88 de la Ley 1242 de 2008 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:836:2003	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:834:2003	3 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:831:2003	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:830:2003	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:81:1993	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por la Ley 600 de 2000 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:809:2003	3 aristas	Error: nota de vigencia de la norma entera: <NOTAS DE VIGENCIA: Ley derogada por el artículo 309 de la Ley 1437 de 2011. Rige a partir del dos (2) de julio del año 2012 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:785:2002	3 aristas	Error: nota de vigencia de la norma entera: <Ley, salvo los artículos 9 y 10, derogada a partir del 20 de julio de 2014, por el artículo 218 de la Ley 1708 de 2014 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:746:2002	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:745:2002	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:71:1993	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:703:2001	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:702:2001	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:690:2001	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:680:2001	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:67:1930	3 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0067_1930.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:660:2001	3 aristas	verificar: co-ley-660-2001.md 19 arts · índice 22 · faltan 3: 1O, 2O, 3O faltantes en total: 3
+co:ley:563:2000	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE. — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:519:1999	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:420:1998	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:416:1997	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por el artículo 154 del Decreto 1790 de 2000 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:34:1993	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:315:1996	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 118 de la Ley 1563 de 2012. Entra a regir a partir del 12 de octubre de 2012 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:27:1992	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Esta Ley fue derogada por la Ley 443 de 1998 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:263:1996	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Esta Ley fue derogada expresamente por la Ley 352 de 1997, artículo 65, "por la cual se reestructura el Sistema de Salud y se dictan otras disposiciones en materia de Seguridad Soci — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:239:1995	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:232:1995	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 242 de la Ley 1801 de 2016. Rige a partir del 29 de enero de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:230:1995	3 aristas	verificar: co-ley-230-1995.md 3 arts · índice 6 · faltan 3: 1, 2, 3 faltantes en total: 3
+co:ley:21:1992	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:218:1995	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:2168:2021	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por modificación posterior al mismo artículo — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:205:1995	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1:1992	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por el artículo 180 del Decreto 1421 de 1993 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:180:1995	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1634:2013	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE Sentencia C-134-14 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1547:2012	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 267 de la Ley 1753 de 2015 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1530:2012	3 aristas	Error: nota de vigencia de la norma entera: <Ley derogada a partir del 1 de enero de 2021 por el artículo 211 de la Ley 2056 de 2020 con excepción de los artículos del 106 al 126 y 128 para efectos de la transitoriedad de los procedimientos adm — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1460:2011	3 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1404:2010	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 8 de la Ley 2025 de 2020 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:138:1994	3 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1377:2010	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-685-11 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1373:2010	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-685-11 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1224:2008	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 16 del Decreto 582 de 2013 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1194:2008	3 aristas	Error: nota de vigencia de la norma entera: NOTA DE VIGENCIA: Código de Procedimiento Civil derogado por la Ley 1564 de 2012 en los términos establecidos en el artículo 626 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1141:2007	3 aristas	verificar: co-ley-1141-2007.md 11 arts · índice 14 · faltan 3: 7A, 9A, 10A faltantes en total: 3
+co:ley:1141:2007	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-1142-08 de 19 de noviembre de 2008 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1127:2007	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE Sentencia C-225-08 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:953:2005	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:936:2004	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:924:2004	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:917:2004	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:916:2004	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:872:2003	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada de acuerdo a lo dispuesto en el inciso final del artículo 133 de la Ley 1753 de 2015, con la expedición del Decreto 1499 de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:871:2003	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:835:2003	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:829:2003	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:751:2002	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:743:2002	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 109 de la Ley 2166 de 2021 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:740:2002	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:73:1993	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:738:2002	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:730:2001	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 33 de la Ley 2133 de 2021 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:711:2001	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:706:2001	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:676:2001	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 3 de la Ley 1094 de 2006 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:61:1993	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:57:1993	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por la Ley 599 de 2000 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:48:1968	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0048_1968.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:38:1993	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:377:1997	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:362:1997	2 aristas	Error: nota de vigencia de la norma entera: <NOTAS DE VIGENCIA: Esta Ley fue derogada por el artículo 53 de la Ley 712 de 2001 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:27:1974	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0027_1974.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:2453:2025	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:237:1995	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:235:1995	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:229:1995	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:2281:2023	2 aristas	Error: nota de vigencia de la norma entera: <Ley INEXEQUIBLE, Sentencia C-161-24. Efectos diferidos por dos legislaturas — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:211:1995	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:2075:2021	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE, Sentencia C-075-22 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1:1976	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0001_1976.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1970:2019	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:1943:2018	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE a partir del 1o. de enero de 2020, C-481-19 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:17:1992	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1782:2016	2 aristas	Error: nota de vigencia de la norma entera: <Ley INEXEQUIBLE C-047-17 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1749:2015	2 aristas	Error: nota de vigencia de la norma entera: <Ley INEXEQUIBLE, C-106-16 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1734:2014	2 aristas	Error: nota de vigencia de la norma entera: <Ley INEXEQUIBLE, C-337-15 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:165:1941	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0165_1941.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1628:2013	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-258-14 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:156:1994	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:148:1994	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1378:2010	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE, Sentencia C-685-11 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1354:2009	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE mediante Sentencia C-141-10 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1348:2009	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:124:1994	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:122:1994	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:118:1931	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0118_1931.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1182:2008	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 27 de la Ley 1561 de 2012. Rige a partir del 11 de enero de 2013 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1157:2007	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 1 de la Ley 1729 de 2014 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:10:1992	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:940:2005	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:933:2004	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:929:2004	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:928:2004	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:923:2004	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:918:2004	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:915:2004	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:913:2004	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:8:1922	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0008_1922.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:84:1989	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1989.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:772:2002	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:770:2002	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:75:1993	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:75:1986	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1986.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:752:2002	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:750:2002	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:74:1993	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:749:2002	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:748:2002	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:73:1988	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0073_1988.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:719:2001	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:696:2001	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:692:2001	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:683:2001	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:682:2001	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:66:1993	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:633:2001	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0633_2001.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:598:2000	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 222 del Decreto 19 de 2012 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:592:2000	1 aristas	Error: nota de vigencia de la norma entera: NOTA DE VIGENCIA: Código de Procedimiento Civil derogado por la Ley 1564 de 2012 en los términos establecidos en el artículo 626 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:57:1990	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0057_1990.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:572:2000	1 aristas	Error: nota de vigencia de la norma entera: NOTA DE VIGENCIA: Código de Procedimiento Civil derogado por la Ley 1564 de 2012 en los términos establecidos en el artículo 626 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:54:1989	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1989.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:51:1983	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0051_1983.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:46:1993	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:45:1930	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1930.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:43:1993	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 54 de la Ley 2332 de 2023 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:429:1998	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 61 de la Ley 2336 de 2023 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:428:1998	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por la Ley 675 de 2001 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:40:1907	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0040_1907.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:392:1997	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Derogada por el artículo 78 de la Ley 842 de 2003. La Sentencia C-570-04 condiciona la exequibilidad de esta derogatoria, así: "... en el entendido de que la derogación de normas qu — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:38:1945	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0038_1945.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:376:1997	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:372:1997	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:36:1931	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0036_1931.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:261:1996	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada "por obsolecencia" por el artículo 3 de la Ley 2085 de 2021 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:25:1892	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0025_1892.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:24:1986	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0024_1986.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:2423:2024	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:2293:2023	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE C-116-24 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:2284:2023	1 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:2274:2022	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE, Sentencia C-459-23 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:2246:2022	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:2031:2020	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:202:1995	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1896:2018	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada tácitamente al haber sido derogado el artículo 92 de la Ley 617 de 2000 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1865:2017	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada tácitamente al haber sido derogado el artículo 92 de la Ley 617 de 2000 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:166:1994	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Esta Ley fue derogada por la Ley 617 de 2000. — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:158:1994	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:157:1994	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:154:1994	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1474:2021	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2021.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1345:2009	1 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:132:1994	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por la Ley 363 de 1997 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:1288:2009	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE C-913-10 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:112:1994	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:10:1990	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0010_1990.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:108:1994	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:1081:2006	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 17 de la Ley 1699 de 2013 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
+co:ley:105:1913	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0105_1913.html tras 4 intentos: HTTP Error 404: Not Found
