@@ -1,65 +1,63 @@
+co:ley:2453:2025	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:2423:2024	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
+co:ley:620:2000	8 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:508:1999	8 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:1058:2006	8 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley 522 de 1999 derogada por la Ley 1407 de 2010, la cual regirá para los delitos cometidos con posterioridad al 1o de enero de 2010
+co:ley:968:2005	6 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:793:2002	6 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <Ley, salvo el artículo 18, derogada a partir del 20 de julio de 2014, por el artículo 218 de la Ley 1708 de 2014
+co:ley:994:2005	6 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:992:2005	5 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:13:1992	5 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declara INEXEQUIBLE
+co:ley:1214:2008	5 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:1160:2007	5 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:943:2005	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:900:2004	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:898:2004	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:794:2003	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTAS DE VIGENCIA: Ley derogada por el artículo 626 de la Ley 1564 de 2012. Rige en forma gradual a partir del 1o. de enero del 2014, en los términos dispuestos en el numeral 6o. del artículo 627
+co:ley:684:2001	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE en su totalidad
+co:ley:630:2000	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:540:1999	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:347:1997	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA: Ley declarada INEXEQUIBLE
+co:ley:1955:2019	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <Los artículo no derogados expresamente por los planes de desarrollo posteriores o por otras leyes, continuarán vigentes hasta que sean derogados o modificados por norma posterior
+co:ley:1753:2015	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <Los artículo no derogados expresamente por los planes de desarrollo posteriores o por otras leyes, continuarán vigentes hasta que sean derogados o modificados por norma posterior
+co:ley:1330:2009	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <Ley derogada a partir del 20 de julio de 2014, por el artículo 218 de la Ley 1708 de 2014, *los mecanismos de justicia premial regulados en la Ley 1330 de 2009, continuarán vigentes y podrán regir en
+co:ley:1019:2006	4 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:899:2004	3 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:831:2003	3 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:830:2003	3 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:785:2002	3 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <Ley, salvo los artículos 9 y 10, derogada a partir del 20 de julio de 2014, por el artículo 218 de la Ley 1708 de 2014
+co:ley:563:2000	3 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE.
+co:ley:2168:2021	3 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Derogada por modificación posterior al mismo artículo
+co:ley:1530:2012	3 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <Ley derogada a partir del 1 de enero de 2021 por el artículo 211 de la Ley 2056 de 2020 con excepción de los artículos del 106 al 126 y 128 para efectos de la transitoriedad de los procedimientos adm
+co:ley:872:2003	2 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley derogada de acuerdo a lo dispuesto en el inciso final del artículo 133 de la Ley 1753 de 2015, con la expedición del Decreto 1499 de 2017
+co:ley:871:2003	2 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:738:2002	2 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:2281:2023	2 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <Ley INEXEQUIBLE, Sentencia C-161-24. Efectos diferidos por dos legislaturas
+co:ley:719:2001	1 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE
+co:ley:2246:2022	1 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley INEXEQUIBLE
+co:ley:1896:2018	1 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley derogada tácitamente al haber sido derogado el artículo 92 de la Ley 617 de 2000
+co:ley:1865:2017	1 aristas	muerte de la norma entera sin arista (tácita, diferida, gradual, con excepciones o sin sentencia): <NOTA DE VIGENCIA: Ley derogada tácitamente al haber sido derogado el artículo 92 de la Ley 617 de 2000
 co:ley:100:1892	25 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1892.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:71:1916	17 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0071_1916.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:1572:2012	15 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:75:1968	13 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:130:1913	10 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0130_1913.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:375:1997	9 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 79 de la Ley 1622 de 2013 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
-co:ley:412:1997	8 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:188:1959	8 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0188_1959.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:92:1938	7 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0092_1938.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:408:1997	7 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:994:2005	6 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
-co:ley:586:2000	6 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
 co:ley:171:1961	6 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0171_1961.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:1516:2012	6 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:969:2005	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:557:2000	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:50:1936	5 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0050_1936.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:404:1997	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:228:1995	5 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por las Leyes 599 y 600 de 2000 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
-co:ley:1254:2008	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:1072:2006	5 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:95:1890	4 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0095_1890.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:945:2005	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
-co:ley:944:2005	4 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
-co:ley:437:1998	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:381:1997	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:1569:2012	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:144:1994	4 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 24 de la Ley 1881 de 2018 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
-co:ley:1268:2008	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:1166:2007	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:1140:2007	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:1074:2006	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:104:1922	4 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0104_1922.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:1000:2005	4 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:84:1915	3 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1915.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:836:2003	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 252 de la Ley 1862 de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
-co:ley:834:2003	3 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:746:2002	3 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 242 de la Ley 1801 de 2016. Rige a partir del 29 de enero de 2017 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
 co:ley:67:1930	3 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0067_1930.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:1460:2011	3 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:829:2003	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
+co:ley:84:1915	3 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1915.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:48:1968	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0048_1968.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:27:1974	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0027_1974.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:2453:2025	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
-co:ley:211:1995	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 5 de la Ley 1325 de 2009 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
 co:ley:1:1976	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0001_1976.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:1989:2019	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley derogada por el artículo 109 de la Ley 2166 de 2021 — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
-co:ley:1970:2019	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:17:1992	2 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
 co:ley:165:1941	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0165_1941.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:148:1994	2 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley declarada INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
-co:ley:1348:2009	2 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:118:1931	2 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0118_1931.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:940:2005	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
-co:ley:918:2004	1 aristas	Error: nota de vigencia de la norma entera: <NOTA DE VIGENCIA: Ley INEXEQUIBLE — si los artículos no la repiten, agregar la arista a nivel de norma (manual:)
 co:ley:8:1922	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0008_1922.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:89:1936	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0089_1936.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:84:1989	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0084_1989.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:78:1931	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0078_1931.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:75:1986	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1986.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:73:1988	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0073_1988.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:682:2001	1 aristas	verificar: co-ley-682-2001.md 6 arts · índice 7 · faltan 1: 6 faltantes en total: 1
 co:ley:633:2001	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0633_2001.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:57:1990	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0057_1990.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:54:1989	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0054_1989.html tras 4 intentos: HTTP Error 404: Not Found
@@ -67,15 +65,32 @@ co:ley:51:1983	1 aristas	sin fuente en senado: no se pudo bajar http://www.secre
 co:ley:45:1930	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0045_1930.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:40:1907	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0040_1907.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:38:1945	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0038_1945.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:37:1935	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0037_1935.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:36:1931	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0036_1931.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:25:1892	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0025_1892.html tras 4 intentos: HTTP Error 404: Not Found
 co:ley:24:1986	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0024_1986.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:2423:2024	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
-co:ley:2284:2023	1 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
-co:ley:2031:2020	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
 co:ley:1474:2021	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2021.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:1345:2009	1 aristas	ingesta falló: no se extrajo ningún artículo — revisar el formato de la fuente
 co:ley:10:1990	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0010_1990.html tras 4 intentos: HTTP Error 404: Not Found
-co:ley:108:1994	1 aristas	ingesta falló: no se pudo leer la fecha en la fuente: pasarla con --fecha
 co:ley:105:1913	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0105_1913.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:89:1936	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0089_1936.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:78:1931	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0078_1931.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:37:1935	1 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0037_1935.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:1572:2012	15 aristas	verificar: co-ley-1572-2012.md 3 arts · índice 5 · faltan 2: 11, 13 faltantes en total: 2
+co:ley:1283:2009	6 aristas	verificar: co-ley-1283-2009.md 4 arts · índice 5 · faltan 1: 5 faltantes en total: 1
+co:ley:1516:2012	6 aristas	verificar: co-ley-1516-2012.md 3 arts · índice 35 · faltan 32: 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 faltantes en total: 32
+co:ley:303:1996	5 aristas	verificar: co-ley-303-1996.md 3 arts · índice 6 · faltan 3: 1, 2, 3 faltantes en total: 3
+co:ley:293:1996	5 aristas	verificar: co-ley-293-1996.md 4 arts · índice 7 · faltan 3: 1, 2, 3 faltantes en total: 3
+co:ley:969:2005	5 aristas	verificar: co-ley-969-2005.md 3 arts · índice 4 · faltan 1: 4 faltantes en total: 1
+co:ley:178:1994	4 aristas	verificar: co-ley-178-1994.md 33 arts · índice 53 · faltan 20: 8, 9, 13, 28, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 faltantes en total: 20
+co:ley:1495:2011	4 aristas	verificar: co-ley-1495-2011.md 7 arts · índice 8 · faltan 1: 8 faltantes en total: 1
+co:ley:1268:2008	4 aristas	verificar: co-ley-1268-2008.md 3 arts · índice 6 · faltan 3: 6, 7, 8 faltantes en total: 3
+co:ley:1140:2007	4 aristas	verificar: co-ley-1140-2007.md 3 arts · índice 14 · faltan 11: 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 faltantes en total: 11
+co:ley:1074:2006	4 aristas	verificar: co-ley-1074-2006.md 3 arts · índice 4 · faltan 1: 4 faltantes en total: 1
+co:ley:1000:2005	4 aristas	verificar: co-ley-1000-2005.md 3 arts · índice 53 · faltan 50: 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 faltantes en total: 50
+co:ley:660:2001	3 aristas	verificar: co-ley-660-2001.md 19 arts · índice 22 · faltan 3: 1O, 2O, 3O faltantes en total: 3
+co:ley:230:1995	3 aristas	verificar: co-ley-230-1995.md 3 arts · índice 6 · faltan 3: 1, 2, 3 faltantes en total: 3
+co:ley:1141:2007	3 aristas	verificar: co-ley-1141-2007.md 11 arts · índice 14 · faltan 3: 7A, 9A, 10A faltantes en total: 3
+co:ley:1460:2011	3 aristas	verificar: co-ley-1460-2011.md 3 arts · índice 4 · faltan 1: 4 faltantes en total: 1
+co:ley:829:2003	2 aristas	verificar: co-ley-829-2003.md 3 arts · índice 4 · faltan 1: 23 faltantes en total: 1
+co:ley:1970:2019	2 aristas	verificar: co-ley-1970-2019.md 3 arts · índice 11 · faltan 8: 4, 5, 6, 7, 10, 17, 2J, 4B faltantes en total: 8
+co:ley:682:2001	1 aristas	verificar: co-ley-682-2001.md 6 arts · índice 7 · faltan 1: 6 faltantes en total: 1
+co:ley:2284:2023	1 aristas	verificar: co-ley-2284-2023.md 3 arts · índice 25 · faltan 22: 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 faltantes en total: 22

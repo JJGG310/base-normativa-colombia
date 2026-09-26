@@ -433,6 +433,12 @@ def fecha_norma(url):
     if m:
         dia, nombre = (m.group(1), m.group(2)) if m.group(1) else (m.group(4), m.group(3))
         return "%s-%02d-%02d" % (m.group(5), MESES[nombre.lower()], int(dia))
+    # Sin línea del Diario Oficial (Ley 228/1995 la trae rota, otras no la traen): la fecha de
+    # expedición que la fuente pone bajo el encabezado, «LEY 424 DE 1998 (enero 13)».
+    e = re.search(r"\b(?:LEY|DECRETO|ACTO LEGISLATIVO)\s*(?:N[o°º]\.?\s*)?\d+\s+DE\s+(\d{4})\s*\(\s*(%s)\s+(\d{1,2})o?\s*\)"
+                  % mes, t, re.I)
+    if e:
+        return "%s-%02d-%02d" % (e.group(1), MESES[e.group(2).lower()], int(e.group(3)))
     return ""
 
 
@@ -622,6 +628,7 @@ def main():
         i = texto.rfind("DECRETA")
         if i >= 0:
             cuerpo = html.unescape(RE_FIRMAS.split(texto[i:])[0]).split("\n", 1)[-1]
+            cuerpo = re.sub(r"(?m)^(\s*)Art[íi]culo(?=\s+\d)", r"\1ARTÍCULO", cuerpo)   # «Artículo 1o.» (Ley 1516/2012)
             arts = [x for x in partir_inline("0", "", "", cuerpo) if x[0] != "0"]
             huerfanas = [x[0] for x in arts]
     if not arts:

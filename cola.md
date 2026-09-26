@@ -690,8 +690,16 @@ Probadas en vivo, sin navegador. Falta implementar los extractores.
 - [ ] Nulidades del Consejo de Estado: la «norma demandada» entra como `interpreta`, no como
   afectación — la relatoría no distingue nulidad total de parcial. Para matar artículos hay que leer
   la resolutiva de cada una.
-- [~] `cargar_origenes.py`: leyes, estatutarias y AL origen desde senado, de la más citada a la menos
-  (~2.000). Lo que necesita criterio humano queda en `origenes_revisar.txt` (404, `faltan` > 0, nota de
-  muerte de la norma entera → arista `manual:`).
+- [x] P22 (`cargar_origenes.py`): 2.074 leyes, estatutarias y AL origen desde senado. 79 muertes de la
+  norma entera anotadas solo en el encabezado → aristas `manual:` (derogada por artículo/ley concreta,
+  o inexequible con su sentencia); 793/2002, 785/2002 y 1530/2012 derogadas salvo los exceptuados.
+  `fecha_norma` lee más variantes del Diario Oficial y, sin él, la fecha de expedición del encabezado.
+  Leyes aprobatorias de tratados: se cargan los artículos de la ley (tras DECRETA), no los del tratado.
+- [ ] `origenes_revisar.txt` (96): 37 muertes de norma entera que exigen criterio (tácita, efectos
+  diferidos, entrada gradual, «continuarán vigentes», inexequible sin número de sentencia); 37 leyes
+  sin página en senado (muchas pre-1990: probar normogramas o SUIN-archive.org); 20 `verificar` con
+  faltantes (10 aprobatorias: el índice de la fuente lista los artículos del tratado, esperado).
+- [ ] Error operativo 2026-09-25: un `git checkout relaciones.csv` revirtió las aristas sin commit; se
+  regeneraron re-ingestando desde caché. Regla: nunca checkout/restore de relaciones.csv con cargas en curso.
 - [ ] Decretos origen (~1.000): el Gestor no tiene buscador usable; los IDs `i=` salen de buscador web
   uno por uno. Probar primero DIAN/SUIN-archive.org para los tributarios y los viejos.
