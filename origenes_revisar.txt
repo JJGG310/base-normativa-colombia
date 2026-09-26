@@ -1,0 +1,2 @@
+co:ley:100:1892	25 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0100_1892.html tras 4 intentos: HTTP Error 404: Not Found
+co:ley:75:1968	13 aristas	sin fuente en senado: no se pudo bajar http://www.secretariasenado.gov.co/senado/basedoc/ley_0075_1968.html tras 4 intentos: HTTP Error 404: Not Found

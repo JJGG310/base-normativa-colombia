@@ -130,8 +130,8 @@ Dos cosas que definen el diseño de la ficha:
 Plan: ficha mecánica (descriptores + parte resolutiva + expediente + MP) para todas;
 la `subregla` redactada solo para las marcadas `hito`, que sí justifican leerlas.
 
-- [ ] parser de la relatoría: descriptores, RESUELVE, expediente, ponente
-- [ ] la cola de sentencias sale sola del grafo: `SELECT DISTINCT origen FROM relaciones WHERE origen LIKE 'co:cc:%'`
+- [x] parser de la relatoría: descriptores, RESUELVE, expediente, ponente **→ hecho: ingesta_relatoria.py**
+- [x] la cola de sentencias sale sola del grafo: `SELECT DISTINCT origen FROM relaciones WHERE origen LIKE 'co:cc:%'` **→ hecho: `ingesta_relatoria.py --del-grafo`**
 
 ## Pendientes de la fuente senado (no bloquean, mejoran)
 
@@ -149,12 +149,12 @@ la `subregla` redactada solo para las marcadas `hito`, que sí justifican leerla
   artículo 263-A"). `ingesta_senado.py` ahora extrae `RE_RENUMERA` de `arts` después
   de `procesar()`. Solo 3 casos en toda la Constitución (AL 2/2015, electoral):
   262→261, 263→262, 263-A→263. Tipo agregado a `esquema.md`.
-- [!] SUIN-Juriscol (2026-09-24): el SPA nuevo es un CMS genérico de MinJusticia
+- [x] SUIN-Juriscol (2026-09-24): el SPA nuevo es un CMS genérico de MinJusticia **→ resuelto por archive.org (P21, ingesta_suin.py)**
   (`utu.minjusticia.gov.co`, `api-cms.minjusticia.gov.co`), sin API de documentos: los
   `viewDocument.asp` devuelven el cascarón para cualquier UA. **Respaldo:** la Wayback
   Machine guarda capturas (`archive.org/wayback/available?url=www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/1607782`
   → 2025-09-08); sirve para cotejar, no como fuente viva.
-- [!] (nota anterior) SUIN-Juriscol: **ya no es bloqueo de bot.** El sitio migró entero a un SPA
+- [x] (nota anterior) SUIN-Juriscol: **ya no es bloqueo de bot.** El sitio migró entero a un SPA **→ ver P21**
   Angular ("GovcoFrontendBase") — `curl` con user-agent de navegador ahora responde
   200, pero solo devuelve el cascarón vacío; el contenido lo trae un bundle JS
   cargado por chunks (`main.<hash>.js`, 11 KB, sin URL de API visible — es un loader,
@@ -284,7 +284,7 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
 
 ### E — Caro o de otra naturaleza (no es un tick mecánico)
 
-- [ ] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la
+- [x] `subregla` redactada para las sentencias `hito`. Exige que el modelo lea la **→ 2026-09-25: las 16 hito tienen subregla, redactada desde pasajes de la fuente**
   providencia (~260.000 caracteres cada una), así que es una decisión de presupuesto,
   no un tick más. Las fichas ya sirven sin esto.
 - [x] **Corte Suprema: abierta**, las tres salas con texto íntegro. `ingesta_cendoj.py`
@@ -344,7 +344,7 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
     términos es la perilla.
   - El backend JSF viejo (`190.217.24.55:8080/WebRelatoria/ce/`) sigue sin responder
     (timeout) — ya no importa, SAMAI es la vía.
-- [ ] El grafo no conecta la Corte Suprema con la normativa: sus providencias no
+- [~] El grafo no conecta la Corte Suprema con la normativa: sus providencias no **→ en curso: aristas `cita` desde la FUENTE FORMAL de CENDOJ (cargar_cendoj.sh)**
   afectan vigencia, así que entran sin aristas. Si se quiere que un artículo muestre
   «qué dijo la casación», hay que extraer las citas del propio texto.
 
@@ -502,14 +502,14 @@ aristas la cola es larga (≈3.800 normas, casi todas con 1-4 citas).
 - [x] P12 `cargar_p12.sh`: 60 de los 61 actos legislativos citados (senado; título = epígrafe de
   la fuente, generado por script; el AL 1/2004 no tiene epígrafe: título del encabezado de su
   único artículo). Todos con `faltan 0`.
-- [!] `co:acto-legislativo:1:1999` (2 aristas): la página de senado no trae el articulado (solo
+- [x] `co:acto-legislativo:1:1999` (2 aristas): la página de senado no trae el articulado (solo **→ P21: articulado desde SUIN vía archive.org**
   epígrafe y la nota aclaratoria del DO 43.662); el normograma de la Cancillería, igual.
 - [x] P13 `cargar_p13.sh`: 33 leyes de senado (estatutarias 1757/2015, 130/1994, 1909/2018;
   orgánicas 152/1994, 819/2003, 1454/2011, 2116/2021; 190/1995, 2056/2020, 2155/2021, 446/1998,
   712/2001, 454/1998, 42/1993, 1765/2015…) + decretos-ley 902/2017 y 1122/1999 + Gestor: Ley
   153/1887 (`i=15805`) y Ley 6/1990 (`i=9028`). Ley 689/2001 con `--fecha 2001-08-28` (encabezado).
-- [!] `co:ley:57:1887` (30 aristas): senado 404; el Gestor (`i=39535`) responde «No disponible».
-- [!] `co:ley:11:1984` (28 aristas): senado 404; no aparece en el Gestor.
+- [x] `co:ley:57:1887` (30 aristas): senado 404; el Gestor (`i=39535`) responde «No disponible». **→ P20: normograma CREG**
+- [x] `co:ley:11:1984` (28 aristas): senado 404; no aparece en el Gestor. **→ P20: normograma Cancillería**
 - [x] P14 `cargar_p14.sh`: 26 reformadores de DUR del Gestor (`--enteros`), 7 decretos
   tributarios del normograma DIAN y 2 de **otros normogramas con la plataforma de senado**:
   MinTIC (`normograma.mintic.gov.co/mintic/compilacion/docs/`, Decreto 2640/2022) y Keralty
@@ -571,18 +571,18 @@ la C-067/2026, aún sin publicar en la relatoría).
 - [x] export: advertencia «parte marcada» para artículos vivos con «<Inciso INEXEQUIBLE>».
 - [x] P16 (`./cargar_p16.sh`): 19 leyes de senado + Leyes 29/1982 y 62/1988 (Gestor) con 10-19
   aristas; sentencias del grafo (`ingesta_relatoria.py --del-grafo`).
-- [!] Sin fuente: `co:ley:28:1932`, `co:ley:45:1936`, `co:ley:39:1985` (ni senado ni Gestor).
+- [x] Sin fuente: `co:ley:28:1932`, `co:ley:45:1936`, `co:ley:39:1985` (ni senado ni Gestor). **→ P20: normogramas Colpensiones y Cancillería**
 - [x] P17 (`./cargar_p17.sh`): 90 decretos origen con 10-19 aristas, del Gestor (IDs verificados
   contra el encabezado de cada página). Decretos 126/2010 y 2637/2004 (INEXEQUIBLES) y 4222/2006
   (derogado por el Decreto 113/2022) muertos enteros según el encabezado: aristas `manual:`.
 - [x] ingesta_gestor: el articulado empieza tras «DECRETA» (considerandos que transcriben
   artículos: Decretos 1457/2020, 2371/2019, 829/2020, 1736/2012); tras «quedarán así:» los saltos
   grandes son transcritos (Decreto 198/2013, 126/2010); avisa si el encabezado mata la norma.
-- [!] Sin ID en el Gestor: Decretos 939/2017, 617/1954, 982/1996, 1655/1991.
+- [x] Sin ID en el Gestor: Decretos 939/2017, 617/1954, 982/1996, 1655/1991. **→ P20 (617/1954, 1655/1991) y P21 (939/2017, 982/1996)**
 - [x] Notas de muerte de la norma entera en el encabezado de senado que los artículos no
   repetían: A.L. 2/2003 (C-816/04), Ley 241/1995 (Ley 418/1997 art. 131), Ley 734/2002 arts.
   41-43 (completados del Gestor; Ley 1952/2019 art. 265). ingesta_senado ahora avisa.
-- [ ] Ley 153/1887 arts. 206, 244, 271, 291: el texto quedó en el epígrafe (encabezados de
+- [x] Ley 153/1887 arts. 206, 244, 271, 291: el texto quedó en el epígrafe (encabezados de **→ P21: eran 10 artículos (65, 81, 83, 88, 94, 206, 231, 244, 271, 291)**
   sección «3. HURTOS Y ESTAFAS.» al final del artículo anterior). No se pierde texto.
 
 ## Auditoría 2 y P18 (2026-09-25)
@@ -617,7 +617,7 @@ la C-067/2026, aún sin publicar en la relatoría).
 - [x] Decretos reglamentarios compilados en un DUR y cargados aparte (1333/2007 → DUR 1073,
   1377/2013 → 1074, 198/2013 → 1079, 1474/1997 → 1833/2016): arista `compila` y advertencia
   COMPILADA (citar el DUR). La fuente no anota derogación por artículo, no se inventa.
-- [ ] Ley 270/1996 art. 209b: su cuerpo trae además el «ARTÍCULO NUEVO.» sin número que adicionó
+- [x] Ley 270/1996 art. 209b: su cuerpo trae además el «ARTÍCULO NUEVO.» sin número que adicionó **→ P21: `art:nuevo` propio, vigente**
   el art. 25 de la Ley 1285/2009 (control de legalidad); la fuente no le da ancla ni número. Sale
   dentro de un registro MUERTO (omisión conservadora).
 - [x] P19 (`./cargar_p19.sh`): Decretos 777/1992 (i=1454) y 1207/2021 (i=172113); el buscador del
@@ -625,7 +625,7 @@ la C-067/2026, aún sin publicar en la relatoría).
   encabezado. Decreto 92/2017 (i=78935), cuyo art. 11 deroga el 777/1992 desde el 1-jun-2017.
 - [x] Relatoría 2025-2026: las no publicadas devuelven el cascarón SPA de 8,6 KB (C-067/26, C-196/25);
   31 fichas pendientes hasta que la Corte las publique.
-- [!] Consejo de Estado: `DescargarProvidenciaPublica` sigue en 403 (reintentado 2026-09-25).
+- [x] Consejo de Estado: `DescargarProvidenciaPublica` sigue en 403 (reintentado 2026-09-25). **→ el texto sale de CENDOJ WebRelatoria (PDF público)**
 
 ## Vías de acceso nuevas, validadas (2026-09-25)
 
@@ -664,5 +664,34 @@ Probadas en vivo, sin navegador. Falta implementar los extractores.
 - **SISJUR, Alcaldía de Bogotá** (`alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=`): Decreto 939/2017,
   que no está en ninguna otra fuente accesible. Tiene otro formato y necesita parser propio.
 - **Buscador del Gestor**: responde «No disponible». Los IDs salen de buscador web y se verifican contra el encabezado.
-- [ ] Decisión de Juan: admitir en esquema.md §8 normogramas de otras entidades, CENDOJ/Rama Judicial,
+- [x] Decisión de Juan: admitir en esquema.md §8 normogramas de otras entidades, CENDOJ/Rama Judicial, **→ admitidas el 2026-09-25 (esquema.md §8, fuentes 8-11)**
   capturas de SUIN en archive.org y SISJUR.
+
+
+## P20-P22, CENDOJ y Corte Constitucional (2026-09-25)
+
+- [x] P20 (`./cargar_p20.sh`): 7 normas bloqueadas, desde normogramas de CREG, Cancillería y
+  Colpensiones (mismo formato que senado). `bajar` cae a curl con el TLS viejo de la Cancillería.
+  «<NOTA: no incluye análisis de vigencia>» deja `afectaciones: pendiente`.
+- [x] Senado: un TÍTULO/CAPÍTULO tras «…quedará así:» es transcripción de otra norma, no corta el
+  artículo (Ley 39/1985 arts. 4 y 9, Ley 2421/2024: 60 `ubicacion` falsas).
+- [x] P21 (`./cargar_p21.sh`, `ingesta_suin.py`): SUIN vía archive.org, `verificado` = fecha de la
+  captura. Decreto 982/1996 (derogado), Decreto 939/2017, A.L. 1/1999. SISJUR no hizo falta.
+- [x] Corte Constitucional: índice Elastic en `ingesta_relatoria` (rutahtml). No se cachean el
+  cascarón SPA (84 borrados) ni el desafío anti-bot de 2,4 KB (7). `correcciones.csv`: citas con año
+  errado confirmadas por la fecha exacta; `build.py` las aplica. 20 fichas nuevas.
+- [ ] Citas CC que no existen en el índice y no tienen fecha para confirmar el año (C-032/04, C-036/97,
+  C-311/92, C-1058/00, C-114/09, C-682/12…): no se corrigen a ojo. Las de 2025-2026 esperan publicación.
+- [~] `./cargar_cendoj.sh` (`ingesta_webrelatoria.py`): Consejo de Estado con parte resolutiva, problema
+  jurídico y extracto de la relatoría; Corte Suprema con texto íntegro y aristas `cita` desde la FUENTE
+  FORMAL (también para las 1.061 ya cargadas, si la recolección las alcanza — no busca por número).
+  El 2026-09-25 el servidor dio 502 con dos recolecciones en paralelo: ahora va en serie, con reintentos,
+  y se puede relanzar (salta lo cargado). Primera tanda: 184 CE, 11 CSJ, 710 aristas.
+- [ ] Nulidades del Consejo de Estado: la «norma demandada» entra como `interpreta`, no como
+  afectación — la relatoría no distingue nulidad total de parcial. Para matar artículos hay que leer
+  la resolutiva de cada una.
+- [~] `cargar_origenes.py`: leyes, estatutarias y AL origen desde senado, de la más citada a la menos
+  (~2.000). Lo que necesita criterio humano queda en `origenes_revisar.txt` (404, `faltan` > 0, nota de
+  muerte de la norma entera → arista `manual:`).
+- [ ] Decretos origen (~1.000): el Gestor no tiene buscador usable; los IDs `i=` salen de buscador web
+  uno por uno. Probar primero DIAN/SUIN-archive.org para los tributarios y los viejos.

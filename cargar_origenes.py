@@ -27,7 +27,8 @@ def pendientes(con, minimo):
         WITH f AS (SELECT CASE WHEN instr(origen, ':art:') > 0 THEN substr(origen, 1, instr(origen, ':art:') - 1)
                                ELSE origen END n, destino FROM relaciones
                    WHERE origen NOT IN (SELECT id FROM fragmentos) AND origen NOT IN (SELECT id FROM documentos))
-        SELECT n, count(*) FROM f GROUP BY n HAVING count(*) >= ? ORDER BY 2 DESC""", (minimo,)).fetchall()
+        SELECT n, count(*) FROM f WHERE n NOT IN (SELECT id FROM documentos)
+        GROUP BY n HAVING count(*) >= ? ORDER BY 2 DESC""", (minimo,)).fetchall()
     return [(n, c) for n, c in filas if n.split(":")[1] in PAGINA and len(n.split(":")) == 4]
 
 

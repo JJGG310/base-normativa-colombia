@@ -51,12 +51,25 @@ NOMBRES = [(r"constituci[óo]n pol[íi]tica", "co:constitucion:1991"),
 TIPO = {"ley": "ley", "decreto ley": "decreto-ley", "decreto": "decreto", "acto legislativo": "acto-legislativo"}
 
 
+def abrir(op, req, timeout):
+    """El servidor da 502 y cortes cuando se le pide mucho seguido: esperar y reintentar,
+    no tumbar la corrida entera por una petición."""
+    for intento in range(5):
+        try:
+            return op.open(req, timeout=timeout).read()
+        except Exception as e:
+            if intento == 4:
+                raise
+            print("  … %s; reintento en %ds" % (e, 60 * (intento + 1)), flush=True)
+            time.sleep(60 * (intento + 1))
+
+
 class Sesion:
     def __init__(self, corp="CE"):
         self.corp = corp
         self.op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
         self.op.addheaders = [("User-Agent", "Mozilla/5.0")]
-        d = self.op.open(URL, timeout=90).read().decode("utf-8", "replace")
+        d = abrir(self.op, URL, 90).decode("utf-8", "replace")
         self.vs = re.search(r'name="javax.faces.ViewState"[^>]*value="([^"]+)"', d).group(1)
 
     def post(self, datos):
@@ -65,7 +78,7 @@ class Sesion:
         r = urllib.request.Request(URL, data=urllib.parse.urlencode(datos).encode(), headers={
             "Faces-Request": "partial/ajax", "X-Requested-With": "XMLHttpRequest",
             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"})
-        return self.op.open(r, timeout=180).read().decode("utf-8", "replace")
+        return abrir(self.op, r, 180).decode("utf-8", "replace")
 
     def buscar(self, termino):
         r = self.post({"javax.faces.source": "resultForm:j_idt49", "javax.faces.partial.execute": "@all",
@@ -83,7 +96,7 @@ class Sesion:
             "resultForm:jurisTable_rows": "100", "resultForm:jurisTable_encodeFeature": "true"}))
 
     def texto_pdf(self, nr):
-        doc = self.op.open(DOC % (self.corp.lower(), nr), timeout=180).read()
+        doc = abrir(self.op, DOC % (self.corp.lower(), nr), 180)
         if doc.startswith(b"%PDF"):
             return "".join(p.get_text() for p in fitz.open(stream=doc, filetype="pdf"))
         # Las viejas vienen en Word (.doc OLE o .docx): `textutil` es de macOS, sin dependencias.
