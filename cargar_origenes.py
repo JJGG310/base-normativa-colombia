@@ -44,7 +44,7 @@ def ramas(con, id_norma):
 def epigrafe(doc):
     """El primer párrafo con minúsculas entre el encabezado de la norma y «EL CONGRESO…/DECRETA»."""
     t = html.unescape(limpiar(re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I)))
-    h = re.search(r"\b(?:LEY|ACTO LEGISLATIVO)\s+(?:N[o°º]\.?\s*)?\d+\s+DE\s+\d{4}\b", t, re.I)
+    h = re.search(r"\b(?:LEY|ACTO LEGISLATIVO)\s+(?:<[^>]*>\s*|ORG[ÁA]NICA\s+|ESTATUTARIA\s+)?(?:N[o°º]\.?\s*)?\d+\s+DE\s+\d{4}\b", t, re.I)
     if not h:
         return ""
     for p in t[h.end():h.end() + 4000].split("\n"):

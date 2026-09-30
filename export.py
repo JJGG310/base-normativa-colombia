@@ -10,7 +10,7 @@ condicionado, la advertencia viaja dentro del registro. Es la única defensa con
 que una IA cite un artículo derogado — el chunk no siempre llega acompañado de su
 norma, pero siempre llega acompañado de su advertencia.
 """
-import json, re, sqlite3, sys, os
+import datetime, json, re, sqlite3, sys, os
 import build
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
@@ -29,6 +29,7 @@ ADVERTENCIA = {
     "SIN_TEXTO_PROPIO": "SIN TEXTO PROPIO. La fuente no publica contenido para este artículo, solo la nota entre «<>» (sustituido o subrogado por otra norma, incorporado en un estatuto, desplazado por norma comunitaria…). No citarlo como regla: la disposición aplicable es la que la nota señala.",
     "COMPILADA": "COMPILADA EN UN DUR. Esta norma reglamentaria fue compilada en %s, cuya derogatoria integral (art. 3.1.1) deroga las disposiciones reglamentarias sobre las mismas materias, salvo las excepciones que enumera. Citar y aplicar el artículo equivalente del DUR, no este.",
     "SIN_TEXTO": "SOLO METADATOS, SIN TEXTO VERIFICADO. No se obtuvo el texto de la providencia; este registro no dice qué se decidió ni con qué razones. No citarlo como fundamento sin leerlo en la fuente.",
+    "VERIFICADO_VIEJO": "VERIFICADO HACE MÁS DE 12 MESES (%s). La vigencia pudo cambiar desde entonces: confirmarla en la fuente antes de citarlo.",
     "VIGENCIA_NO_VERIFICADA": "VERIFICAR ANTES DE USAR. De esta norma todavía no se cargó el rastro de reformas y derogatorias, así que no consta que el artículo siga vigente ni que este sea su texto actual. La ausencia de afectaciones registradas no es prueba de vigencia.",
 }
 
@@ -45,6 +46,7 @@ def cita(doc, clave):
 def exportar(ramas=(), salida=None):
     con = sqlite3.connect(os.path.join(RAIZ, "index.db"))
     con.row_factory = sqlite3.Row
+    viejo = (datetime.date.today() - datetime.timedelta(days=365)).isoformat()  # CLAUDE.md, regla 3
     vig = {r["articulo"]: r for r in con.execute("SELECT * FROM vigencia")}
     # Decreto reglamentario compilado en un DUR (arista `compila` a la norma entera).
     compilada = dict(con.execute("SELECT destino, origen FROM relaciones WHERE tipo = 'compila' "
@@ -78,6 +80,8 @@ def exportar(ramas=(), salida=None):
             dur = compilada.get(f["id"].split(":art:")[0])
             if dur and estado != "MUERTO":
                 adv = " ".join(filter(None, (ADVERTENCIA["COMPILADA"] % dur, adv)))
+            if f["clase"] != "jurisprudencia" and estado != "MUERTO" and f["verificado"] and f["verificado"] < viejo:
+                adv = " ".join(filter(None, (adv, ADVERTENCIA["VERIFICADO_VIEJO"] % f["verificado"])))
             if f["clase"] == "jurisprudencia" and ("No se pudo bajar el texto" in f["texto"] or "No se pudo extraer la parte resolutiva" in f["texto"]):
                 adv = ADVERTENCIA["SIN_TEXTO"]  # fichas del Consejo de Estado sin texto (SAMAI 403)
             reg = {
@@ -144,6 +148,9 @@ def check():
         "\n## art:2 — Dos\n<Artículo INEXEQUIBLE>\n\n## art:3 — Tres\nTexto tres.\n"
         "\n## art:4 — Cuatro\nVive. <Aparte tachado INEXEQUIBLE> [TACHADO: cayó]\n"
         "\n## art:5 — Cinco\n<Artículo sustituido por los artículos 1o. a 23 del Decreto 919 de 1989>.\n")
+    open(tmp + "/normativa/y.md", "w", encoding="utf-8").write(
+        "---\nid: co:ley:3:2003\ntipo: ley\ntitulo: Ley Tres\nramas: [civil]\n"
+        "fuente: http://x\nverificado: 2020-01-01\nafectaciones: cargadas\n---\n\n## art:1 — Uno\nTexto.\n")
     open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8").write(
         "---\nid: co:ce:1:2022\ntipo: sentencia\ncorporacion: consejo-estado\nponente: P\nramas: [administrativo]\n"
         "fuente: http://x\nverificado: 2026-01-01\n---\n\n## ficha\nActor: X\n**No se pudo bajar el texto íntegro**.\n")
@@ -170,6 +177,7 @@ def check():
     assert "parte marcada" in regs[3]["advertencia"], "marca <Aparte … INEXEQUIBLE> debe salir advertida"
     assert "co:decreto:9:2015:art:3.1.1" in regs[2]["advertencia"], "norma compilada en un DUR"
     assert "SIN TEXTO PROPIO" in regs[4]["advertencia"], "artículo que solo trae la nota de la fuente"
+    assert "12 MESES (2020-01-01)" in regs[-1]["advertencia"] and "12 MESES" not in (regs[0]["advertencia"] or ""), "regla 3: verificado viejo"
     assert "SOLO METADATOS" in ficha["advertencia"] and ficha["corporacion"] == "consejo-estado", ficha
     shutil.rmtree(tmp)
     RAIZ = os.path.dirname(os.path.abspath(__file__))

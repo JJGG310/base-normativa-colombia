@@ -303,7 +303,8 @@ artículos (el resto quedó absorbido en el Estatuto Tributario) y la Ley 1755 d
   3. La misma providencia aparece en `.pdf` y en `.docx`: solo se toma el `.docx`. Lo
      que la Corte publica únicamente en PDF se salta — y hay salas-año enteras así
      (laboral 2023: 12.950 providencias, ni un `.docx`). Leerlas exigiría un extractor
-     de PDF, que es una dependencia nueva: decisión pendiente, no un tick.
+     de PDF, que es una dependencia nueva: decisión pendiente, no un tick. **→ resuelto: PyMuPDF ya lo hace
+     desde ee89821 (laboral 2023 tiene 1.265 fichas); ver P23-P25.**
   4. **Sala penal — resuelto (2026-09-19)**: no era que la fuente no sirviera los
      archivos, era la ruta. El buscador indexa
      `PENAL/<año>/Dr. X/Sentencia/<archivo>`, pero el storage real no tiene esa
@@ -680,26 +681,89 @@ Probadas en vivo, sin navegador. Falta implementar los extractores.
 - [x] Corte Constitucional: índice Elastic en `ingesta_relatoria` (rutahtml). No se cachean el
   cascarón SPA (84 borrados) ni el desafío anti-bot de 2,4 KB (7). `correcciones.csv`: citas con año
   errado confirmadas por la fecha exacta; `build.py` las aplica. 20 fichas nuevas.
-- [ ] Citas CC que no existen en el índice y no tienen fecha para confirmar el año (C-032/04, C-036/97,
-  C-311/92, C-1058/00, C-114/09, C-682/12…): no se corrigen a ojo. Las de 2025-2026 esperan publicación.
-- [~] `./cargar_cendoj.sh` (`ingesta_webrelatoria.py`): Consejo de Estado con parte resolutiva, problema
-  jurídico y extracto de la relatoría; Corte Suprema con texto íntegro y aristas `cita` desde la FUENTE
-  FORMAL (también para las 1.061 ya cargadas, si la recolección las alcanza — no busca por número).
-  El 2026-09-25 el servidor dio 502 con dos recolecciones en paralelo: ahora va en serie, con reintentos,
-  y se puede relanzar (salta lo cargado). Primera tanda: 184 CE, 11 CSJ, 710 aristas.
-- [ ] Nulidades del Consejo de Estado: la «norma demandada» entra como `interpreta`, no como
-  afectación — la relatoría no distingue nulidad total de parcial. Para matar artículos hay que leer
-  la resolutiva de cada una.
+- [x] Citas CC sin ficha (2026-09-30, agente cc): 5 entradas nuevas en `correcciones.csv`: C-509/07→C-509/08 (año) y,
+  por NÚMERO, C-1058/00→C-1508/00, C-114/09→C-144/09, C-682/12→C-862/12, C-136/25→C-316/25, confirmadas con fecha
+  exacta, ponente y resolutiva (las de número exceden «solo el año»: borrar la fila si no se aceptan). Más 3 de leyes
+  con el año errado en la propia fuente: 633/2001→633/2000, 25/1892→25/1992, 1474/2021→1474/2011. Sin corregir:
+  C-032/04, C-036/97, C-311/92 (solo aristas `interpreta` de la Constitución, sin fecha), C-237/04 (el índice solo
+  tiene C-237A/04), C-167/25 (¿C-167/26?) y 6 citas cuya fecha en el grafo no coincide con la del índice (C-198/98,
+  C-260/96, C-1336/00, C-078/18, C-1023/12, C-167/14): revisar antes de cargar. 24 sentencias de 2025-2026 siguen sin
+  publicar (C-006, 036, 048, 062, 067, 099, 166, 192, 195, 197, 212, 217, 218, 220, 252, 255, 272, 293, 294 de 2026;
+  C-167, 206, 224, 504 de 2025).
+- [~] Fichas CC de las citas del grafo (`ingesta_relatoria.py --del-grafo --todas`): +332 fichas el 2026-09-30. El
+  servidor de la Corte corta las conexiones tras ~150-250 peticiones seguidas (bloques de «no está en el índice» y
+  errores SSL que NO son citas inexistentes): quedan ~200. Relanzar en tandas con `--pausa 3`.
+- [~] `./cargar_cendoj.sh` (`ingesta_webrelatoria.py`): Consejo de Estado con parte resolutiva y aristas `cita` desde la
+  FUENTE FORMAL. Tanda del 28-sep commiteada (588372b). El 30-sep CENDOJ volvió del 502: NULIDAD SIMPLE, NULIDAD POR
+  INCONSTITUCIONALIDAD y CONTROL INMEDIATO DE LEGALIDAD (+75 fichas CE); parada limpia (con el candado) en NULIDAD
+  ELECTORAL. Relanzar salta lo cargado. Faltan el resto de términos CE y los 20 de la Corte Suprema.
+- [ ] Nulidades del Consejo de Estado — **decisión de Juan**. Propuesta completa en `propuestas/nulidades-ce/` (informe,
+  parches de esquema/build/export SIN aplicar, candidatas). La relatoría nunca dice «nulidad» (ACCEDE/NIEGA/NO APLICA son
+  procesales); leyendo la resolutiva sí hay 13 aristas inequívocas, pero hoy solo nulidades PARCIALES tocan normas
+  cargadas (DUR 1067, 1073, 1075) y salen VIGENTE sin aviso; y 3 artículos cargados dicen «declarado NULO por el
+  Consejo de Estado» en su propio texto (Decreto 1082/2015 arts. 2.2.1.2.5.1 y 2.2.1.2.5.3; Decreto 1474/1997 art. 8) y
+  también salen VIGENTE. Arreglarlo exige aprobar los tipos `declara_nulo` / `declara_nulo_parcial`.
 - [x] P22 (`cargar_origenes.py`): 2.074 leyes, estatutarias y AL origen desde senado. 79 muertes de la
   norma entera anotadas solo en el encabezado → aristas `manual:` (derogada por artículo/ley concreta,
   o inexequible con su sentencia); 793/2002, 785/2002 y 1530/2012 derogadas salvo los exceptuados.
   `fecha_norma` lee más variantes del Diario Oficial y, sin él, la fecha de expedición del encabezado.
   Leyes aprobatorias de tratados: se cargan los artículos de la ley (tras DECRETA), no los del tratado.
-- [ ] `origenes_revisar.txt` (96): 37 muertes de norma entera que exigen criterio (tácita, efectos
-  diferidos, entrada gradual, «continuarán vigentes», inexequible sin número de sentencia); 37 leyes
-  sin página en senado (muchas pre-1990: probar normogramas o SUIN-archive.org); 20 `verificar` con
-  faltantes (10 aprobatorias: el índice de la fuente lista los artículos del tratado, esperado).
-- [ ] Error operativo 2026-09-25: un `git checkout relaciones.csv` revirtió las aristas sin commit; se
-  regeneraron re-ingestando desde caché. Regla: nunca checkout/restore de relaciones.csv con cargas en curso.
-- [ ] Decretos origen (~1.000): el Gestor no tiene buscador usable; los IDs `i=` salen de buscador web
-  uno por uno. Probar primero DIAN/SUIN-archive.org para los tributarios y los viejos.
+- [x] `origenes_revisar.txt` (96 → 8): ver P23-P25. Quedan las que exigen criterio o fuente (Leyes 13/1992, 794/2003,
+  872/2003, 1330/2009, 2168/2021, 1896/2018, 1865/2017 y 105/1913).
+- [x] Error operativo 2026-09-25 (`git checkout relaciones.csv` con cargas sin commit) → regla en CLAUDE.md.
+- [~] Decretos origen: P23 cargó 50 (642 de 652 aristas de origen resuelven). Quedan 1.020 con 1.982 aristas: el grupo de
+  3-7 aristas (~175 decretos, ID sacable de los enlaces de las páginas del Gestor ya en caché) vale un script tipo
+  `cargar_origenes.py`; el de 1-2 aristas solo con chequeo de firma (páginas truncadas, p. ej. Decreto 1934/2015).
+  Sin ID en el Gestor: Decreto 130/2010 (sí está en senado, `decreto_0130_2010.html`).
+
+## P23-P25 y trabajo en paralelo (2026-09-30)
+
+Siete agentes en paralelo más CENDOJ y la Corte Constitucional en segundo plano. `build.py` sin avisos; `contexto.jsonl`
+122.932 registros (era 85.443); `origenes_sin_cargar` 5.296 → 2.446 aristas (buena parte: `art:inicio`, ver abajo).
+
+- [x] P23 (`cargar_p23.sh`): 50 decretos y decretos-ley origen del Gestor (262/2000, 16/2014, 20/2014, 25/2014, DL 885/2017
+  y 45 reformadores de DUR); cada `i=` verificado contra el `<title>` de la página. Muertos enteros: Decreto 141/2011
+  (inexequible, C-276/11) y 934/2021 (derogado por el 821/2022). `fecha_norma` acepta «DEL 2015».
+- [x] P24 (`cargar_p24.sh`, `ingesta_suin.py`): 33 de las 37 leyes sin página en senado, desde normogramas de
+  Cancillería, Colpensiones, CREG, JEP y SENA, Gestor, SISJUR y SUIN vía archive.org. No cargadas: 633/2001, 25/1892 y
+  1474/2021 (errores de año de la fuente, ahora en `correcciones.csv`) y 105/1913 (sin fuente admitida). Recaptura de los 3
+  documentos de P21: Wayback no tiene capturas más recientes; siguen con más de 12 meses (ahora el export lo advierte).
+- [x] P25 (`cargar_p25.sh`): 23 leyes muertas enteras con arista `declara_inexequible` a nivel de norma (nota
+  `manual: total — …`): las Notas de senado dicen solo «Ley INEXEQUIBLE»; la sentencia se halló por búsqueda web y se
+  comprobó contra el RESUELVE de su ficha (nombra la ley por número y año). Más la Ley 2281/2023 (C-161/24: efectos
+  diferidos; fecha 2026-06-20 = fin de la legislatura 2025-2026, CALCULADA). Para vetarlas: borrar las filas con
+  «manual: total — el RESUELVE de la sentencia» o «manual: total, con efectos diferidos».
+- [x] Las 22 de `origenes_revisar.txt` con fecha / `verificar` incompleto: `fecha_norma` lee «LEY <ESTATUTARIA> 2453» y
+  «LEY ORGÁNICA 2423»; 9 normas con artículos que solo tenían el epígrafe (anclas vacías repetidas) restauradas; 4 con
+  numeración por `<sic>`; 2 fechas que eran la de la Ley 424/1998 (2031/2020, 994/2005). Regresión: 2.359 normas de
+  senado idénticas salvo las tocadas a propósito.
+- [x] Corte Suprema (`ingesta_cendoj.py`): la lectura de PDF ya existía; añade descartar PDF escaneados, aceptar `.doc`
+  (OOXML), reintentar rutas muertas y 5xx. Piloto: 100 fichas de laboral 2023 (`co:csj:sl-N:2023`). Carga completa no
+  recomendada (muestreo temático con `--terminos`; ~4 h por ~1.800). Fechas con «ñ» o paréntesis (`fecha_en`) corregidas.
+- [x] `build.py`: las 1.155 aristas `concordancia` con origen `…:art:inicio` (senado) apuntan a la norma.
+- [x] `export.py`: advertencia `VERIFICADO_VIEJO` para normativa con `verificado` de más de 12 meses (regla 3).
+- [x] `ingesta_webrelatoria.py`: «ARTÍCULOS 215 Y 216» / «185 A 190» ya no toman Y ni A como letra; una cita a un artículo
+  que la norma cargada no tiene baja a arista de la norma. `ingesta_senado.guardar_relaciones` conserva también las
+  aristas `CENDOJ:` (una re-ingesta las borraba). `cargar_origenes.epigrafe` lee «LEY <ESTATUTARIA> N» (17 títulos rotos
+  corregidos).
+- [ ] Seguimientos que no bloquean:
+  1. 50 aristas `declara_inexequible*` salen de sentencias con `decision: exequible` cuya resolutiva no dice
+     «inexequible» (p. ej. C-255/98 → Ley 222/1995 arts. 143-144, declarados EXEQUIBLES): dan el aviso «inexequible en
+     parte, verificar» o una causa errónea en `mata`. La raíz está en cómo `ingesta_senado` tipa las cajas de vigencia:
+     auditar (ya se eliminó C-509/07 → Ley 141/1994 art. 35).
+  2. Aristas `modifica`/`adiciona` que salen de leyes ahora inexequibles (508/1999 → 142/1994 y 286/1996; 719/2001 →
+     44/1993; 738/2002 → Código Penal art. 447A) siguen marcando «reformado».
+  3. 21 títulos rotos de P22 (el parser no halla el epígrafe): 1076/2006, 1143/2007, 1673/2013, 168/1994, 17/1992,
+     1830/2017, 188/1995, 1883/2018, 1958/2019, 225/1995, 263/1996, 287/1996, 375/1997, 376/1997, 377/1997, 413/1997,
+     528/1999, 725/2001, 844/2003, 944/2005 y 945/2005.
+  4. Ley 660/2001: art. III del tratado y secciones C-E del II sin cargar (anclas con nombre no numérico); `verificar.py`
+     no lo detecta y no tiene rama para SISJUR (Leyes 24/1986 y 73/1988).
+  5. Pie del sitio en el último artículo de normogramas sin «Fin documento» (Ley 57/1887 art. 338): el `div ir-arriba`
+     aparece en cada artículo, no sirve para cortar en el parser; se recorta caso a caso (`recortar` en cargar_p24.sh).
+  6. `ingesta_gestor.RE_AFECTA` no lee «el Artículo 8 de la Ley 62 de 1939» ni «Ley 6a.de 1928»; 9 notas «Adicionado
+     numerales…» de 262/2000 y 16/2014 quedan sin arista.
+  7. Ramas poco naturales en leyes cuyas ramas salen de lo que afectan (Ley 84/1989 «civil, familia»; 262/2000, 16/2014…
+     «constitucional»). Leyes 130/1913 y 84/1915 (CREG) con vigencia pendiente: SUIN trae análisis de vigencia.
+  8. Corte Suprema: la parte resolutiva incluye aclaraciones y salvamentos de voto en 331 de 2.412 fichas (14 %); cortar en
+     el encabezado del voto y regenerar — decisión de Juan. Ley 2453/2025: sus arts. 12, 13 y 16 salieron
+     `declara_inexequible_parcial` por la regla estándar, sin revisar a mano.

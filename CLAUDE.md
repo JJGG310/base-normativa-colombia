@@ -104,6 +104,14 @@ SELECT * FROM cadena;
 4. `python3 build.py`. Si imprime avisos, se corrigen antes de dar por cerrado.
 5. Commit.
 
+**`relaciones.csv` lo escriben varios procesos a la vez** (las ingestas, con el candado
+`.relaciones.lock`). Nunca `git checkout`/`restore` sobre él con cargas sin commit: el 2026-09-25
+se perdieron aristas así. Una tanda de carga se commitea al cerrarla; no se deja acumulada.
+
+**Con varios agentes en paralelo:** solo el orquestador corre `build.py`, `export.py` y git; las
+aristas manuales entran por un script que tome el candado; un agente por host (CENDOJ se cae con
+concurrencia); cada agente edita solo el código que le tocó.
+
 `python3 build.py --check` corre el autotest de la lógica de vigencia. Si se toca
 `build.py`, tiene que seguir pasando.
 

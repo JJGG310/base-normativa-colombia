@@ -50,11 +50,11 @@ def fecha_norma(doc):
     """El Gestor no publica la línea del Diario Oficial, pero sí la fecha junto al
     número: «DECRETO 1069 DE 2015 (Mayo 26)». Sale de la fuente, no de memoria.
 
-    El «DE» no siempre está: el DUR 1076 se titula «DECRETO 1076 2015 (Mayo 26)»."""
+    El «DE» no siempre está: el DUR 1076 se titula «DECRETO 1076 2015 (Mayo 26)», y hay «DEL 2015»."""
     t = limpiar(re.sub(r"<style.*?</style>|<script.*?</script>", "", doc, flags=re.S | re.I))
     # Entre el año y la fecha puede haber paréntesis de reformas: el DUR 1073 trae
     # «DECRETO 1073 DE 2015 (Adicionado por…) (Adicionado por…) (Mayo 26)».
-    m = re.search(r"\b(?:DECRETO|LEY)\s+(?:N[ÚU]MERO\s+)?[\d\.]+\s+(?:DE\s+)?(\d{4})\s*(?:\([^)]*\)\s*)*"
+    m = re.search(r"\b(?:DECRETO|LEY)\s+(?:N[ÚU]MERO\s+)?[\d\.]+\s+(?:DEL?\s+)?(\d{4})\s*(?:\([^)]*\)\s*)*"
                   r"\(\s*(%s)\s+(\d{1,2})\s*\)" % "|".join(MESES), t, re.I)
     return "%s-%02d-%02d" % (m.group(1), MESES[m.group(2).lower()], int(m.group(3))) if m else ""
 
@@ -292,6 +292,7 @@ def check():
          "Artículo 4°. Modifícase el artículo 43. Tres.\nArtículo 5°. Vigencia. Cuatro.\n")
     assert [a[0] for a in partir("2", "", "Dos.\n" + t, False)] == ["2", "3", "4", "5"], \
         "los artículos transcritos tras «quedarán así:» no son propios"
+    assert fecha_norma("<p>DECRETO 1956 DEL 2015</p><p>(Octubre 5)</p>") == "2015-10-05"   # «DEL», no «DE»
     print("check OK")
 
 

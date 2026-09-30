@@ -239,7 +239,8 @@ def construir(db_path=DB, raiz=RAIZ):
                     continue
                 v = [fila.get(c, "").strip() for c in
                      ("origen", "tipo", "destino", "fecha", "nota", "fuente")]
-                v[0], v[2] = destino(v[0]), destino(v[2])
+                # senado cuelga las concordancias de la ley entera de un «art:inicio» que no existe
+                v[0], v[2] = destino(v[0].removesuffix(":art:inicio")), destino(v[2])
                 f = fechas.get(v[0].split(":art:")[0], "")
                 if v[3].endswith("-12-31") and "diciembre" not in v[4]:
                     if f[:4] == v[3][:4]:
@@ -375,6 +376,7 @@ def check():
                  "co:ley:4:2003,deroga,co:ley-estatutaria:1:2000:art:11,2003-01-01,,x\n"
                  "co:ley:6:2006,modifica,co:ley:5:2005,2006-01-01,,x\n"
                  "co:ley:6:2006:art:1,modifica,co:ley:5:2005:art:1,2006-01-01,,x\n"
+                 "co:ley:6:2006:art:inicio,concordancia,co:ley:5:2005:art:1,,,x\n"
                  "co:ley:8:2008:art:3,deroga,co:ley:7:2007,2008-01-01,,x\n"
                  "co:ley:8:2008:art:4,deroga,co:ley:9:2009,2099-01-01,,x\n"
                  "co:cc:c-481:2019,declara_inexequible,co:ley:1:2000:art:16,2019-10-03,,x\n"
@@ -424,6 +426,7 @@ def check():
     assert "c-4:1993" in con.execute("SELECT mata FROM vigencia WHERE articulo='co:ley:1:2000:art:7'").fetchone()[0]
     assert con.execute("SELECT count(*) FROM vigencia WHERE articulo='co:ley:5:2005:art:1'").fetchone()[0] == 1
     assert con.execute("SELECT count(*) FROM fragmentos WHERE clave='texto'").fetchone()[0] == 0
+    assert con.execute("SELECT count(*) FROM relaciones WHERE origen LIKE '%:art:inicio'").fetchone()[0] == 0, "art:inicio -> la norma"
     # FTS5 sin tildes: buscar "hipoteca" debe pegar aunque se escriba con acento raro
     assert con.execute("SELECT count(*) FROM busqueda WHERE busqueda MATCH 'hipoteca'").fetchone()[0] == 1
     con.close(); shutil.rmtree(tmp)

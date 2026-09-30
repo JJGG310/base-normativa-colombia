@@ -15,11 +15,13 @@ Cada artículo vive en su `<div id="toggle_N">`. Los bloques de vigencia son lis
 norma, no se emiten aquí: guardar_relaciones solo reescribe las entrantes); el resto son
 entrantes. Una etiqueta que no se reconoce se reporta, no se adivina.
 """
-import argparse, html, json, os, re, sys, urllib.request
+import argparse, html, json, os, re, sys, time, urllib.request
+from datetime import date
 
 from ingesta_senado import bajar, guardar_relaciones, TIPO_NORMA
 
 RAIZ = os.path.dirname(os.path.abspath(__file__))
+SISJUR = "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i="
 ACCION = {"derogado": "deroga", "modificado": "modifica", "adicionado": "adiciona",
           "subrogado": "subroga", "sustituido": "subroga"}
 # «Artículo Séptimo.», «Artículo undécimo.», «Artículo decimotercero.» (Decreto 982/1996).
@@ -40,8 +42,15 @@ def captura(ruta):
     """(url de la captura cruda, AAAA-MM-DD) de la última captura 200 de SUIN."""
     cdx = "https://web.archive.org/cdx/search/cdx?url=www.suin-juriscol.gov.co/viewDocument.asp?%s" \
           "&output=json&filter=statuscode:200" % (("ruta=" + ruta) if "/" in ruta else ("id=" + ruta))
-    with urllib.request.urlopen(cdx, timeout=120) as r:
-        filas = json.load(r)[1:]
+    for intento in range(4):    # la CDX de archive.org da 503/504 a ratos
+        try:
+            with urllib.request.urlopen(urllib.request.Request(cdx, headers={"User-Agent": "Mozilla/5.0"}), timeout=120) as r:
+                filas = json.load(r)[1:]
+            break
+        except Exception:
+            if intento == 3:
+                raise
+            time.sleep(15 * (intento + 1))
     if not filas:
         sys.exit("archive.org no tiene capturas 200 de " + ruta)
     ts, original = filas[-1][1], filas[-1][2]
@@ -125,20 +134,33 @@ def procesar(doc, id_norma, fuente):
     return arts, filas, sin_parsear, estado
 
 
+def sisjur(doc):
+    """SISJUR (Alcaldía de Bogotá): HTML de Word sin anclas ni notas de vigencia. Los artículos
+    se cortan por el «Artículo N°.» en negrita, entre «DECRETA:» y las firmas."""
+    t = texto(doc.split("DECRETA:", 1)[1])
+    t = re.split(r"(?im)^(?:Dada en|Dado en|PUBL[IÍ]QUESE)", t)[0]
+    partes = re.split(r"(?im)^Art[íi]culo\s+(\d+)\s*[°º.]*\s*", t)
+    return [(partes[i], "", partes[i + 1].strip()) for i in range(1, len(partes), 2)]
+
+
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("ruta", help="«Decretos/1731310» o el id numérico de SUIN")
+    p.add_argument("ruta", help="«Decretos/1731310» o el id numérico de SUIN; «sisjur:106625» para SISJUR")
     for a in ("id", "tipo", "titulo", "ramas", "salida", "fecha"):
         p.add_argument("--" + a, required=True)
     p.add_argument("--minimo", type=int, default=1)
     a = p.parse_args()
 
-    url, fecha_captura = captura(a.ruta)
-    doc = bajar(url)
-    # Unas capturas son ISO-8859-1 y otras UTF-8 (Decreto 939/2017): «artÃ­culo» delata la segunda.
-    if doc.count("Ã") > 20:
-        doc = doc.encode("latin-1", "replace").decode("utf-8", "replace")
-    arts, filas, sin_parsear, estado = procesar(doc, a.id, url)
+    if a.ruta.startswith("sisjur:"):   # página viva (esquema.md §8, fuente 11): verificado = hoy
+        url, fecha_captura = SISJUR + a.ruta[7:], date.today().isoformat()
+        arts, filas, sin_parsear, estado = sisjur(bajar(url, enc="cp1252")), [], [], ""
+    else:
+        url, fecha_captura = captura(a.ruta)
+        doc = bajar(url)
+        # Unas capturas son ISO-8859-1 y otras UTF-8 (Decreto 939/2017): «artÃ­culo» delata la segunda.
+        if doc.count("Ã") > 20:
+            doc = doc.encode("latin-1", "replace").decode("utf-8", "replace")
+        arts, filas, sin_parsear, estado = procesar(doc, a.id, url)
     if len(arts) < a.minimo:
         sys.exit("ABORTA: %d artículos, se esperaban al menos %d" % (len(arts), a.minimo))
     # La fecha de expedición no se infiere de la página (los formatos de SUIN cambian entre
@@ -175,6 +197,9 @@ def check():
     assert filas == [("co:decreto:230:2008:art:52", "deroga", "co:decreto:9:1996", "2008-01-30",
                       "SUIN: derogado Artículo 52 DECRETO 230 de 2008", "u")], filas
     assert estado == "derogado" and not sp
+    s = sisjur('<p>LEY 1</p><p>DECRETA:</p><p><b>Artículo 1°.</b>&nbsp;Uno.</p><p>Sigue.</p>'
+               '<p><b>Artículo 2° </b>Dos.</p><p>Dada en Bogotá.</p>')
+    assert s == [("1", "", "Uno.\n\nSigue."), ("2", "", "Dos.")], s
     print("check OK")
 
 

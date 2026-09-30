@@ -10,7 +10,7 @@ porque un artículo perdido y uno partido en dos se cancelan.
 """
 import glob, os, re, sys
 
-from ingesta_senado import ANCLA, bajar, num_ancla, paginas
+from ingesta_senado import ANCLA, articulos_tras_decreta, bajar, num_ancla, paginas
 
 OPCION = re.compile(r'<option value="[^"]*#(\d+[A-Za-z]?)"[^>]*>\s*([^<]+?)\s*</option>', re.I)
 
@@ -22,7 +22,13 @@ def indice_fuente(url):
     from ingesta_senado import limpiar
     nums, encabezados, subtitulos = set(), set(), set()
     for _, doc in paginas(url):
-        for ancla, etiqueta in OPCION.findall(doc):
+        # Si en la mayoría de las anclas numéricas el encabezado dice otro número que su `name`
+        # («name=5» → «ARTÍCULO 4o-bis», Ley 178/1994; «name=1» → «ARTÍCULO 1A.», Ley 303/1996), los
+        # `name` (y el selector) son posiciones, no números de artículo: el índice sale de los encabezados.
+        cab = [(m.group(1).upper(), num_ancla(m.group(1), limpiar(m.group(2))).upper()) for m in ANCLA.finditer(doc)
+               if re.fullmatch(r"\d+[A-Za-z]?", m.group(1)) and re.match(r"\s*ART[IÍ]CULO\s+\d", limpiar(m.group(2)), re.I)]
+        posicional = sum(n != h for n, h in cab) > len(cab) / 2
+        for ancla, etiqueta in ([] if posicional else OPCION.findall(doc)):
             if re.fullmatch(r"\d+[A-Za-z]?", etiqueta):
                 nums.add(etiqueta.upper())
         # El selector solo lista las anclas `bookmarkaj`: los artículos con un `<A
@@ -106,6 +112,14 @@ def revisar(ruta):
         return None
     faltan = sorted(fuente_nums - propios, key=lambda s: (len(s), s))
     sobran = sorted(propios - fuente_nums, key=lambda s: (len(s), s))
+    # Ley aprobatoria con solo los artículos de la ley (los de tras el último DECRETA): el resto del índice
+    # es texto del tratado, o de la Ley 424/1998 que las aprobatorias transcriben. No son artículos de la ley.
+    if faltan and re.search(r"^titulo: .*\bapru[eé]ba", texto, re.M | re.I) and "secretariasenado" in fuente.group(1):
+        ley = {a[0].upper() for a in articulos_tras_decreta(fuente.group(1))}
+        if ley and ley == propios:
+            print("%-46s %4d arts · índice %4d · faltan 0 (%d números del índice no son artículos de la ley sino del tratado o de otra norma transcrita: %s)" % (
+                os.path.basename(ruta), len(propios), len(fuente_nums), len(faltan), ", ".join(faltan[:8])))
+            return 0
     print("%-46s %4d arts · índice %4d · faltan %d%s" % (
         os.path.basename(ruta), len(propios), len(fuente_nums), len(faltan),
         (": " + ", ".join(faltan[:15])) if faltan else ""))

@@ -1,0 +1,153 @@
+--- a/esquema.md
++++ b/esquema.md
+@@ -243,6 +243,8 @@
+ | `subroga` | Reemplaza su texto; el artículo sigue vivo con el texto nuevo (cuenta como reforma) |
+ | `declara_inexequible` | Lo mata desde la fecha |
+ | `declara_inexequible_parcial` | Sigue vivo, mutilado — `nota` dice qué cayó |
++| `declara_nulo` | Lo mata desde la fecha: nulidad **total** de un acto o artículo, decidida por el Consejo de Estado (§6.1) |
++| `declara_nulo_parcial` | Sigue vivo, mutilado — `nota` dice qué cayó (expresión, numeral, literal…) y sale con advertencia (§6.1) |
+ | `modifica` | Sigue vivo, con otro texto |
+ | `adiciona` | Sigue vivo, con más texto |
+ | `suspende` | Muerto temporalmente — `nota` dice hasta cuándo |
+@@ -256,8 +258,32 @@
+ | `concordancia` | No afecta vigencia (remisión normativa) |
+ | `renumera` | No afecta vigencia — el `origen` es el número viejo, el `destino` el número vigente |
+ 
+-Los primeros ocho son **relaciones de afectación**: `build.py` los usa para calcular
++Los primeros diez son **relaciones de afectación**: `build.py` los usa para calcular
+ vigencia. Los demás son navegación.
++
++### 6.1 Nulidades del Consejo de Estado (`declara_nulo`, `declara_nulo_parcial`)
++
++Solo se registran leyendo la **parte resolutiva** (`## resuelve`) de la providencia; nunca el campo
++«Decisión» de la relatoría (`ACCEDE`, `NIEGA`, `NO APLICA`… son procesales: `ACCEDE` es también
++«se admite la demanda» o «se avoca el control inmediato»). Una arista por acto o artículo nombrado:
++
++- `declara_nulo` solo si un numeral dice literalmente «declarar la nulidad de[l] <decreto | artículo N
++  del decreto N de AAAA>» sin sub-parte («expresión», «aparte», «numeral», «inciso», «parágrafo», «literal»).
++  Con sub-parte, o «nulidad parcial»: `declara_nulo_parcial`, y la `nota` copia la sub-parte.
++- No generan arista: la **suspensión provisional** (es transitoria y casi siempre parcial), la
++  **inaplicación** por ilegal o inconstitucional (efecto entre partes; la norma sigue viva), «ajustado a
++  derecho» / «legalidad condicionada» en el control inmediato de legalidad, los autos que admiten la
++  demanda, los actos particulares (nombramientos, elecciones, sanciones) y cualquier acto que no esté
++  cargado (una resolución, una ordenanza).
++- `destino`: `co:decreto:N:AAAA[:art:X]`. En un DUR, la resolutiva nombra el artículo con la numeración
++  del DUR aunque cite el decreto que lo introdujo («artículo 2.2.6.1.7 del Decreto 1814 de 2015»): el
++  destino es el artículo del DUR que ese decreto adicionó/modificó/subrogó según `relaciones.csv`
++  (si no hay uno solo, no se registra).
++- `fecha`: la de la providencia (la ejecutoria no consta en la fuente). Los efectos en el tiempo
++  (ex tunc / ex nunc, «sin perjuicio de las situaciones consolidadas», «hacia futuro») **no cambian la
++  vigencia calculada** (que solo dice si hoy rige); si la resolutiva los dice, se copian en la `nota`.
++- `nota`: «CENDOJ: nulidad total|parcial de …» + la frase de la resolutiva (≤ 300 caracteres). `fuente`:
++  el PDF de la relatoría.
+ 
+ ---
+ 
+@@ -265,7 +291,7 @@
+ 
+ `build.py` genera la vista `vigencia`. La regla, en orden:
+ 
+-1. ¿Hay `deroga` / `deroga_tacitamente` con `fecha <= hoy`, `declara_inexequible`
++1. ¿Hay `deroga` / `deroga_tacitamente` / `declara_nulo` con `fecha <= hoy`, `declara_inexequible`
+    total (nota «total» o marcador `<Artículo INEXEQUIBLE>` en el texto), o marcador
+    de la fuente (ver abajo)? → **muerto** (con el ID de lo que lo mató). Un
+    `declara_inexequible` sin evidencia de ser total → **vigente con condición**
+@@ -273,7 +299,7 @@
+    o `subroga` con fecha posterior a la de la sentencia: el texto vigente es
+    posterior y el aviso no le aplica (la arista sigue en `afectado_por`).
+ 2. ¿Hay `suspende` vigente? → **suspendido**.
+-3. ¿Hay `declara_exequible_condicionado` o `declara_inexequible_parcial`? →
++3. ¿Hay `declara_exequible_condicionado`, `declara_inexequible_parcial` o `declara_nulo_parcial`? →
+    **vigente con condición** (se devuelve la `nota`, siempre).
+ 4. ¿Hay `modifica` / `adiciona` / `subroga`? → **vigente reformado** (con la cadena).
+ 5. Ninguna → **vigente**.
+--- a/build.py
++++ b/build.py
+@@ -13,10 +13,11 @@
+ # Relaciones que matan / afectan la vigencia (esquema.md §6)
+ # `subroga` reemplaza el texto: el artículo sigue existiendo con otro contenido.
+ # `declara_inexequible` mata solo con evidencia de que fue total (ver vista vigencia).
+-MATA = ("deroga", "deroga_tacitamente")
+-CONDICIONA = ("declara_exequible_condicionado", "declara_inexequible_parcial")
++MATA = ("deroga", "deroga_tacitamente", "declara_nulo")
++CONDICIONA = ("declara_exequible_condicionado", "declara_inexequible_parcial", "declara_nulo_parcial")
+ REFORMA = ("modifica", "adiciona", "subroga")
+ PARCIAL = "INEXEQUIBLE EN PARTE — alcance no registrado; verificar en la sentencia qué apartes cayeron"
++NULO_PARCIAL = "NULIDAD PARCIAL"  # prefijo de la condición; export.py lo usa para escoger la advertencia
+ 
+ # Nota de vigencia que la fuente (Senado/SUIN) pone al inicio del propio texto:
+ # «<Artículo derogado por…>», «<Artículo INEXEQUIBLE>». Si no está al inicio (p. ej.
+@@ -127,6 +128,8 @@
+ -- Vigencia derivada, nunca almacenada (esquema.md §2.2 y §7). Subconsultas por
+ -- artículo (destino = artículo o su norma): una fila por artículo, sin duplicados.
+ -- Una arista a la norma entera (destino = doc_id) afecta a todos sus artículos.
++-- declara_nulo (nulidad TOTAL, Consejo de Estado) mata como deroga; declara_nulo_parcial no mata:
++-- deja el artículo vigente con la condición «NULIDAD PARCIAL — <nota>».
+ -- Un declara_inexequible sin prueba de total queda como aviso «en parte», salvo que el
+ -- artículo se haya modificado/subrogado DESPUÉS de la sentencia: el texto vigente es
+ -- posterior y el aviso ya no le aplica (la arista sigue en afectado_por).
+@@ -145,6 +148,7 @@
+   (SELECT group_concat(r.origen, ' | ') FROM relaciones r
+       WHERE r.destino IN (f.id, f.doc_id) AND r.tipo = 'suspende' AND {EF}) AS suspendido,
+   (SELECT group_concat(r.origen||': '||CASE WHEN r.tipo = 'declara_inexequible' THEN '{PARCIAL}'
++        WHEN r.tipo = 'declara_nulo_parcial' THEN '{NULO_PARCIAL} — '||COALESCE(NULLIF(r.nota,''),'alcance no registrado')
+         ELSE COALESCE(NULLIF(r.nota,''),'SIN NOTA') END, ' | ') FROM relaciones r
+       WHERE r.destino IN (f.id, f.doc_id) AND (r.tipo IN {CONDICIONA}
+         OR (r.tipo = 'declara_inexequible' AND {EF} AND NOT {TOTAL} AND NOT EXISTS (
+@@ -154,7 +158,7 @@
+       WHERE r.destino IN (f.id, f.doc_id) AND r.tipo IN {REFORMA}) AS reformas
+ FROM fragmentos f JOIN documentos d ON d.id = f.doc_id WHERE f.clave LIKE 'art:%');
+ """.format(MATA=str(MATA), CONDICIONA=str(CONDICIONA), REFORMA=str(REFORMA),
+-           EF=EF, TOTAL=TOTAL, PARCIAL=PARCIAL)
++           EF=EF, TOTAL=TOTAL, PARCIAL=PARCIAL, NULO_PARCIAL=NULO_PARCIAL)
+ 
+ COLS = ("id clase tipo titulo titulo_corto fecha ramas estado_general corporacion "
+         "sala ponente decision hito fuente verificado afectaciones ruta").split()
+@@ -352,7 +356,9 @@
+                  "\n## art:26 — DECLARADO INEXEQUIBLE\nDECLARADO INEXEQUIBLE\n"
+                  "\n## art:27 — Veintisiete\n(Derogado Decreto 648 de 2017, art 10)\n"
+                  "\n## art:28 — Veintiocho\nDerogado el inciso 2 del artículo 5 de la Ley 1 de 1990 se aplicará el 3.\n"
+-                 "\n## art:29 — (ELIMINADO)\n(ELIMINADO)\n\n## art:30 — Treinta\n<Artículo INEXEQUBLE>\n")
++                 "\n## art:29 — (ELIMINADO)\n(ELIMINADO)\n\n## art:30 — Treinta\n<Artículo INEXEQUBLE>\n"
++                 "\n## art:31 — Treinta y uno\nT.\n\n## art:32 — Treinta y dos\nT.\n\n## art:33 — Treinta y tres\nT.\n"
++                 "\n## art:34 — Treinta y cuatro\nT.\n")
+     with open(tmp + "/normativa/y.md", "w", encoding="utf-8") as fh:
+         fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nfecha: 2005-06-01\nramas: [civil]\n"
+                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n\n## art:2 — Dos\nTexto.\n")
+@@ -360,6 +366,9 @@
+         with open(tmp + "/normativa/n%d.md" % num, "w", encoding="utf-8") as fh:
+             fh.write("---\nid: co:ley:%d:%d\ntipo: ley\ntitulo: T\nramas: [civil]\nfuente: http://x\n"
+                      "verificado: 2026-01-01\n---\n\n## art:1 — Uno\nT.\n\n## art:2 — Dos\nT.\n" % (num, anio))
++    with open(tmp + "/normativa/d.md", "w", encoding="utf-8") as fh:  # decreto anulado entero por el Consejo de Estado
++        fh.write("---\nid: co:decreto:10:2010\ntipo: decreto\ntitulo: T\nramas: [civil]\nfuente: http://x\n"
++                 "verificado: 2026-01-01\n---\n\n## art:1 — Uno\nT.\n\n## art:2 — Dos\nT.\n")
+     with open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8") as fh:
+         fh.write("---\nid: co:csj:sc-1:2020\ntipo: sentencia\nramas: [civil]\n"
+                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## resuelve\nCasa.\n\n## texto\nTodo.\n")
+@@ -382,7 +391,12 @@
+                  "co:cc:c-481:2019,declara_inexequible,co:ley:1:2000:art:17,2019-10-03,,x\n"
+                  "co:ley:1943:2018,modifica,co:ley:1:2000:art:17,2018-12-28,,x\n"
+                  "co:decreto:1:1990,deroga,co:ley:5:2005:art:2,1990-12-31,,x\n"
+-                 "co:cc:c-5:2001,declara_exequible_condicionado,co:ley:5:2005:art:2,2001-01-01,,x\n")
++                 "co:cc:c-5:2001,declara_exequible_condicionado,co:ley:5:2005:art:2,2001-01-01,,x\n"
++                 "co:ce:1:2020,declara_nulo,co:ley:1:2000:art:31,2020-01-01,,x\n"
++                 "co:ce:2:2020,declara_nulo_parcial,co:ley:1:2000:art:32,2020-01-01,numeral 2,x\n"
++                 "co:ce:3:2099,declara_nulo,co:ley:1:2000:art:33,2099-01-01,,x\n"
++                 "co:ce:4:2020,declara_nulo,co:decreto:10:2010,2020-01-01,,x\n"
++                 "co:ce:5:2020,declara_nulo_parcial,co:ley:1:2000:art:34,2020-01-01,,x\n")
+     construir(tmp + "/i.db", tmp)
+     con = sqlite3.connect(tmp + "/i.db")
+     est = dict(con.execute("SELECT articulo, estado FROM vigencia"))
+@@ -421,6 +435,12 @@
+     assert est["co:ley:1:2000:art:17"] == "VIGENTE_CONDICIONADO", "reforma anterior a la sentencia: aviso sigue"
+     assert est["co:ley:7:2007:art:1"] == est["co:ley:7:2007:art:2"] == "MUERTO", "deroga a la norma entera"
+     assert est["co:ley:9:2009:art:1"] == "VIGENTE", "deroga a la norma entera con fecha futura"
++    assert est["co:ley:1:2000:art:31"] == "MUERTO", "declara_nulo (total) mata"
++    assert est["co:ley:1:2000:art:32"] == "VIGENTE_CONDICIONADO", "nulidad parcial no mata"
++    assert "NULIDAD PARCIAL — numeral 2" in con.execute("SELECT condicion FROM vigencia WHERE articulo='co:ley:1:2000:art:32'").fetchone()[0], "sale qué cayó"
++    assert est["co:ley:1:2000:art:33"] == "VIGENTE", "nulidad con fecha futura no mata hoy"
++    assert est["co:decreto:10:2010:art:1"] == est["co:decreto:10:2010:art:2"] == "MUERTO", "declara_nulo a la norma entera"
++    assert "alcance no registrado" in con.execute("SELECT condicion FROM vigencia WHERE articulo='co:ley:1:2000:art:34'").fetchone()[0], "parcial sin nota: aviso, no muerte"
+     assert "c-4:1993" in con.execute("SELECT mata FROM vigencia WHERE articulo='co:ley:1:2000:art:7'").fetchone()[0]
+     assert con.execute("SELECT count(*) FROM vigencia WHERE articulo='co:ley:5:2005:art:1'").fetchone()[0] == 1
+     assert con.execute("SELECT count(*) FROM fragmentos WHERE clave='texto'").fetchone()[0] == 0

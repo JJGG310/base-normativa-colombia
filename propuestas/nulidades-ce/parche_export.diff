@@ -1,0 +1,67 @@
+--- a/export.py
++++ b/export.py
+@@ -18,12 +18,13 @@
+ RE_PARTE = re.compile(r"<[^<>]{0,150}(?:INEXEQUIBLE|[Dd]erogad[oa])[^<>]{0,300}>")
+ 
+ ADVERTENCIA = {
+-    "MUERTO": "NO APLICAR. Este artículo fue derogado o declarado inexequible. Se conserva solo por valor histórico y para resolver casos regidos por la ley anterior.",
++    "MUERTO": "NO APLICAR. Este artículo fue derogado, declarado inexequible o declarado nulo. Se conserva solo por valor histórico y para resolver casos regidos por la ley anterior.",
+     "SUSPENDIDO": "NO APLICAR SIN VERIFICAR. Artículo suspendido; confirmar si la suspensión sigue vigente.",
+     "VIGENTE_CONDICIONADO": "APLICAR SOLO EN EL SENTIDO CONDICIONADO. La Corte lo declaró exequible bajo una interpretación específica; leerlo por fuera de ella es error.",
+     "VIGENTE_REFORMADO": "VERIFICAR REDACCIÓN. El artículo fue modificado o adicionado; el texto aquí debe corresponder a la última versión.",
+     "VIGENTE": None,
+     "INEXEQUIBLE_PARCIAL": "NO APLICAR SIN VERIFICAR. Una sentencia declaró inexequible parte de este artículo y la base no registra qué apartes cayeron: el texto aquí puede incluir partes ya retiradas del ordenamiento. Consultar la sentencia (ver `condicionamiento`) antes de aplicar.",
++    "NULIDAD_PARCIAL": "NO APLICAR SIN VERIFICAR. El Consejo de Estado declaró nula parte de este artículo (ver `condicionamiento` y `afectado_por`): el texto aquí puede incluir apartes ya anulados. El resto sigue vigente.",
+     "TACHADO": "El texto contiene apartes [TACHADO: …]: la fuente los publica tachados porque ya no rigen (inexequibles, nulos o derogados). Se conservan para que la cita sea completa; no aplicarlos.",
+     "PARTE_MARCADA": "El texto incluye una parte marcada que ya no rige: la fuente la señala como derogada o inexequible («<Inciso INEXEQUIBLE>», «Texto subrayado, derogado por…», o una derogación parcial en `afectado_por`). El artículo sigue vigente, pero esa parte no se aplica.",
+     "SIN_TEXTO_PROPIO": "SIN TEXTO PROPIO. La fuente no publica contenido para este artículo, solo la nota entre «<>» (sustituido o subrogado por otra norma, incorporado en un estatuto, desplazado por norma comunitaria…). No citarlo como regla: la disposición aplicable es la que la nota señala.",
+@@ -67,7 +68,8 @@
+             if estado == "VIGENTE" and (f["afectaciones"] or "pendiente") != "cargadas":
+                 estado = "VIGENCIA_NO_VERIFICADA"
+             adv = ADVERTENCIA["INEXEQUIBLE_PARCIAL"] if v and estado != "MUERTO" \
+-                and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado)
++                and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA["NULIDAD_PARCIAL"] if v and estado != "MUERTO" \
++                and build.NULO_PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado)
+             if estado != "MUERTO" and "[TACHADO:" in f["texto"]:
+                 adv = " ".join(filter(None, (adv, ADVERTENCIA["TACHADO"])))
+             if estado != "MUERTO" and (RE_PARTE.search(f["texto"]) or con.execute(  # Gestor: «Texto subrayado, derogado por…»
+@@ -128,6 +130,9 @@
+         if r["estado"] != "MUERTO" and not r["advertencia"] and any(
+                 a["tipo"] == "declara_inexequible" for a in r["afectado_por"]):
+             malos.append("inexequible parcial sin advertencia: " + r["id"])
++        if r["estado"] != "MUERTO" and not r["advertencia"] and any(
++                a["tipo"] == "declara_nulo_parcial" for a in r["afectado_por"]):
++            malos.append("nulidad parcial sin advertencia: " + r["id"])
+         if r["estado"] != "MUERTO" and "[TACHADO:" in r["texto"] and "TACHADO" not in (r["advertencia"] or ""):
+             malos.append("texto tachado sin advertencia: " + r["id"])
+     return malos
+@@ -143,7 +148,8 @@
+         "fuente: http://x\nverificado: 2026-01-01\nafectaciones: cargadas\n---\n\n## art:1 — Uno\nTexto.\n"
+         "\n## art:2 — Dos\n<Artículo INEXEQUIBLE>\n\n## art:3 — Tres\nTexto tres.\n"
+         "\n## art:4 — Cuatro\nVive. <Aparte tachado INEXEQUIBLE> [TACHADO: cayó]\n"
+-        "\n## art:5 — Cinco\n<Artículo sustituido por los artículos 1o. a 23 del Decreto 919 de 1989>.\n")
++        "\n## art:5 — Cinco\n<Artículo sustituido por los artículos 1o. a 23 del Decreto 919 de 1989>.\n"
++        "\n## art:6 — Seis\nTexto seis con un numeral 2.\n\n## art:7 — Siete\nTexto siete.\n")
+     open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8").write(
+         "---\nid: co:ce:1:2022\ntipo: sentencia\ncorporacion: consejo-estado\nponente: P\nramas: [administrativo]\n"
+         "fuente: http://x\nverificado: 2026-01-01\n---\n\n## ficha\nActor: X\n**No se pudo bajar el texto íntegro**.\n")
+@@ -151,7 +157,9 @@
+         "origen,tipo,destino,fecha,nota,fuente\n"
+         "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n"
+         "co:cc:c-3:2010,declara_inexequible,co:ley:1:2000:art:3,2010-01-01,,x\n"
+-        "co:decreto:9:2015:art:3.1.1,compila,co:ley:1:2000,2015-01-01,,x\n")
++        "co:decreto:9:2015:art:3.1.1,compila,co:ley:1:2000,2015-01-01,,x\n"
++        "co:ce:7:2020,declara_nulo_parcial,co:ley:1:2000:art:6,2020-01-01,numeral 2,x\n"
++        "co:ce:8:2020,declara_nulo,co:ley:1:2000:art:7,2020-01-01,,x\n")
+     build.construir(tmp + "/index.db", tmp)
+     global RAIZ
+     RAIZ = tmp
+@@ -170,6 +178,8 @@
+     assert "parte marcada" in regs[3]["advertencia"], "marca <Aparte … INEXEQUIBLE> debe salir advertida"
+     assert "co:decreto:9:2015:art:3.1.1" in regs[2]["advertencia"], "norma compilada en un DUR"
+     assert "SIN TEXTO PROPIO" in regs[4]["advertencia"], "artículo que solo trae la nota de la fuente"
++    assert "nula parte" in regs[5]["advertencia"] and "numeral 2" in regs[5]["condicionamiento"], "nulidad parcial debe salir advertida, con qué cayó"
++    assert regs[6]["estado"] == "MUERTO" and "declarado nulo" in regs[6]["advertencia"], "nulidad total"
+     assert "SOLO METADATOS" in ficha["advertencia"] and ficha["corporacion"] == "consejo-estado", ficha
+     shutil.rmtree(tmp)
+     RAIZ = os.path.dirname(os.path.abspath(__file__))

@@ -134,6 +134,10 @@ def bajar(url, obligatorio=True, enc="iso-8859-1"):
     return ""
 
 
+# Normograma de la JEP: `<a name="1"></a><span class="bookmarkaj">ARTICULO 1o.</span>` (el ancla, sin clase).
+RE_BOOKMARK = re.compile(r'<a name="([^"]+)"></a>\s*<span class="bookmarkaj">(.*?)</span>', re.S)
+
+
 def paginas(url):
     """La fuente pagina como _pr001, _pr002… Se sigue la cadena y se ordena: la
     ubicación (TÍTULO/CAPÍTULO) es estado que cruza páginas."""
@@ -147,7 +151,7 @@ def paginas(url):
         doc = bajar(u)
         if not doc:
             continue
-        salida.append((u, doc))
+        salida.append((u, RE_BOOKMARK.sub(r'<a class="bookmarkaj" name="\1">\2</a>', doc)))
         for href in re.findall(r'href="([^"]*_pr\d+\.html)"', doc):
             full = href if href.startswith("http") else base + href.lstrip("./")
             if full not in vistas:
@@ -196,17 +200,26 @@ def descripciones(js):
 def clave(num):
     """Número de artículo como lo pide esquema.md §2: `82a` para el 82A (la fuente
     escribe «82-A», «82 A» o «82A» según la página) y `82-1` para el 82-1."""
-    return re.sub(r"-(?=[a-zñ]+$)", "", re.sub(r"\s+", "", html.unescape(num).lower()))
+    n = re.sub(r"\s+", "", html.unescape(num).lower())
+    n = re.sub(r"^(\d+)[oº°](?=-?(?:bis|ter|quater|quinquies|sexies|septies|octies)$)", r"\1", n)   # «6o-bis» = 6 bis
+    return re.sub(r"-(?=[a-zñ]+$)", "", n)
 
 
 def num_ancla(nombre, encabezado):
     """Número del artículo. Manda el que dice el encabezado: la fuente a veces repite
     un `name` ajeno (el art. 264 del C.C. lleva `name="6"`), y por el nombre el
     artículo chocaba con el 6 y se descartaba como repetido."""
+    # «ARTÍCULO 4o-bis [PATENTES…]», «5o. bis [...]», «13- [ASAMBLEA…]»: el Convenio de París
+    # (Ley 178/1994) no cierra el número con punto, y sus `name` son posiciones (1…48), no números.
+    b = re.match(r"\s*ART[IÍ]CULO\s+(\d+)[o°º]?(?:[\s.\-]*(bis|ter|quater|quinquies|sexies|septies|octies))?"
+                 r"[\s.\-]*\[", encabezado, re.I)
+    if b:
+        return clave(b.group(1) + (b.group(2) or ""))
     m = re.match(r"\s*ART[IÍ]CULO\s+(\d+[A-Za-zÑñ\-]*?)[o°º]?\s*\.", encabezado, re.I)
     # `name="1A"` / `name="1B"` con «ARTÍCULO 1o.»: el anexo y la ley aprobatoria del tratado
-    # (Ley 11/1992) repiten la numeración del tratado; el sufijo del ancla los distingue.
-    if m and re.fullmatch(re.escape(m.group(1)) + r"[A-NP-Za-np-z]", nombre):
+    # (Ley 11/1992) repiten la numeración del tratado; el sufijo del ancla los distingue. Igual la
+    # `1o` / `2o` / `3o` de los artículos de la ley en la Ley 660/2001 (el tratado ocupa 1…17).
+    if m and re.fullmatch(re.escape(m.group(1)) + r"(?:[A-NP-Za-np-z]|o)", nombre):
         return clave(nombre)
     return clave(m.group(1) if m else nombre)
 
@@ -228,10 +241,17 @@ def procesar(url):
         # Un `bookmarkaj` vacío con nombre de índice («TÍTULO I» a mitad del art. 2 de la Ley
         # 1429/2010, 56 en el PND 2294/2023) no abre nada: contarlo cortaba el artículo ahí. Ni
         # uno vacío `name="1-A"` bajo el título del art. 9 (Ley 1418/2010); «60A» vacío sí abre.
-        anclas = [m for m in ANCLA.finditer(doc)
-                  if not re.fullmatch(r"\d+f", m.group(1)) and (
-                      ("bookmarkaj" in m.group(0) and (limpiar(m.group(2)).strip() or re.fullmatch(r"\d+[A-Za-z]*|NUEVO", m.group(1))))
-                      or re.match(r"\s*ART", limpiar(m.group(2)), re.I))]
+        # Un vacío que repite un nombre ya visto (los `name="1A"` sueltos dentro de los arts. VII, IX y X
+        # del tratado, Ley 1141/2007) tampoco abre nada: cortaba el artículo y el cuerpo se perdía.
+        anclas, nombres = [], set()
+        for m in ANCLA.finditer(doc):
+            vacia = not limpiar(m.group(2)).strip()
+            repetida = vacia and m.group(1) in nombres
+            nombres.add(m.group(1))
+            if not repetida and not re.fullmatch(r"\d+f", m.group(1)) and (
+                    ("bookmarkaj" in m.group(0) and (not vacia or re.fullmatch(r"\d+[A-Za-z]*|NUEVO", m.group(1))))
+                    or re.match(r"\s*ART", limpiar(m.group(2)), re.I)):
+                anclas.append(m)
         # «…quedará así:» seguido de «CAPITULO III.» y «ARTICULO 437.» es la transcripción de
         # otra norma (Ley 39/1985 reescribiendo el CST), no un capítulo propio: contarlo cortaba
         # el artículo reformatorio y creaba un «art. 437» de la ley.
@@ -287,6 +307,13 @@ def procesar(url):
                     continue
                 num = num_ancla(nombre, encabezado) if re.match(r"^\d", nombre) else clave(re.match(
                     r"\s*ART[IÍ]CULO\s+(\d+(?:-\d+)?[A-Za-z]?)(?<![oO])", encabezado, re.I).group(1))
+                # El `name` numérico es la posición en el índice de la fuente. Cuando el encabezado se
+                # equivoca («ARTÍCULO 3o.<sic, es 4>», «7o. <sic>»: Leyes 1283/2009, 682/2001, 1495/2011)
+                # o repite un número ya usado («ARTÍCULO 4o.» en quinto lugar), manda el nombre: por el
+                # encabezado el artículo chocaba y se descartaba como repetido.
+                if re.fullmatch(r"\d+", nombre) and clave(nombre) != num and clave(nombre) not in vistos and (
+                        num in vistos or re.search(r"<sic", encabezado + limpiar(doc[m.end():m.end() + 400])[:60], re.I)):
+                    num = clave(nombre)
             elif nombre == "NUEVO":
                 # «ARTÍCULO NUEVO.» sin número (Ley 270/1996, adicionado por la Ley 1285/2009 art.
                 # 25): la fuente no le da número y no se le inventa uno.
@@ -421,7 +448,9 @@ def fecha_norma(url):
     # largas: se ancla en el título de la norma y se mira solo lo que sigue.
     # El `<LEY>` de "DECRETO <LEY> 2241 DE 1986" sobrevive a limpiar: viene escapado
     # en la fuente y se desescapa después de quitar el marcado.
-    h = re.search(r"\b(?:LEY|DECRETO|ACTO LEGISLATIVO)\s*(?:<[^>]*>)?\s+\d+\s+DE\s+\d{4}\b", t)
+    # «LEY <ESTATUTARIA> 2453 de 2025» / «LEY ORGÁNICA 2423 DE 2024»: sin admitir el calificativo ni el
+    # «de» en minúscula, el ancla caía en un «LEY 136 DE 1994» del cuerpo y la fecha se daba por inexistente.
+    h = re.search(r"\b(?:LEY|DECRETO|ACTO LEGISLATIVO)\s*(?:<[^>]*>|ORG[ÁA]NICA|ESTATUTARIA)?\s+\d+\s+(?:DE|de)\s+\d{4}\b", t)
     t = t[h.start():h.start() + 1500] if h else t[:15000]
     # La fuente escribe la fecha de cuatro maneras: "de 6 de agosto de 1998",
     # "No. 44.097 de 24 de julio del 2000", "de 26 de agosto 2019", "de 1o. de agosto".
@@ -587,7 +616,7 @@ def aristas(cajas, id_norma, fuente):
 def guardar_relaciones(raiz, id_norma, filas):
     """Idempotente: borra las aristas que apuntan a artículos de esta norma y
     reescribe. Las aristas a la norma entera (destino == id_norma) y las que tienen
-    nota «manual: …» (sacadas a mano de otra fuente) se conservan. Con candado: varias ingestas pueden correr a la vez."""
+    nota «manual: …» (sacadas a mano) o «CENDOJ: …» (citas de providencias) se conservan. Con candado: varias ingestas pueden correr a la vez."""
     import fcntl
     ruta = os.path.join(raiz, "relaciones.csv")
     with open(os.path.join(raiz, ".relaciones.lock"), "w") as candado:
@@ -597,11 +626,23 @@ def guardar_relaciones(raiz, id_norma, filas):
             with open(ruta, encoding="utf-8") as fh:
                 previas = [f for f in csv.reader(fh)
                            if f and f[0] != "origen"
-                       and (not f[2].startswith(id_norma + ":") or f[4].startswith("manual:"))]
+                       and (not f[2].startswith(id_norma + ":") or f[4].startswith(("manual:", "CENDOJ:")))]
         with open(ruta, "w", encoding="utf-8", newline="") as fh:
             w = csv.writer(fh)
             w.writerow(["origen", "tipo", "destino", "fecha", "nota", "fuente"])
             w.writerows(previas + filas)
+
+
+def articulos_tras_decreta(url):
+    """Leyes aprobatorias de tratados (Ley 412/1997): las anclas son los artículos I, II… del
+    tratado; los de la ley («ARTÍCULO 1o. Apruébase…») van sin ancla tras el último DECRETA."""
+    texto = "\n".join(limpiar(d.split("<!--Fin documento-->")[0]) for _, d in paginas(url))
+    i = texto.rfind("DECRETA")
+    if i < 0:
+        return []
+    cuerpo = html.unescape(RE_FIRMAS.split(texto[i:])[0]).split("\n", 1)[-1]
+    cuerpo = re.sub(r"(?m)^(\s*)Art[íi]culo(?=\s+\d)", r"\1ARTÍCULO", cuerpo)   # «Artículo 1o.» (Ley 1516/2012)
+    return [x for x in partir_inline("0", "", "", cuerpo) if x[0] != "0"]
 
 
 def main():
@@ -622,15 +663,8 @@ def main():
         sys.exit("no se pudo leer la fecha en la fuente: pasarla con --fecha")
     arts, cajas, huerfanas = procesar(a.url)
     if not arts:
-        # Leyes aprobatorias de tratados (Ley 412/1997): las anclas son los artículos I, II… del
-        # tratado; los de la ley («ARTÍCULO 1o. Apruébase…») van sin ancla tras el último DECRETA.
-        texto = "\n".join(limpiar(d.split("<!--Fin documento-->")[0]) for _, d in paginas(a.url))
-        i = texto.rfind("DECRETA")
-        if i >= 0:
-            cuerpo = html.unescape(RE_FIRMAS.split(texto[i:])[0]).split("\n", 1)[-1]
-            cuerpo = re.sub(r"(?m)^(\s*)Art[íi]culo(?=\s+\d)", r"\1ARTÍCULO", cuerpo)   # «Artículo 1o.» (Ley 1516/2012)
-            arts = [x for x in partir_inline("0", "", "", cuerpo) if x[0] != "0"]
-            huerfanas = [x[0] for x in arts]
+        arts = articulos_tras_decreta(a.url)
+        huerfanas = [x[0] for x in arts]
     if not arts:
         sys.exit("no se extrajo ningún artículo — revisar el formato de la fuente")
     # Última defensa contra el truncamiento silencioso: un corpus legal incompleto
@@ -784,6 +818,18 @@ def check():
     filas, _ = aristas([("1", "Notas de Vigencia", (t, t))], "co:ley:1095:2006", "x")
     assert filas[0][:2] == ("co:cc:c-187:2006", "declara_exequible_condicionado") and "entendido" in filas[0][4], filas
     assert (num_ancla("1B", "ARTÍCULO 1o. Apruébase"), num_ancla("6", "ARTÍCULO 264.")) == ("1b", "264")
+    # Convenio de París (Ley 178/1994): «4o-bis [..]», «5o. bis [..]», «13- [..]» con `name` = posición.
+    assert [num_ancla("9", "ARTÍCULO 5o. bis [TODOS LOS DERECHOS]"), num_ancla("5", "ARTÍCULO 4o-bis [PATENTES]"),
+            num_ancla("29", "ARTÍCULO 13- [ASAMBLEA]"), num_ancla("14", "ARTÍCULO 6o-bis."), num_ancla("1o", "ARTÍCULO 1o.")
+            ] == ["5bis", "4bis", "13", "6bis", "1o"], "numeración de anclas de tratado"
+    # La fecha sale del encabezado propio, no de un «LEY 136 DE 1994» del cuerpo (Leyes 2453/2025, 2423/2024).
+    global bajar
+    real, bajar = bajar, lambda url: ("<p>LEY &lt;ESTATUTARIA&gt; 2453 de 2025</p><p>(abril 2)</p><p>Diario Oficial No. 53.077 de 2 de abril de 2025</p>"
+                                      "<p>ARTÍCULO 1o. ADICIÓNESE AL ARTÍCULO 6o DE LA LEY 136 DE 1994.</p>" + "x" * 600)
+    try:
+        assert fecha_norma("x") == "2025-04-02", fecha_norma("x")
+    finally:
+        bajar = real
     print("check OK")
 
 
