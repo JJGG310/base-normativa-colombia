@@ -20,6 +20,7 @@ from datetime import date
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 CACHE = os.path.join(RAIZ, "fuentes", "cache")
 UA = {"User-Agent": "Mozilla/5.0"}
+PAUSA = 2.0   # segundos entre peticiones a corteconstitucional.gov.co (--pausa)
 BASE = "https://www.corteconstitucional.gov.co/relatoria/%s/%s-%s-%s.htm"
 
 MESES = dict(zip("enero febrero marzo abril mayo junio julio agosto septiembre "
@@ -117,12 +118,16 @@ def descriptores(txt):
     salida = []
     for k, m in enumerate(marcas):
         fin = marcas[k + 1].start() if k + 1 < len(marcas) else len(cabeza)
-        restrictor = " ".join(cabeza[m.end():fin].strip(" /").split())
+        # La carátula («REPÚBLICA DE COLOMBIA CORTE CONSTITUCIONAL -Sala Plena- SENTENCIA…») cierra
+        # el bloque de descriptores; no es un descriptor ni parte del último restrictor.
+        restrictor = " ".join(re.split(r"(?i)REPÚBLICA DE COLOMBIA\s+CORTE CONSTITUCIONAL",
+                                       cabeza[m.end():fin])[0].strip(" /").split())
         if len(restrictor) > 240:                 # la fuente le pega extractos del cuerpo
             restrictor = restrictor[:240].rsplit(" ", 1)[0] + "…"
         etiqueta = " ".join(m.group(1).split())
         # Encabezados de la propia página, no descriptores de la sentencia.
-        if etiqueta in ("TEMAS", "SUBTEMAS", "TEMAS-SUBTEMAS") or restrictor.startswith("SUBTEMAS"):
+        if etiqueta in ("TEMAS", "SUBTEMAS", "TEMAS-SUBTEMAS") or restrictor.startswith("SUBTEMAS") \
+                or etiqueta.startswith("REPÚBLICA DE COLOMBIA"):
             continue
         if len(restrictor) >= 5:
             salida.append("%s — %s" % (etiqueta, restrictor))
@@ -299,7 +304,7 @@ def fecha_en(txt, anio):
     # la ciudad tras el acta cuando la Sala sesiona fuera («Acta 16 Sincelejo, …»), o la
     # sesión que aprobó el fallo («acta número tres (3), … llevada a cabo el día …»).
     for b in re.finditer(r"bogot[aá]?\b|sentencia aprobada|sentencia [a-z]+-\d+/\d\d\s*\(|"
-                         r"\bacta\s+(?:n\S*\s*)?\d+\s+[a-z ]{3,60}\.?,|llevada a cabo|"
+                         r"\bacta\s+(?:n\S*\s*)?\d+\s+[a-zñ ()]{3,60}\.?,|llevada a cabo|"
                          r"sesion (?:de la sala plena,? )?del dia|mediante acta del", sin_tilde):
         # «llevada a cabo el 21 de marzo, resolvió acumular» (C-107/18) es otra sesión: el
         # acta solo vale en el encabezado. Y «Tribunal … de Bogotá el 4 de febrero» es
@@ -363,6 +368,7 @@ def ficha(sid, con=None):
     hits = indice(sid)
     if not hits:
         raise RuntimeError("no está en el índice de la Corte (no publicada o cita errada)")
+    time.sleep(PAUSA)
     url = "https://www.corteconstitucional.gov.co/relatoria/" + hits[0][0]
     txt = plano(bajar(url))
     desc, res = descriptores(txt), resuelve(txt)
@@ -419,6 +425,10 @@ def check():
     d2 = descriptores(otra)
     assert any(x.startswith("PRINCIPIO DE IGUALDAD EN MATERIA PENAL —") for x in d2), d2
     assert d[0].startswith("DEMANDA DE INCONSTITUCIONALIDAD —"), d[0]
+    assert descriptores("C-017-26 TEMAS-SUBTEMAS Sentencia C-017/26 PRINCIPIO PRO PERSONA -Aplicación REPÚBLICA DE "
+                        "COLOMBIA CORTE CONSTITUCIONAL Sala Plena SENTENCIA C-017 de 2026") == ["PRINCIPIO PRO PERSONA — Aplicación"]
+    assert not descriptores("C-117-26 REPÚBLICA DE COLOMBIA CORTE CONSTITUCIONAL -Sala Plena- SENTENCIA C-117 "
+                            "DE 2026 Referencia: Expediente D-16.917. Asunto: Demanda de inconstitucionalidad"), "membrete"
 
     r = resuelve(txt)
     assert r.startswith("PRIMERO.- DECLARAR LA INEXEQUIBILIDAD"), r[:80]
@@ -515,9 +525,12 @@ def main():
     p.add_argument("--del-grafo", action="store_true",
                    help="toma las sentencias que relaciones.csv ya cita y aún no tienen ficha")
     p.add_argument("--limite", type=int, default=25)
+    p.add_argument("--pausa", type=float, default=2.0, help="segundos entre peticiones (≥ 2)")
     p.add_argument("--todas", action="store_true",
                    help="no solo las que afectan vigencia: también las que solo interpretan")
     a = p.parse_args()
+    global PAUSA
+    PAUSA = a.pausa
 
     con = sqlite3.connect(os.path.join(RAIZ, "index.db")) if os.path.exists(
         os.path.join(RAIZ, "index.db")) else None
@@ -531,6 +544,7 @@ def main():
 
     ok = fallos = 0
     for sid in ids:
+        time.sleep(PAUSA)
         destino = os.path.join(RAIZ, "jurisprudencia", sid.replace(":", "-") + ".md")
         try:
             texto, meta, nd = ficha(sid, con)
