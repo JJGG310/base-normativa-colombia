@@ -13,9 +13,13 @@ anota cuántos trae cada corrida.
 
 El texto **no** sale del API: `getContentSearch` devuelve una vista previa con elisiones
 («(…)») alrededor de los términos buscados, y una providencia con huecos presentada como
-su texto es justo lo que este proyecto no puede permitirse. Se baja el .docx original por
-`downloadFile` y se extrae de `word/document.xml`. Las providencias que la Corte solo
-publica en PDF (laboral 2023: 12.950, ni una en .docx) se extraen con PyMuPDF.
+su texto es justo lo que este proyecto no puede permitirse. Se baja el original por
+`downloadFile` y se extrae de `word/document.xml` (los «.doc» de la Corte son OOXML con
+extensión vieja). Lo que la Corte solo publica en PDF (laboral 2023, ni una en .docx) se
+extrae con PyMuPDF; un PDF escaneado o con páginas sin capa de texto no se carga.
+Las 12.950 «providencias» de laboral 2023 son resultados del índice: cada una sale 2-4
+veces (carpeta PERMANENTE/DESCONGESTION, «Dr.X»/«Dr. X», .pdf/.doc), y varias rutas están
+muertas (404): por eso una descarga fallida deja probar la siguiente copia.
 
 La sala PENAL: el buscador indexa una ruta con la carpeta del magistrado
 (`PENAL/<año>/Dr. X/Sentencia/<archivo>`) que no existe en el storage real — el archivo
@@ -23,7 +27,7 @@ vive en `PENAL/<año>/<archivo>`, sin esa carpeta intermedia. `downloadFile` con
 tal cual devuelve 404; con la ruta recortada, 200. Confirmado 2026-09-19 contra 5
 providencias de 2022 a 2025.
 """
-import argparse, html, io, json, os, re, sys, time, urllib.request, zipfile
+import argparse, html, io, json, os, re, sys, time, urllib.error, urllib.request, zipfile
 from datetime import date
 
 import fitz  # PyMuPDF — solo para las providencias que la Corte no publica en .docx
@@ -40,6 +44,8 @@ DESCARGA = "https://consultaprovidenciasbk.cortesuprema.gov.co/downloadFile"
 # Términos amplios: sirven de rastrillo, no de criterio. Cualquier providencia de la
 # sala cae en alguno de ellos.
 TERMINOS = ["recurso", "sentencia", "demanda", "proceso", "derecho", "prueba"]
+# Los «.doc» de la Corte son OOXML (zip) con extensión vieja: contenido() los lee por su firma.
+LEGIBLES = (".docx", ".doc", ".pdf")
 RAMAS = {"CIVIL": "civil, comercial, procesal", "LABORAL": "laboral, seguridad-social",
          "PENAL": "penal, procesal"}
 RE_TITULO = re.compile(r"^([A-Z]{2,4})(\d+)\s*-\s*(\d{4})")
@@ -93,11 +99,23 @@ def decision_texto(cuerpo, parte):
     return d
 
 
+def abrir(req, timeout):
+    """urlopen con un reintento a los 15 s si el servidor da 5xx: el de la Corte suelta
+    502 sueltos, y uno en la búsqueda abortaba el rastrillo del término entero."""
+    for intento in (0, 1):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code < 500 or intento:
+                raise
+            time.sleep(15)
+
+
 def consultar(query):
     req = urllib.request.Request(API, data=json.dumps({"query": query}).encode(),
                                  headers=CABECERAS)
-    with urllib.request.urlopen(req, timeout=90) as r:
-        d = json.loads(r.read().decode("utf-8"))
+    d = json.loads(abrir(req, 90).decode("utf-8"))
     if d.get("errors"):
         raise RuntimeError(d["errors"])
     return d["data"]
@@ -125,8 +143,7 @@ def contenido(doc_path):
     """Texto del original. El API solo da vistas previas con elisiones."""
     req = urllib.request.Request(DESCARGA, data=json.dumps({"path": doc_path}).encode(),
                                  headers=CABECERAS)
-    with urllib.request.urlopen(req, timeout=120) as r:
-        crudo = r.read()
+    crudo = abrir(req, 120)
     if crudo[:2] == b"PK":
         with zipfile.ZipFile(io.BytesIO(crudo)) as z:
             if "word/document.xml" not in z.namelist():
@@ -140,9 +157,34 @@ def contenido(doc_path):
         return re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
     if crudo[:4] == b"%PDF":
         doc = fitz.open(stream=crudo, filetype="pdf")
-        t = sin_cabeceras("\n".join(p.get_text() for p in doc))
-        return re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
+        paginas = [p.get_text() for p in doc]
+        t = sin_cabeceras("\n".join(paginas))
+        t = re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
+        # Escaneado sin capa de texto, o con capa solo en unas páginas (p. ej. un salvamento
+        # anexado como imagen): no se rellena ni se hace OCR y la ficha no se carga. Una
+        # página de solo firmas trae ~40 caracteres (pie y radicado): unas pocas son normales.
+        vacias = sum(len(x.strip()) < 50 for x in paginas)
+        return t if vacias <= 0.15 * len(doc) else ""
     return ""
+
+
+def alterna(path):
+    """El índice lista la carpeta del magistrado como «Dr.X» y como «Dr. X», y de cada par
+    solo una vive (laboral 2023: la de PERMANENTE sin espacio, la .doc de DESCONGESTIÓN sin
+    espacio…): ante un 404 se prueba la otra."""
+    if re.search(r"/Dra?\. ", path):
+        return re.sub(r"/(Dra?\.) ", r"/\1", path)
+    return re.sub(r"/(Dra?\.)(?=\S)", r"/\1 ", path)
+
+
+def descargar(path, pausa):
+    try:
+        return contenido(path)
+    except urllib.error.HTTPError as e:
+        if e.code != 404 or alterna(path) == path:
+            raise
+        time.sleep(pausa)
+        return contenido(alterna(path))
 
 
 def limpiar(texto):
@@ -214,11 +256,11 @@ def main():
     a = p.parse_args()
 
     destino_dir = os.path.join(RAIZ, "jurisprudencia")
-    vistos, escritas, fallos = set(), 0, 0
+    vistos, escritas, fallos, sin_texto = set(), 0, set(), 0
     for termino in a.terminos.split(","):
         start, secas = 0, 0
         # Corte para no paginar media hora un término que ya no trae nada legible
-        # (ni .docx ni .pdf) — evita quedarse dando vueltas sobre resultados vacíos.
+        # (ni .docx, .doc ni .pdf) — evita quedarse dando vueltas sobre resultados vacíos.
         while escritas < a.limite and secas < 15:
             try:
                 r = buscar(a.sala, a.anio, termino.strip(), start, a.clase)
@@ -231,7 +273,7 @@ def main():
             for res in resultados:
                 # La misma providencia a veces sale en .pdf Y en .docx (duplicada);
                 # nos quedamos con cualquiera de los dos formatos legibles.
-                if not res["title"].lower().endswith((".docx", ".pdf")):
+                if not res["title"].lower().endswith(LEGIBLES):
                     continue
                 sid, _ = identificar(res["title"])
                 ruta = os.path.join(destino_dir, sid.replace(":", "-") + ".md")
@@ -241,26 +283,31 @@ def main():
                 vistos.add(sid)
                 time.sleep(a.pausa)
                 try:
-                    texto = contenido(ruta_real(res["id"], a.sala))
+                    texto = descargar(ruta_real(res["id"], a.sala), a.pausa)
                 except Exception as e:
                     print("  [!] %s: %s" % (sid, e))
-                    fallos += 1
+                    fallos.add(sid)
+                    # El índice lista rutas muertas («Dr.X» sin espacio, carpeta equivocada)
+                    # junto a la viva de la misma providencia: se deja probar la siguiente copia.
+                    vistos.discard(sid)
                     continue
                 if len(texto) < 500:
-                    fallos += 1
+                    sin_texto += 1
+                    fallos.discard(sid)
                     continue
                 _, md = ficha(res, a.sala, texto)
                 with open(ruta, "w", encoding="utf-8") as fh:
                     fh.write(md)
                 escritas += 1
+                fallos.discard(sid)
                 print("  %s  %d KB" % (sid, len(md) // 1024))
                 if escritas >= a.limite:
                     break
-            secas = 0 if any(x["title"].lower().endswith((".docx", ".pdf")) for x in resultados) else secas + 1
+            secas = 0 if any(x["title"].lower().endswith(LEGIBLES) for x in resultados) else secas + 1
             start += len(resultados)
             time.sleep(a.pausa)
-    print("%d fichas escritas, %d fallidas, %d providencias vistas"
-          % (escritas, fallos, len(vistos)))
+    print("%d fichas escritas, %d providencias sin ruta viva, %d sin texto extraíble, %d vistas"
+          % (escritas, len(fallos), sin_texto, len(vistos)))
 
 
 def check():
@@ -268,6 +315,10 @@ def check():
                                                               "2018-03988-00")
     assert identificar("AC3200-2024 [2024-00782-00].docx")[0] == "co:csj:ac-3200:2024"
     assert identificar("no es una providencia.pdf") == ("", "")
+    assert alterna("/x/LABORAL/2023/Dr.Omar Angel/Sentencias/SL1.pdf") == "/x/LABORAL/2023/Dr. Omar Angel/Sentencias/SL1.pdf"
+    assert alterna("/x/2023/Dra. Ana Ruiz/Sentencias/SL1.doc") == "/x/2023/Dra.Ana Ruiz/Sentencias/SL1.doc"
+    assert alterna("/x/PENAL/2024/SP1-2024.docx") == "/x/PENAL/2024/SP1-2024.docx", "sin carpeta de magistrado no hay variante"
+    assert "SL1-2023.doc".endswith(LEGIBLES) and not "SL1-2023.xls".endswith(LEGIBLES)
 
     # El .docx parte las palabras en varios <w:t>: al quitar etiquetas no va espacio.
     import zipfile as _z, io as _io
@@ -293,8 +344,11 @@ def check():
 
     # Camino PDF: providencias que la Corte no publica en .docx (sala laboral 2023).
     doc_pdf = fitz.open()
-    doc_pdf.new_page().insert_text((72, 72), "RESUELVE CASAR la sentencia recurrida.")
+    doc_pdf.new_page().insert_text((72, 72), "RESUELVE CASAR la sentencia recurrida.\n"
+                                   + "\n".join("línea %d de la providencia de prueba" % i for i in range(20)))
     pdf_bytes = doc_pdf.tobytes()
+    doc_pdf.new_page()  # segunda página sin capa de texto (escaneada): 50 % de páginas vacías
+    pdf_escaneado = doc_pdf.tobytes()
 
     class _FalsaPDF:
         def __init__(s_, *a_, **k_): pass
@@ -307,6 +361,25 @@ def check():
     finally:
         urllib.request.urlopen = _real
     assert "CASAR la sentencia recurrida" in t_pdf, t_pdf
+    pdf_bytes = pdf_escaneado
+    urllib.request.urlopen = lambda *a_, **k_: _FalsaPDF()
+    try:
+        assert contenido("x") == "", "PDF con páginas sin texto: no se carga ni se rellena"
+    finally:
+        urllib.request.urlopen = _real
+
+    # 404 en la carpeta «Dr.X»: se prueba «Dr. X» (y un 404 sin variante no se reintenta).
+    _c, llamadas = contenido, []
+    def _contenido(p_):
+        llamadas.append(p_)
+        if "Dr.Omar" in p_:
+            raise urllib.error.HTTPError(p_, 404, "x", {}, None)
+        return "ok"
+    globals()["contenido"] = _contenido
+    try:
+        assert descargar("/x/Dr.Omar/a.pdf", 0) == "ok" and llamadas == ["/x/Dr.Omar/a.pdf", "/x/Dr. Omar/a.pdf"], llamadas
+    finally:
+        globals()["contenido"] = _c
 
     t = limpiar("<br><p> Bogotá </p><br><p>RESUELVE</p><br><p> CASAR la sentencia. </p>")
     assert "Bogotá" in t and "<p>" not in t, t
