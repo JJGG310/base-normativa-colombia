@@ -33,7 +33,7 @@ NOMBRE = {"CE": "Consejo de Estado", "CSJ": "Corte Suprema de Justicia"}
 RE_CAMPO = re.compile(r"<b>([A-ZÁÉÍÓÚÑ ]+?)\s*:\s*</b></font><font[^>]*>(.*?)</font>(?:<br>|</div>)", re.S)
 RE_NORMA = re.compile(r"\b(LEY|DECRETO LEY|DECRETO|ACTO LEGISLATIVO)\s+(\d+)\s+DE\s+(\d{4})", re.I)
 # Artículo en los dos formatos: «- ARTÍCULO 164 NUMERAL 2» (Consejo de Estado) y «art. 1324 inc. 2» (Corte Suprema).
-RE_ART = re.compile(r"(?:ART[ÍI]CULOS?|\bart\.?)\s+(\d+(?:\.\d+)*(?:-\d+)?(?:\s?(?-i:[A-Z])(?![^\W\d_]))?)", re.I)
+RE_ART = re.compile(r"(?:ART[ÍI]CULOS?|\bart\.?)\s+(\d+(?:\.\d+)*(?:-\d+)?(?:\s?(?-i:[A-XZ])(?![^\W\d_])(?!\s*\d))?)", re.I)
 # Nombres con una sola norma posible. «Código Penal» (Decreto 100/1980 o Ley 599/2000) y «Código de
 # Procedimiento Penal» (Ley 600/2000 o 906/2004) NO: dependen de la fecha de los hechos.
 NOMBRES = [(r"constituci[óo]n pol[íi]tica", "co:constitucion:1991"),
@@ -156,6 +156,19 @@ def tema(crudo):
     return list(dict.fromkeys(desc)), [(p, r, "\n\n".join(e)) for p, r, e in problemas if p]
 
 
+def _arts(base):
+    """Artículos de la norma cargada; None si no está cargada. Una ley puede estar cargada como
+    estatutaria u orgánica (build.py ALIAS)."""
+    tipos = [base] + [base.replace(":ley:", ":%s:" % t, 1) for t in ("ley-estatutaria", "ley-organica")] if ":ley:" in base else [base]
+    for b in tipos:
+        try:
+            with open(os.path.join(RAIZ, "normativa", b.replace(":", "-") + ".md"), encoding="utf-8") as fh:
+                return {m.group(1).lower() for m in map(re.compile(r"## art:(\S+)").match, fh) if m}
+        except FileNotFoundError:
+            pass
+    return None
+
+
 def normas(campo):
     """«LEY 1437 DE 2011 - ARTÍCULO 164 NUMERAL 2 / Código Civil art. 1973» -> IDs. Lo que no se
     reconoce se omite: una arista a la norma equivocada es peor que una ausente."""
@@ -171,7 +184,10 @@ def normas(campo):
         # «ARTÍCULO 155.5» es el art. 155, numeral 5: la numeración decimal real (DUR) tiene 3+ niveles.
         if art.count(".") == 1:
             art = art.split(".")[0]
-        ids.append(base + (":art:" + art if art else ""))
+        # La relatoría a veces cita un artículo que la norma no tiene (Ley 99/1993 art. 150): la arista
+        # queda en la norma, no en un artículo inexistente (build.py lo avisa como extracción perdida).
+        cargados = _arts(base) if art else None
+        ids.append(base + (":art:" + art if art and (cargados is None or art in cargados) else ""))
     return list(dict.fromkeys(ids))
 
 
@@ -316,6 +332,8 @@ def procesar_csj(s, f):
 
 
 def check():
+    global _arts
+    real, _arts = _arts, lambda base: None  # las aserciones de abajo no dependen de lo cargado
     fila = ('<tr data-ri="0" data-rk="2416998" class="x"><td><span id="resultForm:jurisTable:0:descrip">'
             '<div><font><b>CONSEJO DE ESTADO</b></font><br><font color="7D3B05"><b>NR: </b></font><font>2416998</font><br>'
             '<font>54001-23-33-000-2019-00014-01</font><br><font></font><br><font>SENTENCIA</font><br>'
@@ -340,6 +358,13 @@ def check():
         "co:ley:84:1873:art:1973", "co:decreto:410:1971:art:1324", "co:ley:820:2003:art:20", "co:ley:105:1931",
         "co:decreto:624:1989:art:555-2", "co:constitucion:1991:art:333", "co:ley:1564:2012:art:28",
         "co:ley:1437:2011:art:10a", "co:ley:1437:2011:art:155"], normas("x")
+    assert normas("LEY 100 DE 1993 - ARTÍCULOS 215 Y 216 / LEY 2080 DE 2021 - ARTÍCULO 185 A 190 / "
+                  "LEY 1437 DE 2011 ARTÍCULO 136 A") == [
+        "co:ley:100:1993:art:215", "co:ley:2080:2021:art:185", "co:ley:1437:2011:art:136a"], normas("x")
+    _arts = lambda base: {"20"}  # norma cargada con solo el art. 20: el art. 150 citado no existe
+    assert normas("LEY 99 DE 1993 - ARTÍCULO 150 / LEY 99 DE 1993 - ARTÍCULO 20") == [
+        "co:ley:99:1993", "co:ley:99:1993:art:20"], normas("x")
+    _arts = real
     sid, md = ficha(f, "…administrando justicia en nombre de la República FALLA PRIMERO: NIÉGASE. Cópiese")
     assert sid == "co:ce:54001-23-33-000-2019-00014-01:2026" and "decision: nulidad" in md, md
     assert "## resuelve\n\nPRIMERO: NIÉGASE" in md, md
