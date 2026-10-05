@@ -144,9 +144,22 @@ def resuelve(txt):
     # Las providencias viejas espacian las letras: "R E S U E L V E".
     # Las tutelas de 1992 cierran con «…en nombre del pueblo y por mandato de la Constitución, FALLA:»;
     # el Consejo de Estado, con «FALLA PRIMERO: …» sin dos puntos.
-    marcas = [m for m in re.finditer(r"\bR\s?E\s?S\s?U\s?E\s?L\s?V\s?E\b|\bF\s?A\s?L\s?L\s?A\s*:|\bF\s?A\s?L\s?L\s?A\s+(?=PRIMERO|[ÚU]NICO)|\bDECIDE\s*:", txt)]
+    marcas = [m for m in re.finditer(r"\bR\s?E\s?S\s?U\s?E\s?L\s?V\s?E\b|\bF\s?A\s?L\s?L\s?A\s*:|\bF\s?A\s?L\s?L\s?A\s+(?=PRIMERO|[ÚU]NICO)|\bDECIDE\s*:|\bDISPONE\s*:", txt)]
     if not marcas:
         marcas = [m for m in re.finditer(r"(?i)\bresuelve\b\s*:?\s*(?=PRIMERO|[ÚU]NICO)", txt)]
+    # Las tutelas del Consejo de Estado cierran «…y por autoridad de la ley, FALLA Confirmar…» (o «F A L L A»,
+    # «Falla:»): sin dos puntos ni «PRIMERO». Solo si la fórmula («administrando justicia…» o «en mérito de lo
+    # expuesto…») lo precede: «FALLA DEL SERVICIO» en la motiva no es marca.
+    ya = {m.start() for m in marcas}
+    marcas += [m for m in re.finditer(r"\bF\s?A\s?L\s?L\s?A\b|\bFalla\s*:", txt)
+               if m.start() not in ya and re.search(r"(?i)administrando justicia|en m[ée]rito de lo expuesto",
+                                                    txt[max(0, m.start() - 600):m.start()])]
+    # «FALLA CONFIRMAR la sentencia… CÓPIESE»: sin fórmula, pero con el cierre cerca (los descriptores del
+    # encabezado, «FALLA PRESUNTA DEL SERVICIO», no lo tienen).
+    ya |= {m.start() for m in marcas}
+    marcas += [m for m in re.finditer(r"\bFALLA\s+(?=[A-ZÁÉÍÓÚÑ]{6,}\b)(?=.{0,800}?(?i:c[óo]piese|notif[ií]quese))", txt)
+               if m.start() not in ya]
+    marcas.sort(key=lambda m: m.start())
     if not marcas:
         return ""
     # Tras el fallo suelen venir autos de corrección o de seguimiento con su propio
@@ -197,7 +210,10 @@ def decision_de(res, serie="c"):
     # Lo citado entre comillas es el texto de la norma juzgada, no la decisión: un
     # «siempre que» dentro de la expresión demandada no condiciona nada.
     alto = re.sub(r'"[^"]{0,400}"|«[^»]{0,400}»|“[^”]{0,400}”', " ", alto)
-    alto = re.sub(r"\bIN\s+EXEQ", "INEXEQ", alto)       # «IN EXEQUIBLE» (C-296/19)
+    # El PDF/HTML parte palabras con un espacio: «IN EXEQUIBLE» (C-296/19), «I NEXEQUIBLE» (C-137/19, C-036/23),
+    # «E XEQUIBLES», «IN CONSTITUCIONALES». Se sueldan antes de buscarlas (INEXEQUIBLE primero: contiene a EXEQUIBLE).
+    for p in ("INEXEQUIBLE", "EXEQUIBLE", "INCONSTITUCIONAL"):
+        alto = re.sub(r"\b" + r"\s?".join(p), p, alto)
     # «Estarse a lo resuelto en la C-1056/03, que declaró inexequible…» cuenta lo que
     # hizo OTRA sentencia, no esta: el pretérito siempre es una sentencia anterior.
     alto = re.sub(r"\bDECLAR(?:O|ARON)\b(?:(?!EN CONSECUENCIA)[^.;])*", " ", alto)
@@ -486,9 +502,23 @@ def check():
     assert decision_de("Primero. Confirmar la sentencia en el sentido de ordenar a Electrocosta "
                        "abstenerse. Cuarto. Confirmar en el sentido de denegar la tutela", "t") == ""
     assert decision_de("Declarar EXEQUIBLE", "t") == "", "una T nunca es exequible"
+    # Palabras partidas por espacios en la fuente (C-137/19, C-036/23).
+    assert decision_de("Declarar I NEXEQUIBLE el artículo 21 de la Ley 1908 de 2018.") == "inexequible"
+    assert decision_de("ÚNICO. - Declarar I NEXEQUIBLES el numeral 5 del artículo 19.") == "inexequible"
+    assert decision_de("Declarar E XEQUIBLES los artículos 3 y 4.") == "exequible"
+    assert decision_de("Declarar IN CONSTITUCIONALES los artículos 3 y 4 del decreto.") == "inexequible"
+    assert decision_de("Declarar IN EXEQUIBLE el artículo 8 y EXEQUIBLE el 9.") == "inexequible-parcial"
     ra = resuelve("administrando justicia en nombre del pueblo, RESUELVE PRIMERO.- CONCEDER la "
                   "tutela. Notifíquese. " + "x " * 200 + "AUTO En mérito de lo expuesto RESUELVE Primero. CORREGIR la página 9")
     assert ra.startswith("PRIMERO.- CONCEDER"), ra
+    # CE tutelas: «FALLA» sin dos puntos tras la fórmula; «FALLA DEL SERVICIO» en la motiva no es marca.
+    for f in ("FALLA", "F A L L A", "III. FALLA", "Falla:"):
+        rf = resuelve("la FALLA DEL SERVICIO. administrando justicia en nombre de la República y por autoridad de la ley, "
+                      + f + " 1. Confirmar la decisión. 2. Notificar. Cópiese y notifíquese. Firmas")
+        assert rf == "1. Confirmar la decisión. 2. Notificar", (f, rf)
+    assert resuelve("daño. FALLA PRESUNTA DEL SERVICIO. hay lugar a confirmar. FALLA CONFIRMAR la sentencia, "
+                    "DEVUÉLVASE el expediente. CÓPIESE, NOTIFÍQUESE") == "CONFIRMAR la sentencia, DEVUÉLVASE el expediente"
+    assert resuelve("En mérito de lo expuesto, se DISPONE: 1.º Confirmar el auto. Notifíquese y cúmplase") == "1.º Confirmar el auto"
 
     assert fecha_en("Sentencia C-008/10 (Enero 14; Bogotá D.C.) PRINCIPIO", "2010") == "2010-01-14"
     assert fecha_en("Sentencia C-852/13 (27 de noviembre) FACULTADES", "2013") == "2013-11-27"
@@ -536,11 +566,13 @@ def main():
         os.path.join(RAIZ, "index.db")) else None
     ids = list(a.ids)
     if a.del_grafo and con:
-        # Prioriza las que más artículos afectan: son las que más peso tienen.
+        # Prioriza las que más artículos afectan: son las que más peso tienen. Salta las que ya
+        # tienen ficha (index.db solo se regenera con build.py: sin esto cada tanda repetiría las primeras).
         ids += [r[0] for r in con.execute("""SELECT origen, COUNT(*) n FROM relaciones
             WHERE origen LIKE 'co:cc:%' AND (tipo LIKE 'declara%' OR ?)
               AND origen NOT IN (SELECT id FROM documentos)
-            GROUP BY origen ORDER BY n DESC""", (1 if a.todas else 0,)).fetchall()][:a.limite]
+            GROUP BY origen ORDER BY n DESC""", (1 if a.todas else 0,)).fetchall()
+                if not os.path.exists(os.path.join(RAIZ, "jurisprudencia", r[0].replace(":", "-") + ".md"))][:a.limite]
 
     ok = fallos = 0
     for sid in ids:

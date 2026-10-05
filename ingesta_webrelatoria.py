@@ -58,7 +58,9 @@ def abrir(op, req, timeout):
         try:
             return op.open(req, timeout=timeout).read()
         except Exception as e:
-            if intento == 4:
+            # Un documento que se cuelga (timeout de lectura) no mejora reintentando: 2 intentos, no 5
+            # (cada uno de 180 s + las esperas sumaban 22 min por providencia).
+            if intento == 4 or (intento >= 1 and "timed out" in str(e)):
                 raise
             print("  … %s; reintento en %ds" % (e, 60 * (intento + 1)), flush=True)
             time.sleep(60 * (intento + 1))
@@ -72,19 +74,19 @@ class Sesion:
         d = abrir(self.op, URL, 90).decode("utf-8", "replace")
         self.vs = re.search(r'name="javax.faces.ViewState"[^>]*value="([^"]+)"', d).group(1)
 
-    def post(self, datos):
+    def post(self, datos, espera=600):   # paginar y buscar tardan minutos en el servidor; con 180 s cada intento se cortaba
         datos.update({"javax.faces.partial.ajax": "true", "resultForm": "resultForm",
                       "javax.faces.ViewState": self.vs})
         r = urllib.request.Request(URL, data=urllib.parse.urlencode(datos).encode(), headers={
             "Faces-Request": "partial/ajax", "X-Requested-With": "XMLHttpRequest",
             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"})
-        return abrir(self.op, r, 180).decode("utf-8", "replace")
+        return abrir(self.op, r, espera).decode("utf-8", "replace")
 
     def buscar(self, termino):
         r = self.post({"javax.faces.source": "resultForm:j_idt49", "javax.faces.partial.execute": "@all",
                        "javax.faces.partial.render": "resultForm:travResultCorp resultForm:searchResultPanel resultForm:jurisTable",
                        "resultForm:j_idt49": "resultForm:j_idt49", "resultForm:temaInput": termino.upper(),
-                       "resultForm:j_idt42": self.corp})
+                       "resultForm:j_idt42": self.corp}, 900)
         total = re.search(NOMBRE[self.corp] + r":\s*(\d+)", r)
         return int(total.group(1)) if total else 0, filas(r)
 
@@ -96,18 +98,37 @@ class Sesion:
             "resultForm:jurisTable_rows": "100", "resultForm:jurisTable_encodeFeature": "true"}))
 
     def texto_pdf(self, nr):
+        # Algunas providencias están guardadas como HTML (OpenOffice): con `ext=` vacío el servlet
+        # da 200 con 0 bytes y solo `ext=html` las entrega. `self.ext` queda para el enlace de fuente.
+        self.ext = ""
         doc = abrir(self.op, DOC % (self.corp.lower(), nr), 180)
+        for ext in ("html", "docx", "doc", "pdf", "rtf"):
+            if doc:
+                break
+            self.ext = ext
+            doc = abrir(self.op, (DOC % (self.corp.lower(), nr)).replace("ext=&", "ext=%s&" % ext), 180)
+        if doc.lstrip()[:1] == b"<":
+            try:
+                t = doc.decode("utf-8")
+            except UnicodeDecodeError:
+                t = doc.decode("cp1252", "replace")
+            return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", re.sub(r"<(style|script).*?</\1>", " ", t, flags=re.S | re.I))).split())
         if doc.startswith(b"%PDF"):
             return "".join(p.get_text() for p in fitz.open(stream=doc, filetype="pdf"))
         # Las viejas vienen en Word (.doc OLE o .docx): `textutil` es de macOS, sin dependencias.
-        if doc[:4] in (b"\xd0\xcf\x11\xe0", b"PK\x03\x04"):
+        if doc[:4] in (b"\xd0\xcf\x11\xe0", b"PK\x03\x04") or doc[:5] == b"{\\rtf":
             import subprocess, tempfile
-            with tempfile.NamedTemporaryFile(suffix=".doc" if doc[0] == 0xd0 else ".docx") as tmp:
+            with tempfile.NamedTemporaryFile(suffix={0xd0: ".doc", 0x50: ".docx"}.get(doc[0], ".rtf")) as tmp:
                 tmp.write(doc)
                 tmp.flush()
                 return subprocess.run(["textutil", "-convert", "txt", "-stdout", tmp.name],
                                       capture_output=True, check=True).stdout.decode("utf-8", "replace")
-        raise RuntimeError("NR %s: la descarga no es PDF ni Word (%d bytes)" % (nr, len(doc)))
+        raise RuntimeError("NR %s: la descarga no es PDF, Word ni HTML (%d bytes; se probó ext= vacío, html, docx, doc, pdf y rtf)" % (nr, len(doc)))
+
+
+def enlace(f, corp="ce"):
+    """URL del documento; `f["ext"]` = "html" cuando el servlet solo lo entrega con esa extensión."""
+    return (DOC % (corp, f["nr"])).replace("ext=&", "ext=%s&" % f.get("ext", ""))
 
 
 def limpio(s):
@@ -200,6 +221,17 @@ def decision(campo):
     return ""
 
 
+def resuelve_auto(txt):
+    """Autos del Consejo de Estado: «el despacho resuelve: Remitir…» / «se resuelve: …» (minúscula, con
+    dos puntos), que `resuelve` no reconoce a propósito (la prosa dice «resuelve un recurso…»)."""
+    ms = list(re.finditer(r"(?i)\b(?:despacho|sala|se)\s+resuelve\s*:", txt))
+    if not ms:
+        return ""
+    cuerpo = txt[ms[-1].end():]
+    fin = re.search(r"(?i:notif[ií]quese|c[óo]piese|c[úu]mplase|\(Firmado electr)|(?:\b[A-ZÁÉÍÓÚÑ]{3,}\s+){2,}(?=Folios? \d|Radicado:)|\bFolios? \d|Radicado:", cuerpo)
+    return cuerpo[:fin.start() if fin else 600].strip(" .:-")
+
+
 def ficha(f, texto):
     fecha = "-".join(reversed(f.get("fecha", "").split("/"))) if re.fullmatch(r"\d\d/\d\d/\d{4}", f.get("fecha", "")) else ""
     if not (f["radicado"] and fecha):
@@ -214,14 +246,14 @@ def ficha(f, texto):
           "ramas: [contencioso-administrativo, administrativo]"]
     if dec:
         fm.append("decision: " + dec)
-    fm += ["afectaciones: no-aplica", "fuente: " + DOC % ("ce", f["nr"]), "verificado: " + date.today().isoformat(), "---", ""]
+    fm += ["afectaciones: no-aplica", "fuente: " + enlace(f), "verificado: " + date.today().isoformat(), "---", ""]
     fm += ["## ficha", "", "NR (relatoría CENDOJ): " + f["nr"]]
     for k, etiqueta in (("actor", "Actor"), ("demandado", "Demandado"), ("decision", "Decisión (relatoría)"),
                         ("norma demandada", "Norma demandada"), ("sustento normativo", "Sustento normativo")):
         if f.get(k):
             fm.append("%s: %s" % (etiqueta, f[k]))
     fm.append("")
-    res = resuelve(" ".join(texto.split()))
+    res = resuelve(" ".join(texto.split())) or resuelve_auto(" ".join(texto.split()))
     if not res:   # dentro de `## ficha`: export.py la advierte como SOLO METADATOS
         fm += ["**No se pudo extraer la parte resolutiva** del texto íntegro: esta ficha no dice qué "
                "se decidió. Consultar `fuente:`.", ""]
@@ -261,8 +293,9 @@ def main():
     a = p.parse_args()
 
     s = Sesion(a.corp)
+    t0 = time.time()
     total, fs = s.buscar(a.termino)
-    print("«%s»: %d providencias (%s)" % (a.termino, total, NOMBRE[a.corp]))
+    print("«%s»: %d providencias (%s; búsqueda %d s)" % (a.termino, total, NOMBRE[a.corp], time.time() - t0), flush=True)
     cuenta = {"escritas": 0, "enlazadas": 0, "saltadas": 0, "fallidas": 0}
     procesar = procesar_ce if a.corp == "CE" else procesar_csj
     primero = 0
@@ -291,13 +324,15 @@ def procesar_ce(s, f):
     destino = os.path.join(RAIZ, "jurisprudencia", "co-ce-%s-%s.md" % (f["radicado"], f["fecha"][-4:]))
     if os.path.exists(destino) and "## resuelve" in open(destino, encoding="utf-8").read():
         return "saltadas"
-    sid, md = ficha(f, s.texto_pdf(f["nr"]))
+    texto = s.texto_pdf(f["nr"])
+    f["ext"] = s.ext
+    sid, md = ficha(f, texto)
     with open(destino, "w", encoding="utf-8") as fh:
         fh.write(md)
-    fecha, url = re.search(r"^fecha: (\S+)", md, re.M).group(1), DOC % ("ce", f["nr"])
+    fecha, url = re.search(r"^fecha: (\S+)", md, re.M).group(1), enlace(f)
     guardar_aristas(sid, [(sid, "cita", d, fecha, "CENDOJ: sustento normativo", url)
                           for d in normas(f.get("sustento normativo", ""))]
-                    + [(sid, "interpreta", d, fecha, "CENDOJ: norma demandada; decisión: %s" % f.get("decision", ""), url)
+                    + [(sid, "interpreta", d, fecha, "CENDOJ: norma demandada; decisión de la relatoría (procesal: no dice si hubo nulidad): %s" % f.get("decision", ""), url)
                        for d in normas(f.get("norma demandada", ""))])
     return "escritas"
 
@@ -368,6 +403,11 @@ def check():
     sid, md = ficha(f, "…administrando justicia en nombre de la República FALLA PRIMERO: NIÉGASE. Cópiese")
     assert sid == "co:ce:54001-23-33-000-2019-00014-01:2026" and "decision: nulidad" in md, md
     assert "## resuelve\n\nPRIMERO: NIÉGASE" in md, md
+    assert resuelve_auto("5. Como consecuencia, el despacho resuelve: Remitir el expediente al Tribunal. JORGE OCTAVIO "
+                         "Folio 118 del expediente. Radicado: 1") == "Remitir el expediente al Tribunal"
+    assert resuelve_auto("Se resuelve: Declarar no probada la excepción. Notifíquese cúmplase, (Firmado") == \
+        "Declarar no probada la excepción"
+    assert resuelve_auto("la Sala resuelve un recurso de casación") == ""
     print("check OK")
 
 
