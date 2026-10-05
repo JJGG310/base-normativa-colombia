@@ -1,0 +1,10 @@
+origen,tipo,destino,motivo
+co:cc:c-1178:2001,declara_inexequible,co:ley:443:1998:art:5,número errado en la fuente: el fallo es C-1177/01 (mismo ponente y fecha); C-1178/01 es sobre el art. 69 del CPC
+co:cc:c-154:2005,declara_inexequible,co:ley:895:2004:art:10,la caja de senado dice INEXEQUIBLE; el RESUELVE (Tercero) declara EXEQUIBLE el inciso final del art. 10
+co:cc:c-261:2001,declara_inexequible,co:ley:600:2000:art:231,la fuente atribuye por correspondencia de texto un fallo sobre el Decreto 2700/1991 art. 245-A; C-261/01 no juzgó la Ley 600
+co:cc:c-408:1994,declara_inexequible,co:ley:100:1993:art:197,la caja de senado dice INEXEQUIBLE; el RESUELVE (Tercero) lista el art. 197 entre los EXEQUIBLES
+co:cc:c-1191:2000,declara_exequible,co:decreto:266:2000:art:37,la caja de senado dice EXEQUIBLE; el RESUELVE declara INEXEQUIBLE el art. 37 (muerto por el marcador de la fuente)
+co:cc:c-128:2000,declara_exequible,co:decreto:960:1970:art:134,la caja de senado dice EXEQUIBLE; el RESUELVE declara INEXEQUIBLE el art. 134 (muerto por el marcador de la fuente)
+co:cc:c-152:1997,declara_exequible,co:ley:272:1996:art:2,la caja de senado dice «Inciso 2o. declarado EXEQUIBLE»; el RESUELVE (Tercero a) lo declara INEXEQUIBLE
+co:cc:c-152:1997,declara_exequible,co:ley:272:1996:art:4,la caja de senado dice EXEQUIBLE; el RESUELVE (Tercero b) declara INEXEQUIBLE un aparte del inciso tercero
+co:cc:c-190:2017,declara_exequible,co:ley:84:1873:art:1119,la caja de senado dice «Aparte tachado declarado EXEQUIBLE»; el RESUELVE declara INEXEQUIBLE la expresión «sirvientes»

@@ -7,7 +7,7 @@ ramas: [administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_0019_2012.html
-verificado: 2026-09-24
+verificado: 2026-10-05
 ---
 
 ## art:1 — OBJETIVO GENERAL

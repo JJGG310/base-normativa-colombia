@@ -7,7 +7,7 @@ ramas: [constitucional, procesal, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_0270_1996.html
-verificado: 2026-09-25
+verificado: 2026-10-05
 ---
 
 ## art:1 — ADMINISTRACIÓN DE JUSTICIA

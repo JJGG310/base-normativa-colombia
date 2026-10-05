@@ -7,7 +7,7 @@ ramas: [territorial, administrativo]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_1421_1993.html
-verificado: 2026-09-24
+verificado: 2026-10-05
 ---
 
 ## art:1 — SANTAFE DE BOGOTA, DISTRITO CAPITAL
@@ -887,6 +887,11 @@ El alcalde mayor podrá remover en cualquier tiempo los alcaldes locales. En tal
 Quienes integren las ternas deberán reunir los requisitos y calidades exigidas para el desempeño del cargo. 
 
 No podrán ser designados alcaldes locales quienes estén comprendidos en cualquiera de las inhabilidades señaladas para los ediles. Los alcaldes locales tienen el carácter de funcionarios de la administración distrital y estarán sometidos al régimen dispuesto para ellos.
+
+## art:nuevo — 
+ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO IV. ALCALDES LOCALES
+
+<Artículo adicionado por el artículo 17 de la Ley 2116 de 2021. El nuevo texto es el siguiente:> Los acaldes locales serán designados bajo criterios de meritocracia y paridad de género. En todo caso el 50% de quienes resulten designados, deberán ser mujeres. Sus reglas de funcionamiento serán establecidas mediante Decreto Distrital.
 
 ## art:85 — REEMPLAZOS
 ubicacion: TITULO V. DESCENTRALIZACION TERRITORIAL > CAPITULO IV. ALCALDES LOCALES

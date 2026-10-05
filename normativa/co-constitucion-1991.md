@@ -8,7 +8,7 @@ ramas: [constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html
-verificado: 2026-09-24
+verificado: 2026-10-05
 ---
 
 ## art:1 — 

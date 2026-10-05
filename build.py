@@ -13,10 +13,12 @@ DB = os.path.join(RAIZ, "index.db")
 # Relaciones que matan / afectan la vigencia (esquema.md §6)
 # `subroga` reemplaza el texto: el artículo sigue existiendo con otro contenido.
 # `declara_inexequible` mata solo con evidencia de que fue total (ver vista vigencia).
-MATA = ("deroga", "deroga_tacitamente")
-CONDICIONA = ("declara_exequible_condicionado", "declara_inexequible_parcial")
+# `declara_nulo` (nulidad total del Consejo de Estado) mata como `deroga`; `declara_nulo_parcial` avisa.
+MATA = ("deroga", "deroga_tacitamente", "declara_nulo")
+CONDICIONA = ("declara_exequible_condicionado", "declara_inexequible_parcial", "declara_nulo_parcial")
 REFORMA = ("modifica", "adiciona", "subroga")
 PARCIAL = "INEXEQUIBLE EN PARTE — alcance no registrado; verificar en la sentencia qué apartes cayeron"
+NULO_PARCIAL = "NULIDAD PARCIAL"  # prefijo de la condición; export.py lo usa para escoger la advertencia
 
 # Nota de vigencia que la fuente (Senado/SUIN) pone al inicio del propio texto:
 # «<Artículo derogado por…>», «<Artículo INEXEQUIBLE>». Si no está al inicio (p. ej.
@@ -54,10 +56,45 @@ ALIAS = {"ley": ("ley-estatutaria", "ley-organica"), "ley-estatutaria": ("ley", 
 # Fecha de efecto: vacía o mal formada cuenta como ya surtida (no como futura).
 EF = "(r.fecha <= date('now') OR r.fecha NOT GLOB '[0-9][0-9][0-9][0-9]-*')"
 TOTAL = "(lower(COALESCE(r.nota,'')) LIKE '%total%' OR COALESCE(f.marca,'') LIKE '%inexequible%')"
+# Nota de nulidad del Consejo de Estado que el Gestor pone en párrafo aparte, casi siempre al FINAL del
+# texto: «Artículo declarado NULO por el Consejo de Estado, Sección Tercera, Expediente…», «NOTA: El
+# artículo 8° fue declarado NULO por el Consejo de Estado…». Mata solo si es inequívoca: nombra al
+# Consejo de Estado, no trae sub-parte ni efectos modulados (RE_NO_TOTAL) y, si da número, es el del artículo.
+RE_NULO = re.compile(r"^[ \t]*(?:NOTA:\s*)?(?:El\s+)?Art[íi]culo(?:\s+(\d[\d.]*?)(?:o|°|º)?\.?)?\s+(?:fue\s+)?"
+                     r"declarado\s+NULO\b[^\n]{0,300}", re.I | re.M)
+RE_NO_TOTAL = re.compile(r"parcial|apartes?\b|expresi[óo]n|frase|inciso|numeral|literal|par[áa]grafo|salvo|excepto"
+                         r"|en lo |en cuanto|efecto|prorrog|diferid|suspend|condicional", re.I)
+# Nulidad de una parte (aviso, no muerte): «<Aparte tachado NULO>», «<Numeral NULO>», «<Artículo NULO -
+# Efectos jurídicos prorrogados>» (senado, DIAN) o la nota del Gestor «Numeral 2 declarado NULO por el
+# Consejo de Estado…», «el literal f) fue anulado por Sentencia…», «Declarado nulo parcialmente mediante…».
+# «<Artículo NULO>» a secas (hoy ninguno) también queda en aviso: la muerte solo por RE_NULO o arista.
+RE_NULO_PARTE = re.compile(
+    r"<(?:Aparte|Art[íi]culo|Inciso|Numeral|Literal|Par[áa]grafo|Expresi[óo]n|Frase|Ordinal)\b[^<>]*\bNUL[OA]S?\b[^<>]*>"
+    r"|(?i:(?:\b(?:apartes?|expresi[óo]n(?:es)?|frases?|incisos?|numeral(?:es)?|literal(?:es)?"
+    r"|par[áa]grafos?|ordinal(?:es)?)\b[^(\n]{0,250}?\b(?:declarad[oa]s?\s+nul[oa]s?|anulad[oa]s?)\b"
+    r"|\b(?:declarad[oa]s?\s+nul[oa]s?|anulad[oa]s?)\s+(?:parcialmente|(?:(?:el|la|los|las)\s+)?(?:apartes?|expresi[óo]n"
+    r"|frases?|incisos?|numeral|literal|par[áa]grafo))\b)[^\n]{0,200}?(?:Consejo de Estado|Sentencia|Exp))")
+# «La expresión … citada en la Circular No. 63 … fue declarada nula»: anularon otro acto, no el artículo.
+RE_OTRO_ACTO = re.compile(r"\b(?:circular|resoluci[óo]n|acuerdo|ordenanza|concepto|oficio)\s+(?:No\.?|n[úu]m|\d)", re.I)
 
 
-def marca(texto, epigrafe=""):
-    """Marcador de muerte total en el epígrafe o al inicio del texto del artículo, o None."""
+def nulidad(texto, num=None):
+    """Nota de nulidad del Consejo de Estado en el texto del artículo `num`: ('total', nota) si es
+    inequívoca, ('parcial', nota) si anula una parte o con efectos modulados, o None."""
+    e = RE_EMBEBIDO.search(texto, 1)  # la nota de un artículo pegado no es de este
+    texto = texto[:e.start()] if e else texto
+    for m in RE_NULO.finditer(texto):
+        if m.group(1) and num and m.group(1).rstrip(".") != num:
+            continue  # «El artículo 9 fue declarado NULO» dentro del 8: es de otro
+        total = "consejo de estado" in m.group(0).lower() and not RE_NO_TOTAL.search(m.group(0))
+        return ("total" if total else "parcial"), m.group(0)
+    m = next((m for m in RE_NULO_PARTE.finditer(texto) if not RE_OTRO_ACTO.search(m.group(0))), None)
+    return ("parcial", m.group(0)) if m else None
+
+
+def marca(texto, epigrafe="", num=None):
+    """Marcador de muerte total en el epígrafe o al inicio del texto del artículo `num`, o la nota
+    inequívoca de nulidad del Consejo de Estado (ver RE_NULO), o None."""
     if RE_EPIGRAFE.search(epigrafe or "") and not RE_PARCIAL.search(epigrafe):
         m = epigrafe[:200]
     else:
@@ -66,6 +103,8 @@ def marca(texto, epigrafe=""):
         if not (m and m.start() < 100):
             m = RE_INICIO.match(texto)
         m = m.group(0)[:200] if m and (m.start() < 100) and not RE_PARCIAL.search(m.group(0)) else None
+        n = None if m else nulidad(texto, num)
+        m = n[1][:200] if n and n[0] == "total" else m
     hoy = datetime.date.today().isoformat()
     if m and any("%s-%02d-%02d" % (a, MESES.index(me.lower()) + 1, int(d)) > hoy
                  for d, me, a in RE_FECHA.findall(m)):
@@ -145,6 +184,7 @@ FROM (SELECT f.id AS articulo, f.doc_id, d.titulo_corto, f.titulo AS epigrafe, d
   (SELECT group_concat(r.origen, ' | ') FROM relaciones r
       WHERE r.destino IN (f.id, f.doc_id) AND r.tipo = 'suspende' AND {EF}) AS suspendido,
   (SELECT group_concat(r.origen||': '||CASE WHEN r.tipo = 'declara_inexequible' THEN '{PARCIAL}'
+        WHEN r.tipo = 'declara_nulo_parcial' THEN '{NULO_PARCIAL} — '||COALESCE(NULLIF(r.nota,''),'alcance no registrado')
         ELSE COALESCE(NULLIF(r.nota,''),'SIN NOTA') END, ' | ') FROM relaciones r
       WHERE r.destino IN (f.id, f.doc_id) AND (r.tipo IN {CONDICIONA}
         OR (r.tipo = 'declara_inexequible' AND {EF} AND NOT {TOTAL} AND NOT EXISTS (
@@ -154,7 +194,7 @@ FROM (SELECT f.id AS articulo, f.doc_id, d.titulo_corto, f.titulo AS epigrafe, d
       WHERE r.destino IN (f.id, f.doc_id) AND r.tipo IN {REFORMA}) AS reformas
 FROM fragmentos f JOIN documentos d ON d.id = f.doc_id WHERE f.clave LIKE 'art:%');
 """.format(MATA=str(MATA), CONDICIONA=str(CONDICIONA), REFORMA=str(REFORMA),
-           EF=EF, TOTAL=TOTAL, PARCIAL=PARCIAL)
+           EF=EF, TOTAL=TOTAL, PARCIAL=PARCIAL, NULO_PARCIAL=NULO_PARCIAL)
 
 COLS = ("id clase tipo titulo titulo_corto fecha ramas estado_general corporacion "
         "sala ponente decision hito fuente verificado afectaciones ruta").split()
@@ -195,7 +235,7 @@ def construir(db_path=DB, raiz=RAIZ):
                 fid = meta["id"] + ":" + clave
                 con.execute("INSERT OR REPLACE INTO fragmentos VALUES (?,?,?,?,?,?,?)",
                             (fid, meta["id"], clave, titulo, ubicacion, texto,
-                             marca(texto, titulo) if clave.startswith("art:") else None))
+                             marca(texto, titulo, clave[4:]) if clave.startswith("art:") else None))
                 con.execute("INSERT INTO busqueda VALUES (?,?,?)", (fid, titulo, texto))
 
     docs = {r[0] for r in con.execute("SELECT id FROM documentos")}
@@ -213,6 +253,11 @@ def construir(db_path=DB, raiz=RAIZ):
     corr_path = os.path.join(raiz, "correcciones.csv")
     corrige = {f["citado"]: f["real"] for f in csv.DictReader(open(corr_path, encoding="utf-8"))} \
         if os.path.exists(corr_path) else {}
+    # Aristas que la fuente afirma y la resolutiva de la sentencia contradice (la caja de senado dice
+    # INEXEQUIBLE y el fallo, EXEQUIBLE): una re-ingesta las vuelve a crear, por eso se descartan aquí.
+    desc_path = os.path.join(raiz, "aristas_descartadas.csv")
+    descarta = {(f["origen"], f["tipo"], f["destino"]) for f in csv.DictReader(open(desc_path, encoding="utf-8"))} \
+        if os.path.exists(desc_path) else set()
 
     def destino(d):
         d = corrige.get(d, d)
@@ -239,6 +284,8 @@ def construir(db_path=DB, raiz=RAIZ):
                     continue
                 v = [fila.get(c, "").strip() for c in
                      ("origen", "tipo", "destino", "fecha", "nota", "fuente")]
+                if tuple(v[:3]) in descarta:
+                    continue
                 # senado cuelga las concordancias de la ley entera de un «art:inicio» que no existe
                 v[0], v[2] = destino(v[0].removesuffix(":art:inicio")), destino(v[2])
                 f = fechas.get(v[0].split(":art:")[0], "")
@@ -353,7 +400,14 @@ def check():
                  "\n## art:26 — DECLARADO INEXEQUIBLE\nDECLARADO INEXEQUIBLE\n"
                  "\n## art:27 — Veintisiete\n(Derogado Decreto 648 de 2017, art 10)\n"
                  "\n## art:28 — Veintiocho\nDerogado el inciso 2 del artículo 5 de la Ley 1 de 1990 se aplicará el 3.\n"
-                 "\n## art:29 — (ELIMINADO)\n(ELIMINADO)\n\n## art:30 — Treinta\n<Artículo INEXEQUBLE>\n")
+                 "\n## art:29 — (ELIMINADO)\n(ELIMINADO)\n\n## art:30 — Treinta\n<Artículo INEXEQUBLE>\n"
+                 "\n## art:31 —\nT.\n\n## art:32 —\nT.\n\n## art:33 —\nT.\n\n## art:34 —\nT.\n"
+                 "\n## art:35 — Manual\nT.\n\nArtículo declarado NULO por el Consejo de Estado, Sección Tercera, "
+                 "Expediente No. 1 de 03/04/2020.\n\nSECCIÓN 6\n"
+                 "\n## art:36 —\nT.\n\nNOTA: El artículo 9° fue declarado NULO por el Consejo de Estado.\n"
+                 "\n## art:37 —\nT.\n\n(Artículo 7, Decreto 326 de 1995. Numeral 2 declarado NULO por el Consejo de Estado.)\n"
+                 "\n## art:38 —\n<Artículo NULO - Efectos jurídicos prorrogados>\n"
+                 "\n## art:39 —\nT.\n\nNOTA: El artículo 39° fue declarado NULO por el Consejo de Estado, mediante Sentencia.\n")
     with open(tmp + "/normativa/y.md", "w", encoding="utf-8") as fh:
         fh.write("---\nid: co:ley:5:2005\ntipo: ley\ntitulo: T\nfecha: 2005-06-01\nramas: [civil]\n"
                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## art:1 — Uno\nTexto.\n\n## art:2 — Dos\nTexto.\n")
@@ -361,9 +415,14 @@ def check():
         with open(tmp + "/normativa/n%d.md" % num, "w", encoding="utf-8") as fh:
             fh.write("---\nid: co:ley:%d:%d\ntipo: ley\ntitulo: T\nramas: [civil]\nfuente: http://x\n"
                      "verificado: 2026-01-01\n---\n\n## art:1 — Uno\nT.\n\n## art:2 — Dos\nT.\n" % (num, anio))
+    with open(tmp + "/normativa/d.md", "w", encoding="utf-8") as fh:  # decreto anulado entero
+        fh.write("---\nid: co:decreto:10:2010\ntipo: decreto\ntitulo: T\nramas: [civil]\nfuente: http://x\n"
+                 "verificado: 2026-01-01\n---\n\n## art:1 — Uno\nT.\n\n## art:2 — Dos\nT.\n")
     with open(tmp + "/jurisprudencia/s.md", "w", encoding="utf-8") as fh:
         fh.write("---\nid: co:csj:sc-1:2020\ntipo: sentencia\nramas: [civil]\n"
                  "fuente: http://x\nverificado: 2026-01-01\n---\n\n## resuelve\nCasa.\n\n## texto\nTodo.\n")
+    with open(tmp + "/aristas_descartadas.csv", "w", encoding="utf-8") as fh:
+        fh.write("origen,tipo,destino,motivo\nco:cc:c-9:2009,declara_inexequible,co:ley:1:2000:art:9,la resolutiva dice EXEQUIBLE\n")
     with open(tmp + "/relaciones.csv", "w", encoding="utf-8") as fh:
         fh.write("origen,tipo,destino,fecha,nota,fuente\n"
                  "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n"
@@ -384,7 +443,13 @@ def check():
                  "co:cc:c-481:2019,declara_inexequible,co:ley:1:2000:art:17,2019-10-03,,x\n"
                  "co:ley:1943:2018,modifica,co:ley:1:2000:art:17,2018-12-28,,x\n"
                  "co:decreto:1:1990,deroga,co:ley:5:2005:art:2,1990-12-31,,x\n"
-                 "co:cc:c-5:2001,declara_exequible_condicionado,co:ley:5:2005:art:2,2001-01-01,,x\n")
+                 "co:cc:c-9:2009,declara_inexequible,co:ley:1:2000:art:9,2009-01-01,,x\n"
+                 "co:cc:c-5:2001,declara_exequible_condicionado,co:ley:5:2005:art:2,2001-01-01,,x\n"
+                 "co:ce:1:2020,declara_nulo,co:ley:1:2000:art:31,2020-01-01,,x\n"
+                 "co:ce:2:2020,declara_nulo_parcial,co:ley:1:2000:art:32,2020-01-01,numeral 2,x\n"
+                 "co:ce:3:2099,declara_nulo,co:ley:1:2000:art:33,2099-01-01,,x\n"
+                 "co:ce:4:2020,declara_nulo,co:decreto:10:2010,2020-01-01,,x\n"
+                 "co:ce:5:2020,declara_nulo_parcial,co:ley:1:2000:art:34,2020-01-01,,x\n")
     construir(tmp + "/i.db", tmp)
     con = sqlite3.connect(tmp + "/i.db")
     est = dict(con.execute("SELECT articulo, estado FROM vigencia"))
@@ -399,7 +464,7 @@ def check():
     assert est["co:ley:1:2000:art:6"] == "VIGENTE_CONDICIONADO", "inexequible sin prueba de total no mata"
     assert est["co:ley:1:2000:art:7"] == "MUERTO", "marcador + fecha de 2 dígitos no es futura"
     assert est["co:ley:1:2000:art:8"] == "MUERTO", "marcador de derogatoria en el texto"
-    assert est["co:ley:1:2000:art:9"] == "VIGENTE", "derogatoria parcial no mata"
+    assert est["co:ley:1:2000:art:9"] == "VIGENTE", "derogatoria parcial no mata; arista descartada no cuenta"
     assert est["co:ley:5:2005:art:2"] == "VIGENTE_REFORMADO", "nadie deroga ni juzga lo que aún no existe"
     assert est["co:ley:1:2000:art:10"] == "VIGENTE", "el marcador de un artículo pegado no cuenta"
     assert est["co:ley:1:2000:art:11"] == "MUERTO", "alias ley-estatutaria -> ley"
@@ -423,6 +488,20 @@ def check():
     assert est["co:ley:1:2000:art:17"] == "VIGENTE_CONDICIONADO", "reforma anterior a la sentencia: aviso sigue"
     assert est["co:ley:7:2007:art:1"] == est["co:ley:7:2007:art:2"] == "MUERTO", "deroga a la norma entera"
     assert est["co:ley:9:2009:art:1"] == "VIGENTE", "deroga a la norma entera con fecha futura"
+    cond = dict(con.execute("SELECT articulo, condicion FROM vigencia WHERE condicion IS NOT NULL"))
+    assert est["co:ley:1:2000:art:31"] == "MUERTO", "declara_nulo (total) mata"
+    assert est["co:ley:1:2000:art:32"] == "VIGENTE_CONDICIONADO", "nulidad parcial no mata"
+    assert "NULIDAD PARCIAL — numeral 2" in cond["co:ley:1:2000:art:32"], "sale qué cayó"
+    assert est["co:ley:1:2000:art:33"] == "VIGENTE", "nulidad con fecha futura no mata hoy"
+    assert est["co:decreto:10:2010:art:1"] == est["co:decreto:10:2010:art:2"] == "MUERTO", "declara_nulo a la norma entera"
+    assert "alcance no registrado" in cond["co:ley:1:2000:art:34"], "parcial sin nota: aviso, no muerte"
+    assert est["co:ley:1:2000:art:35"] == est["co:ley:1:2000:art:39"] == "MUERTO", "nota final «declarado NULO» del Gestor"
+    assert est["co:ley:1:2000:art:36"] == "VIGENTE", "la nota habla de otro artículo"
+    assert est["co:ley:1:2000:art:37"] == est["co:ley:1:2000:art:38"] == "VIGENTE", "nulidad de una parte / efectos prorrogados"
+    assert nulidad("T. (Numeral 2 declarado NULO por el Consejo de Estado.)")[0] == "parcial"
+    assert nulidad("<Artículo NULO - Efectos jurídicos prorrogados>")[0] == "parcial"
+    assert nulidad("(La expresión del inciso 2 “x”, citada en la Circular 63, fue declarada nula por el Consejo de Estado)") is None
+    assert nulidad("La parte que fuese declarada nula se reputará nula.") is None, "contenido, no nota"
     assert "c-4:1993" in con.execute("SELECT mata FROM vigencia WHERE articulo='co:ley:1:2000:art:7'").fetchone()[0]
     assert con.execute("SELECT count(*) FROM vigencia WHERE articulo='co:ley:5:2005:art:1'").fetchone()[0] == 1
     assert con.execute("SELECT count(*) FROM fragmentos WHERE clave='texto'").fetchone()[0] == 0

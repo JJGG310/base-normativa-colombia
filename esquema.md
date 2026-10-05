@@ -243,6 +243,8 @@ origen,tipo,destino,fecha,nota,fuente
 | `subroga` | Reemplaza su texto; el artículo sigue vivo con el texto nuevo (cuenta como reforma) |
 | `declara_inexequible` | Lo mata desde la fecha |
 | `declara_inexequible_parcial` | Sigue vivo, mutilado — `nota` dice qué cayó |
+| `declara_nulo` | Lo mata desde la fecha: nulidad **total** de un acto o artículo, decidida por el Consejo de Estado (§6.1) |
+| `declara_nulo_parcial` | Sigue vivo, mutilado — `nota` dice qué cayó (expresión, numeral, literal…); sale con advertencia (§6.1) |
 | `modifica` | Sigue vivo, con otro texto |
 | `adiciona` | Sigue vivo, con más texto |
 | `suspende` | Muerto temporalmente — `nota` dice hasta cuándo |
@@ -256,8 +258,36 @@ origen,tipo,destino,fecha,nota,fuente
 | `concordancia` | No afecta vigencia (remisión normativa) |
 | `renumera` | No afecta vigencia — el `origen` es el número viejo, el `destino` el número vigente |
 
-Los primeros ocho son **relaciones de afectación**: `build.py` los usa para calcular
+Los primeros diez son **relaciones de afectación**: `build.py` los usa para calcular
 vigencia. Los demás son navegación.
+
+### 6.1 Nulidades del Consejo de Estado (`declara_nulo`, `declara_nulo_parcial`)
+
+Solo se registran leyendo la **parte resolutiva** (`## resuelve`) de la providencia, o la nota de la
+fuente que lo dice (§7); nunca el campo «Decisión» de la relatoría (`ACCEDE`, `NIEGA`, `NO APLICA`… son
+procesales: `ACCEDE` es también «se admite la demanda» o «se avoca el control inmediato»). Una arista
+por acto o artículo nombrado. `python3 nulidades_ce.py` lista las candidatas de las fichas `co-ce-*` con
+esta regla; `--aplicar` las añade vía `anadir_aristas.py` (leer antes cada extracto):
+
+- `declara_nulo` solo si un numeral empieza por «declarar[se] la nulidad de[l] <decreto | artículo N
+  del decreto N de AAAA>» sin sub-parte («expresión», «aparte», «numeral», «inciso», «parágrafo», «literal»).
+  Con sub-parte, o «nulidad parcial»: `declara_nulo_parcial`, y la `nota` copia la sub-parte.
+- No generan arista: la **suspensión provisional** (es transitoria y casi siempre parcial), la
+  **inaplicación** por ilegal o inconstitucional (efecto entre partes; la norma sigue viva), «ajustado a
+  derecho» / «legalidad condicionada» en el control inmediato de legalidad (salvo que la resolutiva
+  declare expresamente la nulidad), los autos que admiten la demanda, las sentencias de segunda instancia,
+  los actos particulares (nombramientos, elecciones, sanciones) y cualquier acto que no esté cargado (una
+  resolución, una ordenanza).
+- `destino`: `co:decreto:N:AAAA[:art:X]`. En un DUR, la resolutiva nombra el artículo con la numeración
+  del DUR aunque cite el decreto que lo introdujo («artículo 2.2.6.1.7 del Decreto 1814 de 2015»): el
+  destino es el artículo del DUR que ese decreto adicionó/modificó/subrogó según `relaciones.csv`
+  (si no hay uno solo, no se registra). Nunca el artículo contenedor del decreto modificatorio.
+- `fecha`: la de la providencia (la ejecutoria no consta en la fuente). Los efectos en el tiempo
+  (ex tunc / ex nunc, «sin perjuicio de las situaciones consolidadas», «hacia futuro») **no cambian la
+  vigencia calculada** (que solo dice si hoy rige); si la resolutiva los dice, se copian en la `nota`.
+- `nota`: «manual: nulidad total|parcial — <numeral de la resolutiva, ≤ 300 caracteres>», sin « | »
+  (separa condiciones en la vista). No «CENDOJ:»: una re-ingesta de la ficha borra esas filas.
+  `fuente`: la de la ficha.
 
 ---
 
@@ -265,7 +295,7 @@ vigencia. Los demás son navegación.
 
 `build.py` genera la vista `vigencia`. La regla, en orden:
 
-1. ¿Hay `deroga` / `deroga_tacitamente` con `fecha <= hoy`, `declara_inexequible`
+1. ¿Hay `deroga` / `deroga_tacitamente` / `declara_nulo` con `fecha <= hoy`, `declara_inexequible`
    total (nota «total» o marcador `<Artículo INEXEQUIBLE>` en el texto), o marcador
    de la fuente (ver abajo)? → **muerto** (con el ID de lo que lo mató). Un
    `declara_inexequible` sin evidencia de ser total → **vigente con condición**
@@ -273,8 +303,8 @@ vigencia. Los demás son navegación.
    o `subroga` con fecha posterior a la de la sentencia: el texto vigente es
    posterior y el aviso no le aplica (la arista sigue en `afectado_por`).
 2. ¿Hay `suspende` vigente? → **suspendido**.
-3. ¿Hay `declara_exequible_condicionado` o `declara_inexequible_parcial`? →
-   **vigente con condición** (se devuelve la `nota`, siempre).
+3. ¿Hay `declara_exequible_condicionado`, `declara_inexequible_parcial` o `declara_nulo_parcial`? →
+   **vigente con condición** (se devuelve la `nota`, siempre; la de nulidad, con «NULIDAD PARCIAL — »).
 4. ¿Hay `modifica` / `adiciona` / `subroga`? → **vigente reformado** (con la cadena).
 5. Ninguna → **vigente**.
 
@@ -290,6 +320,13 @@ declarada INEXEQUIBLE>` (el artículo lo creó una ley que cayó entera); o en e
 epígrafe `Artículo derogado…` / `Artículo INEXEQUIBLE…` (Senado) o `(Derogado por…`
 (Gestor). No cuentan si son parciales («en lo…», «salvo», «parcial»…) ni si traen una
 fecha futura («derogado a partir del 2 de abril de 2099»).
+
+**Nota de nulidad del Consejo de Estado** (Gestor: párrafo aparte, casi siempre al **final** del texto).
+Mata solo si es inequívoca: «Artículo declarado NULO por el Consejo de Estado…» o «NOTA: El artículo 8°
+fue declarado NULO por el Consejo de Estado…» (si da número, el del artículo), sin sub-parte ni efectos
+modulados. La nulidad de una parte («Numeral 2 declarado NULO…», «el literal f) fue anulado por
+Sentencia…», «<Aparte tachado NULO>», «<Artículo NULO - Efectos jurídicos prorrogados>») no mata: el
+estado no cambia y `export.py` la advierte (`build.nulidad`).
 
 Si un artículo no está en la base, la respuesta correcta es *«no está cargado»*,
 nunca *«está vigente»*. La ausencia no es prueba de vigencia.

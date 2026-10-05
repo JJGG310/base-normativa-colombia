@@ -1,5 +1,52 @@
 # Nulidades del Consejo de Estado: ¿se puede «matar» por nulidad?
 
+## Implementado (2026-10-03)
+
+Juan aprobó la propuesta con las recomendaciones por defecto de §3: efectos ex tunc/ex nunc no se modelan (si la
+resolutiva los modula, van en la `nota`); la suspensión provisional no se deriva; fecha = la de la providencia; en un
+DUR, la arista va al artículo del DUR (si no hay uno solo, no se registra); control inmediato solo con nulidad expresa.
+Los `parche_*.diff` de abajo quedan superados: se re-aplicaron a mano sobre las versiones actuales.
+
+- **Tipos** (`build.py`, `export.py`, `esquema.md` §6, §6.1 nueva y §7): `declara_nulo` mata como `deroga` (fecha ≤ hoy);
+  `declara_nulo_parcial` deja `VIGENTE_CONDICIONADO` con la condición «NULIDAD PARCIAL — <nota>» («alcance no registrado»
+  si no hay nota). Export: advertencia `NULIDAD_PARCIAL` (sustituye la de la Corte si las únicas condiciones son nulidades),
+  la de `MUERTO` dice «declarado nulo», y `violaciones()` detecta una nulidad parcial sin advertencia.
+- **Nota de la propia fuente** (`build.nulidad`, usada por `marca()` y por el export). Mata solo `RE_NULO`: párrafo
+  «[NOTA:] [El] Artículo [N] [fue] declarado NULO …» que nombra al Consejo de Estado, sin sub-parte ni efectos modulados
+  (`RE_NO_TOTAL`), con el número del propio artículo si lo da y antes de un artículo pegado. La nulidad de una parte
+  (`RE_NULO_PARTE`: «Numeral 2 declarado NULO por el Consejo de Estado…», «el literal f) fue anulado por Sentencia…»,
+  «<Aparte tachado NULO>», «<Artículo NULO - Efectos jurídicos prorrogados>») no cambia el estado: el export la advierte,
+  igual que hoy «<Inciso INEXEQUIBLE>». Medido sobre las 123.055 secciones: **3 totales** (`co:decreto:1082:2015:art:2.2.1.2.5.1`,
+  `:2.2.1.2.5.3`, `co:decreto:1474:1997:art:8`) y **35 parciales**, todos revisados: 22 notas del Gestor (DUR 1625/2016:
+  1.2.1.17.7, 1.2.1.18.12, 1.2.1.18.35, 1.2.1.23.2 —no estaba en la lista de 2026-09-30—, 1.2.1.24.6-9, 1.3.1.13.12,
+  1.3.1.14.18, 1.3.2.1.7, 1.6.1.5.2, 2.1.1.1, 2.2.1.2.15, 2.2.1.5.1-2, 2.2.2.6, 2.2.2.8, 2.2.2.15; DUR 1083/2015:
+  2.2.34.1.6-7) y 13 marcas entre «<>» (Decreto-ley 1421/1993 arts. 87, 88, 90, 92, 94, 121, 124, 125, 155; Decreto
+  2250/2017 arts. 3, 6, 10; Decreto 1165/2019 arts. 686 y 705, ya muertos por otra causa). Falso positivo descartado:
+  `co:decreto:1625:2016:art:1.4.2.2.11` (lo anulado fue una expresión de la Circular 63 de 2010, no del artículo).
+  Cero falsos positivos en contenido (Decisión 486, CPACA art. 237, Ley 2200/2022 art. 105…).
+- **Aristas añadidas** (9, `anadir_aristas.py`, nota `manual:`): `declara_nulo` → 1082/2015 arts. 2.2.1.2.5.1 y 2.2.1.2.5.3
+  (`co:ce:11001-03-26-000-2014-00029-00:2020`) y 1474/1997 art. 8 (`co:ce:11001-03-25-000-2003-00268-01:2010`), desde la
+  nota de la fuente; `declara_nulo_parcial` → los 6 artículos de DUR de §4.c (1067 arts. 2.2.6.1.7 y 2.2.6.1.9; 1073 arts.
+  2.2.3.5.2.2.1.1, 2.2.3.5.2.2.1.4 y 2.2.5.1.3.4.1.2 —efecto extendido, con la salvedad de situaciones consolidadas en la
+  nota—; 1075 art. 2.3.1.3.2.17). Se comprobó que el texto cargado aún trae la frase anulada. No se añadieron las 3 totales
+  y 4 parciales de decretos sin cargar (2474/2008, 4994/2009, 2025/2009, 935/2013).
+- **Efecto medido** (base temporal con el candado, misma foto del corpus con el `build.py` viejo y el nuevo, y contra
+  `index.db`): cambian **9 artículos y nada más** — los 3 de arriba `VIGENTE → MUERTO`; 1067 arts. 2.2.6.1.7 y 2.2.6.1.9 y
+  1075 art. 2.3.1.3.2.17 `VIGENTE_REFORMADO → VIGENTE_CONDICIONADO`; 1073 arts. 2.2.3.5.2.2.1.1, 2.2.3.5.2.2.1.4 y
+  2.2.5.1.3.4.1.2 `VIGENTE → VIGENTE_CONDICIONADO`. Sin avisos de build; 0 violaciones del export; 39 registros con la
+  advertencia de nulidad parcial. (`co:decreto:1474:1997:art:8` sale `MUERTO`, no `VIGENCIA_NO_VERIFICADA` como decía §4.d.)
+- **`nulidades_ce.py`** (regla R2 de §2.3, reescrita: `regla.py` ya no existía): `python3 nulidades_ce.py` lista en CSV
+  (`cargado,origen,tipo,destino,…`) sin escribir nada; `--aplicar` añade las de destino cargado vía `anadir_aristas.py`;
+  `--check` autotest. Descarta resolutivas > 3.500 caracteres, de segunda instancia (confirma/revoca/modifica sentencia,
+  «quedará así»), nombramientos/elecciones y numerales con otro acto entre el verbo y el decreto; mapea al DUR por las
+  aristas `adiciona/modifica/subroga`. Sobre las 850 resolutivas de hoy da exactamente las 12 aristas de §2.3 (la extensión
+  de efectos de `…-2013-00114-00:2020` no la saca: se añadió a mano). Ninguna otra resolutiva con fórmula de nulidad nombra
+  un decreto cargado (la única, `…-2020-00001-00:2021`, es un auto admisorio).
+- **Pendiente para Juan:** (1) Decreto-ley 1421/1993 arts. 87, 88, 90, 92 y 94: senado dice «Artículo NULO - Efectos
+  jurídicos prorrogados» (Sala Plena, 2008-01255-00(AI), 6-jun-2018, difirió los efectos un año o hasta que regule el
+  Concejo); quedan vigentes con aviso hasta verificar si el plazo ya venció. (2) Correr `nulidades_ce.py` tras cada tanda
+  de CENDOJ (o integrarlo en `ingesta_webrelatoria.py`, que no es de este dueño) y medir su precisión en fichas nuevas.
+
 Análisis de solo lectura (2026-09-30). Nada escrito en el repo. Todo lo de abajo sale de `jurisprudencia/co-ce-*.md`,
 `relaciones.csv` e `index.db` tal como estaban hoy. Scripts y datos de apoyo: ver «Archivos» al final.
 

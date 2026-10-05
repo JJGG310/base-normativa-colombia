@@ -7,7 +7,7 @@ ramas: [agrario, transicional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_0902_2017.html
-verificado: 2026-09-24
+verificado: 2026-10-05
 ---
 
 ## art:1 — OBJETO

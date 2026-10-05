@@ -18,12 +18,13 @@ RAIZ = os.path.dirname(os.path.abspath(__file__))
 RE_PARTE = re.compile(r"<[^<>]{0,150}(?:INEXEQUIBLE|[Dd]erogad[oa])[^<>]{0,300}>")
 
 ADVERTENCIA = {
-    "MUERTO": "NO APLICAR. Este artículo fue derogado o declarado inexequible. Se conserva solo por valor histórico y para resolver casos regidos por la ley anterior.",
+    "MUERTO": "NO APLICAR. Este artículo fue derogado, declarado inexequible o declarado nulo. Se conserva solo por valor histórico y para resolver casos regidos por la ley anterior.",
     "SUSPENDIDO": "NO APLICAR SIN VERIFICAR. Artículo suspendido; confirmar si la suspensión sigue vigente.",
     "VIGENTE_CONDICIONADO": "APLICAR SOLO EN EL SENTIDO CONDICIONADO. La Corte lo declaró exequible bajo una interpretación específica; leerlo por fuera de ella es error.",
     "VIGENTE_REFORMADO": "VERIFICAR REDACCIÓN. El artículo fue modificado o adicionado; el texto aquí debe corresponder a la última versión.",
     "VIGENTE": None,
     "INEXEQUIBLE_PARCIAL": "NO APLICAR SIN VERIFICAR. Una sentencia declaró inexequible parte de este artículo y la base no registra qué apartes cayeron: el texto aquí puede incluir partes ya retiradas del ordenamiento. Consultar la sentencia (ver `condicionamiento`) antes de aplicar.",
+    "NULIDAD_PARCIAL": "NO APLICAR SIN VERIFICAR. El Consejo de Estado declaró nula una parte de este artículo, o lo anuló con efectos diferidos o modulados (ver `condicionamiento`, `afectado_por` o la nota de la fuente en el texto): el texto aquí puede incluir apartes que ya no rigen. Consultar la providencia antes de aplicar.",
     "TACHADO": "El texto contiene apartes [TACHADO: …]: la fuente los publica tachados porque ya no rigen (inexequibles, nulos o derogados). Se conservan para que la cita sea completa; no aplicarlos.",
     "PARTE_MARCADA": "El texto incluye una parte marcada que ya no rige: la fuente la señala como derogada o inexequible («<Inciso INEXEQUIBLE>», «Texto subrayado, derogado por…», o una derogación parcial en `afectado_por`). El artículo sigue vigente, pero esa parte no se aplica.",
     "SIN_TEXTO_PROPIO": "SIN TEXTO PROPIO. La fuente no publica contenido para este artículo, solo la nota entre «<>» (sustituido o subrogado por otra norma, incorporado en un estatuto, desplazado por norma comunitaria…). No citarlo como regla: la disposición aplicable es la que la nota señala.",
@@ -70,6 +71,11 @@ def exportar(ramas=(), salida=None):
                 estado = "VIGENCIA_NO_VERIFICADA"
             adv = ADVERTENCIA["INEXEQUIBLE_PARCIAL"] if v and estado != "MUERTO" \
                 and build.PARCIAL in (v["condicion"] or "") else ADVERTENCIA.get(estado)
+            if estado != "MUERTO" and (build.NULO_PARCIAL in ((v and v["condicion"]) or "") or (  # arista o nota de la fuente
+                    f["clave"].startswith("art:") and build.nulidad(f["texto"], f["clave"][4:]))):
+                # la advertencia de VIGENTE_CONDICIONADO habla de la Corte: sobra si solo hay nulidades
+                solo = estado == "VIGENTE_CONDICIONADO" and all(build.NULO_PARCIAL in c for c in v["condicion"].split(" | "))
+                adv = " ".join(filter(None, (None if solo else adv, ADVERTENCIA["NULIDAD_PARCIAL"])))
             if estado != "MUERTO" and "[TACHADO:" in f["texto"]:
                 adv = " ".join(filter(None, (adv, ADVERTENCIA["TACHADO"])))
             if estado != "MUERTO" and (RE_PARTE.search(f["texto"]) or con.execute(  # Gestor: «Texto subrayado, derogado por…»
@@ -127,11 +133,14 @@ def violaciones(ruta):
         r = json.loads(linea)
         if not r["seccion"].startswith("art:"):
             continue
-        if build.marca(r["texto"], r["epigrafe"] or "") and r["estado"] != "MUERTO":
-            malos.append("texto dice derogado/inexequible y sale %s: %s" % (r["estado"], r["id"]))
+        if build.marca(r["texto"], r["epigrafe"] or "", r["seccion"][4:]) and r["estado"] != "MUERTO":
+            malos.append("texto dice derogado/inexequible/nulo y sale %s: %s" % (r["estado"], r["id"]))
         if r["estado"] != "MUERTO" and not r["advertencia"] and any(
                 a["tipo"] == "declara_inexequible" for a in r["afectado_por"]):
             malos.append("inexequible parcial sin advertencia: " + r["id"])
+        if r["estado"] != "MUERTO" and "nula una parte" not in (r["advertencia"] or "") and any(
+                a["tipo"] == "declara_nulo_parcial" for a in r["afectado_por"]):
+            malos.append("nulidad parcial sin advertencia: " + r["id"])
         if r["estado"] != "MUERTO" and "[TACHADO:" in r["texto"] and "TACHADO" not in (r["advertencia"] or ""):
             malos.append("texto tachado sin advertencia: " + r["id"])
     return malos
@@ -147,7 +156,10 @@ def check():
         "fuente: http://x\nverificado: 2026-01-01\nafectaciones: cargadas\n---\n\n## art:1 — Uno\nTexto.\n"
         "\n## art:2 — Dos\n<Artículo INEXEQUIBLE>\n\n## art:3 — Tres\nTexto tres.\n"
         "\n## art:4 — Cuatro\nVive. <Aparte tachado INEXEQUIBLE> [TACHADO: cayó]\n"
-        "\n## art:5 — Cinco\n<Artículo sustituido por los artículos 1o. a 23 del Decreto 919 de 1989>.\n")
+        "\n## art:5 — Cinco\n<Artículo sustituido por los artículos 1o. a 23 del Decreto 919 de 1989>.\n"
+        "\n## art:6 — Seis\nTexto seis con un numeral 2.\n\n## art:7 — Siete\nTexto siete.\n"
+        "\n## art:8 — Ocho\nTexto.\n\n(Numeral 2 declarado NULO por el Consejo de Estado, Sección Cuarta.)\n"
+        "\n## art:9 — Nueve\nTexto.\n\nArtículo declarado NULO por el Consejo de Estado, Expediente 1 de 2020.\n")
     open(tmp + "/normativa/y.md", "w", encoding="utf-8").write(
         "---\nid: co:ley:3:2003\ntipo: ley\ntitulo: Ley Tres\nramas: [civil]\n"
         "fuente: http://x\nverificado: 2020-01-01\nafectaciones: cargadas\n---\n\n## art:1 — Uno\nTexto.\n")
@@ -158,7 +170,9 @@ def check():
         "origen,tipo,destino,fecha,nota,fuente\n"
         "co:ley:2:2001:art:9,deroga,co:ley:1:2000:art:1,2001-01-01,,x\n"
         "co:cc:c-3:2010,declara_inexequible,co:ley:1:2000:art:3,2010-01-01,,x\n"
-        "co:decreto:9:2015:art:3.1.1,compila,co:ley:1:2000,2015-01-01,,x\n")
+        "co:decreto:9:2015:art:3.1.1,compila,co:ley:1:2000,2015-01-01,,x\n"
+        "co:ce:7:2020,declara_nulo_parcial,co:ley:1:2000:art:6,2020-01-01,numeral 2,x\n"
+        "co:ce:8:2020,declara_nulo,co:ley:1:2000:art:7,2020-01-01,,x\n")
     build.construir(tmp + "/index.db", tmp)
     global RAIZ
     RAIZ = tmp
@@ -177,6 +191,10 @@ def check():
     assert "parte marcada" in regs[3]["advertencia"], "marca <Aparte … INEXEQUIBLE> debe salir advertida"
     assert "co:decreto:9:2015:art:3.1.1" in regs[2]["advertencia"], "norma compilada en un DUR"
     assert "SIN TEXTO PROPIO" in regs[4]["advertencia"], "artículo que solo trae la nota de la fuente"
+    assert "nula una parte" in regs[5]["advertencia"] and "NULIDAD PARCIAL — numeral 2" in regs[5]["condicionamiento"], "nulidad parcial (arista)"
+    assert regs[6]["estado"] == "MUERTO" and "declarado nulo" in regs[6]["advertencia"], "nulidad total (arista)"
+    assert regs[7]["estado"] == "VIGENTE" and "nula una parte" in regs[7]["advertencia"], "nulidad parcial (nota de la fuente)"
+    assert regs[8]["estado"] == "MUERTO" and "Consejo de Estado" in regs[8]["derogado_por"], "nulidad total (nota de la fuente)"
     assert "12 MESES (2020-01-01)" in regs[-1]["advertencia"] and "12 MESES" not in (regs[0]["advertencia"] or ""), "regla 3: verificado viejo"
     assert "SOLO METADATOS" in ficha["advertencia"] and ficha["corporacion"] == "consejo-estado", ficha
     shutil.rmtree(tmp)

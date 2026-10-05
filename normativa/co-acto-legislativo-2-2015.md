@@ -7,7 +7,7 @@ ramas: [constitucional, procesal]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/acto_legislativo_02_2015.html
-verificado: 2026-09-25
+verificado: 2026-10-05
 ---
 
 ## art:1 — 

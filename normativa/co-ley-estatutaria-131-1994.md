@@ -7,7 +7,7 @@ ramas: [electoral, constitucional]
 estado_general: vigente
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/ley_0131_1994.html
-verificado: 2026-09-25
+verificado: 2026-10-05
 ---
 
 ## art:1 — 

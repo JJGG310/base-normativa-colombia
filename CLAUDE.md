@@ -109,8 +109,14 @@ SELECT * FROM cadena;
 se perdieron aristas así. Una tanda de carga se commitea al cerrarla; no se deja acumulada.
 
 **Con varios agentes en paralelo:** solo el orquestador corre `build.py`, `export.py` y git; las
-aristas manuales entran por un script que tome el candado; un agente por host (CENDOJ se cae con
+aristas manuales entran por `anadir_aristas.py` (toma el candado); un agente por host (CENDOJ se cae con
 concurrencia); cada agente edita solo el código que le tocó.
+
+**Correcciones que sobreviven a una re-ingesta** (que reescribe las aristas desde la fuente), las tres con
+su motivo: `python3 anadir_aristas.py archivo.csv` para aristas que la fuente no trae (nota `manual:`);
+`correcciones.csv` (citado,real) para un ID mal citado por la fuente; `aristas_descartadas.csv`
+(origen,tipo,destino) para una arista que la fuente afirma y la resolutiva de la sentencia contradice.
+`build.py` aplica los dos .csv.
 
 `python3 build.py --check` corre el autotest de la lógica de vigencia. Si se toca
 `build.py`, tiene que seguir pasando.

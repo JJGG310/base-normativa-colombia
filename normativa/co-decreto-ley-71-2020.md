@@ -7,7 +7,7 @@ ramas: [administrativo, laboral]
 estado_general: derogada
 afectaciones: cargadas
 fuente: http://www.secretariasenado.gov.co/senado/basedoc/decreto_0071_2020.html
-verificado: 2026-09-24
+verificado: 2026-10-05
 ---
 
 ## art:1 — OBJETO

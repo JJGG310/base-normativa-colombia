@@ -690,19 +690,31 @@ Probadas en vivo, sin navegador. Falta implementar los extractores.
   C-260/96, C-1336/00, C-078/18, C-1023/12, C-167/14): revisar antes de cargar. 24 sentencias de 2025-2026 siguen sin
   publicar (C-006, 036, 048, 062, 067, 099, 166, 192, 195, 197, 212, 217, 218, 220, 252, 255, 272, 293, 294 de 2026;
   C-167, 206, 224, 504 de 2025).
-- [~] Fichas CC de las citas del grafo (`ingesta_relatoria.py --del-grafo --todas`): +332 fichas el 2026-09-30. El
-  servidor de la Corte corta las conexiones tras ~150-250 peticiones seguidas (bloques de «no está en el índice» y
-  errores SSL que NO son citas inexistentes): quedan ~200. Relanzar en tandas con `--pausa 3`.
-- [~] `./cargar_cendoj.sh` (`ingesta_webrelatoria.py`): Consejo de Estado con parte resolutiva y aristas `cita` desde la
-  FUENTE FORMAL. Tanda del 28-sep commiteada (588372b). El 30-sep CENDOJ volvió del 502: NULIDAD SIMPLE, NULIDAD POR
-  INCONSTITUCIONALIDAD y CONTROL INMEDIATO DE LEGALIDAD (+75 fichas CE); parada limpia (con el candado) en NULIDAD
-  ELECTORAL. Relanzar salta lo cargado. Faltan el resto de términos CE y los 20 de la Corte Suprema.
-- [ ] Nulidades del Consejo de Estado — **decisión de Juan**. Propuesta completa en `propuestas/nulidades-ce/` (informe,
-  parches de esquema/build/export SIN aplicar, candidatas). La relatoría nunca dice «nulidad» (ACCEDE/NIEGA/NO APLICA son
-  procesales); leyendo la resolutiva sí hay 13 aristas inequívocas, pero hoy solo nulidades PARCIALES tocan normas
-  cargadas (DUR 1067, 1073, 1075) y salen VIGENTE sin aviso; y 3 artículos cargados dicen «declarado NULO por el
-  Consejo de Estado» en su propio texto (Decreto 1082/2015 arts. 2.2.1.2.5.1 y 2.2.1.2.5.3; Decreto 1474/1997 art. 8) y
-  también salen VIGENTE. Arreglarlo exige aprobar los tipos `declara_nulo` / `declara_nulo_parcial`.
+- [x] Fichas CC de las citas del grafo (`ingesta_relatoria.py --del-grafo --todas`): +332 el 2026-09-30 y +132 el
+  2026-10-05, en tandas con `--pausa 3` (el servidor corta tras ~150-250 peticiones seguidas). Las 71 que faltan fallan
+  igual en tres pasadas: 23 de 2025-2026 aún sin publicar y 48 que no están en el índice de la Corte (p. ej. C-091/03,
+  posible errata de C-1091/03). `--del-grafo` ya salta las fichas existentes. El clasificador de `decision:` tolera
+  palabras partidas («I NEXEQUIBLE», «E XEQUIBLES»): 5 fichas corregidas (C-036/23 y C-137/19 → inexequible).
+- [~] `./cargar_cendoj.sh` (`ingesta_webrelatoria.py`): Consejo de Estado con parte resolutiva y aristas `cita`.
+  2026-10-05: 10 términos CE (NULIDAD SIMPLE … ACCIÓN POPULAR), +1.688 fichas CE; aristas CENDOJ 4.225 → 10.639.
+  Faltan 4 términos CE (IMPUESTO SOBRE LA RENTA, SUSPENSIÓN PROVISIONAL, PENSIÓN, CARRERA ADMINISTRATIVA), repetir CONTROL
+  INMEDIATO DE LEGALIDAD (página colgada del servidor) y los 20 de la Corte Suprema. Relanzar salta lo cargado; con
+  `LOG=` deja log. Arreglos: providencias guardadas como HTML (`ext=html`: 48 recuperadas), `resuelve()` reconoce más
+  fórmulas («FALLA» sin dos puntos, «se DISPONE:», «el despacho resuelve:»), menos reintentos ante un documento colgado.
+  45 NR no entregan documento con ninguna extensión (2077554, 2081486, 2085012, 2090472, 2097241, 2097294, 2097488,
+  2098125-2098128, 2098203, 2113832, 2113891, 2123470, 2123636, 2131047, 2131332, 2131337, 2131435, 2131831, 2139668,
+  2148276-2148292, 2162776, 2163482, 2164305, 2184163, 2417826, 2417898): sin ficha. La nota de las aristas `interpreta`
+  ahora dice «decisión de la relatoría (procesal: no dice si hubo nulidad)».
+- [x] Nulidades del Consejo de Estado (aprobado por Juan, implementado 2026-10-03; detalle en
+  `propuestas/nulidades-ce/informe.md`): tipos `declara_nulo` (mata) y `declara_nulo_parcial` (aviso «NULIDAD
+  PARCIAL»); `build.py` reconoce la nota de la fuente «Artículo declarado NULO por el Consejo de Estado» al final del
+  texto (Gestor). 3 artículos mueren (Decreto 1082/2015 arts. 2.2.1.2.5.1 y 2.2.1.2.5.3; Decreto 1474/1997 art. 8) y 6 de
+  los DUR 1067, 1073 y 1075 quedan condicionados. `nulidades_ce.py` lista (o con `--aplicar` añade) las nulidades de las
+  fichas CE: correrlo tras cada tanda de CENDOJ.
+- [ ] Nulidades — pendientes: Decreto-ley 1421/1993 arts. 87, 88, 90, 92 y 94 («Artículo NULO - Efectos jurídicos
+  prorrogados»: anulados en 2018 con efectos diferidos un año o hasta que regule el Concejo; vigentes con aviso hasta
+  verificar si el plazo venció). `nulidades_ce.py` no detecta la ficha rad. 11001-03-26-000-2008-00101-00 (11 nulidades de
+  los Decretos 2474/2008 y 2025/2009, hoy no cargados).
 - [x] P22 (`cargar_origenes.py`): 2.074 leyes, estatutarias y AL origen desde senado. 79 muertes de la
   norma entera anotadas solo en el encabezado → aristas `manual:` (derogada por artículo/ley concreta,
   o inexequible con su sentencia); 793/2002, 785/2002 y 1530/2012 derogadas salvo los exceptuados.
@@ -747,10 +759,12 @@ Siete agentes en paralelo más CENDOJ y la Corte Constitucional en segundo plano
   aristas `CENDOJ:` (una re-ingesta las borraba). `cargar_origenes.epigrafe` lee «LEY <ESTATUTARIA> N» (17 títulos rotos
   corregidos).
 - [ ] Seguimientos que no bloquean:
-  1. 50 aristas `declara_inexequible*` salen de sentencias con `decision: exequible` cuya resolutiva no dice
-     «inexequible» (p. ej. C-255/98 → Ley 222/1995 arts. 143-144, declarados EXEQUIBLES): dan el aviso «inexequible en
-     parte, verificar» o una causa errónea en `mata`. La raíz está en cómo `ingesta_senado` tipa las cajas de vigencia:
-     auditar (ya se eliminó C-509/07 → Ley 141/1994 art. 35).
+  1. [x] Auditoría (2026-10-05): las cajas de vigencia de senado se partían mal (cada trozo juntaba varios fallos y
+     tomaba el INEXEQUIBLE de cualquier parte). `ingesta_senado.py` corregido; 356 normas re-ingestadas (`faltan 0`);
+     aristas dudosas 92 → 13 (8 correctas, 4 errores de la fuente, 1 fuera de alcance). Efecto: 244 artículos pierden
+     un aviso espurio y 177 ganan un condicionamiento que no se leía; ninguno revive. Los errores de la fuente van en
+     `aristas_descartadas.csv` (9) y 3 aristas parciales `manual:` (Ley 272/1996 arts. 2 y 4, C-152/97; Código Civil
+     art. 1119, C-190/17). Residuo: un fallo sobre OTRA norma que es exequible o condicionado todavía genera arista.
   2. Aristas `modifica`/`adiciona` que salen de leyes ahora inexequibles (508/1999 → 142/1994 y 286/1996; 719/2001 →
      44/1993; 738/2002 → Código Penal art. 447A) siguen marcando «reformado».
   3. 21 títulos rotos de P22 (el parser no halla el epígrafe): 1076/2006, 1143/2007, 1673/2013, 168/1994, 17/1992,

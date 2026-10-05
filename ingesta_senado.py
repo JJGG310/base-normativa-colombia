@@ -486,30 +486,111 @@ def id_sentencia(m):
     return "co:cc:%s-%s:%d" % (serie, num, 1900 + aa if aa >= 90 else 2000 + aa)
 
 
-def juicio(trozo, destino, fuente, sin_parsear, etiqueta):
-    """Una nota de sentencia -> fila de relaciones.csv, o None."""
+def citas(t):
+    """(El texto fuera de comillas, cuántas quedan abiertas). Las comillas se anidan («'… la
+    locución 'inciso primero del', respecto …'») y se mezclan («'Por medio de … Política”»): ' y " abren
+    tras espacio o «([:,;» y antes de algo que no sea espacio; si no, cierran («societarios,' declarada»)."""
+    salida, nivel = [], 0
+    for i, ch in enumerate(t):
+        if ch in "‘“«" or ch in "'\"" and (i == 0 or t[i - 1] in " ([:,;‘“«") and t[i + 1:i + 2].strip():
+            nivel += 1
+        elif ch in "’”»'\"":
+            nivel = max(0, nivel - 1)
+        elif not nivel:
+            salida.append(ch)
+    return "".join(salida), nivel
+
+
+def notas_jurisprudencia(texto):
+    """Caja «Jurisprudencia Vigencia» -> una nota por fallo.
+
+    Cada viñeta «- …» que cita su propia sentencia es otra nota. Partir solo en «- Artículo», «- La
+    Corte»… dejaba pegadas «- Ley 1943 de 2018 declarada INEXEQUIBLE … C-481-19» o «- Inciso 2o. …
+    INEXEQUIBLE» a la nota anterior, y el INEXEQUIBLE ajeno se le atribuía a la primera sentencia
+    (C-493-19 → ET 903-916, C-255-98 → Ley 222 arts. 143-144, todas EXEQUIBLE). Una viñeta sin
+    sentencia propia («así: - Literal 1.a) …») sigue siendo parte de la nota que la introduce, y también
+    la que cae dentro de una cita abierta sin nombrar sentencia al comienzo (la motivación transcrita trae
+    sus propias viñetas). Cuenta como propia cualquier «Sentencia …», aunque no se lea su número
+    («C-1316-2000», Corte Suprema). Las comillas de la fuente no siempre cierran: la cita abierta solo
+    pega la viñeta si su sentencia no aparece en los primeros 300 caracteres."""
+    trozos = []
+    for p in re.split(r"(?=- [A-ZÁÉÍÓÚÑ])", texto):
+        fallo = re.search(r"\bSentencias?\b|\b(?:C|T|SU)-\d", p)
+        if trozos and not re.match(r"- (?:La Corte|Art[íi]culo|Aparte|Expresi)", p) and (
+                not fallo or fallo.start() > 300 and citas(trozos[-1])[1]):
+            trozos[-1] += p
+        else:
+            trozos.append(p)
+    return trozos
+
+
+# Menciones de INEXEQUIBLE que no son supresión por esta sentencia: otro fallo («posteriormente la
+# totalidad del artículo fue declarado INEXEQUIBLE», C-370-99; «salvo el aparte ya declarado
+# inexequible», C-998-04) o la fórmula del condicionamiento («Bajo cualquiera otra interpretación, la
+# norma acusada se declara INEXEQUIBLE», C-1049-00: es exequible condicionado).
+RE_NO_SUPRIME = re.compile(r"\b(?:ya|anteriormente|previamente|posteriormente)\s+(?:\w+\s+){0,5}?declarad[oa]s?\s+inexequible"
+                           r"|declarad[oa]s?\s+(?:anteriormente|previamente|posteriormente)\s+inexequible"
+                           r"|bajo\s+cualquiera?\s+otra\s+interpretaci[óo]n[^.]*", re.I)
+
+
+RE_ESTESE = re.compile(r"est(?:arse|[ée]se|ar[áa])\s+a\s+los?\s+resuelto|INHIBIDA", re.I)
+# Sujeto de la nota que es OTRA norma: «Artículo 21 de la Ley 1908 de 2019 declarado INEXEQUIBLE»,
+# «El Decreto 266 de 1999 fue declarado INEXEQUIBLE», «Ley 1943 de 2018 declarada INEXEQUIBLE».
+RE_OTRA_NORMA = re.compile(
+    r"^\W*(?:(?:El|La|Los|Las)\s+)?(?:(?:Art[íi]culos?|Incisos?|Numeral(?:es)?|Literal(?:es)?|Par[áa]grafos?|Apartes?)"
+    r"\s+[\w.°º)]+\s+(?:de\s+la|del)\s+)*(?:Ley|Decreto(?:[\s-]+Ley)?|Acto\s+Legislativo)\s+(?:N[o°º]\.?\s*)?"
+    r"(?P<num>[\d.]+)\s+(?:de|fue)\s+(?P<anio>\d{4})", re.I)
+
+
+def juicio(trozo, destino, fuente, sin_parsear, etiqueta, reformas=()):
+    """Una nota de sentencia -> fila de relaciones.csv, o None. `reformas`: las «:num:año:» de las
+    normas que nombran las Notas de Vigencia del artículo (las que lo reformaron)."""
     s = RE_SENTENCIA.search(trozo)
     if not s:
         return None
-    # Ninguna de estas afecta la vigencia: una remite a otro fallo, la
-    # otra es una no-decisión por demanda mal formulada.
-    if re.search(r"estarse a lo resuelto|INHIBIDA", trozo, re.I):
-        return None
+    propio = RE_NO_SUPRIME.sub(" ", trozo)
+    # Ninguna de estas afecta la vigencia: una remite a otro fallo («estése a lo resuelto en la
+    # C-737-01 que declaró INEXEQUIBLE esta Ley»: el INEXEQUIBLE es de la otra), la otra es una
+    # no-decisión por demanda mal formulada. Se descarta de ahí en adelante: lo anterior («…C-484-00, salvo
+    # el parágrafo que declara INEXEQUIBLE, y el aparte … estése a lo resuelto…») y lo que la nota añade
+    # después («'Estese a lo resuelto en la C-385-00'. Esta misma sentencia declaró … INEXEQUIBLES»,
+    # C-797-00) sí es de esta sentencia.
+    e = RE_ESTESE.search(propio)
+    if e and propio.find(s.group(0)) > e.start():
+        return None   # «estarse a lo resuelto en la Sentencia C-617-08, mediante Sentencia C-622-08»: la nota es de la otra
+    if e:
+        sigue = re.search(r"(?i)\b(?:esta misma sentencia|asimismo|así mismo|además|igualmente|en\s+con[sc]ecuencia|y\s+declar)",
+                          propio[e.end():])
+        propio = propio[:e.start()] + (propio[e.end() + sigue.start():] if sigue else "")
     # Revisión previa de estatutarias: la fuente dice (IN)CONSTITUCIONAL, en
     # mayúsculas; sensible a mayúsculas para no confundirlo con «Corte Constitucional».
+    # El veredicto la fuente lo escribe en mayúsculas; un «inexequible» en minúsculas cuenta solo fuera de
+    # comillas: entre comillas es la motivación o el fallo de otro («'Pretenden … que se declaren
+    # inexequibles …'», C-255-98; «'… en la que se declaró inexequible tal expresión'», C-318-96).
     alto = re.sub(r"\bCONSTITUCIONAL(ES)?\b", "EXEQUIBLE",
-                  re.sub(r"\bINCONSTITUCIONAL(ES)?\b", "INEXEQUIBLE", trozo)).upper()
+                  re.sub(r"\bINCONSTITUCIONAL(ES)?\b", "INEXEQUIBLE", propio))
+    inexequible = "INEXEQUIBLE" in alto or re.search(r"(?i)inexequible", citas(alto)[0])
+    exequible = re.search(r"(?<![Ii][Nn])exequible", alto, re.I)
+    # El fallo sobre la norma reformadora no mata este artículo (su reforma cae; la arista `modifica`
+    # ya lo anota). Salvo un inciso/numeral… de la que lo reformó: ese texto ES el de este artículo
+    # (C-665-98: inciso 2o. del art. 2o. de la Ley 50 de 1990 → CST art. 24).
+    o = RE_OTRA_NORMA.match(propio)
+    otra = o and ":%s:%s:" % (o.group("num").replace(".", "").lstrip("0"), o.group("anio"))
+    if inexequible and otra and otra not in destino and not (otra in reformas and re.match(
+            r"\W*(?:(?:El|La|Los|Las)\s+)?(?:Inciso|Numeral|Literal|Par[áa]grafo|Aparte)", propio, re.I)):
+        sin_parsear.append((destino, etiqueta + " (fallo sobre otra norma, ignorado)", trozo[:110]))
+        return None
     # «INCONSTITUCIONAL por omisión legislativa … en cuanto omite…» (C-792/14): el texto sigue,
     # lo que falta es lo que la Corte ordenó añadir; es un condicionamiento, no una supresión.
-    if "INEXEQUIBLE" in alto and re.search(r"(INCONSTITUCIONAL|INEXEQUIBLE)\w* por (la )?omisi[óo]n legislativa", trozo, re.I):
+    if inexequible and re.search(r"(INCONSTITUCIONAL|INEXEQUIBLE)\w* por (la )?omisi[óo]n legislativa", trozo, re.I):
         tipo = "declara_exequible_condicionado"
-    elif "INEXEQUIBLE" in alto:
+    elif inexequible:
         tipo = ("declara_inexequible_parcial"
                 if re.search(r"\b(las? expresi|los apartes?|el aparte|parcialmente|salvo|excepto)", trozo, re.I)
                 else "declara_inexequible")
-    elif "EXEQUIBLE" in alto:
+    elif exequible:
         tipo = ("declara_exequible_condicionado"
-                if re.search(r"en el entendido|CONDICIONA|bajo el entendido", trozo, re.I)
+                if re.search(r"en el entendido|CONDICIONA|bajo el entendido|bajo cualquiera? otra interpretaci", trozo, re.I)
                 else "declara_exequible")
     else:
         sin_parsear.append((destino, etiqueta, trozo[:110]))
@@ -524,7 +605,11 @@ def juicio(trozo, destino, fuente, sin_parsear, etiqueta):
 
 def aristas(cajas, id_norma, fuente):
     """Cajas -> filas de relaciones.csv. Conservador: lo dudoso se descarta y se cuenta."""
-    filas, sin_parsear = [], []
+    filas, sin_parsear, reformas = [], [], {}
+    for num_art, etiqueta, (texto, crudo) in cajas:
+        if etiqueta == "Notas de Vigencia":
+            reformas.setdefault(num_art, set()).update(":%s:%s:" % (
+                o.group("num").replace(".", "").lstrip("0"), o.group("anio")) for o in RE_ORIGEN.finditer(texto))
     for num_art, etiqueta, (texto, crudo) in cajas:
         destino = "%s:art:%s" % (id_norma, num_art)
 
@@ -567,7 +652,7 @@ def aristas(cajas, id_norma, fuente):
                 # Algunas estatutarias traen la revisión previa aquí y no en «Jurisprudencia
                 # Vigencia» («Mediante la Sentencia C-187-06 … efectuó la revisión previa»).
                 if re.search(r"revisi[óo]n previa", trozo, re.I):
-                    fila = juicio(trozo, destino, fuente, sin_parsear, etiqueta)
+                    fila = juicio(trozo, destino, fuente, sin_parsear, etiqueta, reformas.get(num_art, ()))
                     if fila:
                         filas.append(fila)
                     continue
@@ -596,8 +681,8 @@ def aristas(cajas, id_norma, fuente):
                 filas.append((origen, tipo, destino, f, nota, fuente))
 
         elif etiqueta == "Jurisprudencia Vigencia":
-            for trozo in re.split(r"(?=- (?:La Corte|Art[íi]culo|Aparte|Expresi))", texto):
-                fila = juicio(trozo, destino, fuente, sin_parsear, etiqueta)
+            for trozo in notas_jurisprudencia(texto):
+                fila = juicio(trozo, destino, fuente, sin_parsear, etiqueta, reformas.get(num_art, ()))
                 if fila:
                     filas.append(fila)
         elif etiqueta in ("Jurisprudencia Concordante", "Jurisprudencia Unificación"):
@@ -693,7 +778,9 @@ def main():
            # DIN…» en cada artículo): el rastro no se entendió, no es que no haya cambios.
            # Los normogramas de otras entidades avisan «<NOTA: Esta norma no incluye análisis de
            # vigencia [completo]>»: sin aristas no es sin cambios.
-           "afectaciones: " + ("cargadas" if (filas or cajas and not any(
+           # Una nota de vigencia que se entendió y no produce arista (el fallo es sobre la norma
+           # reformadora, Ley 486/1998) también es rastro leído.
+           "afectaciones: " + ("cargadas" if (filas or any("otra norma" in x[1] for x in sin_parsear) or cajas and not any(
                "igencia" in c[1] for c in cajas)) and not re.search(
                r"no incluye an.lisis de vigencia", html.unescape(bajar(a.url)[:60000]), re.I)
                else "pendiente"),
@@ -817,6 +904,30 @@ def check():
          "previa del Proyecto de Ley Estatutaria. La Corte declaró EXEQUIBLE este artículo 'bajo el entendido de que X'.")
     filas, _ = aristas([("1", "Notas de Vigencia", (t, t))], "co:ley:1095:2006", "x")
     assert filas[0][:2] == ("co:cc:c-187:2006", "declara_exequible_condicionado") and "entendido" in filas[0][4], filas
+    # Una caja con varios fallos: el INEXEQUIBLE de la viñeta siguiente, el de otra norma, el citado en la
+    # motivación o el del fallo al que se remite no son de esta sentencia (C-493-19, C-255-98, C-1211-01).
+    def jv(t, art="9", reforma=""):
+        cajas = [(art, "Jurisprudencia Vigencia", (t, t))] + ([(art, "Notas de Vigencia", (reforma, reforma))] if reforma else [])
+        return [f[:2] for f in aristas(cajas, "co:decreto:624:1989", "x")[0]]
+    assert jv("Corte Constitucional - Artículo 66 de la Ley 1943 de 2018 declarado EXEQUIBLE por la Corte Constitucional "
+              "mediante Sentencia C-493-19. - Ley 1943 de 2018 declarada INEXEQUIBLE -por forma- por la Corte Constitucional "
+              "mediante Sentencia C-481-19. - Inciso 2o. declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia "
+              "C-1316-2000.") == [("co:cc:c-493:2019", "declara_exequible")]
+    assert jv("- Artículo declarado CONDICIONALMENTE EXEQUIBLE mediante Sentencia C-255-98. 'Pretenden las demandantes "
+              "que se declaren inexequibles los artículos'") == [("co:cc:c-255:1998", "declara_exequible_condicionado")]
+    assert jv("- Mediante Sentencia C-1211-01, la Corte declaró estese a lo resuelto en la Sentencia C-737-01 que declaró "
+              "INEXEQUIBLE esta Ley. - La Corte declaró estarse a lo resuelto en la Sentencia C-617-08, mediante Sentencia "
+              "C-622-08, 'que en consecuencia se declara INEXEQUIBLE'") == []
+    assert jv("- Mediante Sentencia C-797-00 la Corte declaró 'Estese a lo resuelto en la Sentencia C-385-00'. Esta misma "
+              "sentencia declaró EXEQUIBLE el artículo, con excepción de los apartes tachados que los declaró INEXEQUIBLES."
+              ) == [("co:cc:c-797:2000", "declara_inexequible_parcial")]
+    assert jv("La Corte Constitucional mediante Sentencia C-308-19 se pronunció así: - Literal 1.a) declarado EXEQUIBLE "
+              "bajo el entendido que X. - Literal 2.c) declarados INEXEQUIBLES mediante Sentencia C-253-19.") == [
+        ("co:cc:c-308:2019", "declara_exequible_condicionado"), ("co:cc:c-253:2019", "declara_inexequible")]
+    # Un inciso de la norma que reformó el artículo es texto del artículo; uno de otra norma, no (C-665-98).
+    nota = "- El inciso 2o. del artículo 2o. de la Ley 50 de 1990 fue declarado INEXEQUIBLE mediante Sentencia C-665-98."
+    assert jv(nota, reforma="- Artículo subrogado por el artículo 2 de la Ley 50 de 1990.")[:1] == [("co:cc:c-665:1998", "declara_inexequible")]
+    assert jv(nota) == []
     assert (num_ancla("1B", "ARTÍCULO 1o. Apruébase"), num_ancla("6", "ARTÍCULO 264.")) == ("1b", "264")
     # Convenio de París (Ley 178/1994): «4o-bis [..]», «5o. bis [..]», «13- [..]» con `name` = posición.
     assert [num_ancla("9", "ARTÍCULO 5o. bis [TODOS LOS DERECHOS]"), num_ancla("5", "ARTÍCULO 4o-bis [PATENTES]"),
