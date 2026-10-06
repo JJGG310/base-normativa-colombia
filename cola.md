@@ -724,10 +724,19 @@ Probadas en vivo, sin navegador. Falta implementar los extractores.
 - [x] `origenes_revisar.txt` (96 → 8): ver P23-P25. Quedan las que exigen criterio o fuente (Leyes 13/1992, 794/2003,
   872/2003, 1330/2009, 2168/2021, 1896/2018, 1865/2017 y 105/1913).
 - [x] Error operativo 2026-09-25 (`git checkout relaciones.csv` con cargas sin commit) → regla en CLAUDE.md.
-- [~] Decretos origen: P23 cargó 50 (642 de 652 aristas de origen resuelven). Quedan 1.020 con 1.982 aristas: el grupo de
-  3-7 aristas (~175 decretos, ID sacable de los enlaces de las páginas del Gestor ya en caché) vale un script tipo
-  `cargar_origenes.py`; el de 1-2 aristas solo con chequeo de firma (páginas truncadas, p. ej. Decreto 1934/2015).
-  Sin ID en el Gestor: Decreto 130/2010 (sí está en senado, `decreto_0130_2010.html`).
+- [~] Decretos origen: P23 cargó 50; P26 (`cargar_decretos.py`, 2026-10-06) cargó 177 más (175 del grupo de 3-7 aristas
+  y los Decretos 898/2017 y 1851/2021), todos con `faltan 0` y el `i=` verificado contra el `<title>` del Gestor;
+  `origenes_sin_cargar` 2.576 → 1.745 aristas. Lo que no se pudo va a `decretos_revisar.txt`: 60 sin `i=` en la caché
+  (entre ellos el 130/2010, que sí está en senado), 2 páginas truncadas (2345/2015, 1934/2015), 1 epígrafe ilegible
+  (182/2026) y el Código de Procedimiento Civil (Decreto 1400/1970), retirado: su derogación por el art. 626 de la Ley
+  1564/2012 es gradual — decisión de Juan (¿arista manual con qué fecha?). Siguiente: el grupo de 1-2 aristas (793
+  decretos, ~510 cargables, ~1 h): `nohup python3 cargar_decretos.py --minimo-aristas 1 --maximo-aristas 2 --limite 1000
+  > log 2>&1 &`. ingesta_gestor ahora lee «ARTÌCULO» y restaura «ARTÍCULO» en los artículos transcritos de otra norma:
+  re-ingestar si se quiere los DUR 1068, 1069, 1073, 1074, 1075, 1077, 1080, 1081, 1082 y 1085 y los Decretos 1247/2022,
+  1272/2016, 1625/2016 y 780/2016 (solo cambia esa palabra).
+- [x] Grafo interactivo (`grafo/`, Vercel `grafo-one.vercel.app`): regenerado con `grafo/generar.py` el 2026-10-06
+  (14.458 nodos, 28.378 enlaces; era la foto del 23-sep con 116 normas y solo la Corte Constitucional). Se publica desde
+  `grafo/` con `npx vercel deploy --prod` (la sesión del CLI ya existe). Regenerar y publicar tras cada carga grande.
 
 ## P23-P25 y trabajo en paralelo (2026-09-30)
 

@@ -98,8 +98,8 @@ def articulos(doc, enteros=False):
         # justo antes de «ARTÍCULO …»), manda el número del texto: el nombre del ancla
         # falla (el 1066 repite `1.1.2.3` para el 1.1.2.4; el 1076 escribe
         # «2.2.1.2. 7.16» y «2.2.7B.1.1.1»). Sin «ARTÍCULO» es un numeral de lista.
-        es_art = (re.match(r"ART[IÍ]CULO\s", cuerpo)
-                  or re.search(r"ART[IÍ]CULO\s*$", limpiar(doc[max(0, m.start() - 200):m.start()])))
+        antes = re.search(r"(ART[IÍ]CULO)\s*$", limpiar(doc[max(0, m.start() - 200):m.start()]))
+        es_art = re.match(r"ART[IÍ]CULO\s", cuerpo) or antes
         propio = re.match(r"(?:ART[IÍ]CULO\s+)?(%s%s)" % (NUM_DUR, SUFIJO), cuerpo)
         if es_art and propio:
             num = re.sub(r"\s", "", propio.group(1)).lower()
@@ -112,6 +112,8 @@ def articulos(doc, enteros=False):
         if (decimal != ("." in num)
                 or not es_art and not re.match(r"(?:ART[IÍ]CULO\s+)?%s\b" % re.escape(num), cuerpo, re.I)):
             if salida:
+                # El «ARTÍCULO» que el corte le quitó al texto anterior es de este: «así: "ARTÍCULO 2.2.1.1.1. …».
+                cuerpo = ("%s " % antes.group(1) if antes and not re.match(r"ART[IÍ]CULO\s", cuerpo) else "") + cuerpo
                 salida[-1] = salida[-1][:2] + (salida[-1][2] + "\n\n" + cuerpo,)
             continue
         # "ARTÍCULO 2.2.1.1.1. Concurrencias de las Misiones. <texto>" — algunos DUR
@@ -148,9 +150,10 @@ def articulos(doc, enteros=False):
 # signo: con re.I, una `o` suelta se comía la primera letra del epígrafe ("Otro").
 # «artículo 991 ibídem» en minúscula al inicio de una línea partida es una remisión, no un encabezado.
 # «ARTÍCULO . 1. Adición.» (Decreto 762/2018, DUR 1073 art. 2.5.6.4.3): punto suelto antes del número.
+# «ARTÌCULO 6º» (Decreto 440/2016): la fuente escribe a veces el acento grave, y sin reconocerlo el artículo se funde con el anterior.
 # «2.4.1.2.36 A.» (DUR 1066): la letra separada es parte del número.
 SUFIJO = r"(?:\s?(?-i:[A-Z])(?:\.\d+)*(?=[\s.\-]))?"   # y «2.2.1.1.1 A.2.17.» (DUR 1073)
-RE_ART_INLINE = re.compile(r"(?m)^[ \t]*(?-i:ART[IÍí]CULO|Art[íi]culo)(?:[ \t]*\.[ \t]*|\s+)(" + NUM_DUR + SUFIJO + r")"
+RE_ART_INLINE = re.compile(r"(?m)^[ \t]*(?-i:ART[IÍÌí]CULO|Art[íìi]culo)(?:[ \t]*\.[ \t]*|\s+)(" + NUM_DUR + SUFIJO + r")"
                            r"(?:[ºo°](?=[\s.\-]))?\s*[-.]?\s*", re.I)
 
 
@@ -251,6 +254,11 @@ def check():
     assert [x[0] for x in r] == ["2.2.1.1.1", "2.2.1.1.9"], r
     assert r[1][1] == "Otro" and r[1][2] == "Texto del otro.", r[1]
 
+    # El artículo transcrito de otra norma no pierde su «ARTÍCULO» (el ancla va tras la palabra y el corte la quitaba).
+    t = articulos('<p>DECRETA:</p><a name="1"></a><p>ARTÍCULO 1. Adición. Modifíquese, así: "ARTÍCULO<a name="2.2.1.1.1"></a> 2.2.1.1.1. '
+                  'Concurrencias. Texto."</p><p><a name="2"></a>ARTÍCULO 2. Vigencia. Rige.</p>', enteros=True)
+    assert [a[0] for a in t] == ["1", "2"] and t[0][2].endswith('"\n\nARTÍCULO 2.2.1.1.1. Concurrencias. Texto."'), t
+
     # Un numeral de lista con ancla propia no es un artículo: vuelve al anterior.
     lista = doc + '<a name="2.2.1.1.2.6"></a><p>6. Entrenamiento.</p>'
     arts = articulos(lista)
@@ -292,6 +300,7 @@ def check():
          "Artículo 4°. Modifícase el artículo 43. Tres.\nArtículo 5°. Vigencia. Cuatro.\n")
     assert [a[0] for a in partir("2", "", "Dos.\n" + t, False)] == ["2", "3", "4", "5"], \
         "los artículos transcritos tras «quedarán así:» no son propios"
+    assert [x[0] for x in partir("5", "", "Cinco.\nARTÌCULO 6º. Vigencia y derogatorias. Rige.")] == ["5", "6"]   # acento grave de la fuente
     assert fecha_norma("<p>DECRETO 1956 DEL 2015</p><p>(Octubre 5)</p>") == "2015-10-05"   # «DEL», no «DE»
     print("check OK")
 
