@@ -179,8 +179,10 @@ def tema(crudo):
 
 def _arts(base):
     """Artículos de la norma cargada; None si no está cargada. Una ley puede estar cargada como
-    estatutaria u orgánica (build.py ALIAS)."""
-    tipos = [base] + [base.replace(":ley:", ":%s:" % t, 1) for t in ("ley-estatutaria", "ley-organica")] if ":ley:" in base else [base]
+    estatutaria u orgánica, y un decreto como decreto-ley (build.py ALIAS)."""
+    p = base.split(":")
+    alt = {"ley": ("ley-estatutaria", "ley-organica"), "decreto": ("decreto-ley",), "decreto-ley": ("decreto",)}
+    tipos = [base] + [":".join([p[0], t] + p[2:]) for t in alt.get(p[1], ())]
     for b in tipos:
         try:
             with open(os.path.join(RAIZ, "normativa", b.replace(":", "-") + ".md"), encoding="utf-8") as fh:

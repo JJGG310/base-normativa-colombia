@@ -695,16 +695,17 @@ Probadas en vivo, sin navegador. Falta implementar los extractores.
   igual en tres pasadas: 23 de 2025-2026 aún sin publicar y 48 que no están en el índice de la Corte (p. ej. C-091/03,
   posible errata de C-1091/03). `--del-grafo` ya salta las fichas existentes. El clasificador de `decision:` tolera
   palabras partidas («I NEXEQUIBLE», «E XEQUIBLES»): 5 fichas corregidas (C-036/23 y C-137/19 → inexequible).
-- [~] `./cargar_cendoj.sh` (`ingesta_webrelatoria.py`): Consejo de Estado con parte resolutiva y aristas `cita`.
-  2026-10-05: 10 términos CE (NULIDAD SIMPLE … ACCIÓN POPULAR), +1.688 fichas CE; aristas CENDOJ 4.225 → 10.639.
-  Faltan 4 términos CE (IMPUESTO SOBRE LA RENTA, SUSPENSIÓN PROVISIONAL, PENSIÓN, CARRERA ADMINISTRATIVA), repetir CONTROL
-  INMEDIATO DE LEGALIDAD (página colgada del servidor) y los 20 de la Corte Suprema. Relanzar salta lo cargado; con
-  `LOG=` deja log. Arreglos: providencias guardadas como HTML (`ext=html`: 48 recuperadas), `resuelve()` reconoce más
-  fórmulas («FALLA» sin dos puntos, «se DISPONE:», «el despacho resuelve:»), menos reintentos ante un documento colgado.
-  45 NR no entregan documento con ninguna extensión (2077554, 2081486, 2085012, 2090472, 2097241, 2097294, 2097488,
-  2098125-2098128, 2098203, 2113832, 2113891, 2123470, 2123636, 2131047, 2131332, 2131337, 2131435, 2131831, 2139668,
-  2148276-2148292, 2162776, 2163482, 2164305, 2184163, 2417826, 2417898): sin ficha. La nota de las aristas `interpreta`
-  ahora dice «decisión de la relatoría (procesal: no dice si hubo nulidad)».
+- [x] `./cargar_cendoj.sh` (`ingesta_webrelatoria.py`): los 34 términos recorridos (cerrado 2026-10-06). Consejo de Estado
+  con parte resolutiva y aristas `cita`/`interpreta`; Corte Suprema con texto íntegro y aristas `cita` desde la FUENTE
+  FORMAL (conecta la casación con la normativa). Hoy: 4.995 fichas CE y 5.900 CSJ; relaciones 66.760.
+  Para ampliar: más términos o subir `--limite` (el buscador exige término). Arreglos: providencias guardadas como HTML
+  (`ext=html`), `resuelve()` con más fórmulas, menos reintentos ante un documento colgado; una cita a un artículo que la
+  norma cargada no tiene baja a la norma (también si la norma está cargada como decreto-ley). 45 NR no entregan
+  documento con ninguna extensión (2077554, 2081486, 2085012, 2090472, 2097241, 2097294, 2097488, 2098125-2098128,
+  2098203, 2113832, 2113891, 2123470, 2123636, 2131047, 2131332, 2131337, 2131435, 2131831, 2139668, 2148276-2148292,
+  2162776, 2163482, 2164305, 2184163, 2417826, 2417898): sin ficha. La nota de las aristas `interpreta` dice «decisión de
+  la relatoría (procesal: no dice si hubo nulidad)». AC-2195/2019: la relatoría le da fecha 2018-06-07 (imposible para
+  el radicado 2019-00212); sus aristas quedan con el año 2019.
 - [x] Nulidades del Consejo de Estado (aprobado por Juan, implementado 2026-10-03; detalle en
   `propuestas/nulidades-ce/informe.md`): tipos `declara_nulo` (mata) y `declara_nulo_parcial` (aviso «NULIDAD
   PARCIAL»); `build.py` reconoce la nota de la fuente «Artículo declarado NULO por el Consejo de Estado» al final del
